@@ -9,7 +9,7 @@ from lk_eroc import Company
 
 DIR_DATA = 'data'
 DIR_INDEX = os.path.join(DIR_DATA, 'index')
-ALPHA = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ '
+ALPHA = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 MAX_SCRAPES = 30
 
 log = Log('scraper')
