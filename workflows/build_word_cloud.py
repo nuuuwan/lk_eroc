@@ -2,6 +2,8 @@ import os
 import random
 
 import matplotlib.pyplot as plt
+import numpy as np
+from PIL import Image
 from utils import Log, TSVFile
 from wordcloud import WordCloud
 
@@ -11,7 +13,7 @@ from workflows.aggregate import ALL_PATH
 log = Log('build_word_cloud')
 
 WORD_CLOUD_PATH = os.path.join("data", "word_cloud.png")
-
+LK_PNG_PATH = os.path.join("data", "lk.png")
 LK_COLOR_LIST = [
     '#ffbe29',
     '#8d153a',
@@ -45,16 +47,24 @@ def build_word_cloud():
     words = get_words()
     text = " ".join(words)
 
-    wc = WordCloud(background_color="white", repeat=True)
+    mask = np.array(Image.open(LK_PNG_PATH))
+
+    wc = WordCloud(
+        background_color="white",
+        repeat=True,
+        mask=mask,
+        width=200,
+        height=300,
+    )
     wc.generate(text)
     wc.recolor(color_func=lk_color_func)
 
     plt.figure()
     plt.imshow(wc, interpolation="bilinear")
     plt.axis("off")
-    plt.gcf().set_size_inches(8, 4.5)
+    plt.gcf().set_size_inches(8, 12)
 
-    plt.savefig(WORD_CLOUD_PATH, dpi=100)
+    plt.savefig(WORD_CLOUD_PATH, dpi=300, bbox_inches='tight')
     log.info(f"✅ Wrote word cloud to {WORD_CLOUD_PATH}.")
 
 

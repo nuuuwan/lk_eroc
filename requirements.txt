@@ -2,3 +2,4 @@ utils-nuuuwan
 wordcloud
 matplotlib
 numpy 
+Pillow
