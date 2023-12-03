@@ -24,7 +24,7 @@ def main():
         [
             f'Scraped **{n_companies:,}** Companies as of *{time_str}*.',
             '',
-            '## List of (Random) Companies',
+            f'## List of {N_RANDOM_DISPLAY} Random Companies',
             '',
         ]
     )
