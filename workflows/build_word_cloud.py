@@ -53,8 +53,8 @@ def build_word_cloud():
         background_color="white",
         repeat=True,
         mask=mask,
-        width=200,
-        height=300,
+        width=2000,
+        height=3000,
     )
     wc.generate(text)
     wc.recolor(color_func=lk_color_func)
@@ -62,9 +62,9 @@ def build_word_cloud():
     plt.figure()
     plt.imshow(wc, interpolation="bilinear")
     plt.axis("off")
-    plt.gcf().set_size_inches(8, 12)
+    plt.gcf().set_size_inches(4, 6)
 
-    plt.savefig(WORD_CLOUD_PATH, dpi=300, bbox_inches='tight')
+    plt.savefig(WORD_CLOUD_PATH, dpi=150, bbox_inches='tight')
     log.info(f"✅ Wrote word cloud to {WORD_CLOUD_PATH}.")
 
 
