@@ -1,7 +1,7 @@
 import json
 from dataclasses import dataclass
 
-from utils import Log, TSVFile
+from utils import File, Log, TSVFile
 
 from utils_future import WWW
 
@@ -57,4 +57,7 @@ class Company:
             dict(name=company.name, registration_no=company.registration_no)
             for company in company_list
         ]
-        TSVFile(path).write(d_list)
+        if len(company_list) > 0:
+            TSVFile(path).write(d_list)
+        else:
+            File(path).write('')
