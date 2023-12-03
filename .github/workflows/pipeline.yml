@@ -40,7 +40,12 @@ jobs:
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/aggregate.py 
   
-    - name: Stage 3) update_readme
+    - name: Stage 3) build_word_cloud
+      run: |
+        export PYTHONPATH="$PYTHONPATH:./src"
+        python workflows/build_word_cloud.py 
+    
+    - name: Stage 4) update_readme
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/update_readme.py 
