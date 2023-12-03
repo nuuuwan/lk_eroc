@@ -37,7 +37,12 @@ class Company:
                 token=eroc_token,
             )
         )
-        data = json.loads(content)
+        try:
+            data = json.loads(content)
+        except Exception as e:
+            log.error(f'Error parsing JSON: {e}')
+            return [], 0
+            
         company_list = [Company(**d) for d in data['availableData']['data']]
         meta = data['availableData']['meta']
         last_page = int(meta['last_page'])
