@@ -19,11 +19,10 @@ class Company:
 
     @cached_property
     def registration_no_only(self):
-        if self.registration_no.startswith('PV'):
-            try:
-                return int(self.registration_no[2:])
-            except ValueError:
-                pass
+        try:
+            return int(self.registration_no[2:])
+        except ValueError:
+            pass
         return 1_000_000_000
 
     @staticmethod
