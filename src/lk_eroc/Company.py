@@ -1,5 +1,6 @@
 import json
 from dataclasses import dataclass
+from functools import cached_property
 
 from utils import File, Log, TSVFile
 
@@ -15,6 +16,15 @@ class Company:
 
     def __str__(self) -> str:
         return f"Company({self.name} - {self.registration_no})"
+
+    @cached_property
+    def registration_no_only(self):
+        if self.registration_no.startswith('PV'):
+            try:
+                return int(self.registration_no[2:])
+            except ValueError:
+                pass
+        return 1_000_000_000
 
     @staticmethod
     def __search_page__(search_text: str, eroc_token: str, page: int):
@@ -61,3 +71,13 @@ class Company:
             TSVFile(path).write(d_list)
         else:
             File(path).write('')
+
+    @staticmethod
+    def dedupe(company_list: list['Company']) -> list['Company']:
+        seen = set()
+        deduped = []
+        for company in company_list:
+            if company.registration_no not in seen:
+                deduped.append(company)
+                seen.add(company.registration_no)
+        return deduped
