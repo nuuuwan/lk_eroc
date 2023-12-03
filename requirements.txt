@@ -1,1 +1,4 @@
 utils-nuuuwan
+wordcloud
+matplotlib
+numpy 

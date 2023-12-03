@@ -4,6 +4,7 @@ from utils import TIME_FORMAT_TIME, File, Time, TSVFile
 
 from lk_eroc import Company
 from workflows.aggregate import ALL_PATH
+from workflows.build_word_cloud import WORD_CLOUD_PATH
 
 README_PATH = 'README.md'
 N_RANDOM_DISPLAY = 30
@@ -15,6 +16,8 @@ def main():
         '',
         'Data Scraped from Registrar of Companies'
         + ' - Sri Lanka (https://eroc.drc.gov.lk)',
+        '',
+        f'![word-cloud]({WORD_CLOUD_PATH})',
         '',
     ]
     company_list = [Company(**d) for d in TSVFile(ALL_PATH).read()]
