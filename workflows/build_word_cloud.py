@@ -24,9 +24,7 @@ def clean_word(word: str) -> str:
     return word.strip().lower()
 
 
-def lk_color_func(
-    word, font_size, position, orientation, random_state=None, **kwargs
-):
+def lk_color_func(**_):
     n = len(LK_COLOR_LIST)
     i = random.randint(0, n - 1)
     return LK_COLOR_LIST[i]
@@ -54,9 +52,9 @@ def build_word_cloud():
     plt.figure()
     plt.imshow(wc, interpolation="bilinear")
     plt.axis("off")
-    plt.gcf().set_size_inches(12, 6.75)
+    plt.gcf().set_size_inches(8, 4.5)
 
-    plt.savefig(WORD_CLOUD_PATH, dpi=300)
+    plt.savefig(WORD_CLOUD_PATH, dpi=100)
     log.info(f"✅ Wrote word cloud to {WORD_CLOUD_PATH}.")
 
 
