@@ -3,7 +3,7 @@ import os
 import random
 import time
 
-from utils import Log, SECONDS_IN
+from utils import SECONDS_IN, Log
 
 from lk_eroc import Company
 
@@ -65,7 +65,9 @@ def scrape(eroc_token: str):
         if scrape_for_search_text(search_text, eroc_token):
             n_completed += 1
             delta_time = time.time() - time_start
-            log.debug(f'⏱ {n_completed} completed) {delta_time:.1f}s elapsed.')
+            log.debug(
+                f'⏱ {n_completed} completed) {delta_time:.1f}s elapsed.'
+            )
             if delta_time > MAX_SCRAPE_TIME:
                 break
             random_t = random.random() * 5 + 1
