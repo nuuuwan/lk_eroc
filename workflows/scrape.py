@@ -28,6 +28,7 @@ def get_search_text_list() -> list[str]:
                 search_text_list.append(c1 + c2 + c3)
                 search_text_list.append(c1 + SPACE + c2 + c3)
                 search_text_list.append(c1 + c2 + SPACE + c3)
+    random.shuffle(search_text_list)
     return search_text_list
 
 
