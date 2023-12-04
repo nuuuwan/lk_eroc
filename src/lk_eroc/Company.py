@@ -20,13 +20,10 @@ class Company:
         return dict(name=self.name, registration_no=self.registration_no)
 
     def __lt__(self, other):
-        return (
-            self.name + self.registration_no
-            < other.name + other.registration_no
-        )
+        return str(self) < str(other)
 
     def __hash__(self) -> int:
-        return hash(self.name + self.registration_no)
+        return hash(str(self))
 
     @staticmethod
     def __search_page__(search_text: str, eroc_token: str, page: int):
