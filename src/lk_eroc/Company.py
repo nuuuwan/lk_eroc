@@ -1,6 +1,5 @@
 import json
 from dataclasses import dataclass
-from functools import cached_property
 
 from utils import File, Log, TSVFile
 
@@ -17,12 +16,12 @@ class Company:
     def __str__(self) -> str:
         return f"Company({self.name} - {self.registration_no})"
 
-    @cached_property
-    def registration_no_only(self) -> int:
-        d = ''.join(c for c in self.registration_no if c.isdigit())
-        if len(d) == 0:
-            return 1_000_000_000
-        return int(d)
+    # @cached_property
+    # def registration_no_only(self) -> int:
+    #     d = ''.join(c for c in self.registration_no if c.isdigit())
+    #     if len(d) == 0:
+    #         return 1_000_000_000
+    #     return int(d)
 
     @staticmethod
     def __search_page__(search_text: str, eroc_token: str, page: int):

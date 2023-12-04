@@ -8,11 +8,10 @@ from workflows.build_word_cloud import WORD_CLOUD_PATH
 
 README_PATH = 'README.md'
 N_RANDOM_DISPLAY = 30
-N_EARLY_DISPLAY = 30
 
 
-def main():
-    lines = [
+def header_lines() -> list[str]:
+    return [
         '# Registrar of Companies - Sri Lanka',
         '',
         'Data Scraped from Registrar of Companies'
@@ -22,61 +21,55 @@ def main():
         '',
     ]
 
-    # summary
-    company_list = [Company(**d) for d in TSVFile(ALL_PATH).read()]
-    company_list = Company.dedupe(company_list)
+
+def summary_lines(company_list: list[Company]) -> list[str]:
     n_companies = len(company_list)
     time_str = TIME_FORMAT_TIME.stringify(Time.now())
-    lines.extend(
-        [
-            f'Scraped **{n_companies:,}** Companies as of *{time_str}*.',
-            '',
-        ]
-    )
+    return [
+        f'Scraped **{n_companies:,}** Companies as of *{time_str}*.',
+        '',
+    ]
 
-    # first and last
+
+def first_and_last_lines(company_list: list[Company]) -> list[str]:
     first = company_list[0]
     last = company_list[-1]
 
-    lines.extend(
-        [
-            f'From "{first.name}" to "{last.name}".',
-            '',
-        ]
-    )
+    return [
+        f'From "{first.name}" to "{last.name}".',
+        '',
+    ]
 
-    # random companies
 
+def random_company_lines(company_list: list[Company]) -> list[str]:
+    n_companies = len(company_list)
     if n_companies <= N_RANDOM_DISPLAY:
         random_company_list = company_list
     else:
         random_company_list = random.sample(company_list, N_RANDOM_DISPLAY)
     random_company_list = sorted(random_company_list, key=lambda c: c.name)
 
-    lines.extend(
-        [
-            '',
-            f'## List of {N_RANDOM_DISPLAY} Random Companies',
-            '',
-        ]
-    )
+    lines = [
+        '',
+        f'## List of {N_RANDOM_DISPLAY} Random Companies',
+        '',
+    ]
+
     for company in random_company_list:
         lines.append(f'* {company.name} - {company.registration_no}')
+    return lines
 
-    # early registrations
-    early_company_list = sorted(
-        company_list, key=lambda c: c.registration_no_only
-    )
 
-    lines.extend(
-        [
-            '',
-            '## List of Early Registrations',
-            '',
-        ]
-    )
-    for company in early_company_list[:N_EARLY_DISPLAY]:
-        lines.append(f'* {company.registration_no} - {company.name} ')
+def main():
+    lines = header_lines()
+
+    # summary
+    company_list = [Company(**d) for d in TSVFile(ALL_PATH).read()]
+    company_list = Company.dedupe(company_list)
+
+    lines.extend(summary_lines(company_list))
+    lines.extend(first_and_last_lines(company_list))
+    lines.extend(random_company_lines(company_list))
 
     File(README_PATH).write_lines(lines)
 
