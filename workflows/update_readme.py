@@ -1,13 +1,14 @@
-import random
-
-from utils import TIME_FORMAT_TIME, File, Time, TSVFile
+from utils import TIME_FORMAT_TIME, File, Log, Time, TSVFile
 
 from lk_eroc import Company
 from workflows.aggregate import ALL_PATH
 from workflows.build_word_cloud import WORD_CLOUD_PATH
 
 README_PATH = 'README.md'
-N_RANDOM_DISPLAY = 30
+N_EXAMPLES_DISPLAY = 30
+
+
+log = Log('update_readme')
 
 
 def header_lines() -> list[str]:
@@ -31,45 +32,32 @@ def summary_lines(company_list: list[Company]) -> list[str]:
     ]
 
 
-def first_and_last_lines(company_list: list[Company]) -> list[str]:
-    first = company_list[0]
-    last = company_list[-1]
-
-    return [
-        f'From "{first.name}" to "{last.name}".',
-        '',
-    ]
-
-
-def random_company_lines(company_list: list[Company]) -> list[str]:
+def example_company_lines(company_list: list[Company]) -> list[str]:
     n_companies = len(company_list)
-    if n_companies <= N_RANDOM_DISPLAY:
-        random_company_list = company_list
-    else:
-        random_company_list = random.sample(company_list, N_RANDOM_DISPLAY)
-    random_company_list = sorted(random_company_list, key=lambda c: c.name)
+    n_display = min(N_EXAMPLES_DISPLAY, n_companies)
+    log.debug(f'{n_display=:,}, {n_companies=:,}')
 
     lines = [
         '',
-        f'## List of {N_RANDOM_DISPLAY} Random Companies',
+        f'## Selection of {N_EXAMPLES_DISPLAY} Companies',
         '',
     ]
 
-    for company in random_company_list:
-        lines.append(f'* {company.name} - {company.registration_no}')
+    for i in range(0, n_display):
+        j = int(i * (n_companies - 1) / (n_display - 1))
+        company = company_list[j]
+        lines.append(f'{j+1:,}) {company.name} - {company.registration_no}')
     return lines
 
 
 def main():
     lines = header_lines()
 
-    # summary
     company_list = [Company(**d) for d in TSVFile(ALL_PATH).read()]
-    company_list = Company.dedupe(company_list)
 
     lines.extend(summary_lines(company_list))
-    lines.extend(first_and_last_lines(company_list))
-    lines.extend(random_company_lines(company_list))
+
+    lines.extend(example_company_lines(company_list))
 
     File(README_PATH).write_lines(lines)
 
