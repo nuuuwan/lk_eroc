@@ -66,6 +66,7 @@ class Company:
                 break
             page += 1
 
+        company_list = sorted(Company.dedupe(company_list))
         return company_list
 
     @staticmethod
