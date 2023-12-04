@@ -18,12 +18,11 @@ class Company:
         return f"Company({self.name} - {self.registration_no})"
 
     @cached_property
-    def registration_no_only(self):
-        try:
-            return int(self.registration_no[2:])
-        except ValueError:
-            pass
-        return 1_000_000_000
+    def registration_no_only(self) -> int:
+        d = ''.join(c for c in self.registration_no if c.isdigit())
+        if len(d) == 0:
+            return 1_000_000_000
+        return int(d)
 
     @staticmethod
     def __search_page__(search_text: str, eroc_token: str, page: int):
@@ -42,7 +41,7 @@ class Company:
         except Exception as e:
             log.error(f'Error parsing JSON: {e}')
             return [], 0
-            
+
         company_list = [Company(**d) for d in data['availableData']['data']]
         meta = data['availableData']['meta']
         last_page = int(meta['last_page'])

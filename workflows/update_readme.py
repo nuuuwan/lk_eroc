@@ -57,9 +57,7 @@ def main():
         ]
     )
     for company in early_company_list[:N_EARLY_DISPLAY]:
-        lines.append(
-            f'* **{company.registration_no_only}** - {company.name} '
-        )
+        lines.append(f'* {company.registration_no} - {company.name} ')
 
     File(README_PATH).write_lines(lines)
 
