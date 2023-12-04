@@ -17,7 +17,7 @@ MAX_SCRAPE_TIME = SECONDS_IN.MINUTE * 5
 
 log = Log('scraper')
 
-log.debug(f'{MAX_SCRAPE_TIME=}')
+log.debug(f'⏱{MAX_SCRAPE_TIME=}')
 
 
 def get_search_text_list() -> list[str]:
@@ -63,6 +63,7 @@ def scrape(eroc_token: str):
     for search_text in search_text_list:
         if scrape_for_search_text(search_text, eroc_token):
             delta_time = time.time() - time_start
+            log.debug(f'⏱ {delta_time:.1f}s elapsed.')
             if delta_time > MAX_SCRAPE_TIME:
                 break
             random_t = random.random() * 5 + 1
