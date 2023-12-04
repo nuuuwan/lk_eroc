@@ -46,7 +46,9 @@ def example_company_lines(company_list: list[Company]) -> list[str]:
     for i in range(0, n_display):
         j = int(i * (n_companies - 1) / (n_display - 1))
         company = company_list[j]
-        lines.append(f'{j+1}. {company.name} - {company.registration_no}')
+        lines.append(
+            f'* ({j+1:,}) {company.name} - {company.registration_no}'
+        )
     return lines
 
 
