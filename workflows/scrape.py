@@ -58,12 +58,14 @@ def scrape_for_search_text(search_text: str, eroc_token: str) -> bool:
 
 
 def scrape(eroc_token: str):
+    n_completed = 0
     time_start = time.time()
     search_text_list = get_search_text_list()
     for search_text in search_text_list:
         if scrape_for_search_text(search_text, eroc_token):
+            n_completed += 1
             delta_time = time.time() - time_start
-            log.debug(f'⏱ {delta_time:.1f}s elapsed.')
+            log.debug(f'⏱ {n_completed} completed) {delta_time:.1f}s elapsed.')
             if delta_time > MAX_SCRAPE_TIME:
                 break
             random_t = random.random() * 5 + 1
