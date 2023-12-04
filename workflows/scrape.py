@@ -3,34 +3,38 @@ import os
 import random
 import time
 
-from utils import Log
+from utils import Log, SECONDS_IN
 
 from lk_eroc import Company
 
 DIR_DATA = 'data'
 DIR_INDEX = os.path.join(DIR_DATA, 'index')
+SPACE = ' '
+SPACE_REPLACE = '_' * 2
+RESERVED_WORD_SUFFIX = '_'
 ALPHA = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ '
-MAX_SCRAPES = 30
+MAX_SCRAPE_TIME =  5
 
 log = Log('scraper')
+
+log.debug(f'{MAX_SCRAPE_TIME=}')
 
 
 def get_search_text_list() -> list[str]:
     search_text_list = []
-    space = ' '
     for c1 in ALPHA:
         for c2 in ALPHA:
             for c3 in ALPHA:
                 search_text_list.append(c1 + c2 + c3)
-                search_text_list.append(c1 + space + c2 + c3)
-                search_text_list.append(c1 + c2 + space + c3)
+                search_text_list.append(c1 + SPACE + c2 + c3)
+                search_text_list.append(c1 + c2 + SPACE + c3)
     return search_text_list
 
 
 def get_file_prefix(search_text: str) -> str:
-    file_prefix = search_text.replace(' ', '__')
+    file_prefix = search_text.replace(SPACE, SPACE_REPLACE)
     if file_prefix in ['AUX', 'CON', 'PRN']:
-        return file_prefix + '_'
+        return file_prefix + RESERVED_WORD_SUFFIX
     return file_prefix
 
 
@@ -54,14 +58,13 @@ def scrape_for_search_text(search_text: str, eroc_token: str) -> bool:
 
 
 def scrape(eroc_token: str):
+    time_start = time.time()
     search_text_list = get_search_text_list()
-    n_scrapes = 0
     for search_text in search_text_list:
         if scrape_for_search_text(search_text, eroc_token):
-            n_scrapes += 1
-            if n_scrapes >= MAX_SCRAPES:
+            delta_time = time.time() - time_start
+            if delta_time > MAX_SCRAPE_TIME:
                 break
-
             random_t = random.random() * 5 + 1
             log.debug(f'😴 Sleeping {random_t:.1f}s...')
             time.sleep(random_t)
