@@ -24,8 +24,14 @@ def get_search_text_list() -> list[str]:
     return search_text_list
 
 
+def get_file_prefix(search_text: str) -> str:
+    if search_text in ['AUX', 'CON', 'PRN']:
+        return search_text + '_'
+    return search_text
+
+
 def scrape_for_search_text(search_text: str, eroc_token: str) -> bool:
-    file_prefix = search_text.replace(" ", '_')
+    file_prefix = get_file_prefix(search_text)
     dir_path = os.path.join(DIR_INDEX, file_prefix[0:1], file_prefix[1:2])
     if not os.path.exists(dir_path):
         os.makedirs(dir_path)
