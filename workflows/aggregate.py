@@ -2,6 +2,7 @@ import os
 
 from utils import Log, TSVFile
 
+from lk_eroc import Company
 from workflows.scrape import DIR_DATA, DIR_INDEX
 
 log = Log('aggregate')
@@ -25,12 +26,16 @@ def aggregate():
         log.warning("No files found. Aborting.")
         return
 
-    data_list = []
+    all_company_list = []
     for file_path in file_path_list:
-        data_list += TSVFile(file_path).read()
-    data_list.sort(key=lambda d: d['name'])
-    TSVFile(ALL_PATH).write(data_list)
-    log.info(f"✅ Wrote {len(data_list)} companies to {ALL_PATH}.")
+        d_list = TSVFile(file_path).read()
+        company_list = [Company(**d) for d in d_list]
+        all_company_list.extend(company_list)
+    all_company_list = sorted(Company.dedupe(all_company_list))
+
+    all_data_list = [company.to_dict() for company in all_company_list]
+    TSVFile(ALL_PATH).write(all_data_list)
+    log.info(f"✅ Wrote {len(all_data_list):,} companies to {ALL_PATH}.")
 
 
 if __name__ == '__main__':

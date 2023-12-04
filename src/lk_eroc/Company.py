@@ -16,12 +16,17 @@ class Company:
     def __str__(self) -> str:
         return f"Company({self.name} - {self.registration_no})"
 
-    # @cached_property
-    # def registration_no_only(self) -> int:
-    #     d = ''.join(c for c in self.registration_no if c.isdigit())
-    #     if len(d) == 0:
-    #         return 1_000_000_000
-    #     return int(d)
+    def to_dict(self) -> dict:
+        return dict(name=self.name, registration_no=self.registration_no)
+
+    def __lt__(self, other):
+        return (
+            self.name + self.registration_no
+            < other.name + other.registration_no
+        )
+
+    def __hash__(self) -> int:
+        return hash(self.name + self.registration_no)
 
     @staticmethod
     def __search_page__(search_text: str, eroc_token: str, page: int):
@@ -76,10 +81,4 @@ class Company:
 
     @staticmethod
     def dedupe(company_list: list['Company']) -> list['Company']:
-        seen = set()
-        deduped = []
-        for company in company_list:
-            if company.registration_no not in seen:
-                deduped.append(company)
-                seen.add(company.registration_no)
-        return deduped
+        return list(set(company_list))
