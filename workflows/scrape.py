@@ -9,7 +9,7 @@ from lk_eroc import Company
 
 DIR_DATA = 'data'
 DIR_INDEX = os.path.join(DIR_DATA, 'index')
-ALPHA = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+ALPHA = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ '
 MAX_SCRAPES = 30
 
 log = Log('scraper')
@@ -17,17 +17,21 @@ log = Log('scraper')
 
 def get_search_text_list() -> list[str]:
     search_text_list = []
+    space = ' '
     for c1 in ALPHA:
         for c2 in ALPHA:
             for c3 in ALPHA:
                 search_text_list.append(c1 + c2 + c3)
+                search_text_list.append(c1 + space + c2 + c3)
+                search_text_list.append(c1 + c2 + space + c3)
     return search_text_list
 
 
 def get_file_prefix(search_text: str) -> str:
-    if search_text in ['AUX', 'CON', 'PRN']:
-        return search_text + '_'
-    return search_text
+    file_prefix = search_text.replace(' ', '__')
+    if file_prefix in ['AUX', 'CON', 'PRN']:
+        return file_prefix + '_'
+    return file_prefix
 
 
 def scrape_for_search_text(search_text: str, eroc_token: str) -> bool:
