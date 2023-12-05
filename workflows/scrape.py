@@ -39,21 +39,25 @@ def get_file_prefix(search_text: str) -> str:
     return file_prefix
 
 
-def scrape_for_search_text(search_text: str, eroc_token: str) -> bool:
+def get_file_path(search_text: str) -> str:
     file_prefix = get_file_prefix(search_text)
     dir_path = os.path.join(DIR_INDEX, file_prefix[0:1], file_prefix[1:2])
     if not os.path.exists(dir_path):
         os.makedirs(dir_path)
-    path = os.path.join(dir_path, file_prefix + '.tsv')
+    return os.path.join(dir_path, file_prefix + '.tsv')
 
-    if os.path.exists(path):
-        log.warning(f"☑️ {path} exists. Skipping.")
+
+def scrape_for_search_text(search_text: str, eroc_token: str) -> bool:
+    file_path = get_file_path(search_text)
+
+    if os.path.exists(file_path):
+        log.warning(f"☑️ {file_path} exists. Skipping.")
         return False
 
     company_list = Company.list_from_search(search_text, eroc_token)
-    Company.write_list(company_list, path)
+    Company.write_list(company_list, file_path)
     n_company_list = len(company_list)
-    log.info(f"✅ Wrote {n_company_list} companies to {path}.")
+    log.info(f"✅ Wrote {n_company_list} companies to {file_path}.")
 
     return True
 

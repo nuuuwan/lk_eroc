@@ -1,5 +1,5 @@
 import os
-
+import shutil
 from utils import Log
 
 from workflows.aggregate import get_file_paths
@@ -44,10 +44,10 @@ def cleanup_dirs():
             n_data_files = len(data_file_list)
             if n_data_files == 0:
                 log.warning(f'Empty: {dir2_path}. Deleting!')
-                os.rmdir(dir2_path)
+                shutil.rmtree(dir2_path)
                 n_removed += 1
     log.info(f'✅ Removed {n_removed}/{n} dirs.')
-    
+
 def cleanup():
     cleanup_files()
     cleanup_dirs()
