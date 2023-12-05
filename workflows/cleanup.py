@@ -1,5 +1,6 @@
 import os
 import shutil
+
 from utils import Log
 
 from workflows.aggregate import get_file_paths
@@ -23,6 +24,7 @@ def cleanup_files():
             n_removed += 1
 
     log.info(f'✅ Removed {n_removed}/{n} files.')
+
 
 def cleanup_dirs():
     n = 0
@@ -49,11 +51,12 @@ def cleanup_dirs():
                 n_removed += 1
     os.system('git clean -fd')
     log.info(f'✅ Removed {n_removed}/{n} dirs.')
-    
+
 
 def cleanup():
     cleanup_files()
     cleanup_dirs()
+
 
 if __name__ == '__main__':
     cleanup()
