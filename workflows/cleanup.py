@@ -44,9 +44,12 @@ def cleanup_dirs():
             n_data_files = len(data_file_list)
             if n_data_files == 0:
                 log.warning(f'Empty: {dir2_path}. Deleting!')
+                os.system('git rm -r ' + dir2_path)
                 shutil.rmtree(dir2_path)
                 n_removed += 1
+    os.system('git clean -fd')
     log.info(f'✅ Removed {n_removed}/{n} dirs.')
+    
 
 def cleanup():
     cleanup_files()
