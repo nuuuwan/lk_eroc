@@ -28,12 +28,26 @@ def summary_lines(company_list: list[Company]) -> list[str]:
         '',
     ]
 
+def latest_company_lines(company_list: list[Company]) -> list[str]:
+    N_LATEST = 1_000
+    sorted_by_latest = sorted(
+        company_list, key=lambda x: x.registration_no_digits_int,
+    )[-N_LATEST:]
+    lines = [
+        '',
+        f'## Latest {N_LATEST:,} Companies',
+        
+    ] + company_list_lines(sorted_by_latest, 'latest') + ['']
+    return lines
+
 
 def company_list_lines(company_list: list[Company], label: str) -> list[str]:
     n_companies = len(company_list)
     n_display = min(N_EXAMPLES_DISPLAY, n_companies)
 
     lines = []
+    if n_display < n_companies:
+        lines = [f'*Sample of {n_display}/{n_companies}*']
     if n_companies > WordCloud.MIN_COMPANIES_FOR_WORD_CLOUD:
         wc = WordCloud(company_list, label)
         wc_path = wc.write()
@@ -67,7 +81,7 @@ def group_by_type_lines(company_list: list[Company]) -> list[str]:
         lines.extend(
             [
                 '',
-                f'### "{group}" ({len(company_list_for_group):,})',
+                f'### "{group}"',
             ]
         )
         lines.extend(company_list_lines(company_list_for_group, group))
@@ -84,6 +98,8 @@ def main():
     lines.extend(summary_lines(company_list))
 
     lines.extend(example_company_lines(company_list))
+
+    lines.extend(latest_company_lines(company_list))
 
     lines.extend(group_by_type_lines(company_list))
 
