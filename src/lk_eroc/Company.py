@@ -1,6 +1,6 @@
-from functools import cached_property
 import json
 from dataclasses import dataclass
+from functools import cached_property
 
 from utils import File, Log, TSVFile
 
@@ -24,7 +24,7 @@ class Company:
     def registration_no_digits(self) -> str:
         s = [c for c in self.registration_no if c.isdigit()]
         return ''.join(s)
-    
+
     @cached_property
     def registration_no_alphas(self) -> str:
         s = [c for c in self.registration_no if c.isalpha()]
@@ -92,9 +92,10 @@ class Company:
     def dedupe(company_list: list['Company']) -> list['Company']:
         return list(set(company_list))
 
-
     @staticmethod
-    def group_by_type(company_list: list['Company']) -> dict[str, list['Company']]:
+    def group_by_type(
+        company_list: list['Company'],
+    ) -> dict[str, list['Company']]:
         group_to_company_list = {}
         for company in company_list:
             group = company.registration_no_alphas

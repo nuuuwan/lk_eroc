@@ -44,27 +44,35 @@ def company_list_lines(company_list: list[Company]) -> list[str]:
         )
     return lines
 
+
 def example_company_lines(company_list: list[Company]) -> list[str]:
     lines = [
-    
         f'## Selection of {N_EXAMPLES_DISPLAY} Companies',
-
     ]
 
     lines.extend(company_list_lines(company_list))
     return lines
 
+
 def group_by_type_lines(company_list: list[Company]) -> list[str]:
     group_to_company_list = Company.group_by_type(company_list)
-    lines = ['','## Selection for Companies by Type']
-    sorted_group_and_company_list = sorted(group_to_company_list.items(), key=lambda x: len(x[1]), reverse=True)
+    lines = ['', '## Selection for Companies by Type']
+    sorted_group_and_company_list = sorted(
+        group_to_company_list.items(), key=lambda x: len(x[1]), reverse=True
+    )
     for group, company_list_for_group in sorted_group_and_company_list:
-        lines.extend(['', f'### Sample from "{group}" ({len(company_list_for_group):,})'])
+        lines.extend(
+            [
+                '',
+                f'### Sample from "{group}" ({len(company_list_for_group):,})',
+            ]
+        )
         lines.extend(company_list_lines(company_list_for_group))
 
     lines.append('')
     return lines
-    
+
+
 def main():
     lines = header_lines()
 
@@ -75,7 +83,7 @@ def main():
     lines.extend(example_company_lines(company_list))
 
     lines.extend(group_by_type_lines(company_list))
-    
+
     File(README_PATH).write_lines(lines)
     log.info(f'✅ Wrote {README_PATH}.')
 
