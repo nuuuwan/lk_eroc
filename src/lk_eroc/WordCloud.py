@@ -33,7 +33,7 @@ def lk_color_func(**_):
 
 
 class WordCloud:
-    MIN_COMPANIES_FOR_WORD_CLOUD = 100
+    MIN_COMPANIES_FOR_WORD_CLOUD = 30
 
     def __init__(self, company_list: list[Company], label: str):
         self.company_list = company_list
