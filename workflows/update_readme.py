@@ -47,7 +47,7 @@ def company_list_lines(company_list: list[Company]) -> list[str]:
 
 def example_company_lines(company_list: list[Company]) -> list[str]:
     lines = [
-        f'## Selection of {N_EXAMPLES_DISPLAY} Companies',
+        f'## Selection of Companies',
     ]
 
     lines.extend(company_list_lines(company_list))
@@ -64,7 +64,7 @@ def group_by_type_lines(company_list: list[Company]) -> list[str]:
         lines.extend(
             [
                 '',
-                f'### Sample from "{group}" ({len(company_list_for_group):,})',
+                f'### "{group}" ({len(company_list_for_group):,})',
             ]
         )
         lines.extend(company_list_lines(company_list_for_group))
