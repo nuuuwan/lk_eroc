@@ -2,7 +2,7 @@ from utils import TIME_FORMAT_TIME, File, Log, Time, TSVFile
 
 from lk_eroc import Company, WordCloud
 from workflows.aggregate import ALL_PATH
-
+import os
 README_PATH = 'README.md'
 N_EXAMPLES_DISPLAY = 10
 
@@ -22,9 +22,11 @@ def header_lines() -> list[str]:
 
 def summary_lines(company_list: list[Company]) -> list[str]:
     n_companies = len(company_list)
+    file_size = os.path.getsize(ALL_PATH)
+    file_size_m = file_size / 1_000_000
     time_str = TIME_FORMAT_TIME.stringify(Time.now())
     return [
-        f'Scraped **{n_companies:,}** Companies as of *{time_str}*.',
+        f'Scraped **{n_companies:,}** Companies ([{file_size_m:.2f}MB]({ALL_PATH})) as of *{time_str}*.',
         '',
     ]
 
