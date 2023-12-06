@@ -26,7 +26,7 @@ class Company:
         return ''.join(s)
     
     @cached_property
-    def reigstration_no_alphas(self) -> str:
+    def registration_no_alphas(self) -> str:
         s = [c for c in self.registration_no if c.isalpha()]
         return ''.join(s)
 
