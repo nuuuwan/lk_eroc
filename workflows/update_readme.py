@@ -5,7 +5,7 @@ from workflows.aggregate import ALL_PATH
 from workflows.build_word_cloud import WORD_CLOUD_PATH
 
 README_PATH = 'README.md'
-N_EXAMPLES_DISPLAY = 30
+N_EXAMPLES_DISPLAY = 10
 
 
 log = Log('update_readme')
