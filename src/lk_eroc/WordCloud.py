@@ -1,15 +1,14 @@
-from functools import cached_property
 import os
 import random
+from functools import cached_property
 
 import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
-from utils import Log, TSVFile
+from utils import Log
 from wordcloud import WordCloud as WordCloudInner
 
 from lk_eroc.Company import Company
-
 
 log = Log('build_word_cloud')
 
@@ -35,13 +34,13 @@ def lk_color_func(**_):
 
 class WordCloud:
     MIN_COMPANIES_FOR_WORD_CLOUD = 100
+
     def __init__(self, company_list: list[Company], label: str):
         self.company_list = company_list
         self.label = label
-    
+
     @cached_property
     def words(self):
-        
         words_all = []
         for company in self.company_list:
             words = company.name.split()
@@ -49,7 +48,7 @@ class WordCloud:
             words_all.extend(words)
         log.debug(f'Found {len(words_all):,} words.')
         return words_all
-        
+
     def write(self) -> str:
         text = " ".join(self.words)
 
@@ -72,9 +71,9 @@ class WordCloud:
 
         if not os.path.exists(DIR_WORD_CLOUDS):
             os.makedirs(DIR_WORD_CLOUDS)
-        image_path = os.path.join(DIR_WORD_CLOUDS, f"word_cloud_{self.label}.png")
+        image_path = os.path.join(
+            DIR_WORD_CLOUDS, f"word_cloud_{self.label}.png"
+        )
         plt.savefig(image_path, dpi=150, bbox_inches='tight')
         log.info(f"✅ Wrote word cloud to {image_path}.")
         return image_path
-
-    

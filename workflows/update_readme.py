@@ -3,7 +3,6 @@ from utils import TIME_FORMAT_TIME, File, Log, Time, TSVFile
 from lk_eroc import Company, WordCloud
 from workflows.aggregate import ALL_PATH
 
-
 README_PATH = 'README.md'
 N_EXAMPLES_DISPLAY = 10
 
@@ -17,7 +16,6 @@ def header_lines() -> list[str]:
         '',
         'Data Scraped from Registrar of Companies'
         + ' - Sri Lanka (https://eroc.drc.gov.lk)',
-
         '',
     ]
 
@@ -32,16 +30,15 @@ def summary_lines(company_list: list[Company]) -> list[str]:
 
 
 def company_list_lines(company_list: list[Company], label: str) -> list[str]:
-    
     n_companies = len(company_list)
     n_display = min(N_EXAMPLES_DISPLAY, n_companies)
-    
+
     lines = []
     if n_companies > WordCloud.MIN_COMPANIES_FOR_WORD_CLOUD:
         wc = WordCloud(company_list, label)
         wc_path = wc.write()
         lines.append(f'![{wc_path}]({wc_path})')
-    
+
     for i in range(0, n_display):
         j = int(i * (n_companies - 1) / (n_display - 1))
         company = company_list[j]
@@ -53,7 +50,7 @@ def company_list_lines(company_list: list[Company], label: str) -> list[str]:
 
 def example_company_lines(company_list: list[Company]) -> list[str]:
     lines = [
-        f'## Selection of Companies',
+        '## Selection of Companies',
     ]
 
     lines.extend(company_list_lines(company_list, 'all'))
