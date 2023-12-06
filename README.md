@@ -2,50 +2,69 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14:15:31*.
+Scraped **51,946** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14:27:05*.
 
 ## Selection of Companies
+*Sample of 10/51946*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (5,769) PV89316 - **ANJO WINGS**
-* (11,537) PV00285366 - **BATTICALOA BEACH RESORT**
-* (17,305) PV7542 - **CENTRAL ECHO ENGINEERING**
-* (23,073) F213 - **COMPAGNIE INDUSTRIES DE TRAVAUX**
-* (28,841) PV00254805 - **GIGANTOO**
-* (34,609) PV83830 - **LOGITEC GLOBAL SOLUTIONS**
-* (40,377) PV00278437 - **QUEENCART**
-* (46,145) PV00247911 - **SUNRISE ASIA TECH**
-* (51,914) PV118576 - **ZZAPPIT**
+* (5,772) PV00223862 - **ANKA CORPORATION**
+* (11,544) GL2246 - **BATTICALOA DISTRICT CONFEDERATION OF SUSTAINABLE AGRICULTURE RESORCES CENTERS''**
+* (17,316) PV99883 - **CENTRAL HARDWARE KURUNEGALA**
+* (23,087) PV00257132 - **COMPASSION DAY CARE CENTRE**
+* (28,859) PV83839 - **GIGI SHOES**
+* (34,631) PV00233413 - **LOGRO**
+* (40,402) PV00205332 - **QUEENS HOTELS & RESORTS**
+* (46,174) PV60055 - **SUNRISE EXPORTS MARKETING**
+* (51,946) PV118576 - **ZZAPPIT**
+
+## Latest 1,000 Companies
+*Sample of 10/1000*
+![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
+* (1) PV00286123 - **SUPISA TOURISM**
+* (112) PV00286576 - **IMPLEXNET**
+* (223) PV00286980 - **PRINT TEX MEGA HOLDINGS**
+* (334) PV00287359 - **ZORD ENTERPRISES**
+* (445) PV00287776 - **DORA INTERNATIONAL**
+* (556) PV00288133 - **TECH GALORE**
+* (667) PV00288509 - **PHARMA PACK**
+* (778) PV00288917 - **BIGDOG CREATIONS**
+* (889) PV00289325 - **DAZZLING PEARL**
+* (1,000) PV00289834 - **SUPREME DASATHA**
+
 
 ## Selection for Companies by Type
 
-### "PV" (47,918)
+### "PV"
+*Sample of 10/47946*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (5,325) PV82532 - **ANNA AND CO**
-* (10,649) PV88617 - **BATS LANKA**
-* (15,973) PV114587 - **CENTRAL CITY**
-* (21,297) PV00200695 - **CONNECT PRINTING SOLUTIONS**
-* (26,621) PV00207506 - **GOLDEN ARROW ENTERPRISES**
-* (31,945) PV00259308 - **LOYAL SPICE EXPORT**
-* (37,269) PV00200509 - **RADIANT CLEARING AND FORWARDING**
-* (42,593) PV85234 - **SUNRISE LANKA PRODUCTS**
-* (47,918) PV118576 - **ZZAPPIT**
+* (5,328) PV79816 - **ANNA LANKA EXPORTS & IMPORTS**
+* (10,655) PV00268094 - **BATTI WINE & SPIRITS**
+* (15,982) PV1270 - **CENTRAL DEPOSITORY SYSTEMS**
+* (21,309) PV00253387 - **CONNECTIX**
+* (26,637) PV00274578 - **GOLDEN BREEDER FARM**
+* (31,964) PV00268298 - **LUBES LANKA**
+* (37,291) PV85761 - **RADIANT GLOBAL ENGINEERING**
+* (42,618) PV00280449 - **SUNRISE VACANZA**
+* (47,946) PV118576 - **ZZAPPIT**
 
-### "" (1,526)
+### ""
+*Sample of 10/1529*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (170)  - **ANURA HOLDINGS**
-* (339)  - **BENQUBI HOTEL**
-* (509)  - **CEORA**
-* (678)  - **COLOMBO INSTITUTE**
-* (848)  - **FERVINS VISA SOLUTIONS**
-* (1,017)  - **LKV PERERA**
-* (1,187)  - **RANCHANA DEVI JEWELLERS**
-* (1,356)  - **SUPER SHINE EMBILIPITIYA ENGINEERING AND TRADING COMPANY**
-* (1,526)  - **ZOVO ENTERPRISES**
+* (340)  - **BERTRAM BEACH RESORT**
+* (510)  - **CEORA HOLDINGS**
+* (680)  - **COLOMBO INSTITUTE OF ENGINEERING & TECHNOLOGY**
+* (849)  - **FIBERSHED SRI LANKA**
+* (1,019)  - **LONG ROSE DIGITAL**
+* (1,189)  - **RANDI FOUNDATION**
+* (1,359)  - **SUPER SHINE JAFFNA ENGINEERING AND TRADING COMPANY**
+* (1,529)  - **ZOVO ENTERPRISES**
 
-### "GA" (910)
+### "GA"
+*Sample of 10/911*
 ![data/word_clouds/word_cloud_GA.png](data/word_clouds/word_cloud_GA.png)
 * (1) GA00213478 - **A QUINT ONDAATJE FOUNDATION**
 * (102) GA2953 - **AMUTHU AMUTHU ASSOCIATION**
@@ -53,12 +72,13 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (304) GA00219011 - **CENTER  FOR  WOMEN  WORKERS**
 * (405) GA3454 - **CHILD, ADOLESCENT AND FAMILY SERVICES**
 * (506) GA00219625 - **CROSSROADS LANKA FOUNDATION**
-* (607) GA445 - **INSTITUTE FOR SOCIAL DEVELOPMENT**
-* (708) GA324 - **OZ AID**
-* (809) GA2277 - **SOORIYASEVA FOUNDATION ASSOCIATION**
-* (910) GA00230951 - **YOHAN PATHIRANA FOUNDATION**
+* (607) GA635 - **INSTITUTE FOR REASERCH AND DEVELOPMENT IN HEALTH AND SOCIAL CARE**
+* (708) GA2189 - **ORCHID CIRCLE OF CEYLON**
+* (809) GA00204127 - **SONMIC ORGANIC AND NATURAL FARMERS ASSOCIATION**
+* (911) GA00230951 - **YOHAN PATHIRANA FOUNDATION**
 
-### "PB" (621)
+### "PB"
+*Sample of 10/621*
 ![data/word_clouds/word_cloud_PB.png](data/word_clouds/word_cloud_PB.png)
 * (1) PB5111 - **A ONE TOP TRADING**
 * (69) PB4996 - **ANSCOM**
@@ -71,7 +91,8 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (552) PB00214009 - **SINGHE CAPITAL INVESTMENT**
 * (621) PB4828 - **ZIPP INTERNATIONAL (LANKA)**
 
-### "GL" (285)
+### "GL"
+*Sample of 10/285*
 ![data/word_clouds/word_cloud_GL.png](data/word_clouds/word_cloud_GL.png)
 * (1) GL00223389 - **A LITTLE  FOUNDATION**
 * (32) GL2475 - **ANBAALAYAM**
@@ -84,7 +105,8 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (253) GL2093 - **TECHNOLOGY EDUCATIONAL AND ABILITY MANAGEMENT**
 * (285) GL2140 - **WORLDWIDE NETWORK**
 
-### "NF" (206)
+### "NF"
+*Sample of 10/206*
 ![data/word_clouds/word_cloud_NF.png](data/word_clouds/word_cloud_NF.png)
 * (1) NF137 - **AB FINLANKA**
 * (23) NF392 - **ALSTER INTERNATIONAL TRADING COMPANY**
@@ -97,7 +119,8 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (183) NF644 - **TANZEEM PRINTERS PRIVATE**
 * (206) NF711 - **ZTE CORPORATION**
 
-### "FC" (173)
+### "FC"
+*Sample of 10/173*
 ![data/word_clouds/word_cloud_FC.png](data/word_clouds/word_cloud_FC.png)
 * (1) FC00251549 - **AA JAPAN (PVT) LTD**
 * (20) FC1364 - **ALPHA ATELIER (M) SDN. BHD.**
@@ -110,7 +133,8 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (153) FC1211 - **SINOM (HONG KING)**
 * (173) FC1193 - **WORLD PRODUCTION PARTNERS CO.**
 
-### "F" (78)
+### "F"
+*Sample of 10/78*
 * (1) F234 - **ALCO INSURANCE COMPANY**
 * (9) F289 - **AMERICAN PIPE & CONSTRUCTION CO.**
 * (18) F342 - **BANK OF AMERICA NATIONAL TRUST AND SAVINGS ASSOCIATION**
@@ -122,7 +146,8 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (69) F309 - **SINGAPORE AIR LINES**
 * (78) F268 - **Y CICHAEL**
 
-### "PQ" (73)
+### "PQ"
+*Sample of 10/73*
 * (1) PQ188 - **ABANS ELECTRICALS**
 * (9) PQ26 - **AMBEON HOLDINGS**
 * (17) PQ00252285 - **CAPITAL ALLIANCE**
@@ -134,7 +159,8 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (65) PQ212 - **SERENDIB LAND**
 * (73) PQ00234079 - **WINDFORCE**
 
-### "PBPV" (30)
+### "PBPV"
+*Sample of 10/30*
 * (1) PB1296PV - **A BAUR AND COMPANY  TRAVEL**
 * (4) PB872PV - **ALEXANDRA INDUSTRIES (CEYLON)**
 * (7) PB5118PV - **ASIAN CREDIT COMPANY**
@@ -146,7 +172,8 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (26) PB4771PV - **SOFIA HOTELS**
 * (30) PB458PV - **VENIGROS**
 
-### "PCC" (22)
+### "PCC"
+*Sample of 10/22*
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (3) PCC00284133 - **ASIRI PORT CITY HOSPITAL (PRIVATE) LIMITED .**
 * (5) PCC00272290 - **BITAZZA LANKA (PRIVATE) LIMITED**
@@ -158,7 +185,8 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (19) PCC00276910 - **REMEDIUMONE GLOBAL PRIVATE LIMITED**
 * (22) PCC00284609 - **TIQRI SOFTWARE PTE LTD**
 
-### "PVPB" (18)
+### "PVPB"
+*Sample of 10/18*
 * (1) PV4158PB - **ADAM CARBONS**
 * (2) PV2373PB - **AITKEN SPENCE PORTS INTERNATIONAL**
 * (4) PV9731PB - **ATIS ENGINEERING SERVICES**
@@ -170,7 +198,8 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (16) PV21775PB - **ORIENT CAPITAL**
 * (18) PV62841PB - **SUNDARAM LANKA TYRES**
 
-### "PBPQ" (13)
+### "PBPQ"
+*Sample of 10/13*
 * (1) PB1015PQ - **ABANS FINANCE**
 * (2) PB1196PQ - **AITKEN SPENCE PLANTATION MANAGEMENTS**
 * (3) PB4739PQ - **ARPICO INSURANCE**
@@ -182,7 +211,8 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (11) PB813PQ - **SINGER FINANCE (LANKA)**
 * (13) PB641PQ - **SOFTLOGIC FINANCE**
 
-### "PBG" (11)
+### "PBG"
+*Sample of 10/11*
 * (1) PBG32 - **BASIL SPORTSMEN**
 * (2) PBG28 - **BLUE DIAMOND SPORTSMEN**
 * (3) PBG13 - **CEYLON MUTUAL GUARANTEE ASSOCIATION ( BY GUARANTEE)**
@@ -194,7 +224,7 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (9) PBG7 - **SUYATHESA AFIVIRTHI SANGAM**
 * (11) PBG49 - **TRRO**
 
-### "PVPBPQ" (8)
+### "PVPBPQ"
 * (1) PV66136PBPQ - **BROWNS INVESTMENTS**
 * (2) PVPB13254PQ - **JETWING SYMPHONY**
 * (3) PV8330PBPQ - **LAUGFS GAS**
@@ -204,7 +234,7 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (7) PV70371PB/PQ - **SINGHE HOSPITALS**
 * (8) PV1536PBPQ - **SOFTLOGIC HOLDINGS**
 
-### "PQPB" (7)
+### "PQPB"
 * (1) PQ96PB - **ASIRI CENTRAL HOSPITALS**
 * (2) PQ15PB - **ASSOCIATED ELECTRICAL CORPORATION**
 * (3) PQ17PB - **ASSOCIATED PROPERTY DEVELOPMENT**
@@ -213,7 +243,7 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (6) PQ176PB - **KURUWITA TEXTILE MILLS**
 * (7) PQ220PB - **METROPOLITAN RESOURCE HOLDINGS**
 
-### "PVPQ" (6)
+### "PVPQ"
 * (1) PV10527PQ - **ADAM CAPITAL**
 * (2) PV78150PQ - **ADAM INVESTMENTS**
 * (3) PV1618PQ - **AGSTAR**
@@ -221,17 +251,17 @@ Scraped **51,914** Companies ([1.59MB](data/companies.tsv)) as of *2023-12-06 14
 * (5) PV7206PQ - **ODEL**
 * (6) PV1536PQ - **SOFT LOGIC HOLDINGS**
 
-### "PVS" (5)
+### "PVS"
 * (1) PVS1795 - **CINE-TECH**
 * (2) PVS8467 - **LAKMINI ENTERPRISES**
 * (3) PVS7888 - **RADIAN PRODUCTS**
 * (4) PVS7498 - **WINGS TRAVELS AND TOURS**
 * (5) PVS8227 - **WOODLANDS LANKA**
 
-### "PQPBPV" (2)
+### "PQPBPV"
 * (1) PQ98PBPV - **ACE POWER GENERATION MATARA**
 * (2) PQ16PB/PV - **ASSOCIATED MOTORWAYS**
 
-### "OC" (2)
+### "OC"
 * (1) OC108 - **CAMSO TRADING**
 * (2) OC102 - **POWER HUB INTERNATIONAL SDN PHD**
