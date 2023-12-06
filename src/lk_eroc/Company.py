@@ -91,3 +91,14 @@ class Company:
     @staticmethod
     def dedupe(company_list: list['Company']) -> list['Company']:
         return list(set(company_list))
+
+
+    @staticmethod
+    def group_by_type(company_list: list['Company']) -> dict[str, list['Company']]:
+        group_to_company_list = {}
+        for company in company_list:
+            group = company.registration_no_alphas
+            if group not in group_to_company_list:
+                group_to_company_list[group] = []
+            group_to_company_list[group].append(company)
+        return group_to_company_list
