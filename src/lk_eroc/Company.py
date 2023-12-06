@@ -1,3 +1,4 @@
+from functools import cached_property
 import json
 from dataclasses import dataclass
 
@@ -18,6 +19,16 @@ class Company:
 
     def to_dict(self) -> dict:
         return dict(name=self.name, registration_no=self.registration_no)
+
+    @cached_property
+    def registration_no_digits(self) -> str:
+        s = [c for c in self.registration_no if c.isdigit()]
+        return ''.join(s)
+    
+    @cached_property
+    def reigstration_no_alphas(self) -> str:
+        s = [c for c in self.registration_no if c.isalpha()]
+        return ''.join(s)
 
     def __lt__(self, other):
         return str(self) < str(other)
