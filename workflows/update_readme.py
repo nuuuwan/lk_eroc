@@ -1,8 +1,10 @@
+import os
+
 from utils import TIME_FORMAT_TIME, File, Log, Time, TSVFile
 
 from lk_eroc import Company, WordCloud
 from workflows.aggregate import ALL_PATH
-import os
+
 README_PATH = 'README.md'
 N_EXAMPLES_DISPLAY = 10
 
@@ -30,16 +32,21 @@ def summary_lines(company_list: list[Company]) -> list[str]:
         '',
     ]
 
+
 def latest_company_lines(company_list: list[Company]) -> list[str]:
     N_LATEST = 1_000
     sorted_by_latest = sorted(
-        company_list, key=lambda x: x.registration_no_digits_int,
+        company_list,
+        key=lambda x: x.registration_no_digits_int,
     )[-N_LATEST:]
-    lines = [
-        '',
-        f'## Latest {N_LATEST:,} Companies',
-        
-    ] + company_list_lines(sorted_by_latest, 'latest') + ['']
+    lines = (
+        [
+            '',
+            f'## Latest {N_LATEST:,} Companies',
+        ]
+        + company_list_lines(sorted_by_latest, 'latest')
+        + ['']
+    )
     return lines
 
 
@@ -56,7 +63,10 @@ def company_list_lines(company_list: list[Company], label: str) -> list[str]:
         lines.append(f'![{wc_path}]({wc_path})')
 
     for i in range(0, n_display):
-        j = int(i * (n_companies - 1) / (n_display - 1))
+        if n_display == 1:
+            j = 0
+        else:
+            j = int(i * (n_companies - 1) / (n_display - 1))
         company = company_list[j]
         lines.append(
             f'* ({j+1:,}) {company.registration_no} - **{company.name}**'

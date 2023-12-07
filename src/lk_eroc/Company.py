@@ -29,13 +29,14 @@ class Company:
     def registration_no_alphas(self) -> str:
         s = [c for c in self.registration_no if c.isalpha()]
         return ''.join(s)
-    
+
     @cached_property
     def registration_no_digits_int(self) -> int:
         try:
             return int(self.registration_no_digits)
-        except:
+        except BaseException:
             return 0
+
     def __lt__(self, other):
         return str(self) < str(other)
 
