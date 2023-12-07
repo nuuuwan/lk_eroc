@@ -28,7 +28,8 @@ def summary_lines(company_list: list[Company]) -> list[str]:
     file_size_m = file_size / 1_000_000
     time_str = TIME_FORMAT_TIME.stringify(Time.now())
     return [
-        f'Scraped **{n_companies:,}** Companies ([{file_size_m:.2f}MB]({ALL_PATH})) as of *{time_str}*.',
+        f'Scraped **{n_companies:,}** Companies '
+        + f'([{file_size_m:.2f}MB]({ALL_PATH})) as of *{time_str}*.',
         '',
     ]
 
