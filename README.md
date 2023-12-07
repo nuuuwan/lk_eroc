@@ -2,21 +2,21 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **66,158** Companies ([2.02MB](data/companies.tsv)) as of *2023-12-07 08:18:02*.
+Scraped **66,192** Companies ([2.02MB](data/companies.tsv)) as of *2023-12-07 09:00:28*.
 
 ## Selection of Companies
-*Sample of 10/66158*
+*Sample of 10/66192*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (7,351) PV88745 - **ARON PROPERTY INVESTMENTS**
-* (14,702) PV00272683 - **BRELANA GLOBAL**
-* (22,053) PV00263840 - **COCO LOVERS**
-* (29,404) PV00284658 - **FABRITEK ENGINEERING**
-* (36,754) PV121129 - **KAIZEN INTERNATIONAL LANKA**
-* (44,105) PV00251542 - **NEXT GEN CAPITAL INVESTMENTS**
-* (51,456) PV00249143 - **SABRAS RICE MILL**
-* (58,807) PV00225609 - **THAMASETHA**
-* (66,158) PV118576 - **ZZAPPIT**
+* (7,355) PV114823 - **ARONA MEDI**
+* (14,710) PV112458 - **BRESCIA LEISURE**
+* (22,064) PV00246495 - **COCO RICH BIO**
+* (29,419) PV00257696 - **FACADE ENGINEERING & CONSULTANCY**
+* (36,773) PV81757 - **KAN INTERNATIONAL**
+* (44,128) PV00257271 - **NEXT LEVEL EDUCATION**
+* (51,482) PB00218410 - **SADAHARITHA CAPITAL TRUST**
+* (58,837) PV66147 - **THAMARA INVESTMENTS**
+* (66,192) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -36,18 +36,18 @@ Scraped **66,158** Companies ([2.02MB](data/companies.tsv)) as of *2023-12-07 08
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/60979*
+*Sample of 10/61013*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (6,776) PV00270486 - **AROMA WOODN BAKE**
-* (13,551) PV89898 - **BRAVO HOLDINGS LANKA**
-* (20,327) PV76358 - **COCOWIDE LANKA**
-* (27,102) PV3245 - **FAR SHIPPING LANKA**
-* (33,877) PV83639 - **KANDY AUTO TRADE**
-* (40,653) PV00221156 - **NEXT LEVEL HOLDINGS**
-* (47,428) PV00263854 - **SABANA APARTMENTS**
-* (54,203) PV100355 - **TESTA CEYLON**
-* (60,979) PV118576 - **ZZAPPIT**
+* (6,780) PV93689 - **AROMATAQ GLOBAL**
+* (13,559) PV00267554 - **BRAVOFAMILY**
+* (20,338) PV00247410 - **CODE 94 LABS**
+* (27,117) PV00242241 - **FARBE TECHNOLOGIES**
+* (33,896) PV00243227 - **KANDY COSMETIC SURGERY**
+* (40,675) PV00247489 - **NEXT TRAVEL DESTINATION CEYLON**
+* (47,454) PV128685 - **SABER DIGITAL**
+* (54,233) PV00233809 - **TESSCO LIFE**
+* (61,013) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/1977*
