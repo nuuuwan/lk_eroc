@@ -2,28 +2,28 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **66,062** Companies ([2.02MB](data/companies.tsv)) as of *2023-12-07 08:07:40*.
+Scraped **66,158** Companies ([2.02MB](data/companies.tsv)) as of *2023-12-07 08:18:02*.
 
 ## Selection of Companies
-*Sample of 10/66062*
+*Sample of 10/66158*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (7,341) PV16121 - **AROMATIC LABORATORIES**
-* (14,681) PV00214789 - **BREC EDUCATION**
-* (22,021) PV92633 - **COCHLEAR**
-* (29,361) PV78174 - **FA GROUP**
-* (36,701) PV4460 - **KAIZEN PRODUCTIVITY**
-* (44,041) PV00243124 - **NEXT ELECTRIC**
-* (51,381) PV128685 - **SABER DIGITAL**
-* (58,721) PV00220797 - **THALHA**
-* (66,062) PV118576 - **ZZAPPIT**
+* (7,351) PV88745 - **ARON PROPERTY INVESTMENTS**
+* (14,702) PV00272683 - **BRELANA GLOBAL**
+* (22,053) PV00263840 - **COCO LOVERS**
+* (29,404) PV00284658 - **FABRITEK ENGINEERING**
+* (36,754) PV121129 - **KAIZEN INTERNATIONAL LANKA**
+* (44,105) PV00251542 - **NEXT GEN CAPITAL INVESTMENTS**
+* (51,456) PV00249143 - **SABRAS RICE MILL**
+* (58,807) PV00225609 - **THAMASETHA**
+* (66,158) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00287084 - **ROPA DISTRIBUTORS**
-* (112) PV00287368 - **LAKE  VIEW INK**
-* (223) PV00287675 - **ASIAN TRUST HOLDING**
+* (1) PV00287086 - **ASSISTILO**
+* (112) PV00287370 - **ECO VIEW VILLAS**
+* (223) PV00287676 - **SKY PASS TRAVELS**
 * (334) PV00287967 - **CONCIERGE CEYLON LANKA**
 * (445) PV00288246 - **DHANUJA HOLDINGS**
 * (556) PV00288550 - **CHINA DUTY FREE (LANKA)**
@@ -36,32 +36,32 @@ Scraped **66,062** Companies ([2.02MB](data/companies.tsv)) as of *2023-12-07 08
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/60887*
+*Sample of 10/60979*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (6,766) PV00246140 - **AROMA MIRACLE**
-* (13,531) PV00246978 - **BRATFA LANKA**
-* (20,296) PV00229545 - **COCONUT LIFE INTERNATIONAL**
-* (27,061) PV00237047 - **FAMILY GROCERS**
-* (33,826) PV00253829 - **KANDY CINEMA**
-* (40,591) PV68600 - **NEXT INSTITUTE OF MANAGEMENT**
-* (47,356) PV66722 - **SAAS FLIGHT TRAINING**
-* (54,121) PV108480 - **TESCO TRADING**
-* (60,887) PV118576 - **ZZAPPIT**
+* (6,776) PV00270486 - **AROMA WOODN BAKE**
+* (13,551) PV89898 - **BRAVO HOLDINGS LANKA**
+* (20,327) PV76358 - **COCOWIDE LANKA**
+* (27,102) PV3245 - **FAR SHIPPING LANKA**
+* (33,877) PV83639 - **KANDY AUTO TRADE**
+* (40,653) PV00221156 - **NEXT LEVEL HOLDINGS**
+* (47,428) PV00263854 - **SABANA APARTMENTS**
+* (54,203) PV100355 - **TESTA CEYLON**
+* (60,979) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/1974*
+*Sample of 10/1977*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (220)  - **ASCENT BUSINESS SOLUTIONS**
-* (439)  - **BUFORD INFOTECH**
-* (658)  - **CLOUD 9 WELLNESS CENTER**
-* (877)  - **EMINENT AUTO ELEGANCE**
-* (1,097)  - **JMF TRADERS**
-* (1,316)  - **NIBRO ELECTRONICS**
-* (1,535)  - **SALEEMA UMMA FOUNDATION**
-* (1,754)  - **THAPRO MENTOR HUB**
-* (1,974)  - **ZOVO ENTERPRISES**
+* (440)  - **BULLERS HOLDINGS**
+* (659)  - **CLOUD INNOVATIONS**
+* (879)  - **EMORE**
+* (1,098)  - **JMF TRADERS**
+* (1,318)  - **NICHI LAN TERA JAPAN**
+* (1,537)  - **SALEM TOURS & CONFERENCES**
+* (1,757)  - **THARANA DISTRIBUTORS**
+* (1,977)  - **ZOVO ENTERPRISES**
 
 ### "GA"
 *Sample of 10/1226*
@@ -106,18 +106,18 @@ Scraped **66,062** Companies ([2.02MB](data/companies.tsv)) as of *2023-12-07 08
 * (371) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
 
 ### "NF"
-*Sample of 10/263*
+*Sample of 10/264*
 ![data/word_clouds/word_cloud_NF.png](data/word_clouds/word_cloud_NF.png)
 * (1) NF137 - **AB FINLANKA**
 * (30) NF220 - **AOKI CORPORATION**
 * (59) NF315 - **CANADIAN COLLEGE OF BUSINESS COMPUTERS INC.**
 * (88) NF163 - **CLUB ASIA**
 * (117) NF41 - **EMIRATES**
-* (146) NF459 - **ITTAG HOLDIING**
-* (175) NF355 - **MAST INDUSTRIES INC**
-* (204) NF544 - **PRIME ENGINEERING ARCHITECTURE INC.**
-* (233) NF127 - **THE RESOURCE CLUB**
-* (263) NF711 - **ZTE CORPORATION**
+* (147) NF464 - **JARFALLA INTERNATIONAL AB**
+* (176) NF320 - **MATALAN DISCOUNT CLUB (CASH AND CARRY)**
+* (205) NF602 - **PRYM FASHION ASIA PACIFIC**
+* (234) NF219 - **THURICH COMPANY**
+* (264) NF711 - **ZTE CORPORATION**
 
 ### "FC"
 *Sample of 10/199*
