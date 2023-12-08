@@ -2,27 +2,27 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **92,578** Companies ([2.83MB](data/companies.tsv)) as of *2023-12-08 23:43:12*.
+Scraped **92,641** Companies ([2.83MB](data/companies.tsv)) as of *2023-12-09 00:01:55*.
 
 ## Selection of Companies
-*Sample of 10/92578*
+*Sample of 10/92641*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (10,287) PV00212005 - **AVON INTERNATIONAL HOLDINGS**
-* (20,573) PV00221577 - **CHEMSOL INTERNATIONAL**
-* (30,860) PV00248540 - **EP STORE**
-* (41,146) PV00208650 - **INFORLEAD**
-* (51,432) PV85800 - **MAARUTHI CONSULTANTS**
-* (61,719) PV86388 - **OSMO LANKA**
-* (72,005) PV8248 - **SENAKA CEMENT PRODUCTS**
-* (82,291) PV00210463 - **THE HEALING STUDIO**
-* (92,578) PV118576 - **ZZAPPIT**
+* (10,294) PB1589 - **AVONDIA INVESTMENTS**
+* (20,587) PV00243423 - **CHENARRO ENGINEERING**
+* (30,881) PV6268 - **EPOC RESEARCH LABORATORIES**
+* (41,174) PV13159 - **INFORMATION SCIENCE**
+* (51,467) GA00284545 - **MAATHRU FEDARATION**
+* (61,761) PV92079 - **OSMIUM**
+* (72,054) PV00274710 - **SENADEERA & SONS**
+* (82,347) PV00259735 - **THE HARVEST**
+* (92,641) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00287956 - **THAI CHARM**
-* (112) PV00288166 - **NI ACADEMY**
+* (1) PV00287960 - **DEV PRODUCTIONS**
+* (112) PV00288167 - **BLUE DEEP DIVING CENTER**
 * (223) PV00288370 - **ANGULUELA RUBBER PRODUCTS**
 * (334) PV00288593 - **CRYOMED ENGINEERING INTERNATIONAL**
 * (445) PV00288810 - **BERUWALA RENT A CAR**
@@ -36,32 +36,32 @@ Scraped **92,578** Companies ([2.83MB](data/companies.tsv)) as of *2023-12-08 23
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/85237*
+*Sample of 10/85299*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (9,471) PV20877 - **AVOCADIA CEYLON**
-* (18,942) PV11635 - **CHERII IMPEX**
-* (28,413) PV12869 - **EQUIPMENT MAINTENANCE AND SERVICE**
-* (37,883) PV117376 - **INFOINS TECH**
-* (47,354) PV00284065 - **MAAZ DESIGN**
-* (56,825) PV00272915 - **OSIS LANKA**
-* (66,295) PV18763 - **SELF EMPLOYMENT SERVICES**
-* (75,766) PV69052 - **THE GREAT LAKE HOLDINGS**
-* (85,237) PV118576 - **ZZAPPIT**
+* (9,478) PV113879 - **AVOGA TRAVELS**
+* (18,956) PV00254446 - **CHERRY ON THE TOP**
+* (28,433) PV00210490 - **ERA INTERNATIONAL HOLDINGS**
+* (37,911) PV129019 - **INFOPERCEPT CONSULTING LANKA**
+* (47,388) PV00249476 - **MAC HOLIDAYS**
+* (56,866) PV96051 - **OSILLO LANKA**
+* (66,343) PV00284278 - **SELENE D'ART**
+* (75,821) PV00263438 - **THE GRAND SPACE OF ART**
+* (85,299) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/2752*
+*Sample of 10/2753*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (306)  - **BAILEY'S 7**
 * (612)  - **CHABHI**
 * (918)  - **ELITE AUTO HOLDINGS**
-* (1,223)  - **INDU LANKA EDU NET**
+* (1,224)  - **INFINITE AERIAL SOLUTIONS**
 * (1,529)  - **MAHOGANY VILLA**
-* (1,835)  - **ORRIS SHIPPING SERVICES**
-* (2,140)  - **SERENDIB TOOLS & MACHINERIES**
-* (2,446)  - **THE GOOD NETWORK**
-* (2,752)  - **ZOVO ENTERPRISES**
+* (1,835)  - **ORION COLOMBO**
+* (2,141)  - **SERENDIB TOOLS & MACHINERIES**
+* (2,447)  - **THE GOOD NETWORK**
+* (2,753)  - **ZOVO ENTERPRISES**
 
 ### "GA"
 *Sample of 10/1792*
