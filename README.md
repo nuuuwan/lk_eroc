@@ -2,21 +2,21 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **83,783** Companies ([2.56MB](data/companies.tsv)) as of *2023-12-08 14:02:10*.
+Scraped **83,824** Companies ([2.56MB](data/companies.tsv)) as of *2023-12-08 14:13:02*.
 
 ## Selection of Companies
-*Sample of 10/83783*
+*Sample of 10/83824*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (9,310) PV00255131 - **ATSIGN TECHNOLOGIES**
-* (18,619) PV124360 - **CEYLON GOLDEN TOURS & TRAVELS**
-* (27,928) PV00217099 - **DMARK INTERNATIONAL**
-* (37,237) PV19900 - **HEMANTHE CONSTRUCTION**
-* (46,546) PV21582 - **LANKA LIME CEMENT**
-* (55,855) PV00224048 - **NOTCH TRADING**
-* (65,164) PV00244708 - **SAARA AGRO HOLDINGS**
-* (74,473) GA3376 - **TENDRIL FOUNDATION**
-* (83,783) PV118576 - **ZZAPPIT**
+* (9,314) PV00266727 - **ATTEIYAH RUBY GEM & JEWELLERY**
+* (18,628) PV00221502 - **CEYLON GOODNES FOODS**
+* (27,942) PV65603 - **DMAX CIVIL ENGINEERING**
+* (37,255) PV00218188 - **HEMAGO**
+* (46,569) PV64345 - **LANKA LAPTOP HOUSE**
+* (55,883) PV17735 - **NOSEEUM**
+* (65,196) PV123503 - **SAAN CHAIN HOTEL DEVELOPERS**
+* (74,510) PV00262671 - **TENDERMART HOLDINGS**
+* (83,824) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -36,32 +36,32 @@ Scraped **83,783** Companies ([2.56MB](data/companies.tsv)) as of *2023-12-08 14
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/77183*
+*Sample of 10/77223*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (8,576) PV00217048 - **ATTIRE DEFINITION**
-* (17,152) PV00254451 - **CEYLON GREEN EXPORTS**
-* (25,728) PV102469 - **DOLL HOUSE**
-* (34,304) PV95519 - **HEMTECH ENGINEERING**
-* (42,879) PV00226944 - **LANKA MATHA AGRO**
-* (51,455) PV00274168 - **NR INTERNATIONAL IMPORT AND EXPORT**
-* (60,031) PV93372 - **S SHUTANI**
-* (68,607) PV00260275 - **TECHSERW LABS**
-* (77,183) PV118576 - **ZZAPPIT**
+* (8,581) PV131775 - **ATTRACTIVE CEYLON**
+* (17,161) PV85135 - **CEYLON GREEN PRODUCE**
+* (25,741) PV94326 - **DOLLAR CAPITAL FIVE**
+* (34,321) PV00249915 - **HEMAX COMPUTERS**
+* (42,902) PV124371 - **LANKA MAHAL**
+* (51,482) PV64965 - **NOWTEL TELECOMMUNICATIONS**
+* (60,062) PV00230750 - **S COCO PRODUCTS**
+* (68,642) PV126845 - **TECHSA ENGINEERING**
+* (77,223) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/2492*
+*Sample of 10/2493*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (277)  - **AVANTEXA**
 * (554)  - **CEYLON ISLAND SPICES EXPORT**
 * (831)  - **DNA LEVESQUE VOYAGES**
 * (1,108)  - **HEALTHYWAYNET**
-* (1,384)  - **LAST SOLUTION TECHNOLOGY**
-* (1,661)  - **NS BUSINESS & CONSULTANCY SERVICES**
-* (1,938)  - **SALON EYE**
-* (2,215)  - **THALITHA HERBALS**
-* (2,492)  - **ZOVO ENTERPRISES**
+* (1,385)  - **LAUNCHLAB**
+* (1,662)  - **NS EVENTZEN**
+* (1,939)  - **SALON EYE**
+* (2,216)  - **THALITHA HERBALS**
+* (2,493)  - **ZOVO ENTERPRISES**
 
 ### "GA"
 *Sample of 10/1591*
