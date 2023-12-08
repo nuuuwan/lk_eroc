@@ -2,21 +2,21 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **87,854** Companies ([2.68MB](data/companies.tsv)) as of *2023-12-08 19:01:38*.
+Scraped **87,885** Companies ([2.69MB](data/companies.tsv)) as of *2023-12-08 19:12:26*.
 
 ## Selection of Companies
-*Sample of 10/87854*
+*Sample of 10/87885*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (9,762) PV125845 - **AUTO FAST LANKA**
-* (19,523) PV105368 - **CEYLON TRADE LINK**
-* (29,285) PV00206505 - **ECO MASTER LIGHT**
-* (39,046) PV00226549 - **HYDRO VENTURES**
-* (48,808)  - **LEXICON CONSTRUCTION**
-* (58,569) PV00256663 - **OQTIQ LABS**
-* (68,331)  - **SCHOLARSZ INSTITUTE OF HIGHER STUDIES**
-* (78,092) PV116255 - **THE BARN HOUSE STUDIO**
-* (87,854) PV118576 - **ZZAPPIT**
+* (9,765) PV104160 - **AUTO G.M.S.**
+* (19,530) PV120681 - **CEYLON TRAILS EXPERIENCE**
+* (29,295) PV00248517 - **ECO PACK INTERNATIONAL**
+* (39,060) PV78681 - **HYDROLANCANG**
+* (48,825) PV00262903 - **LEXICO ENTERPRICES**
+* (58,590) PV00259353 - **OPULENT TRAVELS**
+* (68,355) PV65674 - **SCHOLAR MANAGEMENT SERVICES**
+* (78,120) PV116255 - **THE BARN HOUSE STUDIO**
+* (87,885) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -36,32 +36,32 @@ Scraped **87,854** Companies ([2.68MB](data/companies.tsv)) as of *2023-12-08 19
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/80909*
+*Sample of 10/80938*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (8,990) PV125845 - **AUTO FAST LANKA**
-* (17,980) PV00225626 - **CEYLON UNIVITY COLLEGE OF ENGINEERING**
-* (26,970) PV00215464 - **ECO TECH AUTOMATION**
-* (35,960) PV00280864 - **HYDRO TEC TRADING**
-* (44,949) PV92850 - **LIANA HOMES**
-* (53,939) PV115052 - **OPSIN MEDICALS**
-* (62,929) PV60837 - **SAYURI INDUSTRIES**
-* (71,919) PV00210223 - **THE ADDRESS APARTMENT TEN**
-* (80,909) PV118576 - **ZZAPPIT**
+* (8,994) PV00206462 - **AUTO GALLERY INTERNATIONAL**
+* (17,987) PV00287590 - **CEYLON VALUE ADDITION**
+* (26,980) PV00206843 - **ECO TOUCH**
+* (35,973) PV73955 - **HYDRODYNAMICS AND GEOPHYSICAL SURVEY**
+* (44,966) PV00230761 - **LIAMS RESTAURANTS**
+* (53,959) PV00263955 - **OPSEL LANKA**
+* (62,952) PV118619 - **SAYURA TRANSPORT & CONSTRUCTION**
+* (71,945) PV00210223 - **THE ADDRESS APARTMENT TEN**
+* (80,938) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/2611*
+*Sample of 10/2613*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (291)  - **AYANNA T V**
 * (581)  - **CEYLON SNACKS**
 * (871)  - **EARTH SHINE JANITORIAL  SERVICES**
 * (1,161)  - **HOSPINORM PROJECTS LANKA**
-* (1,451)  - **LOIT RAYAN HOLDINGS**
-* (1,741)  - **OPEN SPACE TOURISM**
-* (2,031)  - **SEGAINTECH**
-* (2,321)  - **THE BUN CLUB**
-* (2,611)  - **ZOVO ENTERPRISES**
+* (1,452)  - **LOIT RAYAN HOLDINGS**
+* (1,742)  - **OPEN FUTURE LANKA**
+* (2,032)  - **SECUREFENSE**
+* (2,322)  - **THE BRIGHTER GEMS**
+* (2,613)  - **ZOVO ENTERPRISES**
 
 ### "GA"
 *Sample of 10/1713*
