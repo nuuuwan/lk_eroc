@@ -2,21 +2,21 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **95,485** Companies ([2.92MB](data/companies.tsv)) as of *2023-12-09 04:42:39*.
+Scraped **95,516** Companies ([2.92MB](data/companies.tsv)) as of *2023-12-09 05:00:01*.
 
 ## Selection of Companies
-*Sample of 10/95485*
+*Sample of 10/95516*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (10,610) PV9571 - **AYL VENTURES**
-* (21,219) PV130980 - **CINNAMON FIELD AHANGAMA**
-* (31,829) PV00216190 - **EVEN BEACH RESORT**
-* (42,438) PV00214971 - **INWILL INTERNATIONAL**
-* (53,047) PV99738 - **MAHARU HOLDINGS**
-* (63,657) PV75207 - **PALMYRAH HOUSE**
-* (74,266) PV92421 - **SENERU INFORMATION TECHNOLOGIES**
-* (84,875) PV00254883 - **THE GOOD AGENCY**
-* (95,485) PV118576 - **ZZAPPIT**
+* (10,613) PV112946 - **AYMA INTERNATIONAL**
+* (21,226) PV93890 - **CINNAMON HOUSE**
+* (31,839) PV12204 - **EVENT CONCEPT**
+* (42,452) PV72439 - **IPHONIK**
+* (53,064) PV12856 - **MAHAVELI AGRO TRADING**
+* (63,677) PV00288985 - **PALMYRA INNOVATIONS**
+* (74,290) PV00208666 - **SENERI LANKA**
+* (84,903) PV00254883 - **THE GOOD AGENCY**
+* (95,516) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -36,18 +36,18 @@ Scraped **95,485** Companies ([2.92MB](data/companies.tsv)) as of *2023-12-09 04
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/87935*
+*Sample of 10/87966*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (9,771) PV00281332 - **AYDHA TRAVELS**
-* (19,541) PV15537 - **CIRCLE 5 WORLDWIDE**
-* (29,312) PV00249003 - **EVENTS BEYOND**
-* (39,082) PV114279 - **INVOKE**
-* (48,853) PV00284981 - **MAHAWEWA PLANTATION**
-* (58,623) PV121624 - **PALM PROPERTIES**
-* (68,394) PV118138 - **SENADHI ENTERPRISES**
-* (78,164) PV116212 - **THE GALLE PRESS**
-* (87,935) PV118576 - **ZZAPPIT**
+* (9,774) PV00257186 - **AYEKA CEYLON**
+* (19,548) PV00249084 - **CIRCLELINE SOLAR**
+* (29,322) PV105588 - **EVER ANGLES**
+* (39,096) PV00217676 - **INWIN MARKETING**
+* (48,870) PV00200273 - **MAHEEN TEA**
+* (58,644) PV22348 - **PALM PEACE CABANAS**
+* (68,418) PV00223142 - **SENADHEERA TRADING SERVICES**
+* (78,192) PV116212 - **THE GALLE PRESS**
+* (87,966) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/2841*
