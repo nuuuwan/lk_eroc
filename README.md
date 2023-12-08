@@ -2,27 +2,27 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **95,256** Companies ([2.91MB](data/companies.tsv)) as of *2023-12-09 04:00:28*.
+Scraped **95,310** Companies ([2.91MB](data/companies.tsv)) as of *2023-12-09 04:12:30*.
 
 ## Selection of Companies
-*Sample of 10/95256*
+*Sample of 10/95310*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (10,584) PV00265997 - **AYDI ACCESS**
-* (21,168) PV00240477 - **CINE MEDIA PRODUCTIONS**
-* (31,752) GA00218719 - **EVENT MANAGEMENT ASSOCIATION**
-* (42,336) PV77260 - **IPOWER SOLUIONS**
-* (52,920) PV00249707 - **MAHAWATHTHA INDUSTRIES**
-* (63,504)  - **PAPER PRODUCTS**
-* (74,088) PV103030 - **SENIDU TRANSPORT & PLASTIC RECYCLING**
-* (84,672) PV12142 - **THE GOODWILL**
-* (95,256) PV118576 - **ZZAPPIT**
+* (10,590) PV00217785 - **AYENDRA & CO.**
+* (21,180) PV21850 - **CINELI POWER GRID**
+* (31,770) PV00253138 - **EVENTRA**
+* (42,360) PV00241922 - **IRANAMA.LK**
+* (52,950) PV00284981 - **MAHAWEWA PLANTATION**
+* (63,540) PV00211895 - **PAPER WORLD STATIONERY**
+* (74,130) PV00233707 - **SENIK INTERNATIONAL**
+* (84,720) PV00210046 - **THE GRAND BOLGODA RESORT**
+* (95,310) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00288010 - **ARTESIA**
-* (112) PV00288212 - **EALOP**
+* (1) PV00288014 - **STONEHAVEN PROJECTS**
+* (112) PV00288217 - **HARITHA LANKA WAYAMBA PLANTATION**
 * (223) PV00288408 - **NORTH AND SOUTH HOLDINGS**
 * (334) PV00288624 - **ARAMBEWELA INVESTMENTS**
 * (445) PV00288841 - **KARAVAI CARE CENTRE**
@@ -36,21 +36,21 @@ Scraped **95,256** Companies ([2.91MB](data/companies.tsv)) as of *2023-12-09 04
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/87715*
+*Sample of 10/87767*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (9,747) PV70730 - **AYANA INTERNATIONAL**
-* (19,493) PV129967 - **CINNAMON ROYAL CLOTHING**
-* (29,239) PV00257158 - **EVER GO LANKA**
-* (38,985) PV00257885 - **IPLAY.LK**
-* (48,731) PV99887 - **MAHESH AQUA HOLDINGS**
-* (58,477) PV121948 - **PAPER BAG**
-* (68,223) PV00281436 - **SENANI BY OAK - RAY**
-* (77,969) PV77557 - **THE GENERAL FINANCE COMPANY**
-* (87,715) PV118576 - **ZZAPPIT**
+* (9,752) PV00267960 - **AYANI GEMS**
+* (19,504) PV00268537 - **CINNAMRO SPICES**
+* (29,256) PV2211 - **EVER PAINT AND CHEMICAL INDUSTRIES**
+* (39,008) PV67566 - **IRAHANDA MANGALA SEWAYA**
+* (48,759) PV121628 - **MAHESWARI ENERGY CEYLON**
+* (58,511) PV19782 - **PAPER MAN**
+* (68,263) PV00220000 - **SENANI FOOD PRODUCTS**
+* (78,015) PV00201655 - **THE GLAMOUR BEAUTY HUB**
+* (87,767) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/2836*
+*Sample of 10/2837*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (316)  - **BANGKOK.LK**
@@ -61,7 +61,7 @@ Scraped **95,256** Companies ([2.91MB](data/companies.tsv)) as of *2023-12-09 04
 * (1,891)  - **PALM BAY DEVS**
 * (2,206)  - **SERVICE NEXTGEN**
 * (2,521)  - **THE GARAGE**
-* (2,836)  - **ZOVO ENTERPRISES**
+* (2,837)  - **ZOVO ENTERPRISES**
 
 ### "GA"
 *Sample of 10/1823*
@@ -120,18 +120,18 @@ Scraped **95,256** Companies ([2.91MB](data/companies.tsv)) as of *2023-12-09 04
 * (371) NF711 - **ZTE CORPORATION**
 
 ### "FC"
-*Sample of 10/277*
+*Sample of 10/278*
 ![data/word_clouds/word_cloud_FC.png](data/word_clouds/word_cloud_FC.png)
 * (1) FC00251549 - **AA JAPAN (PVT) LTD**
 * (31) FC1398 - **ASSICIATED POWER STRUCTURES PRIVATE**
 * (62) FC1113 - **CHINA NATIONAL AERO - TECHNOLOGY IMPORT AND EXPORT CORPORATION**
 * (93) FC1006 - **DONGYAN IND CO**
-* (123) FC1012 - **HEWLETT - PACKARD AP (HON KONG)**
+* (124) FC1144 - **HUNAN CONSTRUCTION ENGINEERING GROUP CO., LTD**
 * (154) FC1199 - **LIABILITY COMPANY "FACTOR"**
-* (185) FC1100 - **NOR LANKA MANUFACTURING**
-* (215) FC1393 - **ROYAL EIJKELKAMP B.V.**
-* (246) FC1141 - **TIDE WATER MARINE INTERNATIONAL INC**
-* (277) FC1065 - **ZIBO GUANGZHENG ALKALI ALUMINIUM CHEMICAL INDUSTRY CO.,**
+* (185) FC00224082 - **NOR GROUP AS**
+* (216) FC1393 - **ROYAL EIJKELKAMP B.V.**
+* (247) FC1141 - **TIDE WATER MARINE INTERNATIONAL INC**
+* (278) FC1065 - **ZIBO GUANGZHENG ALKALI ALUMINIUM CHEMICAL INDUSTRY CO.,**
 
 ### "F"
 *Sample of 10/166*
