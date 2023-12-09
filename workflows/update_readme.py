@@ -4,6 +4,7 @@ from utils import TIME_FORMAT_TIME, File, Log, Time, TSVFile
 
 from lk_eroc import Company, WordCloud
 from workflows.aggregate import ALL_PATH
+from workflows.scrape import get_file_path, get_search_text_list
 
 README_PATH = 'README.md'
 N_EXAMPLES_DISPLAY = 10
@@ -30,6 +31,25 @@ def summary_lines(company_list: list[Company]) -> list[str]:
     return [
         f'Scraped **{n_companies:,}** Companies '
         + f'([{file_size_m:.2f}MB]({ALL_PATH})) as of *{time_str}*.',
+        '',
+    ]
+
+
+def scrape_progress_lines():
+    search_text_list = get_search_text_list()
+    n_all = len(search_text_list)
+    n_scraped = 0
+    for search_text in search_text_list:
+        file_path = get_file_path(search_text)
+        if os.path.exists(file_path):
+            n_scraped += 1
+
+    n_p_all = 10
+    n_p = int(n_scraped * n_p_all / n_all)
+    progress_graphic = '✅' * n_p + '⬜' * (n_p_all - n_p)
+
+    return [
+        f'Scraping Progress: {n_scraped:,}/{n_all:,} {progress_graphic}',
         '',
     ]
 
@@ -109,7 +129,7 @@ def main():
     company_list = [Company(**d) for d in TSVFile(ALL_PATH).read()]
 
     lines.extend(summary_lines(company_list))
-
+    lines.extend(scrape_progress_lines())
     lines.extend(example_company_lines(company_list))
 
     lines.extend(latest_company_lines(company_list))
