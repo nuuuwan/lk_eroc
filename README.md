@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **107,430** Companies ([3.28MB](data/companies.tsv)) as of *2023-12-09 20:12:24*.
+Scraped **107,461** Companies ([3.28MB](data/companies.tsv)) as of *2023-12-09 20:27:17*.
 
-*Scraping Progress: 43,466/52,728*
+*Scraping Progress: 43,579/52,728*
 ✅✅✅✅✅✅✅✅⬜⬜
 
 ## Selection of Companies
-*Sample of 10/107430*
+*Sample of 10/107461*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (11,937)  - **BELARUSSIAN CENTER OF EDUCATION**
-* (23,874) PV70072 - **COSMIC CONSTRUCTION**
-* (35,810) PV00261018 - **G THREE SIXTY**
-* (47,747) PV00229152 - **JESIS HOLDINGS**
-* (59,683) PV90362 - **METRO LANDS & DEVELOPERS**
-* (71,620) PV16939 - **PIRAYGA IMPORT AND EXPORT COMPANY**
-* (83,556) PV66775 - **SETLOGIC ASSOCIATES**
-* (95,493) PV115539 - **THE HAMMOCK LANKA**
-* (107,430) PV118576 - **ZZAPPIT**
+* (11,941) PV10514 - **BELCEY**
+* (23,881) PV106383 - **COSMIC PHARMA**
+* (35,821) PV00276184 - **G TV CREATIVE HUB**
+* (47,761) PV123787 - **JEROMWIN DAIRY FARM**
+* (59,701) PV00241393 - **METRO EXPRESS COLOMBO**
+* (71,641) PV00227343 - **PIQUE - NIQUE SUMMER ESSENTIALS**
+* (83,581) PV115034 - **SETHWAY DIAGNOSTICS & HOSPITALS**
+* (95,521) PV00202255 - **THE HALLMARK BANQUET  & CONVENTION HALL**
+* (107,461) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **107,430** Companies ([3.28MB](data/companies.tsv)) as of *2023-12-09 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/99055*
+*Sample of 10/99084*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (11,007) PV00204930 - **BEL SHINE JANITORIAL COMPANY**
-* (22,013) PV8232 - **COURTAULDS CLOTHING VEYANGODA**
-* (33,019) PV84407 - **GABLES MANOR**
-* (44,025) PV00258082 - **JET SEA LOGISTICS**
-* (55,031) PV79627 - **MEVI ENTERPRISES**
-* (66,037) PV93226 - **PIX ECOM**
-* (77,043) PV16260 - **SERV-BEST**
-* (88,049) PV00208925 - **THE GOURMET COFFEE CO.**
-* (99,055) PV118576 - **ZZAPPIT**
+* (11,010) PV79294 - **BELA**
+* (22,019) PV5641 - **COURTS ORGANISATION IMPORTS**
+* (33,028) PV84407 - **GABLES MANOR**
+* (44,037) PV00284319 - **JET EXPRESS SHIPPING & LOGISTICS**
+* (55,047) PV100577 - **METZ HOLDINGS**
+* (66,056) PV00278487 - **PIUMI GEM EXPORTERS**
+* (77,065) PV00226361 - **SERONIYA**
+* (88,074) PV00235475 - **THE GOODS MART**
+* (99,084) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3184*
+*Sample of 10/3185*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (354)  - **BICYCLE GEDARA**
 * (708)  - **CONSTRAGEN**
 * (1,062)  - **G TECH ENGINEERING**
-* (1,415)  - **JDOFF LANKA**
-* (1,769)  - **MIHIN  INTERNATIONAL SERVICES**
-* (2,123)  - **PEONIA GROUP**
-* (2,476)  - **SHARIFF CLOTHING**
-* (2,830)  - **THE KIP**
-* (3,184)  - **ZOVO ENTERPRISES**
+* (1,416)  - **JDOFF LANKA**
+* (1,769)  - **MIHILIYA GROUP**
+* (2,123)  - **PEO PAINT CENTRE**
+* (2,477)  - **SHARIFF CLOTHING**
+* (2,831)  - **THE KIP**
+* (3,185)  - **ZOVO ENTERPRISES**
 
 ### "GA"
 *Sample of 10/1994*
@@ -81,18 +81,18 @@ Scraped **107,430** Companies ([3.28MB](data/companies.tsv)) as of *2023-12-09 2
 * (1,994) GA470 - **ZONTA CLUB II OF COLOMBO**
 
 ### "PB"
-*Sample of 10/1273*
+*Sample of 10/1274*
 ![data/word_clouds/word_cloud_PB.png](data/word_clouds/word_cloud_PB.png)
 * (1) PB5111 - **A ONE TOP TRADING**
 * (142) PB4912 - **BIYAGAMA SANASA S SHARAHOLDERS TRUST COMPANY**
 * (283) PB869 - **CEYLON TOURS**
 * (425) PB169 - **F AND G REAL ESTATE COMPANY**
-* (566) PB5415 - **IDEA CORPORATION**
-* (707) PB1508 - **LAUGFS HOLDINGS**
-* (849) PB4720 - **ORIENT INSURANCE**
-* (990) PB299 - **SANSUN BOUTIQUE HOTELS**
-* (1,131) PB5127 - **TAPROOT**
-* (1,273) PB4828 - **ZIPP INTERNATIONAL (LANKA)**
+* (566) PB3908 - **ICRA LANKA**
+* (708) PB1508 - **LAUGFS HOLDINGS**
+* (849) PB1050 - **ORIENT HOTELS**
+* (991) PB299 - **SANSUN BOUTIQUE HOTELS**
+* (1,132) PB5127 - **TAPROOT**
+* (1,274) PB4828 - **ZIPP INTERNATIONAL (LANKA)**
 
 ### "GL"
 *Sample of 10/629*
