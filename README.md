@@ -2,36 +2,36 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **107,746** Companies ([3.29MB](data/companies.tsv)) as of *2023-12-09 20:59:46*.
+Scraped **107,778** Companies ([3.29MB](data/companies.tsv)) as of *2023-12-09 21:12:31*.
 
-*Scraping Progress: 43,791/52,728*
+*Scraping Progress: 43,903/52,728*
 ✅✅✅✅✅✅✅✅⬜⬜
 
 ## Selection of Companies
-*Sample of 10/107746*
+*Sample of 10/107778*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (11,972) PV111770 - **BELIZZI INTERNATIONAL TRADING**
-* (23,944) PV74482 - **COSMOVEDA CEYLON**
-* (35,916) PV128067 - **G TEL INTERNATIONAL AUTO PARTS**
-* (47,887) PV00264216 - **JENYS**
-* (59,859) PV00266744 - **METHUSHEL SEAFOOD**
-* (71,831) PV00288403 - **PIRAINILA MEDIA NETWORK**
-* (83,802) PV91510 - **SETMIL HOLDINGS**
-* (95,774) PV00224059 - **THE HELA RASA BRANDS TRADING**
-* (107,746) PV118576 - **ZZAPPIT**
+* (11,976) PV00260273 - **BELL FARM**
+* (23,951) PV120115 - **COSS LANKA SKILLS COLLEGE**
+* (35,926) PV81005 - **GAB GROUP**
+* (47,901) PV123787 - **JEROMWIN DAIRY FARM**
+* (59,877) PV110281 - **METHULI BOOK SHOP**
+* (71,852) PV00249544 - **PIQUANCY LABS**
+* (83,827) PV91510 - **SETMIL HOLDINGS**
+* (95,802) PV00252518 - **THE HENA-DAILY NEEDS**
+* (107,778) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00288264 - **LCL PLANTATION**
-* (112) PV00288430 - **JAYANTHA'S GATEWAY**
-* (223) PV00288618 - **TERICK'S SEA GARDEN**
-* (334) PV00288800 - **FASHION MOBILE PLAZA**
-* (445) PV00288974 - **JAYA NIPPON**
-* (556) PV00289156 - **TS UNION COMPANY**
-* (667) PV00289356 - **ENDIGA HOLDINGS**
-* (778) PV00289546 - **RATHNA PACKAGING**
+* (1) PV00288266 - **VEGILAND EXPORT LANKA**
+* (112) PV00288433 - **LUXURY MINERALS**
+* (223) PV00288619 - **LANA TECHNOLOGY**
+* (334) PV00288802 - **COCO FIX**
+* (445) PV00288975 - **SANJAYA WINDSCREEN**
+* (556) PV00289160 - **AARA ENTERPRISES**
+* (667) PV00289357 - **JAYASRI A ONE**
+* (778) PV00289548 - **APPLE REPAIR STATION**
 * (889) PV00289740 - **JUNAID MOTORS & SPARES PARTS**
 * (1,000) PV00290130 - **RAVISHWAY INTERNATIONAL**
 
@@ -39,32 +39,32 @@ Scraped **107,746** Companies ([3.29MB](data/companies.tsv)) as of *2023-12-09 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/99347*
+*Sample of 10/99377*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (11,039) PV00271040 - **BELIEVE IT AUSTRALIA**
-* (22,077) PV129738 - **CRAFT BRANDS**
-* (33,116) PV00210669 - **GABADAWA ANYTHING**
-* (44,154) PV00209948 - **JET CEYLON HOLIDAYS**
-* (55,193) PV15933 - **METRO VOYAGE**
-* (66,231) PV00278487 - **PIUMI GEM EXPORTERS**
-* (77,270) PV92923 - **SERVICE EXCELLENCE**
-* (88,308) PV00269656 - **THE GREAT MASTERS**
-* (99,347) PV118576 - **ZZAPPIT**
+* (11,042) PV94455 - **BELIGALA POWER**
+* (22,084) PV00280498 - **CRAFT TUNNEL**
+* (33,126) PV125229 - **GABRIEL TECH**
+* (44,168) PV00262179 - **JET EXPRESS TRADING**
+* (55,209) PV00282213 - **METRO TIMBER**
+* (66,251) PV00265411 - **PITTALA MEDIA**
+* (77,293) PV00278474 - **SERVICE CONNECT**
+* (88,335) PV00222639 - **THE GREATNESS GALLERY**
+* (99,377) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3192*
+*Sample of 10/3193*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (355)  - **BIG  DREAM  ENGINEERING  AND  CONSTRUCTION**
 * (710)  - **CONSULTX BUSINESS SOLUTIONS**
-* (1,064)  - **G TECH ENGINEERING**
+* (1,065)  - **GADGET NEST**
 * (1,419)  - **JDOFF LANKA**
-* (1,773)  - **MIHIKATHA**
-* (2,128)  - **PEO PAINT CENTRE**
-* (2,482)  - **SHANTHI TILES & BATHWARE**
-* (2,837)  - **THE JAFFNA POST**
-* (3,192)  - **ZOVO ENTERPRISES**
+* (1,774)  - **MIHILIYA GROUP**
+* (2,129)  - **PEONIA GROUP**
+* (2,483)  - **SHAPING THE FUTURE MOVEMENT**
+* (2,838)  - **THE JAFFNA POST**
+* (3,193)  - **ZOVO ENTERPRISES**
 
 ### "GA"
 *Sample of 10/1997*
@@ -109,7 +109,7 @@ Scraped **107,746** Companies ([3.29MB](data/companies.tsv)) as of *2023-12-09 2
 * (631) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
 
 ### "NF"
-*Sample of 10/415*
+*Sample of 10/416*
 ![data/word_clouds/word_cloud_NF.png](data/word_clouds/word_cloud_NF.png)
 * (1) NF137 - **AB FINLANKA**
 * (47) NF476 - **BETONMAST ENERGIE AS**
@@ -117,10 +117,10 @@ Scraped **107,746** Companies ([3.29MB](data/companies.tsv)) as of *2023-12-09 2
 * (139) NF389 - **GAPES INDUSTRIES**
 * (185) NF570 - **JOHNSONDIVERSEY INDIA PRIVATE**
 * (231) NF320 - **MATALAN DISCOUNT CLUB (CASH AND CARRY)**
-* (277) NF64 - **PATRILACK FUNDS**
-* (323) NF192 - **SOLIDEAL**
-* (369) NF144 - **TOYOTA TSUSHO CORPORATION**
-* (415) NF711 - **ZTE CORPORATION**
+* (277) NF302 - **PAKLAND CEMENT**
+* (323) NF10 - **SLIPCON (S) (PRIVATE) LIMIITED**
+* (369) NF76 - **TOYO MENKA KAISHA**
+* (416) NF711 - **ZTE CORPORATION**
 
 ### "FC"
 *Sample of 10/314*
