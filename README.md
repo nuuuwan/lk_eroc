@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **113,490** Companies ([3.47MB](data/companies.tsv)) as of *2023-12-10 03:27:19*.
+Scraped **113,509** Companies ([3.47MB](data/companies.tsv)) as of *2023-12-10 03:42:58*.
 
-*Scraping Progress: 46,317/52,728*
+*Scraping Progress: 46,426/52,728*
 ✅✅✅✅✅✅✅✅⬜⬜
 
 ## Selection of Companies
-*Sample of 10/113490*
+*Sample of 10/113509*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (12,610) PV00271075 - **BEYOND RECRUITMENT**
-* (25,220) PV00248649 - **DABA TECHNOLOGIES**
-* (37,830) PV00289702 - **GLAN VENTURES**
-* (50,440) PV76758 - **K RAHEJA KAIZEN**
-* (63,050) PV00260533 - **MIHITH CEYLON**
-* (75,660) PV76243 - **POKUNUWITA SEAT CENTRE**
-* (88,270) PV98839 - **SERENITY WATERSIDE VILLAS**
-* (100,880) PV00263806 - **THE FOODCYCLE**
-* (113,490) PV118576 - **ZZAPPIT**
+* (12,613) PV00252205 - **BEYOND STAR**
+* (25,225) PV91881 - **DABUR CONSUMER CARE**
+* (37,837) PV00233037 - **GLASCO MARKETING**
+* (50,449) PV00229359 - **K SQUARE LANKA**
+* (63,061) PV00215565 - **MIK AND PARTNERS**
+* (75,673) PV84643 - **POL RUPPAWA MOTEL**
+* (88,285) PV00225765 - **SERENTIVES**
+* (100,897) PV00283200 - **THE FORESTA RESORT**
+* (113,509) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **113,490** Companies ([3.47MB](data/companies.tsv)) as of *2023-12-10 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/104591*
+*Sample of 10/104609*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (11,622) PV86528 - **BEYOND DENT DENTAL LABORATORY**
-* (23,243) PV00265603 - **DAILY APPS**
-* (34,864) PV00277350 - **GLAMOURTH**
-* (46,485) PV98403 - **KADUWELA HOLDINGS**
-* (58,106) PV126473 - **MILDAN IMPORTS & EXPORTS**
-* (69,727) PV00287561 - **POLWATTA ECO POWER**
-* (81,348) PV131738 - **SERENDIB SOAPS**
-* (92,969) PV141 - **THE EYE EMPORIUM**
-* (104,591) PV118576 - **ZZAPPIT**
+* (11,624) PV00214182 - **BEYOND DIGITAL**
+* (23,247) PV00224699 - **DAILY FRANCE**
+* (34,870) PV00275784 - **GLANCE THE LUXURY BEAUTY STORE**
+* (46,493) PV00233263 - **KAEL  ENGINEERING**
+* (58,116) PV131077 - **MILEPOST PROPERTY HOLDINGS**
+* (69,739) PV10672 - **POLY CHEM LANKA**
+* (81,362) PV00234580 - **SERENDIB SPICE TRADING**
+* (92,985) PV00228262 - **THE FACTORY HUB**
+* (104,609) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3333*
+*Sample of 10/3334*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (371)  - **BIZTYLE**
 * (741)  - **CROWN CORPORATE CAMPUS**
-* (1,111)  - **GERIES**
-* (1,481)  - **JFC FOR YOU**
+* (1,112)  - **GERMAN LANKA IMPORT & EXPORT**
+* (1,482)  - **JG SAFETY CONSULTANTS**
 * (1,852)  - **MIQTHADH ENTERPRISES**
-* (2,222)  - **PERFECT  I T  SOLUTIONS**
-* (2,592)  - **SHALANKA DOT COM**
-* (2,962)  - **THE ISLANDS BREEZE**
-* (3,333)  - **ZOVO ENTERPRISES**
+* (2,223)  - **PERFECT BEAT EVENTS**
+* (2,593)  - **SHALANKA DOT COM**
+* (2,963)  - **THE ISLANDS BREEZE**
+* (3,334)  - **ZOVO ENTERPRISES**
 
 ### "GA"
 *Sample of 10/2142*
