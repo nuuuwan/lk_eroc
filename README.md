@@ -2,26 +2,26 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **100,404** Companies ([3.07MB](data/companies.tsv)) as of *2023-12-09 11:00:53*.
+Scraped **100,470** Companies ([3.07MB](data/companies.tsv)) as of *2023-12-09 11:12:20*.
 
 ## Selection of Companies
-*Sample of 10/100404*
+*Sample of 10/100470*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (11,156) PV86311 - **BALASHAKTHI PROVIDERS**
-* (22,312) PV130042 - **CODELANTIC**
-* (33,468) PV100625 - **FERNILL TRADING**
-* (44,624) PV117028 - **JANITHA HYDRAULIC INTERNATIONAL**
-* (55,780) PV00245098 - **MECHTECH SOLUTIONS**
-* (66,936) PV00205981 - **PERKK MIGRATION**
-* (78,092) PV00207047 - **SENOGA INVESTMENT**
-* (89,248) PV127392 - **THE DESIGN DEVELOPMENT CORPORATION**
-* (100,404) PV118576 - **ZZAPPIT**
+* (11,164) PV00247138 - **BALAWARDANA ENGINEERING**
+* (22,327) PV00216563 - **CODERAT CONCEPT**
+* (33,490) PV13668 - **FERRO KITCHENS**
+* (44,653) PV125516 - **JANSEN'S BUNGALOW**
+* (55,817) PV00237403 - **MEDARK HEALTH CARE**
+* (66,980) PV122491 - **PERSIAN GROUP OF COMPANY**
+* (78,143) PV00251619 - **SENMAK POLYMERS**
+* (89,306) PV00228669 - **THE DELI CLUB**
+* (100,470) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00288119 - **KELLY CLOTHING**
+* (1) PV00288122 - **MASWAY TRAVELS**
 * (112) PV00288301 - **KING CASTLE**
 * (223) PV00288492 - **ARCHON CONSTRUCTION**
 * (334) PV00288701 - **REMOTE PRO VIRTUAL ASSISTANT**
@@ -36,32 +36,32 @@ Scraped **100,404** Companies ([3.07MB](data/companies.tsv)) as of *2023-12-09 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/92544*
+*Sample of 10/92609*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (10,283) PV2327 - **BAKRI INTERNATIONAL ENERGY M D LANKA**
-* (20,566) PV108526 - **COINCORP**
-* (30,848) PV83873 - **FERNSIM INTERNATIONAL**
-* (41,131) PV99783 - **JANVIL HOLDINGS**
-* (51,413) PV91557 - **MEDHA SAFETY MASTERS S L**
-* (61,696) PV00223541 - **PERSIAN ENTERPRISES**
-* (71,978) PV72576 - **SENEKMO LANKA**
-* (82,261) PV00257074 - **THE COLOUR HOUSE**
-* (92,544) PV118576 - **ZZAPPIT**
+* (10,290) PV102763 - **BALA WINE STORES**
+* (20,580) PV00274134 - **COIR WORLD**
+* (30,870) PV00254392 - **FERROZONE**
+* (41,160) PV6133 - **JAPAN HONG KONG LANKA INTERNATIONAL COMPANY**
+* (51,449) PV13405 - **MEDI TEXTILE**
+* (61,739) PV00277524 - **PET CARE SOLUTIONS HOLDINGS**
+* (72,029) PV99217 - **SENDIV HOLDINGS**
+* (82,319) PV113758 - **THE COLOMBO ICE COMPANY**
+* (92,609) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/2967*
+*Sample of 10/2968*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (330)  - **BEELIX**
 * (660)  - **CLOUD 9 WELLNESS CENTER**
-* (989)  - **FASHION RANGE**
+* (990)  - **FELLA**
 * (1,319)  - **JAPAN LANKA AUTO WAYS**
-* (1,648)  - **METHMINA DISTRIBUTORS**
-* (1,978)  - **PEKO HILLS**
-* (2,307)  - **SERENDIB MEDIA NETWORK**
-* (2,637)  - **THE CHOICE OF THE NATION**
-* (2,967)  - **ZOVO ENTERPRISES**
+* (1,649)  - **METHRA**
+* (1,979)  - **PEKOE**
+* (2,308)  - **SERENDIB MEDIA NETWORK**
+* (2,638)  - **THE CHOICE OF THE NATION**
+* (2,968)  - **ZOVO ENTERPRISES**
 
 ### "GA"
 *Sample of 10/1891*
