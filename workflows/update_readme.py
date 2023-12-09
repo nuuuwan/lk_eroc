@@ -49,7 +49,8 @@ def scrape_progress_lines():
     progress_graphic = '✅' * n_p + '⬜' * (n_p_all - n_p)
 
     return [
-        f'Scraping Progress: {n_scraped:,}/{n_all:,} {progress_graphic}',
+        f'*Scraping Progress: {n_scraped:,}/{n_all:,}*',
+        f'{progress_graphic}',
         '',
     ]
 
