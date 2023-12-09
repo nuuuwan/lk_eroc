@@ -14,6 +14,8 @@ SPACE_REPLACE = '_' * 2
 RESERVED_WORD_SUFFIX = '_'
 ALPHA = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 MAX_SCRAPE_TIME = SECONDS_IN.MINUTE * 10
+ILLEGAL_FILE_PREFIXES = ['AUX', 'CON', 'PRN', 'NUL']
+
 
 log = Log('scraper')
 
@@ -34,7 +36,7 @@ def get_search_text_list() -> list[str]:
 
 def get_file_prefix(search_text: str) -> str:
     file_prefix = search_text.replace(SPACE, SPACE_REPLACE)
-    if file_prefix in ['AUX', 'CON', 'PRN']:
+    if file_prefix in ILLEGAL_FILE_PREFIXES:
         return file_prefix + RESERVED_WORD_SUFFIX
     return file_prefix
 
