@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **103,132** Companies ([3.15MB](data/companies.tsv)) as of *2023-12-09 15:27:04*.
+Scraped **103,147** Companies ([3.15MB](data/companies.tsv)) as of *2023-12-09 15:43:04*.
 
-*Scraping Progress: 41,640/52,728*
+*Scraping Progress: 41,758/52,728*
 ✅✅✅✅✅✅✅⬜⬜⬜
 
 ## Selection of Companies
-*Sample of 10/103132*
+*Sample of 10/103147*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (11,460) PV8751 - **BARTLEET & COMPANY**
-* (22,919) PV00251017 - **COLONIAL CONSULTANCY**
-* (34,378) PV11602 - **FLOWER DRUM RESTURANT**
-* (45,837) PV00236032 - **JEA'S FUEL STATION**
-* (57,296) PV00289394 - **METRO CHOICE**
-* (68,755) PV00231584 - **PIXELPRINT LANKA**
-* (80,214) PV00209709 - **SERENDIB SPICE EXPORTERS**
-* (91,673) PV131837 - **THE KINGS GATE**
-* (103,132) PV118576 - **ZZAPPIT**
+* (11,461) PV7214 - **BARTLEET AGENCIES**
+* (22,922) PV8443 - **COLONIAL ENGINEERING**
+* (34,383) PV11602 - **FLOWER DRUM RESTURANT**
+* (45,843) PV00236032 - **JEA'S FUEL STATION**
+* (57,304) PV21708 - **METRO COLLEGE INTERNATIOAL**
+* (68,765) PV00285107 - **PIXELLK**
+* (80,225) PV122778 - **SERENDIB SOSHAN**
+* (91,686) GA00269679 - **THE KINGDOM OF RIGHTEOUSNESS**
+* (103,147) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **103,132** Companies ([3.15MB](data/companies.tsv)) as of *2023-12-09 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/95057*
+*Sample of 10/95071*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (10,562) PV1055 - **BARNES INVESTMENTS**
-* (21,124) PV124633 - **COMFORT DESIGN**
-* (31,686) PV64974 - **FLOWER DREAM HOLDING**
-* (42,248) PV00200828 - **JEEVA PROPERTY RENTALS**
-* (52,809) PV122643 - **METROLEAP**
-* (63,371) PV87270 - **PLUMBAGO LANKA**
-* (73,933) PV78531 - **SERENDIB ALLOYS**
-* (84,495) PV00202561 - **THE K-9 GROUP**
-* (95,057) PV118576 - **ZZAPPIT**
+* (10,564) PV62373 - **BARNINDU ENGINEERING SERVICES**
+* (21,127) PV8316 - **COMFORT INTERIORS**
+* (31,691) PV64974 - **FLOWER DREAM HOLDING**
+* (42,254) PV00200828 - **JEEVA PROPERTY RENTALS**
+* (52,817) PV00273681 - **METROMALL INTERNATIONAL**
+* (63,381) PV00242561 - **PLUM .LK**
+* (73,944) PV84747 - **SERENDIB AGRO PRODUCTS**
+* (84,507) PV00222673 - **THE JUNGLE HOUSE ARUGAMBAY**
+* (95,071) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/3047*
@@ -81,18 +81,18 @@ Scraped **103,132** Companies ([3.15MB](data/companies.tsv)) as of *2023-12-09 1
 * (1,933) GA470 - **ZONTA CLUB II OF COLOMBO**
 
 ### "PB"
-*Sample of 10/1229*
+*Sample of 10/1230*
 ![data/word_clouds/word_cloud_PB.png](data/word_clouds/word_cloud_PB.png)
 * (1) PB5111 - **A ONE TOP TRADING**
 * (137) PB18 - **BHUWALKA STEEL INDUSTRIES (SRI LANKA)**
-* (273) PB00265395 - **CEYLON RANGIRI AGRO PRODUCTS**
+* (274) PB5062 - **CEYLON RIYAL AVIATIO**
 * (410) PB102 - **ENTRUST**
-* (546) PB00219837 - **I ROOF LANKA**
+* (547) PB4887 - **IBBAGAMUWA SANASA SHARE HOLDERS TRUST COMPANY**
 * (683) PB491 - **LAUGFS LEISURE**
-* (819) PB4720 - **ORIENT INSURANCE**
+* (820) PB117 - **ORIENT MOTOR COMPANY**
 * (956) PB1037 - **SANOFI LANKA**
-* (1,092) PB4 - **TEA SMALLHOLDINGS FACTORIES**
-* (1,229) PB4828 - **ZIPP INTERNATIONAL (LANKA)**
+* (1,093) PB5011 - **THAMBAPANNI AGRO**
+* (1,230) PB4828 - **ZIPP INTERNATIONAL (LANKA)**
 
 ### "GL"
 *Sample of 10/603*
