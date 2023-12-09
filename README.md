@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **114,556** Companies ([3.50MB](data/companies.tsv)) as of *2023-12-10 05:12:25*.
+Scraped **114,592** Companies ([3.50MB](data/companies.tsv)) as of *2023-12-10 05:27:18*.
 
-*Scraping Progress: 47,028/52,728*
+*Scraping Progress: 47,135/52,728*
 ✅✅✅✅✅✅✅✅⬜⬜
 
 ## Selection of Companies
-*Sample of 10/114556*
+*Sample of 10/114592*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (12,729) PV65567 - **BHUVAN BUSINESS PROFESSIONALS**
-* (25,457)  - **DAMAI EMAS ELLA**
-* (38,186) PV00207662 - **GLADE SKYLARK**
-* (50,914) PV00229079 - **KADEWATTA CONSTRUCTION GROUP**
-* (63,642) PV00201437 - **MIGHTY CORPORATE HOLDINGS**
-* (76,371) PV00225513 - **PLOVF.LK**
-* (89,099) PV95758 - **SERENDIVE ENERGY**
-* (101,827) PV00284673 - **THE FUN ISLAND**
-* (114,556) PV118576 - **ZZAPPIT**
+* (12,733) PV6394 - **BIACA**
+* (25,465) PV16845 - **DAMAYANTHI EXPORTS**
+* (38,198) PV76890 - **GLAM HOLDINGS**
+* (50,930) PV00204682 - **KADIYA SOLUTIONS**
+* (63,662) PV102048 - **MIGARA MOTORS**
+* (76,395) PV126495 - **PLOUTUS HOLDINGS LANKA**
+* (89,127) PV98380 - **SERENDIVA BEACH**
+* (101,859) PV85981 - **THE FURNITURE STORE**
+* (114,592) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **114,556** Companies ([3.50MB](data/companies.tsv)) as of *2023-12-10 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/105581*
+*Sample of 10/105614*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (11,732) PV8813 - **BHELCOM LANKA**
-* (23,463) PV00270641 - **DANDELION INTERNATIONAL**
-* (35,194) PV00280458 - **GKS KARAI**
-* (46,925) PV00276466 - **KAIKO'S**
-* (58,656) PV10170 - **MIHIRI PAINT AND AUTO CARE**
-* (70,387) PV00275432 - **PML PRINTING AND PACKAGING**
-* (82,118) PV00271554 - **SERENDIB LANKA**
-* (93,849) PV00285434 - **THE FILM FORCE**
-* (105,581) PV118576 - **ZZAPPIT**
+* (11,735) PV120797 - **BHIP GLOBAL**
+* (23,470) PV00248023 - **DANDY SALON**
+* (35,205) PV00266495 - **GLADIUS TRAVELS AND TOURS**
+* (46,940) PV00253374 - **KAIRA HOMES AND CONSTRUCTION**
+* (58,674) PV90131 - **MIHIRI IMPORTS & EXPORTS**
+* (70,409) PV00279239 - **PM LANKA MANAGEMENT**
+* (82,144) PV00271554 - **SERENDIB LANKA**
+* (93,879) PV12149 - **THE FINTEC GROUP**
+* (105,614) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/3369*
@@ -109,18 +109,18 @@ Scraped **114,556** Companies ([3.50MB](data/companies.tsv)) as of *2023-12-10 0
 * (679) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
 
 ### "NF"
-*Sample of 10/465*
+*Sample of 10/468*
 ![data/word_clouds/word_cloud_NF.png](data/word_clouds/word_cloud_NF.png)
 * (1) NF137 - **AB FINLANKA**
 * (52) NF421 - **BOVIS MCLACHIAN (PRIVAT)**
 * (104) NF280 - **CROWNMEL**
-* (155) NF699 - **GOLDER ASSOCIATES**
-* (207) NF513 - **KELLWOOD TRADING**
-* (258) NF463 - **MATSUSHITA AVIONICS SYSTEMS CORPORATION**
-* (310) NF542 - **PACIFIC CONSULTANTS INTERNATIONAL**
-* (361) NF93 - **SILVER GRAND SOURCING**
-* (413) NF150 - **TORRENT EXPORTS**
-* (465) NF711 - **ZTE CORPORATION**
+* (156) NF488 - **GOOD HARVEST TEXTILES**
+* (208) NF513 - **KELLWOOD TRADING**
+* (260) NF135 - **MAY DEPARTMENT STORES INTERNATIONAL INC.**
+* (312) NF303 - **PACIFIC RESOUSRCES EXPORT**
+* (364) NF93 - **SILVER GRAND SOURCING**
+* (416) NF150 - **TORRENT EXPORTS**
+* (468) NF711 - **ZTE CORPORATION**
 
 ### "FC"
 *Sample of 10/334*
