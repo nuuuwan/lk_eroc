@@ -2,21 +2,21 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **100,908** Companies ([3.08MB](data/companies.tsv)) as of *2023-12-09 12:12:30*.
+Scraped **100,966** Companies ([3.08MB](data/companies.tsv)) as of *2023-12-09 12:27:24*.
 
 ## Selection of Companies
-*Sample of 10/100908*
+*Sample of 10/100966*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (11,212) PV76596 - **BAM GREEN**
-* (22,424) PV62172 - **COIR FIRST LANKA**
-* (33,636)  - **FILMEX**
-* (44,848) PV66084 - **JARDINE ROCHE**
-* (56,060) PV107149 - **MEDIA MIND**
-* (67,272) PV00235052 - **PERSHING FOODS**
-* (78,484) PV00254090 - **SENKADAGALA SUWA ARANA**
-* (89,696) PV00271743 - **THE DUBAI STORE**
-* (100,908) PV118576 - **ZZAPPIT**
+* (11,219) PV75577 - **BAM LANKA**
+* (22,437) PV00271585 - **COKO PLANTATION**
+* (33,656) PV00200295 - **FIN WAY LANKA**
+* (44,874) PV00230912 - **JARON PROPERTY**
+* (56,092) PV00220851 - **MEDIA TECK LANKA**
+* (67,311) PV98835 - **PERSYSTANCE NETWORKS**
+* (78,529) PV00207048 - **SENNYA RESORTS**
+* (89,747) PV101471 - **THE ELIZABETH HOTEL**
+* (100,966) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -36,32 +36,32 @@ Scraped **100,908** Companies ([3.08MB](data/companies.tsv)) as of *2023-12-09 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/93022*
+*Sample of 10/93076*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (10,336) PV107930 - **BALLERINE**
-* (20,672) PV96912 - **COLOMBO ACCOUNTING SOLUITONS**
-* (31,008) PV00282510 - **FIMATEC**
-* (41,343) PV104400 - **JASMINE GARDEN**
-* (51,679) PV00229762 - **MEDICHEM LANKA**
-* (62,015) PV1239 - **PESUMALS**
-* (72,350) PV1804 - **SENATO GARMENTS**
-* (82,686) PV125576 - **THE COWORKING COMPANY**
-* (93,022) PV118576 - **ZZAPPIT**
+* (10,342) PV84828 - **BALMOND S L**
+* (20,684) PV00242746 - **COLOMBO ARBITRATION CENTRE**
+* (31,026) PV00261158 - **FINAL TOUCH GEMS**
+* (41,367) PV125731 - **JASON A BRIGGS HOLDINGS AND INVESTMENTS**
+* (51,709) PV00250259 - **MEDICOURT INTERNATIONAL**
+* (62,051) PV81023 - **PET MEDICARE ANIMAL HOSPITAL**
+* (72,392) PV00235489 - **SENEK EDUCATION**
+* (82,734) PV105239 - **THE DAZZLES JEWELLERS**
+* (93,076) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/2980*
+*Sample of 10/2982*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (332)  - **BEIRUT LEB 82**
 * (663)  - **CMAK LK**
 * (994)  - **FESTAR**
-* (1,325)  - **JATHEESAN**
-* (1,656)  - **METHMINA DISTRIBUTORS**
-* (1,987)  - **PEGASUS INITIATIVE**
-* (2,318)  - **SERANDIB AGRO**
-* (2,649)  - **THE CHOICE OF THE NATION**
-* (2,980)  - **ZOVO ENTERPRISES**
+* (1,325)  - **JAPAN LANKA AUTO WAYS**
+* (1,657)  - **METAMORPHIFY**
+* (1,988)  - **PCGAME.LK**
+* (2,319)  - **SERA DIGI**
+* (2,650)  - **THE CHILD VOICE INTERNATIONAL**
+* (2,982)  - **ZOVO ENTERPRISES**
 
 ### "GA"
 *Sample of 10/1896*
@@ -106,18 +106,18 @@ Scraped **100,908** Companies ([3.08MB](data/companies.tsv)) as of *2023-12-09 1
 * (589) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
 
 ### "NF"
-*Sample of 10/390*
+*Sample of 10/392*
 ![data/word_clouds/word_cloud_NF.png](data/word_clouds/word_cloud_NF.png)
 * (1) NF137 - **AB FINLANKA**
 * (44) NF90 - **BEEBA`S CREATIONS**
 * (87) NF566 - **CITY ANG GUILDS(SOUTH ASIA) PRIVATE)**
-* (130) NF616 - **FLOORPLANS (LONDON)**
-* (173) NF226 - **JOHN STUART BENETT MANUFACTURING**
-* (217) NF355 - **MAST INDUSTRIES INC**
-* (260) NF365 - **OMRON ASIA PACIFIC**
-* (303) NF93 - **SILVER GRAND SOURCING**
-* (346) NF28 - **TOYO MEMKA KAISHA**
-* (390) NF711 - **ZTE CORPORATION**
+* (131) NF417 - **FORBES MARSHALL**
+* (174) NF226 - **JOHN STUART BENETT MANUFACTURING**
+* (218) NF355 - **MAST INDUSTRIES INC**
+* (261) NF365 - **OMRON ASIA PACIFIC**
+* (305) NF691 - **SIMPLEX INFRASTRUCTURE**
+* (348) NF76 - **TOYO MENKA KAISHA**
+* (392) NF711 - **ZTE CORPORATION**
 
 ### "FC"
 *Sample of 10/295*
