@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **119,530** Companies ([3.66MB](data/companies.tsv)) as of *2023-12-10 12:42:43*.
+Scraped **119,555** Companies ([3.66MB](data/companies.tsv)) as of *2023-12-10 12:58:40*.
 
-*Scraping Progress: 49,386/52,728*
+*Scraping Progress: 49,491/52,728*
 ✅✅✅✅✅✅✅✅✅⬜
 
 ## Selection of Companies
-*Sample of 10/119530*
+*Sample of 10/119555*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (13,282) PV00231290 - **BIVOLAN LANKA**
-* (26,563) PV109554 - **DEKLO**
-* (39,844) PV7521 - **GLOBE HOUSE MEDICAL LABORATORIES**
-* (53,125) PV16627 - **KALUTOTA HOTELS**
-* (66,406) PV00253693 - **MILGRA FILMS**
-* (79,687) PV00220351 - **POMBO DELIVERS**
-* (92,968) PV112454 - **SEWINLAK PINNACLE HOLDINGS**
-* (106,249) PV00282541 - **THE OCEAN PEARL RESORTS**
-* (119,530) PV118576 - **ZZAPPIT**
+* (13,284) PV00256681 - **BIVON PROPERTY MANAGEMENT**
+* (26,568) PV00251207 - **DEKOR LANKA**
+* (39,852) PV115169 - **GLOBE MARKETING AND DISTRIBUTIONS**
+* (53,136) PV21720 - **KALUTOTA PROPERTIES**
+* (66,419) PV00276125 - **MILHAN'S MART**
+* (79,703) PB5442 - **POLYTEX PROPERTIES & INVESTMENTS**
+* (92,987) PV112454 - **SEWINLAK PINNACLE HOLDINGS**
+* (106,271) PV83399 - **THE OLD LADY**
+* (119,555) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **119,530** Companies ([3.66MB](data/companies.tsv)) as of *2023-12-10 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/110221*
+*Sample of 10/110244*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,247) PV120356 - **BITMAX LANKA**
-* (24,494) PV00245213 - **DELMON DIRECT**
-* (36,741) PV19118 - **GLOBE INVESTMENTS**
-* (48,987) PV87106 - **KAMUKO RESTAURANTS**
-* (61,234) PV00238265 - **MILLENNIUM REAL ESTATE**
-* (73,481) PV00253797 - **PORT CITY DUTY FREE**
-* (85,727) PV17252 - **SEVEN SEAS COMPUTERS LANKA**
-* (97,974) PV108571 - **THE ONE HOLIDAYS**
-* (110,221) PV118576 - **ZZAPPIT**
+* (12,250) PV16886 - **BITS AND BYTES**
+* (24,499) PV00263187 - **DELMON HOSPITALITY**
+* (36,748) PV00254951 - **GLOBE MEDICAL INVESTMENTS**
+* (48,997) PV79251 - **KAN VENTURES**
+* (61,247) PV18594 - **MILLENNIUM TEAS CEYLON**
+* (73,496) PV98119 - **PORT CARGO SERVICES CEYLON**
+* (85,745) PV111721 - **SEVEN SEAS ENTERPRISES LANKA**
+* (97,994) PV120013 - **THE ONE PINK LOTUS**
+* (110,244) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3513*
+*Sample of 10/3514*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (391)  - **BLUE LOTUS WELLNESS**
 * (781)  - **DAYAWANSHA & SONS ENGINEERING**
-* (1,171)  - **GLOBAL GEM PARTNERS**
-* (1,561)  - **JORDENE**
-* (1,952)  - **MIRACLE OF CEYLON**
-* (2,342)  - **PHOEBUS ENERGY**
-* (2,732)  - **SHAVEEN DISTRIBUTORS**
-* (3,122)  - **THE MOOT COURT BENCH**
-* (3,513)  - **ZOVO ENTERPRISES**
+* (1,172)  - **GLOBAL HEALTHCARE RECRUITMENT**
+* (1,562)  - **JOSEPH FOUNDATION**
+* (1,952)  - **MIRACLE GANESHA HEALING CENTER**
+* (2,343)  - **PHOEBUS ENERGY**
+* (2,733)  - **SHAVEEN DISTRIBUTORS**
+* (3,123)  - **THE MOOT COURT BENCH**
+* (3,514)  - **ZOVO ENTERPRISES**
 
 ### "GA"
 *Sample of 10/2209*
@@ -300,6 +300,9 @@ Scraped **119,530** Companies ([3.66MB](data/companies.tsv)) as of *2023-12-10 1
 ### "PBPVPB"
 * (1) PB553PV/PB - **INTERNATIONAL CONSUMER BRANDS**
 * (2) PBPVPB138 - **MCLARENS SHIPPING**
+
+### "NFA"
+* (1) NF160A - **CO ECHO ENTERPRISES**
 
 ### "GAGL"
 * (1) GA683GL - **LANKA PRISON FELLOWSHIP**
