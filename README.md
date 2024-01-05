@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,541** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 05:00:09*.
+Scraped **127,542** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 05:12:20*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127541*
+*Sample of 10/127542*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,172) GL39 - **BOAT BUILDING TECHNOLOGY IMPROVEMENT INSTITUTE LANKA**
 * (28,343) PV18116 - **DILSHAN TRAVELS**
 * (42,514) PV00246113 - **GOOFOO ANALYTICS**
-* (56,685) PV00279832 - **KEEPUP ELEVATORS**
-* (70,856) PV98942 - **MOON & SUN ADVERTISING**
-* (85,027) PV00268731 - **PRINTOPACK**
-* (99,198) PV119296 - **SEVENS INVESTMENT AND PROPERTIES**
-* (113,369) PV00219555 - **THE ONE FLOWER**
-* (127,541) PV118576 - **ZZAPPIT**
+* (56,685) PV69196 - **KEEP ON TRACK ENGINEERING SERVICE SUPPLIES**
+* (70,857) PV98942 - **MOON & SUN ADVERTISING**
+* (85,028) PV00268731 - **PRINTOPACK**
+* (99,199) PV119296 - **SEVENS INVESTMENT AND PROPERTIES**
+* (113,370) PB00215769 - **THE ONE APPARELS CORPORATION**
+* (127,542) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **127,541** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 0
 * (116,426) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3761*
+*Sample of 10/3762*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (418)  - **BOSS FURNITURE**
 * (836)  - **DILSHAN ALU FAB**
 * (1,254)  - **GOLD CEYLON AGRO**
-* (1,672)  - **KAMAR & SONS HOLDINGS**
-* (2,089)  - **MOON CRESCENT**
-* (2,507)  - **PLATINUM TRADING SOLUTIONS**
-* (2,925)  - **SHIMMER & SPARKLES**
-* (3,343)  - **THE KOREAN HOUSE COMPANY**
-* (3,761)  - **ZOVO ENTERPRISES**
+* (1,672)  - **KAMA AV**
+* (2,090)  - **MOON CRESCENT**
+* (2,508)  - **PLATINUM TRADING SOLUTIONS**
+* (2,926)  - **SHIMMER & SPARKLES**
+* (3,344)  - **THE KIP**
+* (3,762)  - **ZOVO ENTERPRISES**
 
 ### "PB"
 *Sample of 10/2759*
