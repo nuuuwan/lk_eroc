@@ -2,32 +2,32 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,481** Companies ([3.94MB](data/companies.tsv)) as of *2024-01-06 02:01:06*.
+Scraped **127,483** Companies ([3.94MB](data/companies.tsv)) as of *2024-01-06 02:12:25*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127481*
+*Sample of 10/127483*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,165) PV91808 - **BOAZ TRADING**
-* (28,329) PV60947 - **DILU ASSOCIATES**
-* (42,494) PV20158 - **GOPSONS LANKA**
-* (56,658) PV00200203 - **KEERTHIRATHNA HOLDINGS**
-* (70,823) PV114830 - **MOON LIGHT ENTERTAINMENT**
-* (84,987) PV00228414 - **PRINTSTART INTERNATIONAL**
-* (99,152) PV61893 - **SEVENSTAR CONSULTANCY**
-* (113,316) PV91158 - **THE ONE PROPERTY MANAGEMENT & CONSTRUCTION**
-* (127,481) PV118576 - **ZZAPPIT**
+* (28,330) PV00256585 - **DILU ENGINEERING**
+* (42,495) PV20158 - **GOPSONS LANKA**
+* (56,659) PV00254452 - **KEERTHIHA MALL**
+* (70,824) PV70962 - **MOON LIGHT BEEDI COMPANY**
+* (84,989) PV00228414 - **PRINTSTART INTERNATIONAL**
+* (99,153) PV00205843 - **SEVENSIGNS**
+* (113,318) PV120013 - **THE ONE PINK LOTUS**
+* (127,483) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00288757 - **ICIEOS**
-* (112) PV00288913 - **CEYLON NATURAL COMMODITIES**
-* (223) PV00289058 - **PION CREDIT & INVESTMENTS**
-* (334) PV00289218 - **WELL WORN**
+* (1) PV00288758 - **GLOBEWEBZ**
+* (112) PV00288915 - **AJITH SERVICES CENTRE AND ENTERPRISES**
+* (223) PV00289059 - **SHAMRA MOTORS**
+* (334) PV00289219 - **NPR EXPORT**
 * (445) GA00289390 - **PLUSONE FOUNDATION**
 * (556) PCC00289542 - **AMANA TAKAFUL LIFE PLC.**
 * (667) PV00289694 - **THANIKA INTERNATIONAL**
@@ -39,32 +39,32 @@ Scraped **127,481** Companies ([3.94MB](data/companies.tsv)) as of *2024-01-06 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116380*
+*Sample of 10/116382*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,932) PV00273149 - **BLUE STONE GEMS & JEWELLERY**
 * (25,863) PV4503 - **DIL FILMS (INTERNATIONAL)**
-* (38,794) PV00286675 - **GOLDEN CREATION**
-* (51,725) PV00201623 - **KAPRUKA PRODUCTIONS**
-* (64,656) PV00281087 - **MIZUHO BIOTEC**
-* (77,587) PV11012 - **PRECISION LAPIDARIES**
-* (90,518) PV00260185 - **SGNA CIVILIZATION**
-* (103,449) PV00283721 - **THE RUSSIAN SCHOOL OF BALLET & DANCING**
-* (116,380) PV118576 - **ZZAPPIT**
+* (38,794) PV00269255 - **GOLDEN CORRIDORS EDU VISA SERVICES**
+* (51,725) PV74594 - **KAPRUKA LANKA**
+* (64,657) PV00281087 - **MIZUHO BIOTEC**
+* (77,588) PV11012 - **PRECISION LAPIDARIES**
+* (90,519) PV00260185 - **SGNA CIVILIZATION**
+* (103,450) PV00211411 - **THE RUSH HAIR**
+* (116,382) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3750*
+*Sample of 10/3751*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (417)  - **BORALESSA GROUP OF COMPANY**
 * (834)  - **DIGITION**
-* (1,250)  - **GO ROCKS**
-* (1,667)  - **KAMA AV**
-* (2,083)  - **MONOMART**
-* (2,500)  - **PLEX TECHNOLOGY**
-* (2,916)  - **SHIKISEN**
-* (3,333)  - **THE MLA PARTNERS**
-* (3,750)  - **ZOVO ENTERPRISES**
+* (1,251)  - **GO VIRAL**
+* (1,667)  - **KALUAGGALA SUPER MART**
+* (2,084)  - **MONOMART**
+* (2,501)  - **PLEX TECHNOLOGY**
+* (2,917)  - **SHIKISEN**
+* (3,334)  - **THE MLA PARTNERS**
+* (3,751)  - **ZOVO ENTERPRISES**
 
 ### "PB"
 *Sample of 10/2755*
@@ -81,7 +81,7 @@ Scraped **127,481** Companies ([3.94MB](data/companies.tsv)) as of *2024-01-06 0
 * (2,755) PB118 - **ZYREX POWER COMPANY**
 
 ### "GA"
-*Sample of 10/2324*
+*Sample of 10/2323*
 ![data/word_clouds/word_cloud_GA.png](data/word_clouds/word_cloud_GA.png)
 * (1) GA00213478 - **A QUINT ONDAATJE FOUNDATION**
 * (259) GA00265273 - **BODHI SPIRITUAL GARDEN FOUNDATION**
@@ -91,8 +91,8 @@ Scraped **127,481** Companies ([3.94MB](data/companies.tsv)) as of *2024-01-06 0
 * (1,291) GA3295 - **MORACARE CHARITY**
 * (1,549) GA601 - **PROFESSIONAL ASSOCIATION OF YOUTH AFFAIRS LANKA**
 * (1,807) GA327 - **SOCIAL ECONOMICAL AND ENVIRONMENTAL DEVELOPERS**
-* (2,065) GA385 - **THE INSTITURE OF PUBLIC FINANCE AND DEVELOPMENT ACCOUNTANCY**
-* (2,324) GA470 - **ZONTA CLUB II OF COLOMBO**
+* (2,065) GA155 - **THE INSTITUTE FOR THE DEVELOPMENT OF COMMERCIAL LAW AND PRACTICE**
+* (2,323) GA470 - **ZONTA CLUB II OF COLOMBO**
 
 ### "GL"
 *Sample of 10/728*
