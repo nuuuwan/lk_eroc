@@ -49,10 +49,10 @@ def get_file_path(search_text: str) -> str:
     return os.path.join(dir_path, file_prefix + '.tsv')
 
 
-def scrape_for_search_text(search_text: str, eroc_token: str) -> bool:
+def scrape_for_search_text(search_text: str, eroc_token: str, force_scrape: bool) -> bool:
     file_path = get_file_path(search_text)
 
-    if os.path.exists(file_path):
+    if not force_scrape and os.path.exists(file_path):
         log.warning(f"☑️ {file_path} exists. Skipping.")
         return False
 
@@ -69,7 +69,7 @@ def scrape(eroc_token: str):
     time_start = time.time()
     search_text_list = get_search_text_list()
     for search_text in search_text_list:
-        if scrape_for_search_text(search_text, eroc_token):
+        if scrape_for_search_text(search_text, eroc_token, force_scrape=True):
             n_completed += 1
             delta_time = time.time() - time_start
             log.debug(
