@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,462** Companies ([3.94MB](data/companies.tsv)) as of *2024-01-05 19:27:29*.
+Scraped **127,461** Companies ([3.94MB](data/companies.tsv)) as of *2024-01-05 19:43:00*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127462*
+*Sample of 10/127461*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,163) PV860 - **BOC PROPERTY DEVELOPMENT AND MANAGEMENT**
 * (28,325) PV00277704 - **DILUSHA AUTO PARTS**
-* (42,488) PV76808 - **GOSHEN ENGINEEIRNG**
-* (56,650) PV89663 - **KEGALU MOTOR STORES**
-* (70,812) PV00276515 - **MOONRISE HOLIDAYS**
-* (84,975) PV00268731 - **PRINTOPACK**
-* (99,137) PV10540 - **SEVENTH HEAVEN  [N(PVS) 38561]**
-* (113,299) PV00241281 - **THE ONE AGRO FEEDS**
-* (127,462) PV118576 - **ZZAPPIT**
+* (42,487) PV71766 - **GOSHEN B.P.O.**
+* (56,649) PV00252637 - **KEGALU DRIVING SCHOOL**
+* (70,812) PV92475 - **MOONRISE UNIVERSE**
+* (84,974) PV00268731 - **PRINTOPACK**
+* (99,136) PV10540 - **SEVENTH HEAVEN  [N(PVS) 38561]**
+* (113,298) PV00241281 - **THE ONE AGRO FEEDS**
+* (127,461) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **127,462** Companies ([3.94MB](data/companies.tsv)) as of *2024-01-05 1
 * (116,358) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3739*
+*Sample of 10/3738*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (416)  - **BOSATH VISHMAKARMA FOUNDATION**
 * (831)  - **DIGIPAL**
-* (1,247)  - **GLORIOUS EVENT ORGANISERS**
-* (1,662)  - **KADOL SANDS RESORT AND SPA**
-* (2,077)  - **MOKSHA AYURVEDA HEALTHCARE**
-* (2,493)  - **POOJYA MURUTHTHETTUWE ANANDA NA HIMI SARASAVI SISUSAVI ARAMUDALA**
-* (2,908)  - **SHOEMATE**
-* (3,323)  - **THE PRINCESS SEWING**
-* (3,739)  - **ZOVO ENTERPRISES**
+* (1,246)  - **GLOMA INTERNATIONAL**
+* (1,661)  - **KAARIGAI BRIDAL & ACADEMY**
+* (2,077)  - **MONAK LANKA**
+* (2,492)  - **POOJYA MURUTHTHETTUWE ANANDA NA HIMI SARASAVI SISUSAVI ARAMUDALA**
+* (2,907)  - **SHOEMATE**
+* (3,322)  - **THE PRINCESS SEWING**
+* (3,738)  - **ZOVO ENTERPRISES**
 
 ### "PB"
 *Sample of 10/2760*
