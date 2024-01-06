@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,849** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 22:15:00*.
+Scraped **127,850** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 22:27:17*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127849*
+*Sample of 10/127850*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,206) PV131054 - **BOBBY MANUFACTURERS**
 * (28,411) PV79742 - **DILUSHA AUTO TRADERS**
 * (42,617) PV00244136 - **GOSSIP LANKA NEWS**
 * (56,822) PV00276940 - **KEENKOL TECHNOLOGIES**
-* (71,027) PV00275495 - **MOO HOLDINGS**
-* (85,233) PV00211417 - **PRINTAVEX**
-* (99,438) PV98203 - **SEVEN TURTLES INVESTMENTS**
-* (113,643) PV00286565 - **THE PALLET CRAFT & STEEL FABRICATION**
-* (127,849) PV118576 - **ZZAPPIT**
+* (71,028) PV00275495 - **MOO HOLDINGS**
+* (85,233) PV00207463 - **PRINTAKROYAL**
+* (99,439) PV98203 - **SEVEN TURTLES INVESTMENTS**
+* (113,644) PV00286565 - **THE PALLET CRAFT & STEEL FABRICATION**
+* (127,850) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **127,849** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116668*
+*Sample of 10/116669*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,964) PV00218560 - **BLUE SUN TECHNOLOGY**
 * (25,927) PV20193 - **DIL TRADING**
 * (38,890) PV00214742 - **GOLDEN ENTERPRISES MARKETING**
 * (51,853) PV00260630 - **KAPILACHANDRA**
-* (64,816) PV00220007 - **MIXALOGY**
-* (77,779) PV74631 - **PRECIOUS HOLIDAYS**
-* (90,742) PV00289536 - **SFC AGRO**
-* (103,705) PV00243126 - **THE SAPPHIRE CAPITAL CEYLON**
-* (116,668) PV118576 - **ZZAPPIT**
+* (64,816) PV68100 - **MIX SOLUTIONS INTERNATIONAL**
+* (77,779) PV9936 - **PRECIOUS HOLDINGS**
+* (90,742) PV00291508 - **SF MODELING & GARMENTS**
+* (103,705) PV66262 - **THE SANDWICH FACTORY**
+* (116,669) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/3829*
