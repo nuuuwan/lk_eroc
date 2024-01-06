@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,566** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 09:00:37*.
+Scraped **127,566** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 09:12:24*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -12,7 +12,7 @@ Scraped **127,566** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 0
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,174) PV9120 - **BOARD OF INDIAN INVESTMENT AND LOGISTICS**
-* (28,348) PV00213453 - **DILSHAN PHARMA DISTRIBUTORS**
+* (28,348) PV11435 - **DILSHAN MOTORS**
 * (42,522)  - **GOODWIN GENERAL TRADING**
 * (56,696) PV99935 - **KEE TECHNO HOLDINGS**
 * (70,870) PV00225119 - **MONZOON.LK**
@@ -24,15 +24,15 @@ Scraped **127,566** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 0
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00288829 - **RUWAN DISSANAYAKE LEADERSHIP ACADEMY**
-* (112) PV00288979 - **CRYSTAL OCEANS**
-* (223) PV00289140 - **HAZETO GROUP**
-* (334) PV00289292 - **MAS LANKA ELECTRICALS**
-* (445) PV00289464 - **DYNAMIC INTERNATIONAL ACADEMY**
-* (556) PV00289613 - **AHS FIRE CHALLENGE**
-* (667) PV00289787 - **SOUNDTECH SOLUTIONS **
-* (778) PV00290014 - **NITTA ENSAKU**
-* (889) PV00290668 - **LUVRIE**
+* (1) PV00288830 - **SRIVASANA**
+* (112) PV00288980 - **MINSARA DISTRIBUTOR**
+* (223) PV00289143 - **ALHABEEBI TRAVELS**
+* (334) PV00289293 - **SMD HOLDING**
+* (445) PV00289466 - **BREEDER PLUS ENGINEERS**
+* (556) PV00289615 - **AUTOBOUTIQUE**
+* (667) PV00289790 - **SEOUL SECRET COSMETICS**
+* (778) PV00290016 - **GRACELYN'S PLACE**
+* (889) PV00290673 - **RAZEEN INVERTER POWER ENERGY**
 * (1,000) PV00291565 - **PREMIER SAPPHIRES**
 
 
@@ -43,7 +43,7 @@ Scraped **127,566** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 0
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,937) PV00287519 - **BLUE SKY WELLNESS CENTER**
-* (25,874) PV00272674 - **DIJITAL PEOPLE**
+* (25,874) PV00261923 - **DIIS EDUCATION AND MIGRATION**
 * (38,811) PV00266112 - **GOLDEN BLISS**
 * (51,748) PV00288926 - **KANZA INTERNATIONAL**
 * (64,684) PV84482 - **MIURA CARS**
