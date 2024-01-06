@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,566** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 09:12:24*.
+Scraped **127,572** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 09:27:14*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127566*
+*Sample of 10/127572*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,174) PV9120 - **BOARD OF INDIAN INVESTMENT AND LOGISTICS**
-* (28,348) PV11435 - **DILSHAN MOTORS**
-* (42,522)  - **GOODWIN GENERAL TRADING**
-* (56,696) PV99935 - **KEE TECHNO HOLDINGS**
-* (70,870) PV00225119 - **MONZOON.LK**
-* (85,044) PV00282130 - **PRINTSHOP ADVERTISING**
-* (99,218) PV93428 - **SEVENA CITY HOTEL**
-* (113,392) PV00245145 - **THE OAKS HOUSING AND DEVELOPMENT**
-* (127,566) PV118576 - **ZZAPPIT**
+* (14,175) PV112713 - **BOARDING MOUNTAIN CEYLON**
+* (28,350) PV91585 - **DILSHAN PHARMACEUTICALS**
+* (42,524) PV104953 - **GOODWIN IMPEX**
+* (56,699) PV82880 - **KEDKO FOODS**
+* (70,873) PV00272377 - **MONUMENT RESOURCE CONSULTANCY**
+* (85,048) PV128095 - **PRINTS & TRIMS**
+* (99,222) PV87355 - **SEVEN''S P S A SOLUTIONS**
+* (113,397) PV66899 - **THE NUWARAELIYA LAND SALES**
+* (127,572) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **127,566** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116432*
+*Sample of 10/116437*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,937) PV00287519 - **BLUE SKY WELLNESS CENTER**
-* (25,874) PV00261923 - **DIIS EDUCATION AND MIGRATION**
-* (38,811) PV00266112 - **GOLDEN BLISS**
-* (51,748) PV00288926 - **KANZA INTERNATIONAL**
-* (64,684) PV84482 - **MIURA CARS**
-* (77,621) PV11468 - **PRECISION ENGINEERING SERVICES**
-* (90,558) PV00240673 - **SEZ SOFTWARE**
-* (103,495) PV00229894 - **THE ROYAL KANDYAN DESIGN & ENGINEERING**
-* (116,432) PV118576 - **ZZAPPIT**
+* (12,938) PV115494 - **BLUE SKYLINE**
+* (25,875) PV00272674 - **DIJITAL PEOPLE**
+* (38,813) PV63778 - **GOLDEN BREEDERS**
+* (51,750) PV82378 - **KANZA COLLEGE**
+* (64,687) PV00233465 - **MIUM ORGANICS TRADE & EXPORT**
+* (77,625) PV11468 - **PRECISION ENGINEERING SERVICES**
+* (90,562) PV00240673 - **SEZ SOFTWARE**
+* (103,499) PV122676 - **THE ROYAL INSTITUTE OF COLOMBO CAMPUS**
+* (116,437) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3773*
+*Sample of 10/3774*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (420)  - **BOSTON LANKA PRODUCTIONS**
 * (839)  - **DIMACOINLAB**
-* (1,258)  - **GOD’S HAND TO THE POOREST**
-* (1,677)  - **KALUAGGALA SUPER MART**
-* (2,096)  - **MONARK.LK**
-* (2,515)  - **PLANETGREEN LANKA**
-* (2,934)  - **SHERWOOD INSTITUTE**
-* (3,353)  - **THE ISLANDS BREEZE**
-* (3,773)  - **ZOVO ENTERPRISES**
+* (1,258)  - **GOBIAN GEMS AND JEWELLERY INTERNATIONAL**
+* (1,677)  - **KAIKASI**
+* (2,097)  - **MONAK LANKA**
+* (2,516)  - **PKP PHARMACY**
+* (2,935)  - **SHERIFF MARINE SUPPLIERS**
+* (3,354)  - **THE ISLANDS BREEZE**
+* (3,774)  - **ZOVO ENTERPRISES**
 
 ### "PB"
 *Sample of 10/2753*
