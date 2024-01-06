@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,755** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 16:57:57*.
+Scraped **127,757** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 17:12:14*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127755*
+*Sample of 10/127757*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,195) PV18427 - **BOBBY INDUSTRIES**
-* (28,390) PV00200070 - **DILUKSHA MANPOWER & TRANSPORT**
-* (42,585) PV16360 - **GORDONCHRIS INTERNATIONAL**
-* (56,780) PV00254092 - **KEEGS INTERNATIONAL**
-* (70,975) PV73565 - **MONTROSE DEVELOPMENTS**
-* (85,170) PV110816 - **PRISLA SUPER**
-* (99,365) PV00253935 - **SEVINRO WASTE MANAGEMENT LANKA**
-* (113,560) PV00231543 - **THE PARTY VIBES**
-* (127,755) PV118576 - **ZZAPPIT**
+* (14,196) PV131054 - **BOBBY MANUFACTURERS**
+* (28,391) PV00277542 - **DILUKSHAN PROPERTY SOLUTION**
+* (42,586) PV00262361 - **GORGEOUS GLOW AESTHETIC SKIN CLINIC**
+* (56,781) PV93905 - **KEEEN INTERNATIONAL CREATION**
+* (70,976) PV00212441 - **MONTREO INTERNATIONAL**
+* (85,171) PV13653 - **PRISKA**
+* (99,366) PV00255702 - **SEVINRICH CEYLON**
+* (113,561) PV91370 - **THE PARTY STATION**
+* (127,757) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **127,755** Companies ([3.95MB](data/companies.tsv)) as of *2024-01-06 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116575*
+*Sample of 10/116578*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,953) PV65038 - **BLUE STAR TRADING AND SERVICES**
-* (25,906) PV00279032 - **DIL ASIA TEAS**
-* (38,859) PV00286675 - **GOLDEN CREATION**
-* (51,811) PV810 - **KANZA LANKA ENTERPRISES**
-* (64,764) PV00263237 - **MITTER  CONNECT**
-* (77,717) PV63708 - **PREEMALI TOURIST HOTEL**
-* (90,669) PV00279800 - **SHA ENTERPRISES**
-* (103,622) PV110104 - **THE SENSE DIGITAL**
-* (116,575) PV118576 - **ZZAPPIT**
+* (12,954) PV00230494 - **BLUE STEPS CONSTRUCTION**
+* (25,907) PV107871 - **DIL ASIAN LANKA**
+* (38,860) PV00245375 - **GOLDEN CROPS DISTRIBUTORS**
+* (51,813) PV00265006 - **KANZA ENTERPRISES**
+* (64,766) PV00272593 - **MITSUKI CONSTRUCTION**
+* (77,719) PV00232944 - **PREDICZO**
+* (90,672) PV00279800 - **SHA ENTERPRISES**
+* (103,625) PV110104 - **THE SENSE DIGITAL**
+* (116,578) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3809*
+*Sample of 10/3808*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (424)  - **BOSUN JACK MACKEREL LANKA**
 * (847)  - **DIMO SOLAR GALLE**
-* (1,270)  - **GOD’S HAND TO THE POOREST**
-* (1,693)  - **KAARIGAI BRIDAL & ACADEMY**
-* (2,116)  - **MONAK LANKA**
-* (2,539)  - **PLANETGREEN LANKA**
-* (2,962)  - **SHENIS PIZZA**
-* (3,385)  - **THE JAFFNA POST**
-* (3,809)  - **ZOVO ENTERPRISES**
+* (1,270)  - **GOLD CEYLON AGRO**
+* (1,693)  - **KADUWELA SPORTS CLUB**
+* (2,116)  - **MONARK.LK**
+* (2,539)  - **PLATINUM BUSINESS CENTRE**
+* (2,962)  - **SHIKISEN**
+* (3,385)  - **THE KINDKIND**
+* (3,808)  - **ZOVO ENTERPRISES**
 
 ### "PB"
 *Sample of 10/2754*
