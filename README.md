@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,035** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 13:42:57*.
+Scraped **128,034** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 14:01:36*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128035*
+*Sample of 10/128034*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,227) PV00288078 - **BM LANKA IMPORTS**
-* (28,453) PV7394 - **DILSHAN APPARELS**
-* (42,679) PV00208586 - **GOODWOOD AIR PORT HOTEL**
-* (56,905) PV00216724 - **KECT MANAGEMENT SERVICES**
-* (71,131) PV8111 - **MONTE VISTA COLLEGE**
-* (85,357) PV123245 - **PRINT TEX SYSTEMS**
-* (99,583) PV00206341 - **SEVEN WIN INTERNATIONAL**
-* (113,809) GL77 - **THE OVERSEAS SCHOOL OF COLOMBO**
-* (128,035) PV118576 - **ZZAPPIT**
+* (14,226) PV00276518 - **BM INTERNATIONAL**
+* (28,452)  - **DILSHAN ALU FAB**
+* (42,678) PV128557 - **GOODWIN SECURITY & INVESTGATION**
+* (56,904) PV21073 - **KECT LANKA WATER PROOFING**
+* (71,130) PV13439 - **MONTE CARLO GARMENTS**
+* (85,356) PV123245 - **PRINT TEX SYSTEMS**
+* (99,582) PV00206341 - **SEVEN WIN INTERNATIONAL**
+* (113,808) GL77 - **THE OVERSEAS SCHOOL OF COLOMBO**
+* (128,034) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,035** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116779*
+*Sample of 10/116777*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,976) PV100404 - **BLUE SHELLS**
 * (25,951) PV125282 - **DIKWELLA ELECTRICALS**
-* (38,927) PV00209716 - **GOLDEN ELECTRIC VEHICLES**
-* (51,902) PV00245763 - **KANZZ HOLDINGS**
-* (64,877) PV00215563 - **MITTO GLOBAL OPERATIONS**
-* (77,853) PV120287 - **PRECIOUS CARE**
-* (90,828) PV00289536 - **SFC AGRO**
-* (103,803) PV00283721 - **THE RUSSIAN SCHOOL OF BALLET & DANCING**
-* (116,779) PV118576 - **ZZAPPIT**
+* (38,926) PV122480 - **GOLDEN EARTH LANKA**
+* (51,901) PV110485 - **KANZBAHR LINES LANKA**
+* (64,876) PV00263237 - **MITTER  CONNECT**
+* (77,851) PV110436 - **PRECIOUS AUTO MOBILE**
+* (90,826) PV00291508 - **SF MODELING & GARMENTS**
+* (103,801) PV00246810 - **THE RUSH WEDDING BOUTIQUE**
+* (116,777) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3877*
+*Sample of 10/3878*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (431)  - **BORALESSA AND SONS COMPANY**
 * (862)  - **DIAMOND ENTERTAINMENT LANKA**
 * (1,293)  - **GLOBLE TROPICAL EXPORTERS**
-* (1,723)  - **KAARAH HOSPITALITY**
+* (1,724)  - **KAARIGAI BRIDAL & ACADEMY**
 * (2,154)  - **MOHIZHU FABRIC**
 * (2,585)  - **PLATINUM BUSINESS CENTRE**
-* (3,015)  - **SHELO SALON**
-* (3,446)  - **THE LND CLOTHING**
-* (3,877)  - **ZULACART**
+* (3,016)  - **SHELTER FOR HOMELESS JESUS NEVER FAILS ASSOCIATION**
+* (3,447)  - **THE LOVER**
+* (3,878)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2757*
