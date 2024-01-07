@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,062** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 18:31:00*.
+Scraped **128,063** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 18:43:19*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128062*
+*Sample of 10/128063*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,230) PV00277865 - **BML  GLOBAL RECRUITMENT**
 * (28,459) PV00251468 - **DILSHAN AUTO PARTS**
 * (42,688)  - **GOODWIN GENERAL TRADING**
-* (56,917) PV114069 - **KEANMA ENGINEERING**
-* (71,146) PV130791 - **MONOLITH ENGINEERING SOLUTIONS**
-* (85,375) PV62039 - **PRINT MART SOLUTIONS**
-* (99,604) PV00206341 - **SEVEN WIN INTERNATIONAL**
-* (113,833) PV1628 - **THE PAINT SHOP**
-* (128,062) PV118576 - **ZZAPPIT**
+* (56,917) PV1589 - **KEANGNAM READYMIX**
+* (71,146) PV10369 - **MONOCRON  **
+* (85,375) PV85617 - **PRINT MACHINERY TRADING AND SERVICES**
+* (99,604) PV00208827 - **SEVEN WILL SPA**
+* (113,833) PV00234593 - **THE OZONE INN**
+* (128,063) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **128,062** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 1
 * (116,773) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3894*
+*Sample of 10/3895*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (433)  - **BOSUN JACK MACKEREL LANKA**
 * (866)  - **DIGITECSYSTEMS**
-* (1,298)  - **GLOW AND BEAUTY**
-* (1,731)  - **KALAKERUN**
-* (2,163)  - **MONAK LANKA**
-* (2,596)  - **PLEX TECHNOLOGY**
-* (3,028)  - **SHEHA SPICES**
-* (3,461)  - **THE LOVER**
-* (3,894)  - **ZULACART**
+* (1,299)  - **GLOW WAY SALON**
+* (1,731)  - **KAIKASI**
+* (2,164)  - **MONAK LANKA**
+* (2,597)  - **PLEX TECHNOLOGY**
+* (3,029)  - **SHEHA SPICES**
+* (3,462)  - **THE LOVER**
+* (3,895)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2768*
