@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,064** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 19:01:01*.
+Scraped **128,066** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 19:12:22*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128064*
+*Sample of 10/128066*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,230) PV00277865 - **BML  GLOBAL RECRUITMENT**
 * (28,459) PV5453 - **DILSHAN AQUA PRODUCTS**
-* (42,688) PV00207183 - **GOODWIN COMPLEX**
-* (56,917) PV1589 - **KEANGNAM READYMIX**
-* (71,147) PV10369 - **MONOCRON  **
-* (85,376) PV85617 - **PRINT MACHINERY TRADING AND SERVICES**
-* (99,605) PV00208827 - **SEVEN WILL SPA**
-* (113,834) PV00234593 - **THE OZONE INN**
-* (128,064) PV118576 - **ZZAPPIT**
+* (42,689)  - **GOODWIN GENERAL TRADING**
+* (56,918) PV114069 - **KEANMA ENGINEERING**
+* (71,148) PV10369 - **MONOCRON  **
+* (85,377) PV85617 - **PRINT MACHINERY TRADING AND SERVICES**
+* (99,607) PV00206341 - **SEVEN WIN INTERNATIONAL**
+* (113,836) PV1628 - **THE PAINT SHOP**
+* (128,066) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -29,7 +29,7 @@ Scraped **128,064** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 1
 * (223) PV00289508 - **CEYLONIAN COIR BRUSH PRODUCTS**
 * (334) PV00289648 - **GALKANDA ESTATE**
 * (445) PV00289833 - **SHREE RAM**
-* (556) PV00290031 - **TRENDY FASHION COLLECTION**
+* (556) PV00290034 - **THUK GROUP**
 * (667) GL00290378 - **RHYTHMS OF PARADISE**
 * (778) PV00290798 - **BLOOMING WINGS CREATIVE ART CENTER**
 * (889) PV00291234 - **NORTH LANKA RECRUITMENT**
@@ -39,32 +39,32 @@ Scraped **128,064** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116774*
+*Sample of 10/116775*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,975) PV00274085 - **BLUE SHADOWS NEW GENERATION MUSICAL BAND**
 * (25,950) PV00217071 - **DIKAP  TRADING  &  MANUFACTURING**
 * (38,925) PV00254458 - **GOLDEN EAGLE  HOLDINGS**
 * (51,900) PV101209 - **KANVE TRAVELS**
-* (64,874) PV71315 - **MITHUNI TRADING**
-* (77,849) PV70671 - **PRAVEEN CREATIONS**
-* (90,824) PV00291508 - **SF MODELING & GARMENTS**
-* (103,799) PV00246810 - **THE RUSH WEDDING BOUTIQUE**
-* (116,774) PV118576 - **ZZAPPIT**
+* (64,875) PV98731 - **MITHURO CAFE**
+* (77,850) PV107592 - **PRAVEEN MIRANDO PHOTOGRAPHY**
+* (90,825) PV00244961 - **SFINAX**
+* (103,800) PV00208499 - **THE S GALLERY HOTEL**
+* (116,775) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3894*
+*Sample of 10/3895*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (433)  - **BOSUN JACK MACKEREL LANKA**
 * (866)  - **DIGITECSYSTEMS**
-* (1,298)  - **GLOW AND BEAUTY**
+* (1,299)  - **GLOW WAY SALON**
 * (1,731)  - **KALAKERUN**
-* (2,163)  - **MONAK LANKA**
-* (2,596)  - **PLEX TECHNOLOGY**
-* (3,028)  - **SHEHA SPICES**
-* (3,461)  - **THE LOVER**
-* (3,894)  - **ZULACART**
+* (2,164)  - **MONAK LANKA**
+* (2,597)  - **PLEX TECHNOLOGY**
+* (3,029)  - **SHEDAR BOUTIQUE HOTEL**
+* (3,462)  - **THE LND CLOTHING**
+* (3,895)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2768*
