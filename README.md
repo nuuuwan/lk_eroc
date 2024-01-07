@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,043** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 19:42:57*.
+Scraped **128,043** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 19:59:56*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -13,10 +13,10 @@ Scraped **128,043** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 1
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,227) PV00279657 - **BM SEVEN**
 * (28,454)  - **DILSHAN ALU FAB**
-* (42,681) PV17398 - **GOODWILL GENARAL SERVICES**
-* (56,908) PV00260089 - **KE BRAVO**
-* (71,135) PV00240525 - **MONKEY CARBON**
-* (85,362) PV00206595 - **PRINT CAVE**
+* (42,681) PB5378 - **GOODWILL ESTATE**
+* (56,908)  - **KDR BUSINESS SOLUTIONS**
+* (71,135) PV00224049 - **MONKEE DESIGN STUDIO**
+* (85,362) PV104611 - **PRINT 77**
 * (99,589) PV122555 - **SEVEN SKYWAYS TRAVELS & TOURS**
 * (113,816) PV914 - **THE PAINT SHOP WADDUWA**
 * (128,043) PV118576 - **ZZAPPIT**
@@ -39,32 +39,32 @@ Scraped **128,043** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116748*
+*Sample of 10/116747*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,972) PV71830 - **BLUE SEA FOODS**
 * (25,944) PV00289606 - **DIHI**
-* (38,916) PV111990 - **GOLDEN CREDIT INVESTMENT**
-* (51,888) PV111645 - **KANTO CERAMICS**
-* (64,860) PV00214306 - **MITHILA ENGINEERING**
-* (77,832) PV00260138 - **PRATHAP HOLDINGS**
-* (90,804) PV109072 - **SEYLON INVESTMENT AND BUSINESS**
-* (103,776) PV00224036 - **THE SAFFRON RESTAURANT DELIGHT**
-* (116,748) PV118576 - **ZZAPPIT**
+* (38,916) PV00269255 - **GOLDEN CORRIDORS EDU VISA SERVICES**
+* (51,888) PV94128 - **KANTHI INTERNATIONAL TRAVEL AGENCY**
+* (64,859) PV00249164 - **MITHARA ENTERPRISES**
+* (77,831) PV00287331 - **PRASHASTHI**
+* (90,803) PV109072 - **SEYLON INVESTMENT AND BUSINESS**
+* (103,775) PV00224036 - **THE SAFFRON RESTAURANT DELIGHT**
+* (116,747) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3893*
+*Sample of 10/3894*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (433)  - **BOXY.LK**
-* (865)  - **DILAN KONG S G**
+* (866)  - **DILI DAIRY FARM**
 * (1,298)  - **GLOWNAWAY NATURALS**
-* (1,730)  - **KALAKERUN**
+* (1,731)  - **KALATUWAWA HOLDINGS**
 * (2,163)  - **MONAK LANKA**
-* (2,595)  - **PLATINUM TRADING SOLUTIONS**
-* (3,028)  - **SHEDAR BOUTIQUE HOTEL**
-* (3,460)  - **THE LND CLOTHING**
-* (3,893)  - **ZULACART**
+* (2,596)  - **PLEX TECHNOLOGY**
+* (3,028)  - **SHAZDA BEAUTY COSMIC**
+* (3,461)  - **THE LND CLOTHING**
+* (3,894)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2768*
