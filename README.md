@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,082** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 00:12:34*.
+Scraped **128,089** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 00:27:23*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128082*
+*Sample of 10/128089*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,232) PV00291550 - **BMP PRODUCTS**
-* (28,463) PV103642 - **DILSHAN FASHION**
-* (42,694) PV17398 - **GOODWILL GENARAL SERVICES**
-* (56,925) PV131550 - **KEATS GREEN**
-* (71,157) PV00269995 - **MONOLITH INTERNATIONAL**
-* (85,388) PV116628 - **PRINT FINE ENTERPRISES**
-* (99,619) PV00225724 - **SEVEN SEAS MEDI LANKA**
-* (113,850) PV00234983 - **THE ORGANIC CORNER**
-* (128,082) PV118576 - **ZZAPPIT**
+* (14,233) PV00258885 - **BMS AUTO LANKA**
+* (28,465) PV103642 - **DILSHAN FASHION**
+* (42,697) PV99781 - **GOODWILL GRANITE**
+* (56,929) PV75908 - **KEBA ELECTRONICS**
+* (71,161)  - **MONOMART**
+* (85,393) PV64398 - **PRINT EXPRESS**
+* (99,625) PV00289136 - **SEVEN SEAS IMPORTERS**
+* (113,857) PV00234983 - **THE ORGANIC CORNER**
+* (128,089) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,082** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116752*
+*Sample of 10/116756*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,973) PV00274085 - **BLUE SHADOWS NEW GENERATION MUSICAL BAND**
-* (25,945) PV107759 - **DIKO MAX AGRO PRODUCTS**
-* (38,918) PV00286675 - **GOLDEN CREATION**
-* (51,890) PV00236685 - **KANURA WOOD CHEM SOLUTION**
-* (64,862) PV62506 - **MITHRO CONSTRUCTIONS**
-* (77,835) PV107592 - **PRAVEEN MIRANDO PHOTOGRAPHY**
-* (90,807) PV84693 - **SEYLON HOLIDAYS INTERNATIONAL**
-* (103,779) PV00211411 - **THE RUSH HAIR**
-* (116,752) PV118576 - **ZZAPPIT**
+* (25,946) PV68449 - **DIKO MAX PRINTING**
+* (38,919) PV111990 - **GOLDEN CREDIT INVESTMENT**
+* (51,892) PV99813 - **KANVEL HOLDINGS**
+* (64,864) PV00279923 - **MITHU PRODUCTS**
+* (77,837) PV70671 - **PRAVEEN CREATIONS**
+* (90,810) PV00204897 - **SEYLON FORTUNES**
+* (103,783) PV00211411 - **THE RUSH HAIR**
+* (116,756) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3922*
+*Sample of 10/3925*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
-* (436)  - **BOXY.LK**
-* (872)  - **DILAN KONG S G**
-* (1,308)  - **GLOW WAY SALON**
-* (1,743)  - **KALUWILA ENTERPRISES**
-* (2,179)  - **MOONLIGHT ORILLA HOTEL**
-* (2,615)  - **POLO LANKA APPAREL**
-* (3,050)  - **SHAPING THE FUTURE MOVEMENT**
-* (3,486)  - **THE LAKE HOUSE MEDIA ACADEMY**
-* (3,922)  - **ZULACART**
+* (437)  - **BPP TRADING**
+* (873)  - **DIGITION**
+* (1,309)  - **GLOW AND BEAUTY**
+* (1,745)  - **KALUWILA ENTERPRISES**
+* (2,181)  - **MOONLIGHT ORILLA HOTEL**
+* (2,617)  - **POLO LANKA**
+* (3,053)  - **SHAPING THE FUTURE MOVEMENT**
+* (3,489)  - **THE LAKE HOUSE MEDIA ACADEMY**
+* (3,925)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2765*
