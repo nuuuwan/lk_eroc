@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,105** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 05:12:24*.
+Scraped **128,116** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 05:27:23*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128105*
+*Sample of 10/128116*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,234) PV112754 - **BLYTON**
-* (28,468) PV106482 - **DILSHANI SUPER**
-* (42,702) PV00208586 - **GOODWOOD AIR PORT HOTEL**
-* (56,936) NF36 - **KEANG NAM ENTERPRISES**
-* (71,169) PV80726 - **MONOCLE**
-* (85,403) PV00255452 - **PRINT LIFE**
-* (99,637) PV00232824 - **SEVEN SPORTS HOLDINGS**
-* (113,871) PV00286565 - **THE PALLET CRAFT & STEEL FABRICATION**
-* (128,105) PV118576 - **ZZAPPIT**
+* (14,236) PV00276518 - **BM INTERNATIONAL**
+* (28,471) PV00251796 - **DILSIORGANIC**
+* (42,706) PV12324 - **GOOFYFOOT**
+* (56,941)  - **KEAPER**
+* (71,176) PV107490 - **MONNARCH FASHION**
+* (85,411) PV00276108 - **PRINT HUB**
+* (99,646) PV122555 - **SEVEN SKYWAYS TRAVELS & TOURS**
+* (113,881) PV00286565 - **THE PALLET CRAFT & STEEL FABRICATION**
+* (128,116) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,105** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116762*
+*Sample of 10/116773*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,974) PV89598 - **BLUE ROCK HOLDINGS**
-* (25,947) PV4503 - **DIL FILMS (INTERNATIONAL)**
-* (38,921) PV91067 - **GOLDEN EAGLE SECURIY AND INVESTIGATION**
-* (51,894) PV101180 - **KANTON INTERNATIONAL**
-* (64,868) PV00232393 - **MITHUS DAIRIES**
-* (77,841) PV00287030 - **PRAVEEN ENGINEERS**
-* (90,815) PV74817 - **SEYLONA**
-* (103,788) PV00290742 - **THE SANDCASTLE**
-* (116,762) PV118576 - **ZZAPPIT**
+* (12,975) PV109731 - **BLUE SANDS BACH**
+* (25,950) PV70980 - **DIL PHARMACEUTICALS**
+* (38,925) PV00238294 - **GOLDEN ELITE INTERNATIONAL**
+* (51,899) PV00287685 - **KANTSON SOLUTIONS**
+* (64,874) PV00279923 - **MITHU PRODUCTS**
+* (77,849) PV63660 - **PRATTISON EXPORTS**
+* (90,823) PV109072 - **SEYLON INVESTMENT AND BUSINESS**
+* (103,798) PV00233267 - **THE SANCTUARY INTERNATIONAL**
+* (116,773) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3936*
+*Sample of 10/3938*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (438)  - **BREEZ HOLIDAY HOME**
 * (875)  - **DIGITION**
-* (1,312)  - **GLOW AND BEAUTY**
-* (1,749)  - **KANDANA KOCO MART**
-* (2,187)  - **MONEX HOLDINGS**
-* (2,624)  - **PORT CITY DEVELOPMENT MANAGEMENT**
-* (3,061)  - **SHAZDA BEAUTY COSMIC**
-* (3,498)  - **THE LEMON TREE RESTAURANT**
-* (3,936)  - **ZULACART**
+* (1,313)  - **GLOW WAY SALON**
+* (1,750)  - **KANDAWATTA GREEN POWER**
+* (2,188)  - **MONEX HOLDINGS**
+* (2,625)  - **PORT CITY DEVELOPMENT MANAGEMENT**
+* (3,063)  - **SHEDAR BOUTIQUE HOTEL**
+* (3,500)  - **THE LND CLOTHING**
+* (3,938)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2762*
@@ -109,18 +109,18 @@ Scraped **128,105** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 0
 * (744) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
 
 ### "NF"
-*Sample of 10/520*
+*Sample of 10/518*
 ![data/word_clouds/word_cloud_NF.png](data/word_clouds/word_cloud_NF.png)
 * (1) NF137 - **AB FINLANKA**
 * (58) NF6 - **BUNOUGHS WELLCOME (FAR-EAST)**
-* (116) NF445 - **DUPLE METSEC**
-* (174) NF635 - **HANBO ENTERPRISES**
-* (231) NF240 - **KOREA TELECOM INTERNATIONAL CO.**
-* (289) NF195 - **MOTOROLA SINGAPORE**
-* (347) NF158 - **POLSON ENTERPRISES**
-* (404) NF522 - **SMART SHIRTS**
-* (462) NF203 - **TOPSEAL COMPANY**
-* (520) NF711 - **ZTE CORPORATION**
+* (115) NF107 - **DSML**
+* (173) NF54 - **HABIB BANK ZURICH (INTERNATIONAL)**
+* (230) NF317 - **KOREA HEAVY INDUSTRIES AND CONSTRUCTION CO.**
+* (288) NF45 - **MOUNTAIN INDUSTRIES**
+* (345) NF158 - **POLSON ENTERPRISES**
+* (403) NF384 - **SMITH & NEPHEW**
+* (460) NF203 - **TOPSEAL COMPANY**
+* (518) NF711 - **ZTE CORPORATION**
 
 ### "FC"
 *Sample of 10/374*
