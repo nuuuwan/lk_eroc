@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,096** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 03:27:54*.
+Scraped **128,097** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 03:42:47*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128096*
+*Sample of 10/128097*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,233) PV112754 - **BLYTON**
 * (28,466) PV00207888 - **DILSHAN SILVA CONSTRUCTION**
 * (42,699) PV00239941 - **GOODWILL TRADE MART**
-* (56,932) PV131550 - **KEATS GREEN**
-* (71,164) PV130791 - **MONOLITH ENGINEERING SOLUTIONS**
-* (85,397) PV00255452 - **PRINT LIFE**
-* (99,630) PV119861 - **SEVEN SHINE PHARMACEUTICALS**
-* (113,863) PV00206009 - **THE PAINTBALL ADVENTURES**
-* (128,096) PV118576 - **ZZAPPIT**
+* (56,932) PV00217335 - **KEAWAN LANKA**
+* (71,165) PV00269995 - **MONOLITH INTERNATIONAL**
+* (85,398) PV00255452 - **PRINT LIFE**
+* (99,631) PV119861 - **SEVEN SHINE PHARMACEUTICALS**
+* (113,864) PV00206009 - **THE PAINTBALL ADVENTURES**
+* (128,097) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,096** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116743*
+*Sample of 10/116745*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,972) PV109731 - **BLUE SANDS BACH**
-* (25,943) PV00279032 - **DIL ASIA TEAS**
+* (25,944) PV107871 - **DIL ASIAN LANKA**
 * (38,915) PV105366 - **GOLDEN CROWN SALOONS**
-* (51,886) PV00253904 - **KANTS ENGINEERING**
-* (64,857) PV21140 - **MITHUNA**
-* (77,829) PV00204660 - **PRAVINCO STEEL FURNITURE**
-* (90,800) PV74817 - **SEYLONA**
-* (103,771) PV00285911 - **THE SALTY SEAHORSE**
-* (116,743) PV118576 - **ZZAPPIT**
+* (51,887) PV00287685 - **KANTSON SOLUTIONS**
+* (64,858) PV71315 - **MITHUNI TRADING**
+* (77,830) PV00205324 - **PRAVENTURE  HOLDINGS**
+* (90,801) PV00211413 - **SEYLON ULTRA NATURE**
+* (103,773) PV00285911 - **THE SALTY SEAHORSE**
+* (116,745) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3944*
+*Sample of 10/3943*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (439)  - **BPP TRADING**
 * (877)  - **DIGITECSYSTEMS**
 * (1,315)  - **GLOW AND BEAUTY**
-* (1,753)  - **KANDANA KOCO MART**
-* (2,191)  - **MONEX HOLDINGS**
-* (2,629)  - **POLO LANKA APPAREL**
-* (3,067)  - **SHARMA FOR CANADA IMMIGRATION CONSULTANTS**
-* (3,505)  - **THE LECTURE HALL**
-* (3,944)  - **ZULACART**
+* (1,753)  - **KANDAWATTA GREEN POWER**
+* (2,191)  - **MONOMART**
+* (2,629)  - **POLYCAMPUS**
+* (3,067)  - **SHASTA LANKA ENTERPRISE**
+* (3,505)  - **THE LEMON TREE RESTAURANT**
+* (3,943)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2761*
