@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,023** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 15:27:19*.
+Scraped **128,024** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 15:42:59*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128023*
+*Sample of 10/128024*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,225) PV00271016 - **BLYMO**
 * (28,450) PV77711 - **DILRUKSHI GLOUP**
 * (42,675) PV121477 - **GOODRICH LANKA**
-* (56,899) PV00222030 - **KEANGNAM ENGINEERING & CONSTRUCTION**
-* (71,124) PV00206974 - **MONOLITH LIFE**
-* (85,349) PV62028 - **PRINT OND**
-* (99,573) PV127417 - **SEVEN TECPROMO**
-* (113,798) PV71632 - **THE ORANGE SOLUTIONS**
-* (128,023) PV118576 - **ZZAPPIT**
+* (56,900) PV00222030 - **KEANGNAM ENGINEERING & CONSTRUCTION**
+* (71,124) PV00269995 - **MONOLITH INTERNATIONAL**
+* (85,349) PV00278660 - **PRINT MIX HOUSE**
+* (99,574) PV127417 - **SEVEN TECPROMO**
+* (113,799) PV71632 - **THE ORANGE SOLUTIONS**
+* (128,024) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -95,18 +95,18 @@ Scraped **128,023** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 1
 * (2,325) GA470 - **ZONTA CLUB II OF COLOMBO**
 
 ### "GL"
-*Sample of 10/739*
+*Sample of 10/740*
 ![data/word_clouds/word_cloud_GL.png](data/word_clouds/word_cloud_GL.png)
 * (1) GL00223389 - **A LITTLE  FOUNDATION**
 * (83) GL63 - **BRIDGE 2 PEACE**
 * (165) GL00280587 - **EASTERN YOUTH'S ORGANIZATION (EYO)**
 * (247) GL2204 - **GURUKUL LIFE SCIENCE FOUNDATION**
-* (329) GL2243 - **KARUNYA LANKA**
-* (411) GL00264423 - **MJF MANAGEMENT TRUST**
-* (493) GL00262927 - **RATHANASIRI NAHIMI SUBASADAKA SANSADAYA**
-* (575) GL2124 - **SMALL WORLD**
-* (657) GL2205 - **TRADERS ASSOCIATION VAVUNIYA**
-* (739) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
+* (329) GL00265959 - **KANDY SOCIETY OF MEDICINE**
+* (411) GL2368 - **MISSON OF JESUS LOVERS COMPANY**
+* (493) GL00232744 - **RANIL DE SILVA TRUST**
+* (575) GL00210136 - **SLYCAN TRUST**
+* (657) GL2313 - **TOXIN FREE CROP PRODUCER NETWORK**
+* (740) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
 
 ### "NF"
 *Sample of 10/517*
