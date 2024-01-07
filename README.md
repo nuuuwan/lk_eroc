@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,968** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 06:09:31*.
+Scraped **127,967** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 06:31:21*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127968*
+*Sample of 10/127967*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,219) PV00248113 - **BOAT  TRIP**
-* (28,438) PV00283393 - **DILY WHITTLER**
-* (42,656) PV6126 - **GOURAV IMPORTS**
-* (56,875)  - **KEERTHI EXPORTS LANKA**
-* (71,093) PV00259399 - **MOOD HOLDINGS**
-* (85,312) PV104823 - **PRINTCAN PACKAGING**
-* (99,530) PV87355 - **SEVEN'S P S A SOLUTIONS**
-* (113,749) PV00251586 - **THE ORACLE ZONE**
-* (127,968) PV118576 - **ZZAPPIT**
+* (28,437) PV00286922 - **DILUSHAN IRON WORKS**
+* (42,656) PV00263387 - **GOURMANDS DE CHARME**
+* (56,874) PV7606 - **KEERTHI FOOD CITY**
+* (71,093) PV9358 - **MOODY INTERNATIONAL LANKA**
+* (85,311) PV104823 - **PRINTCAN PACKAGING**
+* (99,530) PV93428 - **SEVENA CITY HOTEL**
+* (113,748) PV00251586 - **THE ORACLE ZONE**
+* (127,967) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **127,968** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116741*
+*Sample of 10/116743*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,972) PV00251758 - **BLUE SQUARE**
 * (25,943) PV2154 - **DILANI CONCRETE WORKS**
-* (38,914) PV00242527 - **GOLDEN GATE LOGISTICS**
-* (51,885) PV5009 - **KAPRUKA COURIER SERVICES**
-* (64,856) PV103702 - **MIYABI KAGAKU LANKA**
-* (77,827) PV16169 - **PRECIOUS INDUSTRIAL**
-* (90,798) PV110925 - **SFINN SOLUTIONS**
-* (103,769) PV00269027 - **THE ROYAL ROSE**
-* (116,741) PV118576 - **ZZAPPIT**
+* (38,915) PV12961 - **GOLDEN GRAINS**
+* (51,886) PV86726 - **KAPRUKA FARMS**
+* (64,857) PV00269970 - **MIYAME TRADING COMPANY**
+* (77,829) PV16169 - **PRECIOUS INDUSTRIAL**
+* (90,800) PV110925 - **SFINN SOLUTIONS**
+* (103,771) PV00269027 - **THE ROYAL ROSE**
+* (116,743) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3860*
+*Sample of 10/3857*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (429)  - **BOSOMMATE INVESTMENTS**
-* (858)  - **DIGIPAL**
-* (1,287)  - **GO VIRAL**
-* (1,716)  - **KADOL SANDS RESORT AND SPA**
-* (2,144)  - **MOHIZHU FABRIC**
-* (2,573)  - **PKP PHARMACY**
-* (3,002)  - **SHAVEEN HARDWARE AND DISTRIBUTORS**
-* (3,431)  - **THE JAFFNA POST**
-* (3,860)  - **ZULACART**
+* (857)  - **DIGIMONEY FINTECH SOLUTIONS**
+* (1,286)  - **GO ROCKS**
+* (1,714)  - **KAARAH HOSPITALITY**
+* (2,143)  - **MOHIZHU FABRIC**
+* (2,571)  - **PLANETGREEN LANKA**
+* (3,000)  - **SHEDAR BOUTIQUE HOTEL**
+* (3,428)  - **THE JAFFNA POST**
+* (3,857)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2756*
