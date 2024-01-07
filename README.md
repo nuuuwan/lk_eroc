@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,082** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 20:43:05*.
+Scraped **128,084** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 21:00:05*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128082*
+*Sample of 10/128084*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,232) PV00277865 - **BML  GLOBAL RECRUITMENT**
-* (28,463) PV00237002 - **DILSHAN DRY FISH**
-* (42,694) PV00216789 - **GOODWIN METALS**
-* (56,925) PV131550 - **KEATS GREEN**
-* (71,157) PV00224552 - **MONOPOLY PACKAGING**
-* (85,388) PV20758 - **PRINT ANIMATION**
-* (99,619) PV97671 - **SEVEN SEAS HOLDINGS CEYLON**
-* (113,850) PV116007 - **THE OUTLET STORE CLOTHING**
-* (128,082) PV118576 - **ZZAPPIT**
+* (14,232) PV00258885 - **BMS AUTO LANKA**
+* (28,463) PV5604 - **DILSHAN ENTERPRISES**
+* (42,695) PV00216789 - **GOODWIN METALS**
+* (56,926) PV104405 - **KEASHU TRADING**
+* (71,158)  - **MONOMART**
+* (85,389) PV21779 - **PRINT AND PRINT GRAPHICS**
+* (99,621) PV97671 - **SEVEN SEAS HOLDINGS CEYLON**
+* (113,852) PV116007 - **THE OUTLET STORE CLOTHING**
+* (128,084) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -42,9 +42,9 @@ Scraped **128,082** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 2
 *Sample of 10/116771*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,975) PV00274085 - **BLUE SHADOWS NEW GENERATION MUSICAL BAND**
-* (25,949) PV00202885 - **DIKKAPITIYA GREEN VALLEY**
-* (38,924) PV102117 - **GOLDEN DOME**
+* (12,975) PV00216706 - **BLUE SHIFT PRODUCTIONS**
+* (25,949) PV107759 - **DIKO MAX AGRO PRODUCTS**
+* (38,924) PV00254458 - **GOLDEN EAGLE  HOLDINGS**
 * (51,898) PV00287685 - **KANTSON SOLUTIONS**
 * (64,873) PV21140 - **MITHUNA**
 * (77,847) PV61672 - **PRATHONNE**
@@ -53,18 +53,18 @@ Scraped **128,082** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 2
 * (116,771) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3912*
+*Sample of 10/3914*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (435)  - **BOTMEDFUSION**
 * (870)  - **DILINA SILVA FOUNDATION**
-* (1,304)  - **GOBIAN GEMS AND JEWELLERY INTERNATIONAL**
-* (1,739)  - **KANDANA KOCO MART**
-* (2,173)  - **MOPERAMA INTERNATIONAL**
-* (2,608)  - **POLO LANKA APPAREL**
-* (3,042)  - **SHASTA LANKA ENTERPRISE**
-* (3,477)  - **THE LEMON TREE RESTAURANT**
-* (3,912)  - **ZULACART**
+* (1,305)  - **GO VIRAL**
+* (1,740)  - **KAMBURAWALA**
+* (2,174)  - **MOONLIGHT ORILLA HOTEL**
+* (2,609)  - **POLO LANKA**
+* (3,044)  - **SHASTA LANKA ENTERPRISE**
+* (3,479)  - **THE LEMON TREE RESTAURANT**
+* (3,914)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2768*
