@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,115** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 04:12:24*.
+Scraped **128,114** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 04:27:03*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128115*
+*Sample of 10/128114*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,235) PV00276518 - **BM INTERNATIONAL**
-* (28,470) PV10377 - **DILSHEY**
-* (42,705) PV12549 - **GOODWOOD DESIGNS**
-* (56,940) PV1589 - **KEANGNAM READYMIX**
-* (71,175) PV80726 - **MONOCLE**
-* (85,410) PV00255452 - **PRINT LIFE**
-* (99,645) PV122555 - **SEVEN SKYWAYS TRAVELS & TOURS**
-* (113,880) PV00201988 - **THE PANACEA CENTRAL**
-* (128,115) PV118576 - **ZZAPPIT**
+* (28,470) PV00251796 - **DILSIORGANIC**
+* (42,705) PV00209156 - **GOODZONE**
+* (56,940) PV114069 - **KEANMA ENGINEERING**
+* (71,174) PV80726 - **MONOCLE**
+* (85,409) PV00255452 - **PRINT LIFE**
+* (99,644) PV122555 - **SEVEN SKYWAYS TRAVELS & TOURS**
+* (113,879) PV00201988 - **THE PANACEA CENTRAL**
+* (128,114) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **128,115** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116769*
+*Sample of 10/116768*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,975) PV00210038 - **BLUE SAPPHIRE GAMING**
-* (25,949) PV92974 - **DIL SERENDIB PIONEER INTERNATIONAL MARITIME SERVICES**
-* (38,923) PV00209716 - **GOLDEN ELECTRIC VEHICLES**
-* (51,897) PV00253904 - **KANTS ENGINEERING**
-* (64,872) PV87002 - **MITHUZ**
-* (77,846) PV00286083 - **PRAVEINAA CREATIONS & INSTITUTE**
-* (90,820) PV74817 - **SEYLONA**
-* (103,794) PV66262 - **THE SANDWICH FACTORY**
-* (116,769) PV118576 - **ZZAPPIT**
+* (25,949) PV20193 - **DIL TRADING**
+* (38,923) PV00238294 - **GOLDEN ELITE INTERNATIONAL**
+* (51,897) PV00287685 - **KANTSON SOLUTIONS**
+* (64,871) PV87002 - **MITHUZ**
+* (77,845) PV00286083 - **PRAVEINAA CREATIONS & INSTITUTE**
+* (90,819) PV74817 - **SEYLONA**
+* (103,793) PV66262 - **THE SANDWICH FACTORY**
+* (116,768) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/3939*
