@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,090** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 23:42:59*.
+Scraped **128,089** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 00:01:30*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128090*
+*Sample of 10/128089*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,233) PV00258885 - **BMS AUTO LANKA**
 * (28,465) PV00288087 - **DILSHAN GEMS**
 * (42,697) PV00239941 - **GOODWILL TRADE MART**
-* (56,929) PV73039 - **KEBILADOWA HYDROPOWER**
-* (71,161) PV00207248 - **MONORAIL . L K**
-* (85,393) PV12880 - **PRINT COLLECTION**
-* (99,625) PV96714 - **SEVEN SEAS IMPEX**
-* (113,857) PV96200 - **THE ORCHIDIST**
-* (128,090) PV118576 - **ZZAPPIT**
+* (56,929) GA2027 - **KEBITHIGOLLEWA EKABADDA GRMEEYA SANWARDENA SANVIDHANAYA**
+* (71,161) PV00243685 - **MONOZUKURI MANUFACTURING SOLUTIONS**
+* (85,393) PV64398 - **PRINT EXPRESS**
+* (99,625) PV00289136 - **SEVEN SEAS IMPORTERS**
+* (113,857) PV00234983 - **THE ORGANIC CORNER**
+* (128,089) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **128,090** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116763*
+*Sample of 10/116762*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,974) PV100404 - **BLUE SHELLS**
-* (25,948) PV62016 - **DIKRU INTERNATIONAL**
+* (25,947) PV78881 - **DIKOTIMI LANKA**
 * (38,921) PV111990 - **GOLDEN CREDIT INVESTMENT**
-* (51,895) PV99813 - **KANVEL HOLDINGS**
-* (64,868) PV00240339 - **MITHUDAM CREDIT**
-* (77,842) PV63660 - **PRATTISON EXPORTS**
-* (90,815) PV94449 - **SEYLIS**
-* (103,789) PV126665 - **THE RUHUNU FOODS CENTER**
-* (116,763) PV118576 - **ZZAPPIT**
+* (51,894) PV99813 - **KANVEL HOLDINGS**
+* (64,868) PV21140 - **MITHUNA**
+* (77,841) PV63660 - **PRATTISON EXPORTS**
+* (90,815) PV129958 - **SEYLON EXCLUSIVE TOURS**
+* (103,788) PV126665 - **THE RUHUNU FOODS CENTER**
+* (116,762) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/3921*
