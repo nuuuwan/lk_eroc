@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,085** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 21:42:43*.
+Scraped **128,087** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 22:01:50*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128085*
+*Sample of 10/128087*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,232) PV00258885 - **BMS AUTO LANKA**
 * (28,464) PV103642 - **DILSHAN FASHION**
-* (42,695) PV00253366 - **GOODWILL IMPEX**
-* (56,927) NF36 - **KEANG NAM ENTERPRISES**
-* (71,158) PV88849 - **MONO WINGS COMPANY**
-* (85,390) PV61555 - **PRINT - N - GARD**
-* (99,621) PV8785 - **SEVEN SEAS COMMODITIES**
-* (113,853) PV116007 - **THE OUTLET STORE CLOTHING**
-* (128,085) PV118576 - **ZZAPPIT**
+* (42,696) PV00290593 - **GOODWILL MULTI BUSINESS SYSTEMS**
+* (56,928) PV00222030 - **KEANGNAM ENGINEERING & CONSTRUCTION**
+* (71,159) PV80726 - **MONOCLE**
+* (85,391) PV00236021 - **PRINSAS CREATIVE**
+* (99,623) PV8785 - **SEVEN SEAS COMMODITIES**
+* (113,855) PV116007 - **THE OUTLET STORE CLOTHING**
+* (128,087) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **128,085** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-07 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116760*
+*Sample of 10/116762*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,974) PV100404 - **BLUE SHELLS**
 * (25,947) PV78881 - **DIKOTIMI LANKA**
-* (38,920) PV111990 - **GOLDEN CREDIT INVESTMENT**
-* (51,893) PV111645 - **KANTO CERAMICS**
-* (64,867) PV20476 - **MITHILA FIRM**
-* (77,840) PV62384 - **PRATHEEP METAAL**
-* (90,813) PV00201559 - **SEYLANTOUR**
-* (103,786) PV00211411 - **THE RUSH HAIR**
-* (116,760) PV118576 - **ZZAPPIT**
+* (38,921) PV00245375 - **GOLDEN CROPS DISTRIBUTORS**
+* (51,894) PV21682 - **KANTO LANKA TRAVELS**
+* (64,868) PV1443 - **MITHILA MOTORS**
+* (77,841) PV19648 - **PRATHAPASINGHE PLANTAIONS**
+* (90,815) PV00201559 - **SEYLANTOUR**
+* (103,788) PV00211411 - **THE RUSH HAIR**
+* (116,762) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/3923*
