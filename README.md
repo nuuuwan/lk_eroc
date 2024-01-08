@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,081** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 09:01:08*.
+Scraped **128,080** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 09:12:23*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128081*
+*Sample of 10/128080*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,232) PV112754 - **BLYTON**
-* (28,463) PV10377 - **DILSHEY**
-* (42,694) PV15758 - **GORDEN TEA COMPANY**
-* (56,925) PV00216724 - **KECT MANAGEMENT SERVICES**
-* (71,156) PV00243685 - **MONOZUKURI MANUFACTURING SOLUTIONS**
-* (85,387) PV62028 - **PRINT OND**
-* (99,618) PV63178 - **SEVEN STAR CONSTRUCTION**
-* (113,849) PV858 - **THE PALACE HOTEL SIGIRIYA**
-* (128,081) PV118576 - **ZZAPPIT**
+* (14,232) PV00282698 - **BM EVENTS**
+* (28,463) PV00251796 - **DILSIORGANIC**
+* (42,694) PV21624 - **GORDON COMMODITIES**
+* (56,925)  - **KECT VIYEMA RECRUITMENT & TRANING**
+* (71,156) PV00210246 - **MONRAK TRADING**
+* (85,387) PV00200381 - **PRINT PIX**
+* (99,618) PV00242236 - **SEVEN STAR HOME & LAND**
+* (113,849) PV127119 - **THE PALACE OF ROYAL BATH**
+* (128,080) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **128,081** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116726*
+*Sample of 10/116725*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,970) PV98825 - **BLUE RIBBON**
-* (25,939) PV00279032 - **DIL ASIA TEAS**
-* (38,909) PV69502 - **GOLDEN ENGINEERING**
-* (51,878) PV98566 - **KANWIN ADVERTISING**
-* (64,848) PV87902 - **MITKO FAMILY HEALTH CARE**
-* (77,817) PV107592 - **PRAVEEN MIRANDO PHOTOGRAPHY**
-* (90,787) PV12176 - **SEYO LANKA**
-* (103,756) PV00290742 - **THE SANDCASTLE**
-* (116,726) PV118576 - **ZZAPPIT**
+* (12,970) PV00276993 - **BLUE RIBBON CEYLON**
+* (25,939) PV107871 - **DIL ASIAN LANKA**
+* (38,909) PV00214742 - **GOLDEN ENTERPRISES MARKETING**
+* (51,878) PV82062 - **KANWIN CREDIT**
+* (64,847) PV87902 - **MITKO FAMILY HEALTH CARE**
+* (77,817) PV00286083 - **PRAVEINAA CREATIONS & INSTITUTE**
+* (90,786) PV12176 - **SEYO LANKA**
+* (103,755) PV00290742 - **THE SANDCASTLE**
+* (116,725) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/3952*
