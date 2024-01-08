@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,991** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 18:44:07*.
+Scraped **127,995** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 19:01:49*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127991*
+*Sample of 10/127995*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,222) PV00244417 - **BLUSH & WISH**
-* (28,443) PV00207888 - **DILSHAN SILVA CONSTRUCTION**
-* (42,664) PV00208586 - **GOODWOOD AIR PORT HOTEL**
-* (56,885)  - **KEAPER**
-* (71,106) PV00221873 - **MONKEY TOKE PROPERTIES**
-* (85,327) PV11187 - **PRINEX ENTERPRISES**
-* (99,548) PV104163 - **SEVEN WAVES INTERNATIONAL**
-* (113,769) PV00234950 - **THE PERFECTIONARY**
-* (127,991) PV118576 - **ZZAPPIT**
+* (28,444) PV00260528 - **DILSHAN SILVA HOLDINGS**
+* (42,665) PV12549 - **GOODWOOD DESIGNS**
+* (56,887) PV00242670 - **KEANU HOLDINGS**
+* (71,108) PV00225078 - **MONKEY DELIVERIES**
+* (85,330) PV11187 - **PRINEX ENTERPRISES**
+* (99,551) PV104163 - **SEVEN WAVES INTERNATIONAL**
+* (113,773) PV00234950 - **THE PERFECTIONARY**
+* (127,995) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **127,991** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116611*
+*Sample of 10/116616*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,957) PV110937 - **BLUE RAY SECURITY**
-* (25,914) PV78881 - **DIKOTIMI LANKA**
-* (38,871) PV00286675 - **GOLDEN CREATION**
-* (51,827) PV94128 - **KANTHI INTERNATIONAL TRAVEL AGENCY**
-* (64,784) PV00249164 - **MITHARA ENTERPRISES**
-* (77,741) PV91649 - **PRASHANS CONSTRUCTIONS**
-* (90,697) PV00289536 - **SFC AGRO**
-* (103,654) PV00209055 - **THE SHOWTIME LANKA**
-* (116,611) PV118576 - **ZZAPPIT**
+* (12,958) PV110937 - **BLUE RAY SECURITY**
+* (25,915) PV78881 - **DIKOTIMI LANKA**
+* (38,872) PV00286675 - **GOLDEN CREATION**
+* (51,829) PV00263621 - **KANTHAVALLY DREAMZAM CRAFT**
+* (64,787) PV76644 - **MITHARA APPAREL SERVICES**
+* (77,744) PV117675 - **PRASHAKTHI JANITORIAL SERVICES**
+* (90,701) PV00291508 - **SF MODELING & GARMENTS**
+* (103,658) PV00273771 - **THE SHOWROOM**
+* (116,616) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3960*
+*Sample of 10/3959*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
-* (440)  - **BRIDE IN STYLE**
-* (880)  - **DINEHUTZ**
-* (1,320)  - **GO VIRAL**
-* (1,760)  - **KANDY RADIO ENGINEERS**
-* (2,200)  - **MOTOR MASTER LANKA**
-* (2,640)  - **POWER GRID SOLUTIONS**
-* (3,080)  - **SHAVOLA**
-* (3,520)  - **THE MLA PARTNERS**
-* (3,960)  - **ZULACART**
+* (440)  - **BRILLIANT JEWELLERS COLOMBO**
+* (880)  - **DINETH HOLDINGS**
+* (1,320)  - **GOBIAN GEMS AND JEWELLERY INTERNATIONAL**
+* (1,760)  - **KANDYAN AESTHETICS**
+* (2,199)  - **MOTOTEK LANKA**
+* (2,639)  - **POWER HANDS AUTO MOBILE**
+* (3,079)  - **SHAZDA BEAUTY COSMIC**
+* (3,519)  - **THE MLA PARTNERS**
+* (3,959)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2766*
