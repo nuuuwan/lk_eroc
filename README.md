@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,076** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 12:27:26*.
+Scraped **128,076** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 12:59:22*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -39,32 +39,32 @@ Scraped **128,076** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116717*
+*Sample of 10/116716*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,969) PV89598 - **BLUE ROCK HOLDINGS**
 * (25,937) PV92974 - **DIL SERENDIB PIONEER INTERNATIONAL MARITIME SERVICES**
 * (38,906) PV00203694 - **GOLDEN EAZY CASH**
-* (51,874) PV00202014 - **KANVERI SOLUTIONS & TRADING**
-* (64,843) PV00286143 - **MITO LANKA TRADING**
-* (77,811) PV11567 - **PRAWARDHANA ADVERTISING SERVICES**
-* (90,780) PV95723 - **SEZA LEISURE**
-* (103,748) PV71111 - **THE SAPPHIRE GROUP**
-* (116,717) PV118576 - **ZZAPPIT**
+* (51,874) PV72486 - **KANVIL VACATIONS**
+* (64,842) PV00286143 - **MITO LANKA TRADING**
+* (77,811) PV105804 - **PRAWCUT**
+* (90,779) PV95723 - **SEZA LEISURE**
+* (103,747) PV71111 - **THE SAPPHIRE GROUP**
+* (116,716) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3947*
+*Sample of 10/3948*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (439)  - **BRITAIN BOTTLED WATER**
-* (877)  - **DIMO SOLAR GALLE**
+* (878)  - **DIMO SOLAR KEKIRAWA**
 * (1,316)  - **GOLDEN SHINE EDUCATION SOLUTIONS**
-* (1,754)  - **KAPRUKA BIO FOODS**
-* (2,193)  - **MOTOR MASTER LANKA**
-* (2,631)  - **POWER GRID SOLUTIONS**
-* (3,070)  - **SHAVOLA**
-* (3,508)  - **THE LEMON TREE RESTAURANT**
-* (3,947)  - **ZULACART**
+* (1,755)  - **KAPRUKA BIO FOODS**
+* (2,193)  - **MOTOFIX**
+* (2,632)  - **POWER GRID SOLUTIONS**
+* (3,070)  - **SHASTA LANKA ENTERPRISE**
+* (3,509)  - **THE LEMON TREE RESTAURANT**
+* (3,948)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2763*
