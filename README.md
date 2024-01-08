@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,975** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 22:17:46*.
+Scraped **127,977** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-09 00:15:56*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127975*
+*Sample of 10/127977*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,220) PV00288078 - **BM LANKA IMPORTS**
-* (28,439) PV00256585 - **DILU ENGINEERING**
-* (42,659) PV00206480 - **GOPRO CONSULTANCY GROUP**
-* (56,878) PV71563 - **KEBITIGOLLAWA PLANTATION**
-* (71,097) PV00269995 - **MONOLITH INTERNATIONAL**
-* (85,317) PV61555 - **PRINT - N - GARD**
-* (99,536) PV101700 - **SEVEN WONDER TRADING COMPANY**
-* (113,755) PV00223237 - **THE PETMARK**
-* (127,975) PV118576 - **ZZAPPIT**
+* (14,220) PV00279657 - **BM SEVEN**
+* (28,440) PV00285794 - **DILU PROFIT MART**
+* (42,659) PV20315 - **GOPSANS PRINTERS**
+* (56,879) PV66628 - **KEBLE COLLEGE**
+* (71,098) PV130791 - **MONOLITH ENGINEERING SOLUTIONS**
+* (85,318) PV00220813 - **PRINT  ROOM**
+* (99,537) PV117674 - **SEVEN WINGS ENGINEERING**
+* (113,757) PV00223237 - **THE PETMARK**
+* (127,977) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -42,29 +42,29 @@ Scraped **127,975** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 2
 *Sample of 10/116603*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,956) PV109731 - **BLUE SANDS BACH**
-* (25,912) PV92688 - **DIL CONSULTANCY**
-* (38,868) PV91067 - **GOLDEN EAGLE SECURIY AND INVESTIGATION**
-* (51,824) PV00285133 - **KANTO AUTO**
-* (64,779) PV4881 - **MITHPACKS**
+* (12,956) PV109278 - **BLUE SAPPHIRE CAPITAL**
+* (25,912) PV9465 - **DIL FOODS**
+* (38,868) PV117711 - **GOLDEN EAGLE.K.T.**
+* (51,824) PV111645 - **KANTO CERAMICS**
+* (64,779) PV1443 - **MITHILA MOTORS**
 * (77,735) PV00287331 - **PRASHASTHI**
 * (90,691) PV00265351 - **SFM GROUP OF COMPANY**
 * (103,647) PV92799 - **THE SINGAPORE CLINIC**
 * (116,603) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3958*
+*Sample of 10/3961*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
-* (440)  - **BRIDE IN STYLE**
-* (880)  - **DINEHUTZ**
-* (1,320)  - **GO VIRAL**
-* (1,759)  - **KANGANA TRANSPORTA**
-* (2,199)  - **MR IMPORTERS & DISTRIBUTORS**
-* (2,639)  - **POWER HANDS AUTO MOBILE**
-* (3,078)  - **SHASTA LANKA ENTERPRISE**
-* (3,518)  - **THE LND CLOTHING**
-* (3,958)  - **ZULACART**
+* (441)  - **BRILLIANT JEWELLERS COLOMBO**
+* (881)  - **DINEHUTZ**
+* (1,321)  - **GO VIRAL**
+* (1,761)  - **KANILRO ENGINEERING**
+* (2,201)  - **MOUNT DENTAL CARE**
+* (2,641)  - **POWER GRID SOLUTIONS**
+* (3,081)  - **SHASTA LANKA ENTERPRISE**
+* (3,521)  - **THE LND CLOTHING**
+* (3,961)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2766*
@@ -109,18 +109,18 @@ Scraped **127,975** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 2
 * (742) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
 
 ### "NF"
-*Sample of 10/520*
+*Sample of 10/519*
 ![data/word_clouds/word_cloud_NF.png](data/word_clouds/word_cloud_NF.png)
 * (1) NF137 - **AB FINLANKA**
-* (58) NF6 - **BUNOUGHS WELLCOME (FAR-EAST)**
-* (116) NF225 - **DUTTON II TRADING**
-* (174) NF663 - **HAVELL`S INDIA**
-* (231) NF300 - **KSP**
-* (289) NF278 - **MY INTERNATIONAL CO.**
-* (347) NF597 - **PRACTICAL ACTION**
-* (404) NF384 - **SMITH & NEPHEW**
-* (462) NF403 - **TOPWARD**
-* (520) NF711 - **ZTE CORPORATION**
+* (58) NF315 - **CANADIAN COLLEGE OF BUSINESS COMPUTERS INC.**
+* (116) NF157 - **EAST OCEAN**
+* (173) NF663 - **HAVELL`S INDIA**
+* (231) NF582 - **KUBOTA CORPORATION**
+* (288) NF278 - **MY INTERNATIONAL CO.**
+* (346) NF597 - **PRACTICAL ACTION**
+* (403) NF384 - **SMITH & NEPHEW**
+* (461) NF403 - **TOPWARD**
+* (519) NF711 - **ZTE CORPORATION**
 
 ### "FC"
 *Sample of 10/374*
