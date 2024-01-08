@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,980** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 19:27:18*.
+Scraped **127,979** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 19:43:03*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127980*
+*Sample of 10/127979*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,220) PV00276518 - **BM INTERNATIONAL**
 * (28,440) PV00251796 - **DILSIORGANIC**
-* (42,660) PV85041 - **GOOLMAART ENTERPRISES**
-* (56,880) PV75908 - **KEBA ELECTRONICS**
-* (71,100) PV80726 - **MONOCLE**
-* (85,320) PV00220813 - **PRINT  ROOM**
-* (99,540) PV87355 - **SEVEN''S P S A SOLUTIONS**
-* (113,760) PV00235087 - **THE PET STORE**
-* (127,980) PV118576 - **ZZAPPIT**
+* (42,660) PV00271452 - **GOONATILLAKE ELECTRICALS**
+* (56,880) PV00211012 - **KEBAZZ TECHNOLOGIES**
+* (71,099) PV80726 - **MONOCLE**
+* (85,319) PV00220813 - **PRINT  ROOM**
+* (99,539) PV87355 - **SEVEN''S P S A SOLUTIONS**
+* (113,759) PV00235087 - **THE PET STORE**
+* (127,979) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -137,18 +137,18 @@ Scraped **127,980** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 1
 * (374) FC1065 - **ZIBO GUANGZHENG ALKALI ALUMINIUM CHEMICAL INDUSTRY CO.,**
 
 ### "F"
-*Sample of 10/212*
+*Sample of 10/211*
 ![data/word_clouds/word_cloud_F.png](data/word_clouds/word_cloud_F.png)
 * (1) F350 - **ALGEMENE BANK NEDERLAND**
 * (24) F41 - **BOMBAY LIFE ASSURANCE CO.**
 * (47) F11 - **EAGLE STAR INSURANCE CO.**
-* (71) F91 - **HOME INSURANCE CO.**
-* (94) F47 - **LONDON & LANKASHIRE INSURANCE CO.**
-* (118) F55 - **NEWZELAND INS. CO.**
-* (141) F59 - **ROYAL INSURANCE CO.**
-* (165) F172 - **STERLING GEN INS CO**
-* (188) F97 - **THE OCEAN ACCIDENT & GUARANTEE CORPORATIO**
-* (212) F268 - **Y CICHAEL**
+* (71) F306 - **HYATT OF CEYLON**
+* (94) F201 - **LONDON AND OVERSEAS INS. CO.**
+* (117) F55 - **NEWZELAND INS. CO.**
+* (141) F317 - **ROYAL NEPAL AIR LINES CORPORATION**
+* (164) F172 - **STERLING GEN INS CO**
+* (187) F97 - **THE OCEAN ACCIDENT & GUARANTEE CORPORATIO**
+* (211) F268 - **Y CICHAEL**
 
 ### "PQ"
 *Sample of 10/161*
