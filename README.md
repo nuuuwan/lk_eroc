@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,073** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 06:28:33*.
+Scraped **128,073** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 07:07:34*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -24,13 +24,13 @@ Scraped **128,073** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-08 0
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00289249 - **AUTO CLIC**
-* (112) PV00289412 - **INVENT OF MINDS**
-* (223) PV00289566 - **SHEPAS HOLDINGS**
-* (334) PV00289736 - **RO VFX STUDIOS**
-* (445) PV00289908 - **FAST TRACK TRAVELS & TOURS**
-* (556) PV00290170 - **VIVID MOTIONS**
-* (667) PV00290507 - **NORTH STAR PROPERTY**
+* (1) PV00289250 - **REISEN LANKA TOURS**
+* (112) PV00289413 - **DREAM INN SPA**
+* (223) PV00289567 - **CEYLON HERBS**
+* (334) PV00289737 - **NS IT NETWORK SOLUTIONS**
+* (445) PV00289910 - **KETHMIN AGRO**
+* (556) PV00290174 - **GRANT ENGINEERING SERVICES**
+* (667) PV00290511 - **FRONTIER AUTO IMPORTS**
 * (778) PV00290895 - **PEOPLESHR SOLUTIONS**
 * (889) PV00291306 - **YUMNA'S HOLDINGS**
 * (1,000) PV00291668 - **AARO CEYLON GROUP**
