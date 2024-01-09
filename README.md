@@ -2,35 +2,35 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,964** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-09 12:15:58*.
+Scraped **127,963** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-09 14:15:44*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127964*
+*Sample of 10/127963*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,219) PV106805 - **BMAX HOLDINGS**
 * (28,437) PV00232820 - **DILU PRODUCTS**
 * (42,655) PV20158 - **GOPSONS LANKA**
-* (56,873) PV82827 - **KEBITIGOLLEWA SOLAR POWER**
-* (71,091)  - **MONOMART**
-* (85,309) PV61555 - **PRINT - N - GARD**
-* (99,527) PV93428 - **SEVENA CITY HOTEL**
-* (113,745) PV00223237 - **THE PETMARK**
-* (127,964) PV118576 - **ZZAPPIT**
+* (56,873) PV71563 - **KEBITIGOLLAWA PLANTATION**
+* (71,091) PV00206974 - **MONOLITH LIFE**
+* (85,309) PV104611 - **PRINT 77**
+* (99,527) PV9689 - **SEVENA INDUSTRIES**
+* (113,745) GA2925 - **THE PETROLEUM DEALERS'' ASSOCIATION**
+* (127,963) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00289351 - **LANKA HEALTHBOOK**
-* (112) PV00289513 - **GLOWME**
-* (223) PV00289658 - **SACKTHI A FORAGE**
-* (334) PV00289839 - **LIVE OAK FOOD**
-* (445) PV00290037 - **D MAX ENTERTAINMENT**
-* (556) PV00290338 - **NORD INTERNATIONAL**
-* (667) PV00290655 - **GLOBAL SURF LODGE INVESTMENT**
+* (1) GL00289352 - **MOJO MEDIA**
+* (112) PV00289514 - **WOOD COUTURE**
+* (223) PV00289659 - **SUMITHTHA JYOTHISHA SEWA**
+* (334) PV00289840 - **SEVINCO INDUSTRIES**
+* (445) PV00290038 - **INDHU BRIDAL AND BEAUTY**
+* (556) PV00290343 - **TOVATRIX**
+* (667) PV00290656 - **THE STREET CAFE N KITCHEN**
 * (778) PV00291011 - **THE URBAN DNAS**
 * (889) PV00291371 - **SALON BLISS BY ASHI**
 * (1,000) PV00291752 - **KONARK**
@@ -44,27 +44,27 @@ Scraped **127,964** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-09 1
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,954) PV109278 - **BLUE SAPPHIRE CAPITAL**
 * (25,908) PV00239181 - **DIL CHEM**
-* (38,862) PV00203694 - **GOLDEN EAZY CASH**
-* (51,816) PV00262042 - **KANTON GARMENT**
-* (64,770) PV00278312 - **MITHRARCH**
+* (38,862) PV122480 - **GOLDEN EARTH LANKA**
+* (51,816) PV111645 - **KANTO CERAMICS**
+* (64,770) PV4881 - **MITHPACKS**
 * (77,724) PV91082 - **PRATHAP CHARTERED VALUATION AND CONSULTANCY**
 * (90,678) PV00260045 - **SGM APPARELS**
 * (103,632) PV00239706 - **THE SIYA ENTERPRISE INVESTMENT COMPANY**
 * (116,586) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3965*
+*Sample of 10/3964*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (441)  - **BRINE & COMPANY**
 * (881)  - **DINETH HOLDINGS**
-* (1,322)  - **GOLD ISLAND AGRO**
-* (1,762)  - **KANILRO ENGINEERING**
-* (2,203)  - **MR KOTTU**
-* (2,643)  - **POWER GRID SOLUTIONS**
-* (3,084)  - **SHARIFF CLOTHING**
-* (3,524)  - **THE LECTURE HALL**
-* (3,965)  - **ZULACART**
+* (1,322)  - **GOLDEN ENERGY HOLDINGS**
+* (1,762)  - **KANSEI NIPPON**
+* (2,202)  - **MR KOTTU**
+* (2,643)  - **POWER HANDS AUTO MOBILE**
+* (3,083)  - **SHARIFF CLOTHING**
+* (3,523)  - **THE LECTURE HALL**
+* (3,964)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2767*
