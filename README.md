@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,930** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-13 00:15:49*.
+Scraped **127,929** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-13 02:15:19*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127930*
+*Sample of 10/127929*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,215) PV00270932 - **BMS FEED MILLS**
 * (28,429) PV69381 - **DILURAN COLOUR WORLD**
-* (42,644) PV00234167 - **GORDON'S L K**
-* (56,858) PQ3 - **KEELLS FOOD PRODUCTS**
-* (71,072) PV101028 - **MONTE ZITA RESTAURANTS**
-* (85,287) PV62717 - **PRINT TECH SOLUTIONS**
-* (99,501) PV119296 - **SEVENS INVESTMENT AND PROPERTIES**
-* (113,715) PV00232974 - **THE PET FOOD AND AGRI BUSINESSES**
-* (127,930) PV118576 - **ZZAPPIT**
+* (42,643) PV00234167 - **GORDON'S L K**
+* (56,857) PQ3 - **KEELLS FOOD PRODUCTS**
+* (71,072) PV00213996 - **MONTEC INTERNATIONAL HOLDINGS**
+* (85,286) PV62717 - **PRINT TECH SOLUTIONS**
+* (99,500) PV119296 - **SEVENS INVESTMENT AND PROPERTIES**
+* (113,714) PV00232974 - **THE PET FOOD AND AGRI BUSINESSES**
+* (127,929) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **127,930** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-13 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116573*
+*Sample of 10/116571*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,953) PV00229678 - **BLUE SHADOW HOLDINGS**
 * (25,905) PV70980 - **DIL PHARMACEUTICALS**
-* (38,858) PV00206905 - **GOLDEN DREAMS CREDIT**
-* (51,810) PV96191 - **KANWIN CREDIT KURUNEGALA**
-* (64,763) PV132010 - **MITRA S K LANKA**
-* (77,715) PV00205324 - **PRAVENTURE  HOLDINGS**
-* (90,668) PV00262006 - **SHA & SON'S PRODUCTS**
-* (103,620) PV92799 - **THE SINGAPORE CLINIC**
-* (116,573) PV118576 - **ZZAPPIT**
+* (38,857) PV00236970 - **GOLDEN EAGLE BREWERIES**
+* (51,809) PV109698 - **KANY INVESTMENT AND CREDIT**
+* (64,762) PV4500 - **MITRAJAYA DEVELOPMENT LANKA**
+* (77,714) PV00204660 - **PRAVINCO STEEL FURNITURE**
+* (90,666) PV00262006 - **SHA & SON'S PRODUCTS**
+* (103,618) PV92799 - **THE SINGAPORE CLINIC**
+* (116,571) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3973*
+*Sample of 10/3974*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (442)  - **BRINE & COMPANY**
 * (883)  - **DIRIYA DIYANI KANTHA**
-* (1,325)  - **GOONESINGHE ASSOCIATES LAW FIRM**
-* (1,766)  - **KAVEE FASHIONS**
-* (2,207)  - **MSA REALTY HOLDINGS**
-* (2,649)  - **PR AMAZEN INTERNATIONAL**
-* (3,090)  - **SHANTEC ENTERPRISE**
-* (3,531)  - **THE LOVER**
-* (3,973)  - **ZULACART**
+* (1,325)  - **GOOGLES LANKA**
+* (1,766)  - **KATTANKUDY FORUM FOR PROFESSIONALS AND CIVIL INSTITUTIONS**
+* (2,208)  - **MSA REALTY HOLDINGS**
+* (2,649)  - **POWERTON**
+* (3,091)  - **SHANTEC ENTERPRISE**
+* (3,532)  - **THE LOVER**
+* (3,974)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2768*
