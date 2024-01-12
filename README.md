@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,943** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-12 18:22:41*.
+Scraped **127,943** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-12 20:15:18*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -14,8 +14,8 @@ Scraped **127,943** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-12 1
 * (14,216) PV00282698 - **BM EVENTS**
 * (28,432) PV00232820 - **DILU PRODUCTS**
 * (42,648) PV20158 - **GOPSONS LANKA**
-* (56,864) PV00217691 - **KEDELLA RESIDENCE**
-* (71,079) PV99229 - **MONTACE TRAVELS & TOURS**
+* (56,864) PV00211742 - **KEDGE ENTERPRISES**
+* (71,079) PV00225155 - **MONTARE**
 * (85,295) PV00200381 - **PRINT PIX**
 * (99,511) PV00227156 - **SEVENRAY GLOBAL HOLDINGS**
 * (113,727) PV00202413 - **THE PERFORMANCE SYNDICATE**
@@ -45,8 +45,8 @@ Scraped **127,943** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-12 1
 * (12,955) PV109731 - **BLUE SANDS BACH**
 * (25,909) PV83216 - **DIL - T INDUSTRIES AND MECHANERY**
 * (38,863) PV00286675 - **GOLDEN CREATION**
-* (51,817) PV00202014 - **KANVERI SOLUTIONS & TRADING**
-* (64,772) PV00274540 - **MITHWA INDUSTRIES**
+* (51,817) PV00240539 - **KANVINDE FUNDS**
+* (64,772) PV00214257 - **MITKO GATEWAY ABROAD**
 * (77,726) PV00205324 - **PRAVENTURE  HOLDINGS**
 * (90,680) PV00273915 - **SH GEMS**
 * (103,634) PV00245829 - **THE SILVA INTERNATIONAL HOLDINGS**
@@ -59,8 +59,8 @@ Scraped **127,943** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-12 1
 * (441)  - **BRILLIANT JEWELLERS COLOMBO**
 * (882)  - **DIRIYA CAPITAL**
 * (1,323)  - **GOOD LIFE SUPER CENTER**
-* (1,764)  - **KATEE ROTEE**
-* (2,205)  - **MT BUYING AND SELLING CONTRACTORS**
+* (1,764)  - **KASTHURI AGRO**
+* (2,205)  - **MSA REALTY HOLDINGS**
 * (2,646)  - **POWERTON**
 * (3,087)  - **SHANI TRAVELS**
 * (3,528)  - **THE LOVER**
