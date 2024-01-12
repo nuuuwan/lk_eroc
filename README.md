@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,959** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-12 04:15:15*.
+Scraped **127,960** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-12 06:30:29*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127959*
+*Sample of 10/127960*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,218) PV00282698 - **BM EVENTS**
-* (28,436) PV00285794 - **DILU PROFIT MART**
-* (42,653) PV15758 - **GORDEN TEA COMPANY**
-* (56,871) PV00245255 - **KEDT ENGINEERING**
-* (71,088) PV8111 - **MONTE VISTA COLLEGE**
-* (85,306) PV65356 - **PRINT XCEL**
-* (99,523) PV00224400 - **SEVENRAY INVESTMENTS**
-* (113,741) PV00262503 - **THE PETAL COLLECTIVE**
-* (127,959) PV118576 - **ZZAPPIT**
+* (28,436) PV00232820 - **DILU PRODUCTS**
+* (42,654) PV15758 - **GORDEN TEA COMPANY**
+* (56,871) PV82880 - **KEDKO FOODS**
+* (71,089) PV8111 - **MONTE VISTA COLLEGE**
+* (85,307) PV65356 - **PRINT XCEL**
+* (99,524) PV00224400 - **SEVENRAY INVESTMENTS**
+* (113,742) PV00262503 - **THE PETAL COLLECTIVE**
+* (127,960) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **127,959** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-12 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116592*
+*Sample of 10/116593*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,955) PV109278 - **BLUE SAPPHIRE CAPITAL**
-* (25,910) PV94715 - **DIL FOODS AGRO PRODUTS**
-* (38,864) PV00270773 - **GOLDEN DISTRIBUTORS**
-* (51,819) PV88703 - **KANWILL INVESTMENT**
-* (64,773) PV132010 - **MITRA S K LANKA**
-* (77,728) PV132147 - **PRD RIGS LANKA**
-* (90,682) PV00279781 - **SHA & SHA PRINTING**
-* (103,637) PV91140 - **THE SKYFLY INTERNATIONAL**
-* (116,592) PV118576 - **ZZAPPIT**
+* (25,910) PV9465 - **DIL FOODS**
+* (38,865) PV00270773 - **GOLDEN DISTRIBUTORS**
+* (51,819) PV105997 - **KANWILL ENVIRONMENTAL SOLUTIONS**
+* (64,774) PV132010 - **MITRA S K LANKA**
+* (77,729) PV132147 - **PRD RIGS LANKA**
+* (90,683) PV00279781 - **SHA & SHA PRINTING**
+* (103,638) PV91140 - **THE SKYFLY INTERNATIONAL**
+* (116,593) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/3970*
