@@ -2,33 +2,33 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,933** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-13 10:15:34*.
+Scraped **127,938** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-13 12:15:20*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127933*
+*Sample of 10/127938*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,215) PV00270932 - **BMS FEED MILLS**
-* (28,430) PV00289929 - **DILUXE CREATIONS**
-* (42,645) PV62950 - **GORMITTHIYA INTERNATIONAL**
-* (56,859) PV88323 - **KEEN COIR PRODUCTS**
-* (71,074) PV00276484 - **MONTFORT INTERNATIONAL**
-* (85,289) PV107007 - **PRINT X LANKA**
-* (99,503) PV00242706 - **SEVENS SPA**
-* (113,718) PV00265579 - **THE PHARMACY**
-* (127,933) PV118576 - **ZZAPPIT**
+* (14,216)  - **BMS SOLUTIONS**
+* (28,431) PV00283393 - **DILY WHITTLER**
+* (42,646) PV00211519 - **GORGEOUS LANKA TOURS**
+* (56,861) PV3626 - **KEEN APPAREL SERVICES**
+* (71,077) NF202 - **MONTEX**
+* (85,292) PV5031 - **PRINT USA**
+* (99,507) PV119296 - **SEVENS INVESTMENT AND PROPERTIES**
+* (113,722) PV8846 - **THE PHARMACO**
+* (127,938) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00289413 - **DREAM INN SPA**
-* (112) PV00289564 - **MATHRA NATURAL**
-* (223) PV00289726 - **LANGSTRASE INVESTITIONEN**
-* (334) PV00289898 - **RESTY HOUSE**
-* (445) PV00290125 - **BOB HOLDINGS**
+* (1) PV00289414 - **AQUAFORCE HYDRO SOLUTIONS**
+* (112) PV00289565 - **WGL LOGISTICS CO**
+* (223) PV00289731 - **WEB WAWE**
+* (334) PV00289899 - **EAGLE GROUP OF COMPANY**
+* (445) PV00290127 - **AXIS INSTRUMENTS**
 * (556) PV00290432 - **EREESHMA STEEL FABRIC**
 * (667) PV00290772 - **CONDOR GOLF ACADEMY**
 * (778) PV00291083 - **JAYABIMA INTERNATIONAL**
@@ -39,32 +39,32 @@ Scraped **127,933** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-13 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116574*
+*Sample of 10/116578*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,953) PV96528 - **BLUE SEA INTERNATIONAL**
-* (25,906) PV00219960 - **DIL'S AIR INTERNATIONAL**
-* (38,858) PV117711 - **GOLDEN EAGLE.K.T.**
-* (51,811) PV00265006 - **KANZA ENTERPRISES**
-* (64,763) PV8919 - **MITSHU MARKETING**
-* (77,716) PV9309 - **PRAWN CEYLON**
-* (90,668) PV00241875 - **SHA AGRO PRODUCTS**
-* (103,621) PV00246930 - **THE SMART AVENUE**
-* (116,574) PV118576 - **ZZAPPIT**
+* (12,954) PV00229678 - **BLUE SHADOW HOLDINGS**
+* (25,907) PV00217723 - **DIL'S STAR RESTAURANT**
+* (38,860) PV117711 - **GOLDEN EAGLE.K.T.**
+* (51,813) PV00265006 - **KANZA ENTERPRISES**
+* (64,766) PV88713 - **MITRANS SHIPPING AGENCY**
+* (77,719) PV74063 - **PRAWN BREEDERS**
+* (90,672) PV00241875 - **SHA AGRO PRODUCTS**
+* (103,625) PV00246930 - **THE SMART AVENUE**
+* (116,578) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3975*
+*Sample of 10/3976*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (442)  - **BRIO NET BAZAAR**
 * (884)  - **DIVINE HARVEST LANKA**
-* (1,325)  - **GOONESINGHE ASSOCIATES LAW FIRM**
-* (1,767)  - **KAVIKARA HOLDINGS**
-* (2,208)  - **MSA MARITIME SERVICES**
-* (2,650)  - **POWER HUT**
-* (3,091)  - **SHANI TRAVELS**
-* (3,533)  - **THE LOVER**
-* (3,975)  - **ZULACART**
+* (1,326)  - **GOONESINGHE ASSOCIATES LAW FIRM**
+* (1,767)  - **KAVEE FASHIONS**
+* (2,209)  - **MSA MARITIME SERVICES**
+* (2,651)  - **POWER HUT**
+* (3,092)  - **SHANI TRAVELS**
+* (3,534)  - **THE LOVER**
+* (3,976)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2767*
