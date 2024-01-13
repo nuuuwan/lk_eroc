@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,938** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-13 12:15:20*.
+Scraped **127,939** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-13 14:15:04*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127938*
+*Sample of 10/127939*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,216)  - **BMS SOLUTIONS**
 * (28,431) PV00283393 - **DILY WHITTLER**
-* (42,646) PV00211519 - **GORGEOUS LANKA TOURS**
-* (56,861) PV3626 - **KEEN APPAREL SERVICES**
+* (42,647) PV103563 - **GORGEOUS PRODUCTIONS**
+* (56,862) PV88323 - **KEEN COIR PRODUCTS**
 * (71,077) NF202 - **MONTEX**
-* (85,292) PV5031 - **PRINT USA**
-* (99,507) PV119296 - **SEVENS INVESTMENT AND PROPERTIES**
-* (113,722) PV8846 - **THE PHARMACO**
-* (127,938) PV118576 - **ZZAPPIT**
+* (85,293) PV81260 - **PRINT WORLD**
+* (99,508) PV00242706 - **SEVENS SPA**
+* (113,723) PV8846 - **THE PHARMACO**
+* (127,939) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **127,938** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-13 1
 * (116,578) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3976*
+*Sample of 10/3977*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (442)  - **BRIO NET BAZAAR**
 * (884)  - **DIVINE HARVEST LANKA**
 * (1,326)  - **GOONESINGHE ASSOCIATES LAW FIRM**
-* (1,767)  - **KAVEE FASHIONS**
+* (1,768)  - **KAVIKARA HOLDINGS**
 * (2,209)  - **MSA MARITIME SERVICES**
 * (2,651)  - **POWER HUT**
-* (3,092)  - **SHANI TRAVELS**
-* (3,534)  - **THE LOVER**
-* (3,976)  - **ZULACART**
+* (3,093)  - **SHANI TRAVELS**
+* (3,535)  - **THE LOVER**
+* (3,977)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2767*
