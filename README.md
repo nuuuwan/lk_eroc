@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,934** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-14 08:21:44*.
+Scraped **127,937** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-14 10:15:34*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127934*
+*Sample of 10/127937*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,215) PV112754 - **BLYTON**
-* (28,430) PV120247 - **DILUK DUTY FREE**
-* (42,645) PV122750 - **GOSEN CAPITAL**
-* (56,860) PV69196 - **KEEP ON TRACK ENGINEERING SERVICE SUPPLIES**
-* (71,074) PV00230605 - **MONTREAL INSTITUTE**
-* (85,289) PV14248 - **PRINTERS PRINTER**
-* (99,504) PV90231 - **SEVENT''S INVESTMENTS HOLDINGS**
-* (113,719) PV8846 - **THE PHARMACO**
-* (127,934) PV118576 - **ZZAPPIT**
+* (14,216) PV00276518 - **BM INTERNATIONAL**
+* (28,431) PV00211067 - **DILUKSHI CONSTRUCTION**
+* (42,646) PV121982 - **GOSETUP**
+* (56,861) PV69196 - **KEEP ON TRACK ENGINEERING SERVICE SUPPLIES**
+* (71,076) PV00277949 - **MONTREAL CEYLON**
+* (85,291) PV18533 - **PRINTER SUPPLIES**
+* (99,506) PV00204081 - **SEVENSTAR INTERNATIONAL**
+* (113,721) PV00288682 - **THE PETTAHKADE.LK**
+* (127,937) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -42,10 +42,10 @@ Scraped **127,934** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-14 0
 *Sample of 10/116564*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,952) PV00283208 - **BLUE SEA ADVERTISING AND MEDIA**
-* (25,903) PV00219960 - **DIL'S AIR INTERNATIONAL**
-* (38,855) PV00224275 - **GOLDEN ENERGY SOLUTION**
-* (51,806) PV66665 - **KAPALIA TOURS AND TRAVELS**
+* (12,952) PV99807 - **BLUE SEA DIVERS**
+* (25,903) PV00217723 - **DIL'S STAR RESTAURANT**
+* (38,855) PV69502 - **GOLDEN ENGINEERING**
+* (51,806) PV00255336 - **KAPI KADE GROUP**
 * (64,758) PV00259797 - **MITSUKI CAPITAL HOLDINGS**
 * (77,709) PV70206 - **PRECII**
 * (90,661) PV00260956 - **SHA CEYLON**
@@ -53,18 +53,18 @@ Scraped **127,934** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-14 0
 * (116,564) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/3988*
+*Sample of 10/3991*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (444)  - **BPP TRADING**
 * (887)  - **DINEHUTZ**
-* (1,330)  - **GOODWIN GENERAL TRADING**
-* (1,773)  - **KATTANKUDY FORUM FOR PROFESSIONALS AND CIVIL INSTITUTIONS**
-* (2,216)  - **MT BUYING AND SELLING CONTRACTORS**
-* (2,659)  - **POWERTON**
-* (3,102)  - **SHARIFF CLOTHING**
-* (3,545)  - **THE MOOT COURT BENCH**
-* (3,988)  - **ZULACART**
+* (1,331)  - **GOOGLES LANKA**
+* (1,774)  - **KATI CORNER**
+* (2,217)  - **MSA MARITIME SERVICES**
+* (2,661)  - **POWER HUT**
+* (3,104)  - **SHAPING THE FUTURE MOVEMENT**
+* (3,547)  - **THE MLA PARTNERS**
+* (3,991)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2761*
