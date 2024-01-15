@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **127,979** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-15 14:16:26*.
+Scraped **127,976** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-15 16:16:46*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/127979*
+*Sample of 10/127976*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,220) PV00271016 - **BLYMO**
-* (28,440) PV116153 - **DIMACO ENTERPRISES**
-* (42,660) PV119239 - **GOTOURS TRAVEL SERVICES**
-* (56,880) PV00273777 - **KEERTHY STAR**
-* (71,099) PV73565 - **MONTROSE DEVELOPMENTS**
-* (85,319) PV5454 - **PRINTNEAT**
-* (99,539) PV00255702 - **SEVINRICH CEYLON**
-* (113,759) GA3429 - **THE PHYSIOLOGICAL SOCIETY OF SRI LANKA**
-* (127,979) PV118576 - **ZZAPPIT**
+* (14,220) PV112315 - **BLUXO**
+* (28,439) PV107003 - **DIMA INVESTMENTS**
+* (42,659) PV00231013 - **GOTLAND HERON**
+* (56,878) PV70979 - **KEERTHIGA CONSTRUCTION**
+* (71,098) PV19263 - **MONTRECAN SERVICES**
+* (85,317) PV00286947 - **PRINTEX DESIGN**
+* (99,537) PV00253935 - **SEVINRO WASTE MANAGEMENT LANKA**
+* (113,756) GA3429 - **THE PHYSIOLOGICAL SOCIETY OF SRI LANKA**
+* (127,976) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **127,979** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-15 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116607*
+*Sample of 10/116604*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,957) PV00283208 - **BLUE SEA ADVERTISING AND MEDIA**
-* (25,913) PV00264512 - **DILAN HOLDINGS**
-* (38,869) PV82145 - **GOLDEN GRANITE**
-* (51,825) PV00247333 - **KAPRUKA E-COMMERCE**
-* (64,782) PV92620 - **MIWAMI HOLDINGS**
-* (77,738) PV00245575 - **PRECIOUS ORIENTING**
-* (90,694) PV76430 - **SHA MODERN HOMES**
-* (103,650) PV00227995 - **THE SMART HYDRO COMPANY**
-* (116,607) PV118576 - **ZZAPPIT**
+* (12,956) PV00210038 - **BLUE SAPPHIRE GAMING**
+* (25,912) PV00241213 - **DILAN FARM ORGANIC PRODUCE**
+* (38,868) PV128462 - **GOLDEN GATEWAY TRAVELS**
+* (51,824) PV00212865 - **KAPRISH**
+* (64,780) PV6001 - **MIURA DUTCH EDGE HOTEL**
+* (77,736) PV115023 - **PRECIOUS MICHAEL FOOT SPA & SALOON**
+* (90,692) PV20681 - **SHA MOTORS**
+* (103,648) PV78137 - **THE SMART MICRO CREDIT SOLUTIONS**
+* (116,604) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/3997*
@@ -61,7 +61,7 @@ Scraped **127,979** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-15 1
 * (1,333)  - **GOVI NIPAYUM ALEVI SANVIDHANAYA**
 * (1,777)  - **KAVEE FASHIONS**
 * (2,221)  - **MTECH HOLDNGS**
-* (2,665)  - **PRABASHWARA DEPALA WELADAM**
+* (2,665)  - **POWERTON**
 * (3,109)  - **SHAVOLA**
 * (3,553)  - **THE NEXT EDUCATION CONSULTANCY**
 * (3,997)  - **ZULACART**
