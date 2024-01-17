@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,027** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-17 14:16:02*.
+Scraped **128,028** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-17 16:16:16*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128027*
+*Sample of 10/128028*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,226) PV00270932 - **BMS FEED MILLS**
 * (28,451) PV98475 - **DIMAC VILLA**
 * (42,676) PV6126 - **GOURAV IMPORTS**
 * (56,901) PV13543 - **KEERTHIWANSA GROUP**
-* (71,126) PV00272377 - **MONUMENT RESOURCE CONSULTANCY**
-* (85,351) PV113633 - **PRINT ZONE**
-* (99,576) PV93428 - **SEVENA CITY HOTEL**
-* (113,801) PV00262503 - **THE PETAL COLLECTIVE**
-* (128,027) PV118576 - **ZZAPPIT**
+* (71,127) PV00201074 - **MONVI GRAPHIC SOLUTIONS**
+* (85,352) PV116216 - **PRINT ZONE EMBELLISHERS**
+* (99,577) PV9689 - **SEVENA INDUSTRIES**
+* (113,802) PV00262503 - **THE PETAL COLLECTIVE**
+* (128,028) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,027** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-17 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116651*
+*Sample of 10/116650*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,962) PV101322 - **BLUE SKIES EDUCATION CONSULTANTS**
 * (25,923) PV00281620 - **DILANJALINE HOLDINGS**
 * (38,884) PV00276105 - **GOLDEN HARVEST EXPORTS**
-* (51,845) PV00212846 - **KAPTIVE ADS**
-* (64,806) PV3825 - **MIYAKO AUTO TRADING**
-* (77,767) PV947 - **PRECISION FASTENERS**
-* (90,728) PV120256 - **SHA AGRO EXPORTS**
-* (103,689) PV127524 - **THE SMART GROUP INTERNATIONAL**
-* (116,651) PV118576 - **ZZAPPIT**
+* (51,845) PV00211671 - **KAPU SUNSHINE**
+* (64,806) PV63264 - **MIYAME ENTERPRISES**
+* (77,767) PV110300 - **PRECISION GAT**
+* (90,728) PV00292043 - **SHA BABY NEEDS**
+* (103,689) PV00227995 - **THE SMART HYDRO COMPANY**
+* (116,650) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4006*
+*Sample of 10/4008*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (446)  - **BRITISH HIGHER EDUCATION AND IMMIGRATION CONSULTANCY**
 * (891)  - **DK HOLDINGS**
 * (1,336)  - **GRAND ENGINEERING**
-* (1,781)  - **KAVIKARA HOLDINGS**
-* (2,226)  - **MSA REALTY HOLDINGS**
-* (2,671)  - **POUR & PERK**
-* (3,116)  - **SHAVOLA**
-* (3,561)  - **THE PHONE GARAGE**
-* (4,006)  - **ZULACART**
+* (1,781)  - **KAVEE FASHIONS**
+* (2,227)  - **MSA REALTY HOLDINGS**
+* (2,672)  - **POUR & PERK**
+* (3,117)  - **SHAVOLA**
+* (3,562)  - **THE NEXT EDUCATION CONSULTANCY**
+* (4,008)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2758*
