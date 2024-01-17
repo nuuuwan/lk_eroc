@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,025** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-17 06:30:23*.
+Scraped **128,031** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-17 08:19:22*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128025*
+*Sample of 10/128031*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,225) PV106805 - **BMAX HOLDINGS**
-* (28,450) PV122848 - **DILYA PRODUCTS**
-* (42,675) PV6126 - **GOURAV IMPORTS**
-* (56,900) PV13543 - **KEERTHIWANSA GROUP**
-* (71,125) NF136 - **MONTROSE MARKETING**
-* (85,350) PV65356 - **PRINT XCEL**
-* (99,575) PV122339 - **SEVENONE SEVEN**
-* (113,800) PV8846 - **THE PHARMACO**
-* (128,025) PV118576 - **ZZAPPIT**
+* (14,226) PV131040 - **BMER GROUP LANKA**
+* (28,452) PV70171 - **DIL`S ENTERPRISES**
+* (42,677) PV00275433 - **GOTRIKA BIJA**
+* (56,903) PV00254452 - **KEERTHIHA MALL**
+* (71,128) PV128008 - **MONTRELA CONSULTANTS**
+* (85,354) PV00273185 - **PRINT WIN**
+* (99,579) PV64925 - **SEVENEL COMPANY**
+* (113,805) PV00288682 - **THE PETTAHKADE.LK**
+* (128,031) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,025** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-17 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116648*
+*Sample of 10/116652*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,961) PV96528 - **BLUE SEA INTERNATIONAL**
-* (25,922) PV62121 - **DILAN TRAILER MANUFACTURING**
-* (38,883) PV84495 - **GOLDEN HARVEST COMMODITIES**
-* (51,844) PV00206397 - **KAPTCHA**
-* (64,804) PV00248782 - **MIXICO**
-* (77,765) PV00271524 - **PRECISION CUT**
-* (90,726) PV00245091 - **SHA BEAUTY SECRETS**
-* (103,687) PV78137 - **THE SMART MICRO CREDIT SOLUTIONS**
-* (116,648) PV118576 - **ZZAPPIT**
+* (12,962) PV00229678 - **BLUE SHADOW HOLDINGS**
+* (25,923) PV79812 - **DILANA CELLULAR**
+* (38,884) PV00210162 - **GOLDEN HANDS JEWELLERS**
+* (51,845) PV82338 - **KAPRUKA TECH ROOT  **
+* (64,807) PV00220007 - **MIXALOGY**
+* (77,768) PV00269830 - **PRECISION COMPOSITES**
+* (90,729) PV00292043 - **SHA BABY NEEDS**
+* (103,690) PV00227995 - **THE SMART HYDRO COMPANY**
+* (116,652) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4004*
+*Sample of 10/4006*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
-* (445)  - **BRIO NET BAZAAR**
-* (890)  - **DIYUNA INVESTMENTS AND HOLDINGS**
-* (1,335)  - **GRAND ENGINEERING**
-* (1,780)  - **KAVIKARA HOLDINGS**
-* (2,224)  - **MT BUYING AND SELLING CONTRACTORS**
-* (2,669)  - **POWER GRID SOLUTIONS**
-* (3,114)  - **SHAZ NANO TECHNOLOGIES**
-* (3,559)  - **THE PRETTY PLANNERS**
-* (4,004)  - **ZULACART**
+* (446)  - **BRITAIN BOTTLED WATER**
+* (891)  - **DK FOOD & BEVERAGE**
+* (1,336)  - **GRAND ENGINEERING**
+* (1,781)  - **KAVIKARA HOLDINGS**
+* (2,226)  - **MT BUYING AND SELLING CONTRACTORS**
+* (2,671)  - **POWER GRID SOLUTIONS**
+* (3,116)  - **SHAZ NANO TECHNOLOGIES**
+* (3,561)  - **THE PRETTY PLANNERS**
+* (4,006)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2759*
