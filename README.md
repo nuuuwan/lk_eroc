@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,068** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-18 06:30:29*.
+Scraped **128,074** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-18 08:19:33*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128068*
+*Sample of 10/128074*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,230) PV00276518 - **BM INTERNATIONAL**
-* (28,460) PV00200070 - **DILUKSHA MANPOWER & TRANSPORT**
-* (42,690) PV00232928 - **GOT PINK**
-* (56,919) PV101947 - **KEERTHI GUNAWARDANA CONSTRUCTION**
-* (71,149) PV00207964 - **MONTPELLIER & CO**
-* (85,379) PV00273185 - **PRINT WIN**
-* (99,608) PV93428 - **SEVENA CITY HOTEL**
-* (113,838) PV00214764 - **THE PEN FACTORY**
-* (128,068) PV118576 - **ZZAPPIT**
+* (14,231) PV00229889 - **BLYTHEBURY INVESTMENTS**
+* (28,461) PV00278145 - **DILU SPA AND BEAUTY SALON**
+* (42,692) PV00244136 - **GOSSIP LANKA NEWS**
+* (56,922) PV7606 - **KEERTHI FOOD CITY**
+* (71,152) PV00207964 - **MONTPELLIER & CO**
+* (85,383) PV81260 - **PRINT WORLD**
+* (99,613) PV64925 - **SEVENEL COMPANY**
+* (113,843) PV00260316 - **THE PEOPLE INVESTMENT**
+* (128,074) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,068** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-18 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116680*
+*Sample of 10/116685*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,965) PV125564 - **BLUE SAPPHIRE TRADING**
-* (25,929) PV12365 - **DILAKTA PRINTS**
-* (38,894) PV125420 - **GOLDEN GRANITES MINING AND MINERALS**
-* (51,858) PV85272 - **KAPRUKA ENVIRONMENT FRIENDLY COMPANY**
-* (64,822) PV92620 - **MIWAMI HOLDINGS**
-* (77,787) PV00269830 - **PRECISION COMPOSITES**
-* (90,751) PV00262006 - **SHA & SON'S PRODUCTS**
-* (103,715) PV65246 - **THE SILVERSMITH**
-* (116,680) PV118576 - **ZZAPPIT**
+* (12,965) PV109278 - **BLUE SAPPHIRE CAPITAL**
+* (25,930) PV100772 - **DILAD SOLUTIONS**
+* (38,895) PV12961 - **GOLDEN GRAINS**
+* (51,860) PV00247333 - **KAPRUKA E-COMMERCE**
+* (64,825) PV61834 - **MIWON DISTRIBUTORS**
+* (77,790) PV00271524 - **PRECISION CUT**
+* (90,755) PV120256 - **SHA AGRO EXPORTS**
+* (103,720) PV00239706 - **THE SIYA ENTERPRISE INVESTMENT COMPANY**
+* (116,685) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4023*
+*Sample of 10/4024*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
-* (447)  - **BRITISH HIGHER EDUCATION AND IMMIGRATION CONSULTANCY**
-* (894)  - **DIYUNA INVESTMENTS AND HOLDINGS**
-* (1,341)  - **GRAND ENGINEERING**
-* (1,788)  - **KAVIKARA HOLDINGS**
-* (2,235)  - **MSA REALTY HOLDINGS**
-* (2,682)  - **POTENTIA GLOBAL**
-* (3,129)  - **SHAZ NANO TECHNOLOGIES**
-* (3,576)  - **THE PHONE GARAGE**
-* (4,023)  - **ZULACART**
+* (448)  - **BRITISH ROYAL GROUP**
+* (895)  - **DK FOOD & BEVERAGE**
+* (1,342)  - **GRAND FABRICS**
+* (1,789)  - **KDR BUSINESS SOLUTIONS**
+* (2,236)  - **MT BUYING AND SELLING CONTRACTORS**
+* (2,683)  - **POUR & PERK**
+* (3,130)  - **SHEDAR BOUTIQUE HOTEL**
+* (3,577)  - **THE PRETTY PLANNERS**
+* (4,024)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2757*
@@ -95,21 +95,21 @@ Scraped **128,068** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-18 0
 * (2,316) GA470 - **ZONTA CLUB II OF COLOMBO**
 
 ### "GL"
-*Sample of 10/738*
+*Sample of 10/739*
 ![data/word_clouds/word_cloud_GL.png](data/word_clouds/word_cloud_GL.png)
 * (1) GL00223389 - **A LITTLE  FOUNDATION**
-* (82) GL00236287 - **BRIDGE OF HOPE LANKA**
-* (164) GL00268852 - **E SUPPORTING CENTER**
-* (246) GL00224776 - **GROW A LIFE**
-* (328) GL2262 - **KARUVI**
-* (410) GL2217 - **MOHAMED ISMAIL WAHABDEEN FOUNDATION**
-* (492) GL2409 - **RAILWAY MUSEUM**
-* (574) GL00288367 - **SLIIT UNI**
-* (656) GL00214151 - **TITANS UNITED**
-* (738) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
+* (83) GL00223931 - **BUDDHIST BROTHERHOOD CHARITY FOUNDATION**
+* (165) GL00233036 - **EAGLE CARE TRUST**
+* (247) GL00224776 - **GROW A LIFE**
+* (329) GL2262 - **KARUVI**
+* (411) GL2217 - **MOHAMED ISMAIL WAHABDEEN FOUNDATION**
+* (493) GL2409 - **RAILWAY MUSEUM**
+* (575) GL00288367 - **SLIIT UNI**
+* (657) GL00214151 - **TITANS UNITED**
+* (739) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
 
 ### "NF"
-*Sample of 10/506*
+*Sample of 10/505*
 ![data/word_clouds/word_cloud_NF.png](data/word_clouds/word_cloud_NF.png)
 * (1) NF137 - **AB FINLANKA**
 * (57) NF73 - **CANASAL INTERNATIONAL**
@@ -120,7 +120,7 @@ Scraped **128,068** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-18 0
 * (337) NF402 - **POLY - K - AMERICA INC.**
 * (393) NF118 - **SKD PACIFIC**
 * (449) NF161 - **TOGETHER PRODUCTION**
-* (506) NF711 - **ZTE CORPORATION**
+* (505) NF711 - **ZTE CORPORATION**
 
 ### "FC"
 *Sample of 10/369*
