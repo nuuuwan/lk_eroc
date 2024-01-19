@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,046** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-19 18:22:45*.
+Scraped **128,045** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-19 20:15:22*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128046*
+*Sample of 10/128045*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,228) PV00277865 - **BML  GLOBAL RECRUITMENT**
 * (28,455) PV71930 - **DILUM APPARELS**
-* (42,682) PV00213820 - **GOSHIRO INTERNATIONAL**
-* (56,909) PV00270562 - **KEETHA ENTERPRISES**
-* (71,137) PV00275495 - **MOO HOLDINGS**
-* (85,364) PV109984 - **PRINTCOM ADVERTISING**
-* (99,591) PV00205843 - **SEVENSIGNS**
-* (113,818) PV00234950 - **THE PERFECTIONARY**
-* (128,046) PV118576 - **ZZAPPIT**
+* (42,682) PV00232917 - **GOSHOPPING.LK**
+* (56,909) PV00203653 - **KEETO LANKA**
+* (71,136) PV00275495 - **MOO HOLDINGS**
+* (85,363) PV109984 - **PRINTCOM ADVERTISING**
+* (99,590) PV00205843 - **SEVENSIGNS**
+* (113,817) PV00234950 - **THE PERFECTIONARY**
+* (128,045) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **128,046** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-19 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116660*
+*Sample of 10/116659*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,963) PV00229678 - **BLUE SHADOW HOLDINGS**
 * (25,925) PV82601 - **DILAN ENGINEERING**
-* (38,887) PV12961 - **GOLDEN GRAINS**
-* (51,849) PV00271900 - **KAPY SILKS**
-* (64,811) PV00269970 - **MIYAME TRADING COMPANY**
-* (77,773) PV116902 - **PRECISION LANKA ENTERPRISES**
-* (90,735) PV16439 - **SHA HOLDINGS**
-* (103,697) PV97107 - **THE SKYLIFT**
-* (116,660) PV118576 - **ZZAPPIT**
+* (38,887) PV82145 - **GOLDEN GRANITE**
+* (51,849) PV00251020 - **KARA SHIPPING LANKA**
+* (64,811) PV00234751 - **MIYAMO MOTORS**
+* (77,773) PV11012 - **PRECISION LAPIDARIES**
+* (90,735) PV00224609 - **SHA HOLDINGS LANKA**
+* (103,697) PV00250959 - **THE SM CEYLON TRADING**
+* (116,659) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4032*
