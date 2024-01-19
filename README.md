@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,078** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-19 06:30:27*.
+Scraped **128,079** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-19 08:19:47*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128078*
+*Sample of 10/128079*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,231) PV00279657 - **BM SEVEN**
 * (28,462) PV71930 - **DILUM APPARELS**
 * (42,693) PV00213820 - **GOSHIRO INTERNATIONAL**
-* (56,924) PV00273911 - **KEERTHAS JEWELLERY**
-* (71,154) PV76871 - **MONTICARLO WINE STORSE**
-* (85,385) PV65356 - **PRINT XCEL**
-* (99,616) PV00218128 - **SEVENS GENERAL TRADERS**
-* (113,847) PV00260316 - **THE PEOPLE INVESTMENT**
-* (128,078) PV118576 - **ZZAPPIT**
+* (56,924) PV128709 - **KEERAGALA INVESTMENT**
+* (71,155) PV76871 - **MONTICARLO WINE STORSE**
+* (85,386) PV65356 - **PRINT XCEL**
+* (99,617) PV00218128 - **SEVENS GENERAL TRADERS**
+* (113,848) PV00260316 - **THE PEOPLE INVESTMENT**
+* (128,079) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **128,078** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-19 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116684*
+*Sample of 10/116685*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,965) PV99807 - **BLUE SEA DIVERS**
 * (25,930) PV82601 - **DILAN ENGINEERING**
 * (38,895) PV12961 - **GOLDEN GRAINS**
-* (51,860) PV00212865 - **KAPRISH**
-* (64,824) PV6001 - **MIURA DUTCH EDGE HOTEL**
-* (77,789) PV00269830 - **PRECISION COMPOSITES**
-* (90,754) PV96018 - **SHA CAPITAL INVESTMENT CORPORATION**
-* (103,719) PV00239706 - **THE SIYA ENTERPRISE INVESTMENT COMPANY**
-* (116,684) PV118576 - **ZZAPPIT**
+* (51,860) PV91810 - **KAPRICO MARKETING**
+* (64,825) PV6001 - **MIURA DUTCH EDGE HOTEL**
+* (77,790) PV00269830 - **PRECISION COMPOSITES**
+* (90,755) PV96018 - **SHA CAPITAL INVESTMENT CORPORATION**
+* (103,720) PV00239706 - **THE SIYA ENTERPRISE INVESTMENT COMPANY**
+* (116,685) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4039*
