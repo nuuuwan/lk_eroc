@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,091** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-20 20:15:09*.
+Scraped **128,091** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-20 22:16:27*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -11,14 +11,14 @@ Scraped **128,091** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-20 2
 *Sample of 10/128091*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,233) PV00282716 - **BN CARE HIRE**
-* (28,465) PV69381 - **DILURAN COLOUR WORLD**
-* (42,697) PV00282613 - **GOSHA HOLDINGS**
-* (56,929) PV00222035 - **KEGALLE PLYWOOD HOUSE**
-* (71,162) PV00212761 - **MOON BEANS LANKA**
-* (85,394) PV110590 - **PRINTICATEASIA**
-* (99,626) PB1618 - **SEVENTY  (PBS 601)**
-* (113,858) PV00202413 - **THE PERFORMANCE SYNDICATE**
+* (14,233)  - **BMS SOLUTIONS**
+* (28,465) PV80685 - **DILUM B M K ENGINEERS**
+* (42,697) PV76808 - **GOSHEN ENGINEEIRNG**
+* (56,929) PV74676 - **KEGALLE RANASINGE TOURS**
+* (71,162) PV1986 - **MOON BEAUTY CARE**
+* (85,394) PV95554 - **PRINTING AND PERSONAL SYSTEM SERVICES**
+* (99,626) PV00219065 - **SEVENZIGMA TECHNOLOGIES**
+* (113,858) PV85988 - **THE PERFUME STORE**
 * (128,091) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
@@ -39,32 +39,32 @@ Scraped **128,091** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-20 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116679*
+*Sample of 10/116677*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,965) PV300 - **BLUE SKIES ESTATES**
-* (25,929) PV12365 - **DILAKTA PRINTS**
-* (38,893) PV00261347 - **GOLDEN GATE MIGRATION CONSULTANT**
-* (51,857) PV00211749 - **KARAGODA TEA GARDENS**
-* (64,822) PV00281087 - **MIZUHO BIOTEC**
-* (77,786) PV20709 - **PRECITECH AUTOMATION**
-* (90,750) PV00263638 - **SHA KANDY CAPITAL**
-* (103,714) PV00210293 - **THE SKIRTING FACTORY**
-* (116,679) PV118576 - **ZZAPPIT**
+* (12,965) PV00200589 - **BLUE SKY ADVERTISING**
+* (25,929) PV00236304 - **DILAL'S 3 DAUGHTERS**
+* (38,893) PV00254434 - **GOLDEN GATE RESTAURANT**
+* (51,857) PV14118 - **KARAIKUDI RESTURANT . [N(PVS) 36104]**
+* (64,821) PV105658 - **MIZUHO GREEN**
+* (77,785) PV2607 - **PREDATOR INVESTMENT**
+* (90,749) PV00275952 - **SHA LANKA GEMS**
+* (103,713) PV91140 - **THE SKYFLY INTERNATIONAL**
+* (116,677) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4051*
+*Sample of 10/4053*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
-* (451)  - **BRIO NET BAZAAR**
-* (901)  - **DK HOLDINGS**
-* (1,351)  - **GOOD SHEPHERD SOLUTIONS**
-* (1,801)  - **KATTANKUDY FORUM FOR PROFESSIONALS AND CIVIL INSTITUTIONS**
-* (2,251)  - **MTECH HOLDNGS**
-* (2,701)  - **POWER HANDS AUTO MOBILE**
-* (3,151)  - **SHEN SEN**
-* (3,601)  - **THE PHONE GARAGE**
-* (4,051)  - **ZULACART**
+* (451)  - **BRILLIANT JEWELLERS COLOMBO**
+* (901)  - **DIYUNA INVESTMENTS AND HOLDINGS**
+* (1,351)  - **GOOD LIFE SUPER CENTER**
+* (1,801)  - **KATI CORNER**
+* (2,252)  - **MTECH HOLDNGS**
+* (2,702)  - **POWER HANDS AUTO MOBILE**
+* (3,152)  - **SHEN SEN**
+* (3,602)  - **THE PHONE GARAGE**
+* (4,053)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2755*
