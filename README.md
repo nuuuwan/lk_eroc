@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,192** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-22 20:16:04*.
+Scraped **128,193** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-22 22:17:17*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128192*
+*Sample of 10/128193*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,244) PV00277865 - **BML  GLOBAL RECRUITMENT**
-* (28,487) PV00232820 - **DILU PRODUCTS**
+* (28,488) PV00285794 - **DILU PROFIT MART**
 * (42,731) PV105361 - **GORDEN CERAMICS**
-* (56,974) PV84951 - **KEERTHI MUNASINGHE AND SONS**
-* (71,218) PV2743 - **MONSOON DUNE**
-* (85,461) PV00207200 - **PRINT ZONE THE BRAND**
-* (99,705) PV00276153 - **SEVENSEAS CONSULTANTS**
-* (113,948) GA616 - **THE PENTECOSTAL ASSEMBLIES OF SRI LANKA**
-* (128,192) PV118576 - **ZZAPPIT**
+* (56,975) PV84951 - **KEERTHI MUNASINGHE AND SONS**
+* (71,218) PV19941 - **MONSOON BEACH**
+* (85,462) PV00207200 - **PRINT ZONE THE BRAND**
+* (99,705) PV82120 - **SEVENS SUPER CITY**
+* (113,949) GA616 - **THE PENTECOSTAL ASSEMBLIES OF SRI LANKA**
+* (128,193) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,192** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-22 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116730*
+*Sample of 10/116729*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,970) PV00283208 - **BLUE SEA ADVERTISING AND MEDIA**
 * (25,940) PV94715 - **DIL FOODS AGRO PRODUTS**
 * (38,910) PV117711 - **GOLDEN EAGLE.K.T.**
 * (51,880) PV00280003 - **KAPRUKA COCO EXPO**
-* (64,850) PV90359 - **MITRANS GLOBAL LOGISTICS**
-* (77,820) PV11468 - **PRECISION ENGINEERING SERVICES**
-* (90,790) PV00292043 - **SHA BABY NEEDS**
-* (103,760) PV00226400 - **THE SIGNATURE RESTAURANT**
-* (116,730) PV118576 - **ZZAPPIT**
+* (64,849) PV90359 - **MITRANS GLOBAL LOGISTICS**
+* (77,819) PV11468 - **PRECISION ENGINEERING SERVICES**
+* (90,789) PV00292043 - **SHA BABY NEEDS**
+* (103,759) PV00226400 - **THE SIGNATURE RESTAURANT**
+* (116,729) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4092*
+*Sample of 10/4094*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (455)  - **BRUKE CAPITAL GROUP**
 * (910)  - **DOCANNED COLOMBO**
-* (1,364)  - **GRAND FABRICS**
-* (1,819)  - **KENT REFRIGERATION & ELECTRICALS**
-* (2,273)  - **MRS WORLD TOURISM**
-* (2,728)  - **POWERTON**
-* (3,182)  - **SHINE BATHWARE**
-* (3,637)  - **THE SOUP BOWL**
-* (4,092)  - **ZULACART**
+* (1,365)  - **GRAND FOODS TRADING**
+* (1,820)  - **KENT REFRIGERATION & ELECTRICALS**
+* (2,274)  - **MRS UNIVERSE**
+* (2,729)  - **POWER HUT**
+* (3,184)  - **SHINE BATHWARE**
+* (3,639)  - **THE SOUP BOWL**
+* (4,094)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2756*
