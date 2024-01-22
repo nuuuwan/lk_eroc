@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,189** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-22 12:16:51*.
+Scraped **128,190** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-22 14:16:40*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128189*
+*Sample of 10/128190*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,244)  - **BMJ CEYLON**
 * (28,487) PV5353 - **DILTINE INTERNATIONAL**
 * (42,730) PV20158 - **GOPSONS LANKA**
 * (56,973) PV70979 - **KEERTHIGA CONSTRUCTION**
-* (71,216) PV101028 - **MONTE ZITA RESTAURANTS**
-* (85,459) PV16238 - **PRINTAGE**
-* (99,702) PV00276153 - **SEVENSEAS CONSULTANTS**
-* (113,945) GA616 - **THE PENTECOSTAL ASSEMBLIES OF SRI LANKA**
-* (128,189) PV118576 - **ZZAPPIT**
+* (71,217) PV101028 - **MONTE ZITA RESTAURANTS**
+* (85,460) PV16238 - **PRINTAGE**
+* (99,703) PV00276153 - **SEVENSEAS CONSULTANTS**
+* (113,946) GA616 - **THE PENTECOSTAL ASSEMBLIES OF SRI LANKA**
+* (128,190) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **128,189** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-22 1
 * (116,738) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4086*
+*Sample of 10/4087*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
-* (454)  - **BROMLEY GROUP**
-* (908)  - **DN SOLUTION**
-* (1,362)  - **GOVI NIPAYUM ALEVI SANVIDHANAYA**
-* (1,816)  - **KELANI EXPORTS**
-* (2,270)  - **MRS WORLD TOURISM**
-* (2,724)  - **PRABASHWARA DEPALA WELADAM**
-* (3,178)  - **SHINE WAVE SOLUTIONS**
-* (3,632)  - **THE SOUTHERN GROUP LANKA**
-* (4,086)  - **ZULACART**
+* (455)  - **BROTHERS MATRIMONY**
+* (909)  - **DNA LEVESQUE VOYAGES**
+* (1,363)  - **GRACE ENTERPRISES**
+* (1,817)  - **KEMIN CEYLON FOOD**
+* (2,271)  - **MRS WORLD TOURISM**
+* (2,725)  - **PRABASHWARA DEPALA WELADAM**
+* (3,179)  - **SHINE WAVE SOLUTIONS**
+* (3,633)  - **THE SOUTHERN GROUP LANKA**
+* (4,087)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2755*
