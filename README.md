@@ -2,31 +2,31 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,177** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-22 06:30:32*.
+Scraped **128,183** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-22 08:21:49*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128177*
+*Sample of 10/128183*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,242) PV00258885 - **BMS AUTO LANKA**
-* (28,484) PV73489 - **DILSHARA INTERNATIONAL**
-* (42,726) PV101587 - **GORALINE IMPEX**
-* (56,968) PV78416 - **KEETHA CONSULTING**
-* (71,209) PV00276484 - **MONTFORT INTERNATIONAL**
-* (85,451) PV00219453 - **PRINTCARE DIGITAL SOLUTIONS**
-* (99,693) PV127087 - **SEVENSEAS RESIDENCE**
-* (113,935) GL00291573 - **THE PEOPLE'S EYE**
-* (128,177) PV118576 - **ZZAPPIT**
+* (14,243) PV00277865 - **BML  GLOBAL RECRUITMENT**
+* (28,485) PV95269 - **DILSHANI HOLDINGS**
+* (42,728) GA442 - **GOPIO OF SRI LANKA**
+* (56,970) PV00273777 - **KEERTHY STAR**
+* (71,213) NF202 - **MONTEX**
+* (85,455) PV104823 - **PRINTCAN PACKAGING**
+* (99,698) PV99803 - **SEVENSEAS FORWARDERS LANKA**
+* (113,940) GA2053 - **THE PEOPLE RELIEF AND REHABILITATION ORGANISATION**
+* (128,183) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00289623 - **TEACHER CHANNELLING**
-* (112) PV00289787 - **SOUNDTECH SOLUTIONS **
-* (223) PV00289959 - **KABEESHANA**
+* (1) PB00289621 - **JNC CREDIT & INVESTMENT**
+* (112) PV00289786 - **MANDAWALA PLANTATIONS**
+* (223) PV00289957 - **OK CABANA**
 * (334) PV00290203 - **SPK INTERNATIONAL GLOBAL**
 * (445) PV00290439 - **EMPROTEC SOLUTIONS**
 * (556) PV00290742 - **THE SANDCASTLE**
@@ -39,32 +39,32 @@ Scraped **128,177** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-22 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116731*
+*Sample of 10/116737*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,971) PV100404 - **BLUE SHELLS**
-* (25,941) PV00279032 - **DIL ASIA TEAS**
-* (38,911) PV91067 - **GOLDEN EAGLE SECURIY AND INVESTIGATION**
-* (51,881) PV00211671 - **KAPU SUNSHINE**
-* (64,851) PV123761 - **MIVOX HOLDINGS**
-* (77,821) PV947 - **PRECISION FASTENERS**
-* (90,791) PV00281442 - **SHA BRIDAL**
-* (103,761) PV00217357 - **THE SILK BODY**
-* (116,731) PV118576 - **ZZAPPIT**
+* (12,971) PV71830 - **BLUE SEA FOODS**
+* (25,942) PV125282 - **DIKWELLA ELECTRICALS**
+* (38,913) PV00206905 - **GOLDEN DREAMS CREDIT**
+* (51,883) PV00230180 - **KAPRUKA TIMBER**
+* (64,854) PV6001 - **MIURA DUTCH EDGE HOTEL**
+* (77,825) PV11468 - **PRECISION ENGINEERING SERVICES**
+* (90,795) PV00292043 - **SHA BABY NEEDS**
+* (103,766) PV00269076 - **THE SIGNATURE TRAVELS AND TOURS**
+* (116,737) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4081*
+*Sample of 10/4082*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (454)  - **BROTHERS MATRIMONY**
 * (907)  - **DN SOLUTION**
-* (1,361)  - **GRAND ENGINEERING**
-* (1,814)  - **KELANI EXPORTS**
-* (2,267)  - **MRS UNIVERSE**
-* (2,721)  - **PRABASHWARA DEPALA WELADAM**
-* (3,174)  - **SHINE LANKA**
-* (3,627)  - **THE SOUP BOWL**
-* (4,081)  - **ZULACART**
+* (1,361)  - **GRACE ENTERPRISES**
+* (1,814)  - **KEHELWELA**
+* (2,268)  - **MRS UNIVERSE**
+* (2,721)  - **PR AMAZEN INTERNATIONAL**
+* (3,175)  - **SHINE LANKA**
+* (3,628)  - **THE SOUP BOWL**
+* (4,082)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2757*
@@ -109,18 +109,18 @@ Scraped **128,177** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-22 0
 * (738) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
 
 ### "NF"
-*Sample of 10/504*
+*Sample of 10/503*
 ![data/word_clouds/word_cloud_NF.png](data/word_clouds/word_cloud_NF.png)
 * (1) NF137 - **AB FINLANKA**
 * (56) NF155 - **BROWN AND ROOT INTERNATIONAL INC**
 * (112) NF225 - **DUTTON II TRADING**
-* (168) NF147 - **HABAND COMPANY INC.**
-* (224) NF661 - **KNIGHT PIESOLD PTY**
-* (280) NF202 - **MONTEX**
-* (336) NF158 - **POLSON ENTERPRISES**
-* (392) NF118 - **SKD PACIFIC**
-* (448) NF161 - **TOGETHER PRODUCTION**
-* (504) NF711 - **ZTE CORPORATION**
+* (168) NF188 - **HABAND OVERSEAS INC.**
+* (224) NF269 - **KODAK (SINGAPORE)**
+* (279) NF202 - **MONTEX**
+* (335) NF158 - **POLSON ENTERPRISES**
+* (391) NF118 - **SKD PACIFIC**
+* (447) NF161 - **TOGETHER PRODUCTION**
+* (503) NF711 - **ZTE CORPORATION**
 
 ### "FC"
 *Sample of 10/369*
