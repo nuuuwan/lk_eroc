@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,234** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-24 08:19:56*.
+Scraped **128,237** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-24 12:16:19*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128234*
+*Sample of 10/128237*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,249) PV120053 - **BLURPLE**
-* (28,497) PV102844 - **DILSHAN IMPORTS**
-* (42,745) PV128557 - **GOODWIN SECURITY & INVESTGATION**
-* (56,993) PV68191 - **KEENEYE SOLUTIONS**
-* (71,241) PV00206974 - **MONOLITH LIFE**
-* (85,489) PV123245 - **PRINT TEX SYSTEMS**
-* (99,737) PV00224400 - **SEVENRAY INVESTMENTS**
-* (113,985) GA261 - **THE PEACE BUILDING & DEVELOPMENT INSTITUTE**
-* (128,234) PV118576 - **ZZAPPIT**
+* (28,497) PV77663 - **DILSHAN INTERNATIONAL COLOMBO**
+* (42,746) PV00206326 - **GOODWIN IMPEX CONTAINER TERMINAL**
+* (56,994) PV00267487 - **KEENBRIDGE ENGLISH ACADEMIC**
+* (71,243) PV00206974 - **MONOLITH LIFE**
+* (85,491) PV123245 - **PRINT TEX SYSTEMS**
+* (99,740) PV00218128 - **SEVENS GENERAL TRADERS**
+* (113,988) PV4304 - **THE PEACE VIEW**
+* (128,237) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,234** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-24 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116742*
+*Sample of 10/116744*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,972) PV119457 - **BLUE RICE VILLA**
 * (25,943) PV62016 - **DIKRU INTERNATIONAL**
-* (38,914) PV00258251 - **GOLDEN CONSTRUCTION & TRADINGS**
-* (51,885) PV5092 - **KAPILA-ARG ENGINEERS  [N(PVS) 643]**
-* (64,857) PV00274540 - **MITHWA INDUSTRIES**
-* (77,828) PV00245575 - **PRECIOUS ORIENTING**
-* (90,799) PV00275180 - **SGR TYRE COMPANY**
-* (103,770) PV110104 - **THE SENSE DIGITAL**
-* (116,742) PV118576 - **ZZAPPIT**
+* (38,915) PV75002 - **GOLDEN CORALS**
+* (51,886) PV5092 - **KAPILA-ARG ENGINEERS  [N(PVS) 643]**
+* (64,858) PV00274540 - **MITHWA INDUSTRIES**
+* (77,829) PV00245575 - **PRECIOUS ORIENTING**
+* (90,801) PV00270815 - **SH AUTO TRADING**
+* (103,772) PV00205803 - **THE SERENDIB OCEANARY**
+* (116,744) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4127*
+*Sample of 10/4128*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (459)  - **BRITAIN BOTTLED WATER**
-* (917)  - **DMJ ENGINEERING**
-* (1,376)  - **GOODWIN GENERAL TRADING**
-* (1,834)  - **KEAPER**
-* (2,293)  - **MRKS HOLDINGS**
-* (2,751)  - **PR AMAZEN INTERNATIONAL**
-* (3,210)  - **SHIRLEY ENTERPRISES**
-* (3,668)  - **THE PRINCESS SEWING**
-* (4,127)  - **ZULACART**
+* (918)  - **DNA LEVESQUE VOYAGES**
+* (1,376)  - **GOOD LIFE SUPER CENTER**
+* (1,835)  - **KEAPER**
+* (2,293)  - **MR WORLD TOURISM**
+* (2,752)  - **PR AMAZEN INTERNATIONAL**
+* (3,210)  - **SHIRANTHA HOTEL  AND INVESTMENT**
+* (3,669)  - **THE PRINCESS SEWING**
+* (4,128)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2755*
