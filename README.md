@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,241** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-24 16:16:27*.
+Scraped **128,245** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-24 18:23:24*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128241*
+*Sample of 10/128245*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,249) PV106356 - **BLULINE LANDS**
-* (28,498) PV103642 - **DILSHAN FASHION**
-* (42,747) PV00239941 - **GOODWILL TRADE MART**
-* (56,996) PV61987 - **KEEN LOGISTICS**
-* (71,245) PV130791 - **MONOLITH ENGINEERING SOLUTIONS**
-* (85,494) PV95351 - **PRINT MASTERS**
-* (99,743) PV128752 - **SEVENLOOK**
-* (113,992) PV116562 - **THE PEACOCK''S NEST**
-* (128,241) PV118576 - **ZZAPPIT**
+* (14,250) PV00266020 - **BLUMA HOLDINGS**
+* (28,499) PV64797 - **DILSHAN GAS DISTRIBUTORS**
+* (42,749) PV00287281 - **GOODWILLS GEM AND JEWELRY**
+* (56,998) PV13098 - **KEEN MISSION SECURITY SERVICES**
+* (71,247) PV80726 - **MONOCLE**
+* (85,497) PV66345 - **PRINT MAKE**
+* (99,746) PV64925 - **SEVENEL COMPANY**
+* (113,995) PV4304 - **THE PEACE VIEW**
+* (128,245) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,241** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-24 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116748*
+*Sample of 10/116750*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,972) PV116234 - **BLUE RAYS SOLAR LANKA**
-* (25,944) PV107759 - **DIKO MAX AGRO PRODUCTS**
-* (38,916) PV63394 - **GOLDEN COIR INDUSTRIES**
-* (51,888) PV88229 - **KAPILA INVESTMENTS**
-* (64,860) PV00274540 - **MITHWA INDUSTRIES**
-* (77,832) PV66985 - **PRECIOUS MARKETING**
-* (90,804) PV00267334 - **SGK HOLDINGS**
-* (103,776) PV00228223 - **THE SERENDIPITY COLLECTION**
-* (116,748) PV118576 - **ZZAPPIT**
+* (12,973) PV98825 - **BLUE RIBBON**
+* (25,945) PV68449 - **DIKO MAX PRINTING**
+* (38,917) PV00217800 - **GOLDEN COLLEGE OF SUCCESS CITY CAMPUS**
+* (51,889) PV00280854 - **KAPILA MAN POWER AND CONSTRUCTION**
+* (64,861) PV87002 - **MITHUZ**
+* (77,833) PV90183 - **PRECIOUS INVESTMENTS**
+* (90,805) PV114741 - **SGATS WIN**
+* (103,777) PV00205803 - **THE SERENDIB OCEANARY**
+* (116,750) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4127*
+*Sample of 10/4129*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (459)  - **BRINE & COMPANY**
-* (917)  - **DMAS NETWORKS**
-* (1,376)  - **GOOD AGRI WORLDWIDE SUBSTRATES EXPORTS**
-* (1,834)  - **KAVEE FASHIONS**
-* (2,293)  - **MR KOTTU**
-* (2,751)  - **POWER GRID SOLUTIONS**
-* (3,210)  - **SHIRANTHA HOTEL  AND INVESTMENT**
-* (3,668)  - **THE PRINCESS SEWING**
-* (4,127)  - **ZULACART**
+* (918)  - **DMJ ENGINEERING**
+* (1,377)  - **GOOD EARTH DEVELOPERS**
+* (1,835)  - **KAVIKARA HOLDINGS**
+* (2,294)  - **MR IMPORTERS & DISTRIBUTORS**
+* (2,753)  - **POWER GRID SOLUTIONS**
+* (3,211)  - **SHINY  SECRETS**
+* (3,670)  - **THE PRINCESS SEWING**
+* (4,129)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2755*
