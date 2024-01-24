@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,248** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-25 02:15:15*.
+Scraped **128,246** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-25 04:15:29*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128248*
+*Sample of 10/128246*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,250) PV107415 - **BLUHEND**
-* (28,500)  - **DILSHANI TRADERS**
-* (42,750) PB5378 - **GOODWILL ESTATE**
-* (56,999) PV93033 - **KEENAKELE AGRI BUSINESS**
-* (71,249) PV00259279 - **MONOLITH HOMES & BATHWARE**
-* (85,499) PV00278660 - **PRINT MIX HOUSE**
-* (99,748) PV00227156 - **SEVENRAY GLOBAL HOLDINGS**
-* (113,998) PV00209373 - **THE PASTA FACTORY**
-* (128,248) PV118576 - **ZZAPPIT**
+* (28,499) PV5353 - **DILTINE INTERNATIONAL**
+* (42,749) PV00239941 - **GOODWILL TRADE MART**
+* (56,998) PV131076 - **KEENFA**
+* (71,248)  - **MONOMART**
+* (85,497) PV00278660 - **PRINT MIX HOUSE**
+* (99,747) PV110139 - **SEVENRAY INTERNATIONAL COMPANY**
+* (113,996) PV00209373 - **THE PASTA FACTORY**
+* (128,246) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,24 +39,24 @@ Scraped **128,248** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-25 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116756*
+*Sample of 10/116755*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,973) PV116234 - **BLUE RAYS SOLAR LANKA**
-* (25,946) PV4503 - **DIL FILMS (INTERNATIONAL)**
-* (38,919) PV00273726 - **GOLDEN COCONUT HOLIDAY INTERNATIONAL TRAVEL AGENCY COMPANY**
-* (51,892) PV100341 - **KAPISH TRADING COMPANY**
-* (64,864) PV114684 - **MITKO HOMES**
-* (77,837) PV00270348 - **PRECIOUS MOMENTS**
-* (90,810) PV00275180 - **SGR TYRE COMPANY**
-* (103,783) PV110104 - **THE SENSE DIGITAL**
-* (116,756) PV118576 - **ZZAPPIT**
+* (12,973) PV00275112 - **BLUE RAY TRAVELS**
+* (25,946) PV00217377 - **DIL SAPUKOTANAGE SALONS**
+* (38,919) PV75002 - **GOLDEN CORALS**
+* (51,891) PV00230418 - **KAPITAL ENERGY E P**
+* (64,864) PV90359 - **MITRANS GLOBAL LOGISTICS**
+* (77,837) PV00245575 - **PRECIOUS ORIENTING**
+* (90,809) PV00275180 - **SGR TYRE COMPANY**
+* (103,782) PV110104 - **THE SENSE DIGITAL**
+* (116,755) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4124*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
-* (459)  - **BRILLIANT JEWELLERS COLOMBO**
+* (459)  - **BRINE & COMPANY**
 * (917)  - **DN SOLUTION**
 * (1,375)  - **GOOD AGRI WORLDWIDE SUBSTRATES EXPORTS**
 * (1,833)  - **KDR BUSINESS SOLUTIONS**
@@ -178,20 +178,6 @@ Scraped **128,248** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-25 0
 * (69) PB5256PV - **TOKYO SUPER AGGREGATE**
 * (78) PB144PV - **WORLD SUBSEA SERVICES**
 
-### "PVPB"
-*Sample of 10/46*
-![data/word_clouds/word_cloud_PVPB.png](data/word_clouds/word_cloud_PVPB.png)
-* (1) PV4158PB - **ADAM CARBONS**
-* (6) PV75497PB - **CAPITAL TRUST HOLDINGS**
-* (11) PV6351PB - **DELMEGE**
-* (16) PV118379PB - **FUTURE LIFE INVESTMENTS**
-* (21) PV75597PB - **LAUGFS SOLUTIONS**
-* (26) PV100056PB - **NOMIC INTERNATIONAL**
-* (31) PV12813PB - **SIERRA CONSTRUCTION**
-* (36) PV13611PB - **SUMANAGIRI LANKA**
-* (41) PV62911PB - **TRICO LOGISTICS**
-* (46) PV77431PB - **WELIGAMA HOTEL PROPERTIES**
-
 ### "PBG"
 *Sample of 10/45*
 ![data/word_clouds/word_cloud_PBG.png](data/word_clouds/word_cloud_PBG.png)
@@ -205,6 +191,20 @@ Scraped **128,248** Companies ([3.96MB](data/companies.tsv)) as of *2024-01-25 0
 * (35) PBG20 - **THE FREE LANKA BENEFITS**
 * (40) PBG21 - **THE WORKERS BENEFIT (LUNUGALA)**
 * (45) PBG14 - **UNITED SPORTSMAN**
+
+### "PVPB"
+*Sample of 10/45*
+![data/word_clouds/word_cloud_PVPB.png](data/word_clouds/word_cloud_PVPB.png)
+* (1) PV4158PB - **ADAM CARBONS**
+* (5) PV7329PB - **BUSINESS MANAGEMENT SERVICES**
+* (10) PV440PB - **CITRUS VACATIONS LIMITED**
+* (15) PV60865PB - **FAIRWAY DEVELOPMENTS**
+* (20) PV7493PB - **LAUGFS ECO SRI**
+* (25) PV66661PB - **NAVARA CAPITAL**
+* (30) PV12813PB - **SIERRA CONSTRUCTION**
+* (35) PV13611PB - **SUMANAGIRI LANKA**
+* (40) PV62911PB - **TRICO LOGISTICS**
+* (45) PV77431PB - **WELIGAMA HOTEL PROPERTIES**
 
 ### "PBPQ"
 *Sample of 10/37*
