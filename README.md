@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,301** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-26 14:15:37*.
+Scraped **128,306** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-26 16:15:41*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128301*
+*Sample of 10/128306*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,256) PV120053 - **BLURPLE**
-* (28,512) PV111750 - **DILTOURS LANKA**
-* (42,767) PV74697 - **GOODWILL TRADING**
-* (57,023) PV00279832 - **KEEPUP ELEVATORS**
-* (71,278) PV129464 - **MONKS RAJ GROUP**
-* (85,534) PV00208892 - **PRINT FAST LK**
-* (99,789) PV128752 - **SEVENLOOK**
-* (114,045) PV117617 - **THE PEARL LANKA SHIPPING**
-* (128,301) PV118576 - **ZZAPPIT**
+* (14,257) PV00244417 - **BLUSH & WISH**
+* (28,513) PV00232820 - **DILU PRODUCTS**
+* (42,769) PV00207183 - **GOODWIN COMPLEX**
+* (57,025) PV00279832 - **KEEPUP ELEVATORS**
+* (71,281) PV112692 - **MONLANKA INVESTMENTS HOLDING**
+* (85,537) PV00208892 - **PRINT FAST LK**
+* (99,793) PV128752 - **SEVENLOOK**
+* (114,049) PV127380 - **THE PEARL EXPORTING TRADING LANKA**
+* (128,306) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,301** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-26 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116811*
+*Sample of 10/116813*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,979) PV89598 - **BLUE ROCK HOLDINGS**
-* (25,958) PV00217377 - **DIL SAPUKOTANAGE SALONS**
-* (38,937) PV00270773 - **GOLDEN DISTRIBUTORS**
-* (51,916) PV00247333 - **KAPRUKA E-COMMERCE**
-* (64,895) PV21140 - **MITHUNA**
-* (77,874) PV74631 - **PRECIOUS HOLIDAYS**
-* (90,853) PV00284240 - **SGM TRADERS**
-* (103,832) PV00228001 - **THE SHIP RESTAURANT**
-* (116,811) PV118576 - **ZZAPPIT**
+* (12,980) PV109731 - **BLUE SANDS BACH**
+* (25,959) PV92974 - **DIL SERENDIB PIONEER INTERNATIONAL MARITIME SERVICES**
+* (38,938) PV65671 - **GOLDEN DRAGON AGRI EXPORTS**
+* (51,917) PV85272 - **KAPRUKA ENVIRONMENT FRIENDLY COMPANY**
+* (64,896) PV71315 - **MITHUNI TRADING**
+* (77,875) PV16169 - **PRECIOUS INDUSTRIAL**
+* (90,854) PV00260045 - **SGM APPARELS**
+* (103,833) PV113129 - **THE SHIELD ADJUSTERS**
+* (116,813) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4128*
+*Sample of 10/4131*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (459)  - **BRIDE IN STYLE**
 * (918)  - **DND GLOBAL**
-* (1,376)  - **GOLDEN SHINE EDUCATION SOLUTIONS**
-* (1,835)  - **KATTANKUDY FORUM FOR PROFESSIONALS AND CIVIL INSTITUTIONS**
-* (2,293)  - **MOTOFIX**
-* (2,752)  - **POSITIVE PARTNERSHIP LANKA**
-* (3,210)  - **SHINE BATHWARE**
-* (3,669)  - **THE NEXT EDUCATION CONSULTANCY**
-* (4,128)  - **ZULACART**
+* (1,377)  - **GOLDEN STAR INTERNATIONAL**
+* (1,836)  - **KATI CORNER**
+* (2,295)  - **MOTOFIX**
+* (2,754)  - **PORT CITY VILLA DEVELOPMENT**
+* (3,213)  - **SHINE LANKA**
+* (3,672)  - **THE NEXT EDUCATION CONSULTANCY**
+* (4,131)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2751*
