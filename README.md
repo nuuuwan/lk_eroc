@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,329** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-27 08:15:15*.
+Scraped **128,327** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-27 10:15:17*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128329*
+*Sample of 10/128327*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,259) PV89875 - **BLUNESTONE CAPITAL 1 **
-* (28,518) PV00260528 - **DILSHAN SILVA HOLDINGS**
-* (42,777) PV104953 - **GOODWIN IMPEX**
-* (57,035) PV00279832 - **KEEPUP ELEVATORS**
-* (71,294) PV16445 - **MONIS BAKERY AND CONFECTIONERY**
-* (85,553) PV00220813 - **PRINT  ROOM**
-* (99,811) PV00208827 - **SEVEN WILL SPA**
-* (114,070) PV91370 - **THE PARTY STATION**
-* (128,329) PV118576 - **ZZAPPIT**
+* (28,517) PV00207888 - **DILSHAN SILVA CONSTRUCTION**
+* (42,776) PV104953 - **GOODWIN IMPEX**
+* (57,034) PV128709 - **KEERAGALA INVESTMENT**
+* (71,293) PV00216655 - **MONITOR I T SYSTEMS**
+* (85,551) PV00220813 - **PRINT  ROOM**
+* (99,810) PV00206341 - **SEVEN WIN INTERNATIONAL**
+* (114,068) PV91370 - **THE PARTY STATION**
+* (128,327) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,329** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-27 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116833*
+*Sample of 10/116832*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,982) PV125586 - **BLUE RIDGE LANKA**
 * (25,963) PV92688 - **DIL CONSULTANCY**
-* (38,945) PV117711 - **GOLDEN EAGLE.K.T.**
-* (51,926) PV85272 - **KAPRUKA ENVIRONMENT FRIENDLY COMPANY**
-* (64,907) PV00272326 - **MITHRA PRO ENGINEERS AND CONSULTANTS**
-* (77,889) PV87818 - **PRE UNI**
-* (90,870) PV00291508 - **SF MODELING & GARMENTS**
-* (103,851) PV14498 - **THE SENA SERVICE**
-* (116,833) PV118576 - **ZZAPPIT**
+* (38,944) PV117711 - **GOLDEN EAGLE.K.T.**
+* (51,925) PV85272 - **KAPRUKA ENVIRONMENT FRIENDLY COMPANY**
+* (64,907) PV18814 - **MITHRA TRADING COMPANY**
+* (77,888) PV87818 - **PRE UNI**
+* (90,869) PV00291508 - **SF MODELING & GARMENTS**
+* (103,850) PV14498 - **THE SENA SERVICE**
+* (116,832) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4139*
+*Sample of 10/4138*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (460)  - **BRIDE IN STYLE**
 * (920)  - **DND GLOBAL**
 * (1,380)  - **GOLDEN SHINE EDUCATION SOLUTIONS**
-* (1,840)  - **KATEE ROTEE**
-* (2,299)  - **MOST VENERABLE MURUNGAGASYAYE GNANISSARA MEMORIAL INSTITUTE**
-* (2,759)  - **POST OFFICE  BAR**
-* (3,219)  - **SHINE LANKA**
-* (3,679)  - **THE MUSICULTURE**
-* (4,139)  - **ZULACART**
+* (1,839)  - **KATEE ROTEE**
+* (2,299)  - **MOTOFIX**
+* (2,759)  - **POTENT MATTER**
+* (3,218)  - **SHINE LANKA**
+* (3,678)  - **THE MUSICULTURE**
+* (4,138)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2745*
