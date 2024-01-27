@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,324** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-27 04:14:44*.
+Scraped **128,332** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-27 06:30:06*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128324*
+*Sample of 10/128332*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,259) PV89875 - **BLUNESTONE CAPITAL 1 **
-* (28,517) PV00207888 - **DILSHAN SILVA CONSTRUCTION**
-* (42,775) PB5378 - **GOODWILL ESTATE**
-* (57,033) PV68191 - **KEENEYE SOLUTIONS**
-* (71,291) PV4838 - **MONITOR SECURITY SERVICES**
-* (85,549) PV61555 - **PRINT - N - GARD**
-* (99,807) PV00206341 - **SEVEN WIN INTERNATIONAL**
-* (114,065) PV91370 - **THE PARTY STATION**
-* (128,324) PV118576 - **ZZAPPIT**
+* (14,260) PV00282254 - **BLUOCEAN HEALTHCARE**
+* (28,519) PV12345 - **DILSHAN TRADE CENTRE**
+* (42,778) PV00239941 - **GOODWILL TRADE MART**
+* (57,037) PV15128 - **KEENWIN APPARELS**
+* (71,296) PV00255640 - **MONIK WATER**
+* (85,555) PV69030 - **PRINS AQUA THERAPY LANKA**
+* (99,814) PV00208827 - **SEVEN WILL SPA**
+* (114,073) PV91370 - **THE PARTY STATION**
+* (128,332) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,324** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-27 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116831*
+*Sample of 10/116837*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,982) PV125586 - **BLUE RIDGE LANKA**
-* (25,963) PV92688 - **DIL CONSULTANCY**
-* (38,944) PV00260732 - **GOLDEN CROWN SECURITY**
-* (51,925) PV92777 - **KAPPALADY KITEGARDEN**
-* (64,906) PV18814 - **MITHRA TRADING COMPANY**
-* (77,887) PV87818 - **PRE UNI**
-* (90,868) PV00291508 - **SF MODELING & GARMENTS**
-* (103,849) PV14498 - **THE SENA SERVICE**
-* (116,831) PV118576 - **ZZAPPIT**
+* (25,964) PV4503 - **DIL FILMS (INTERNATIONAL)**
+* (38,946) PV65671 - **GOLDEN DRAGON AGRI EXPORTS**
+* (51,928) PV91810 - **KAPRICO MARKETING**
+* (64,909) PV92477 - **MITHO LANKA**
+* (77,891) PV132147 - **PRD RIGS LANKA**
+* (90,873) PV00264787 - **SF HOUSE OF SPICES**
+* (103,855) PV14498 - **THE SENA SERVICE**
+* (116,837) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4135*
+*Sample of 10/4137*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (460)  - **BRIDE IN STYLE**
-* (919)  - **DNA LEVESQUE VOYAGES**
+* (920)  - **DND GLOBAL**
 * (1,379)  - **GOLDEN STAR INTERNATIONAL**
-* (1,838)  - **KASHMEER FOOD CITY**
-* (2,297)  - **MOTOR MASTER LANKA**
-* (2,757)  - **POTENTIA GLOBAL**
-* (3,216)  - **SHINE WAVE SOLUTIONS**
-* (3,675)  - **THE MUSICULTURE**
-* (4,135)  - **ZULACART**
+* (1,839)  - **KATI CORNER**
+* (2,298)  - **MOTOFIX**
+* (2,758)  - **POTENT MATTER**
+* (3,217)  - **SHINE LANKA**
+* (3,677)  - **THE MUSICULTURE**
+* (4,137)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2746*
