@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,368** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-28 10:15:54*.
+Scraped **128,381** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-28 12:15:17*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128368*
+*Sample of 10/128381*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,264) PV112315 - **BLUXO**
-* (28,527) PV00211067 - **DILUKSHI CONSTRUCTION**
-* (42,790) PV20158 - **GOPSONS LANKA**
-* (57,053) PV00239038 - **KEFI CLOTHING**
-* (71,316) PV88849 - **MONO WINGS COMPANY**
-* (85,579)  - **PRINT SMART  DIGITAL**
-* (99,842) PV14730 - **SEVERAL MANPOWER SUPPLIERS**
-* (114,105) PV116562 - **THE PEACOCK'S NEST**
-* (128,368) PV118576 - **ZZAPPIT**
+* (14,265) PV106356 - **BLULINE LANDS**
+* (28,529) PV10377 - **DILSHEY**
+* (42,794) PV92243 - **GOONE'S ECO LODGE**
+* (57,058) PV00273777 - **KEERTHY STAR**
+* (71,323) PV00248495 - **MONKEYSOL**
+* (85,587) PV17468 - **PRINT MAX**
+* (99,852) PB1618 - **SEVENTY  (PBS 601)**
+* (114,116) PV4304 - **THE PEACE VIEW**
+* (128,381) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,368** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-28 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116856*
+*Sample of 10/116865*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,984) PV109278 - **BLUE SAPPHIRE CAPITAL**
-* (25,968) PV00220811 - **DILAN FARM ECO PRODUCE**
-* (38,952) PV00262184 - **GOLDEN GATE IMPORT & EXPORT**
-* (51,936) PV00278129 - **KARADIYA PLUS**
-* (64,920) PV132010 - **MITRA S K LANKA**
-* (77,904) PV00275753 - **PRECIOUS SENSOR AUTOMATICS**
-* (90,888) PV21450 - **SHA MARKETING MOBILE**
-* (103,872) PV00278609 - **THE SHAKERZ MILKSHAKEBAR**
-* (116,856) PV118576 - **ZZAPPIT**
+* (12,985) PV98825 - **BLUE RIBBON**
+* (25,970) PV100772 - **DILAD SOLUTIONS**
+* (38,955) PV00232497 - **GOLDEN FLOWER HOTELS AND PROPERTIES**
+* (51,940) PV00277789 - **KARA WHITENING**
+* (64,925) PV87902 - **MITKO FAMILY HEALTH CARE**
+* (77,910) PV00270348 - **PRECIOUS MOMENTS**
+* (90,895) PV00241082 - **SHA LION**
+* (103,880) PV00261357 - **THE SEVENTH KEY**
+* (116,865) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4152*
+*Sample of 10/4156*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
-* (462)  - **BRIO NET BAZAAR**
-* (923)  - **DOCANNED COLOMBO**
-* (1,384)  - **GOLDEN RULE**
-* (1,845)  - **KATEE ROTEE**
-* (2,307)  - **MOPERAMA INTERNATIONAL**
-* (2,768)  - **POST OFFICE  BAR**
-* (3,229)  - **SHIKISEN**
-* (3,690)  - **THE PHONE GARAGE**
-* (4,152)  - **ZULACART**
+* (462)  - **BRIDE IN STYLE**
+* (924)  - **DNA LEVESQUE VOYAGES**
+* (1,386)  - **GOLDEN RETRIEVER CLUB OF LANKA**
+* (1,847)  - **KASHMEER FOOD CITY**
+* (2,309)  - **MOONSTRIKE CAPITAL PARTNERS**
+* (2,771)  - **POST OFFICE  BAR**
+* (3,232)  - **SHENIS PIZZA**
+* (3,694)  - **THE PHONE GARAGE**
+* (4,156)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2748*
