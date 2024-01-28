@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,400** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-29 02:15:40*.
+Scraped **128,404** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-29 04:15:16*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128400*
+*Sample of 10/128404*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,267) PV89875 - **BLUNESTONE CAPITAL 1 **
-* (28,534) PV120247 - **DILUK DUTY FREE**
-* (42,800) PV66954 - **GOOROOK OYA MALLANDA MINI HYDRO POWER**
-* (57,067) PV00203653 - **KEETO LANKA**
-* (71,333) PV18209 - **MONITORS HOUSE LANKA**
-* (85,600) PV80395 - **PRINT FIRST**
-* (99,866) PV9378 - **SEVENSTAR INDUSTRIES**
-* (114,133) PV4304 - **THE PEACE VIEW**
-* (128,400) PV118576 - **ZZAPPIT**
+* (14,268) PV00282254 - **BLUOCEAN HEALTHCARE**
+* (28,535) PV00200070 - **DILUKSHA MANPOWER & TRANSPORT**
+* (42,802) PV112983 - **GOPI FOOD CEYLON**
+* (57,069) PV00230657 - **KEFLANI**
+* (71,336) PV00224049 - **MONKEE DESIGN STUDIO**
+* (85,603) PV1438 - **PRINT HOUSE OFFSET PRINTERS**
+* (99,870) PV90231 - **SEVENT'S INVESTMENTS HOLDINGS**
+* (114,137) PV11660 - **THE PEAK RESIDENCE**
+* (128,404) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,400** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-29 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116878*
+*Sample of 10/116881*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,987) PV89598 - **BLUE ROCK HOLDINGS**
-* (25,973) PV00220811 - **DILAN FARM ECO PRODUCE**
-* (38,960) PV00246291 - **GOLDEN GALLE**
-* (51,946) PV108413 - **KARADIYA LANKA**
-* (64,932) PV21140 - **MITHUNA**
-* (77,919) PV90183 - **PRECIOUS INVESTMENTS**
-* (90,905) PV00224609 - **SHA HOLDINGS LANKA**
-* (103,891) PV00228223 - **THE SERENDIPITY COLLECTION**
-* (116,878) PV118576 - **ZZAPPIT**
+* (25,974) PV00241213 - **DILAN FARM ORGANIC PRODUCE**
+* (38,961) PV00280509 - **GOLDEN GATE AUTOMOBILE**
+* (51,947) PV00278129 - **KARADIYA PLUS**
+* (64,934) PV71315 - **MITHUNI TRADING**
+* (77,921) PV66985 - **PRECIOUS MARKETING**
+* (90,907) PV00288193 - **SHA HOME LANDS**
+* (103,894) PV00281554 - **THE SEVEN'S**
+* (116,881) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4158*
+*Sample of 10/4159*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
-* (462)  - **BRIDE IN STYLE**
-* (924)  - **DNA LEVESQUE VOYAGES**
-* (1,386)  - **GOLDEN RULE**
-* (1,848)  - **KATI CORNER**
-* (2,310)  - **MOONSTRIKE CAPITAL PARTNERS**
-* (2,772)  - **POTENT MATTER**
-* (3,234)  - **SHIKISEN**
-* (3,696)  - **THE PRINCESS SEWING**
-* (4,158)  - **ZULACART**
+* (463)  - **BRILLIANT JEWELLERS COLOMBO**
+* (925)  - **DND GLOBAL**
+* (1,387)  - **GOLDEN SHINE EDUCATION SOLUTIONS**
+* (1,849)  - **KATTANKUDY FORUM FOR PROFESSIONALS AND CIVIL INSTITUTIONS**
+* (2,311)  - **MOPERAMA INTERNATIONAL**
+* (2,773)  - **POTENTIA GLOBAL**
+* (3,235)  - **SHIMMER & SPARKLES**
+* (3,697)  - **THE RMT HOLDER'S**
+* (4,159)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2748*
