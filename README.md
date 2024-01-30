@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,410** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-30 10:15:00*.
+Scraped **128,409** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-30 12:15:12*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128410*
+*Sample of 10/128409*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,268) PV00246032 - **BLUMAG PLUS**
 * (28,536) PV80762 - **DILU VHEDA FARMING**
-* (42,804) PV4856 - **GOORYONG LANKA**
+* (42,803) PV66954 - **GOOROOK OYA MALLANDA MINI HYDRO POWER**
 * (57,071) PV00200203 - **KEERTHIRATHNA HOLDINGS**
-* (71,339) PV80726 - **MONOCLE**
-* (85,607) PV123245 - **PRINT TEX SYSTEMS**
-* (99,874) PV90231 - **SEVENT''S INVESTMENTS HOLDINGS**
-* (114,142) PV00231543 - **THE PARTY VIBES**
-* (128,410) PV118576 - **ZZAPPIT**
+* (71,338) PV88849 - **MONO WINGS COMPANY**
+* (85,606) PV123245 - **PRINT TEX SYSTEMS**
+* (99,873) PV90231 - **SEVENT''S INVESTMENTS HOLDINGS**
+* (114,141) PV00231543 - **THE PARTY VIBES**
+* (128,409) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **128,410** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-30 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116851*
+*Sample of 10/116850*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,984) PV00275112 - **BLUE RAY TRAVELS**
 * (25,967) PV00214326 - **DILAJ SEAFOOD**
-* (38,951) PV00286647 - **GOLDEN GATE CHICKEN & AGRO**
-* (51,934) PV108413 - **KARADIYA LANKA**
+* (38,950) PV00280509 - **GOLDEN GATE AUTOMOBILE**
+* (51,933) PV00280982 - **KARADANA TRADERS**
 * (64,917) PV79772 - **MITTRANANDA HARDWARE**
-* (77,901) PV00239504 - **PRECISION ENGINEERING COMPONENTS**
-* (90,884) PV00206487 - **SHA MARINE SERVICES**
-* (103,867) PV110104 - **THE SENSE DIGITAL**
-* (116,851) PV118576 - **ZZAPPIT**
+* (77,900) PV00239504 - **PRECISION ENGINEERING COMPONENTS**
+* (90,883) PV00206487 - **SHA MARINE SERVICES**
+* (103,866) PV110104 - **THE SENSE DIGITAL**
+* (116,850) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4185*
