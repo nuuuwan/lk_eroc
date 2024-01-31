@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,444** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-31 08:15:01*.
+Scraped **128,446** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-31 10:15:05*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128444*
+*Sample of 10/128446*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,272) PV00246032 - **BLUMAG PLUS**
-* (28,543) PV00236731 - **DILZAM GEMS**
-* (42,815) PV00239941 - **GOODWILL TRADE MART**
-* (57,086) PV1538 - **KEEP CLEAN**
-* (71,358) PV00242450 - **MONITRO HOLDINGS**
-* (85,629) PV61555 - **PRINT - N - GARD**
-* (99,901) PV87355 - **SEVEN'S P S A SOLUTIONS**
-* (114,172) PV2311 - **THE PAINT SHOP KATUBEDDA**
-* (128,444) PV118576 - **ZZAPPIT**
+* (28,544) PV70171 - **DIL`S ENTERPRISES**
+* (42,816) PV74697 - **GOODWILL TRADING**
+* (57,087) PV69196 - **KEEP ON TRACK ENGINEERING SERVICE SUPPLIES**
+* (71,359) PV00224049 - **MONKEE DESIGN STUDIO**
+* (85,631) PV104611 - **PRINT 77**
+* (99,902) PV93428 - **SEVENA CITY HOTEL**
+* (114,174) PV00250553 - **THE PAINT STORE**
+* (128,446) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **128,444** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-31 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116872*
+*Sample of 10/116874*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,986) PV110937 - **BLUE RAY SECURITY**
 * (25,972) PV101575 - **DILANJANA ENTERPRISES**
 * (38,958) PV00214742 - **GOLDEN ENTERPRISES MARKETING**
-* (51,943) PV00249845 - **KAPUKOTUWA SUPER**
-* (64,929) PV90291 - **MITSUBOSHI LANKA**
-* (77,915) PV9936 - **PRECIOUS HOLDINGS**
-* (90,900) PV00204596 - **SHA BUSINESS SOLUTION**
-* (103,886) PV101584 - **THE SAYURA RESORTS & SPA**
-* (116,872) PV118576 - **ZZAPPIT**
+* (51,944) PV399 - **KAPURUGE ENTERPRISES**
+* (64,930) PV00259797 - **MITSUKI CAPITAL HOLDINGS**
+* (77,916) PV74631 - **PRECIOUS HOLIDAYS**
+* (90,902) PV63719 - **SHA CLEANING**
+* (103,888) PV00203306 - **THE SCHOOL BUS COMPANY**
+* (116,874) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4193*
