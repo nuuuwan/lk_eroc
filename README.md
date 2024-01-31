@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,446** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-31 10:15:05*.
+Scraped **128,442** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-31 12:15:09*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128446*
+*Sample of 10/128442*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,272) PV00246032 - **BLUMAG PLUS**
-* (28,544) PV70171 - **DIL`S ENTERPRISES**
-* (42,816) PV74697 - **GOODWILL TRADING**
-* (57,087) PV69196 - **KEEP ON TRACK ENGINEERING SERVICE SUPPLIES**
-* (71,359) PV00224049 - **MONKEE DESIGN STUDIO**
-* (85,631) PV104611 - **PRINT 77**
-* (99,902) PV93428 - **SEVENA CITY HOTEL**
-* (114,174) PV00250553 - **THE PAINT STORE**
-* (128,446) PV118576 - **ZZAPPIT**
+* (28,543) PV00236731 - **DILZAM GEMS**
+* (42,814) PV00253366 - **GOODWILL IMPEX**
+* (57,085) PV1538 - **KEEP CLEAN**
+* (71,357) PV00242450 - **MONITRO HOLDINGS**
+* (85,628) PV00238510 - **PRINT CABIN SOLUTION**
+* (99,899) PV9689 - **SEVENA INDUSTRIES**
+* (114,170) PV00250553 - **THE PAINT STORE**
+* (128,442) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,446** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-31 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116874*
+*Sample of 10/116869*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,986) PV110937 - **BLUE RAY SECURITY**
-* (25,972) PV101575 - **DILANJANA ENTERPRISES**
-* (38,958) PV00214742 - **GOLDEN ENTERPRISES MARKETING**
-* (51,944) PV399 - **KAPURUGE ENTERPRISES**
-* (64,930) PV00259797 - **MITSUKI CAPITAL HOLDINGS**
-* (77,916) PV74631 - **PRECIOUS HOLIDAYS**
-* (90,902) PV63719 - **SHA CLEANING**
-* (103,888) PV00203306 - **THE SCHOOL BUS COMPANY**
-* (116,874) PV118576 - **ZZAPPIT**
+* (25,971) PV00281620 - **DILANJALINE HOLDINGS**
+* (38,957) PV69502 - **GOLDEN ENGINEERING**
+* (51,942) PV00249845 - **KAPUKOTUWA SUPER**
+* (64,927) PV86739 - **MITSU HOLDINGS**
+* (77,913) PV90183 - **PRECIOUS INVESTMENTS**
+* (90,898) PV128538 - **SHA CONSTRUCTIONS & CIVIL ENGINEERING**
+* (103,883) PV00203306 - **THE SCHOOL BUS COMPANY**
+* (116,869) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4193*
+*Sample of 10/4194*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (466)  - **BRITAIN BOTTLED WATER**
 * (932)  - **DND GLOBAL**
 * (1,398)  - **GOBIAN GEMS AND JEWELLERY INTERNATIONAL**
 * (1,864)  - **KAPRUKA BIO FOODS**
-* (2,329)  - **MODE PRODUCTIONS**
-* (2,795)  - **POOLUX FURNITURE**
-* (3,261)  - **SHAVOLA**
-* (3,727)  - **THE NEXT EDUCATION CONSULTANCY**
-* (4,193)  - **ZULACART**
+* (2,330)  - **MODERN LIVING HOMES**
+* (2,796)  - **POOLUX FURNITURE**
+* (3,262)  - **SHAVOLA**
+* (3,728)  - **THE NEXT EDUCATION CONSULTANCY**
+* (4,194)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2753*
