@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,441** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-31 06:31:34*.
+Scraped **128,444** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-31 08:15:01*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128441*
+*Sample of 10/128444*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,272) PV00246032 - **BLUMAG PLUS**
 * (28,543) PV00236731 - **DILZAM GEMS**
-* (42,814) PV00253366 - **GOODWILL IMPEX**
-* (57,085) PV1538 - **KEEP CLEAN**
-* (71,356) PV18209 - **MONITORS HOUSE LANKA**
-* (85,627) PV61555 - **PRINT - N - GARD**
-* (99,898) PV87355 - **SEVEN'S P S A SOLUTIONS**
-* (114,169) PV2311 - **THE PAINT SHOP KATUBEDDA**
-* (128,441) PV118576 - **ZZAPPIT**
+* (42,815) PV00239941 - **GOODWILL TRADE MART**
+* (57,086) PV1538 - **KEEP CLEAN**
+* (71,358) PV00242450 - **MONITRO HOLDINGS**
+* (85,629) PV61555 - **PRINT - N - GARD**
+* (99,901) PV87355 - **SEVEN'S P S A SOLUTIONS**
+* (114,172) PV2311 - **THE PAINT SHOP KATUBEDDA**
+* (128,444) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **128,441** Companies ([3.97MB](data/companies.tsv)) as of *2024-01-31 0
 * (116,872) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4190*
+*Sample of 10/4193*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (466)  - **BRITAIN BOTTLED WATER**
-* (931)  - **DNA LEVESQUE VOYAGES**
-* (1,397)  - **GO VIRAL**
-* (1,862)  - **KANSEI NIPPON**
-* (2,328)  - **MODE PRODUCTIONS**
-* (2,793)  - **POOLUX FURNITURE**
-* (3,259)  - **SHAZ NANO TECHNOLOGIES**
-* (3,724)  - **THE NEXT EDUCATION CONSULTANCY**
-* (4,190)  - **ZULACART**
+* (932)  - **DND GLOBAL**
+* (1,398)  - **GOBIAN GEMS AND JEWELLERY INTERNATIONAL**
+* (1,864)  - **KAPRUKA BIO FOODS**
+* (2,329)  - **MODE PRODUCTIONS**
+* (2,795)  - **POOLUX FURNITURE**
+* (3,261)  - **SHAVOLA**
+* (3,727)  - **THE NEXT EDUCATION CONSULTANCY**
+* (4,193)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2753*
