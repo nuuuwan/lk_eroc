@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,443** Companies ([3.97MB](data/companies.tsv)) as of *2024-02-01 00:15:08*.
+Scraped **128,443** Companies ([3.97MB](data/companies.tsv)) as of *2024-02-01 02:15:07*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -11,10 +11,10 @@ Scraped **128,443** Companies ([3.97MB](data/companies.tsv)) as of *2024-02-01 0
 *Sample of 10/128443*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,272) PV00271530 - **BLUMEN TRAVELS**
-* (28,543) PV70171 - **DIL`S ENTERPRISES**
-* (42,815) PV00281085 - **GOODWILL EXPRESS**
-* (57,086) PV68191 - **KEENEYE SOLUTIONS**
+* (14,272) PV00282254 - **BLUOCEAN HEALTHCARE**
+* (28,543) PV112857 - **DIMA HOLDINGS**
+* (42,815) PV00253366 - **GOODWILL IMPEX**
+* (57,086) PV131076 - **KEENFA**
 * (71,357) PV00247053 - **MONGOLIAN STREET RESTAURANTS**
 * (85,629) PV00219366 - **PRINKU LANKA**
 * (99,900) PV00208827 - **SEVEN WILL SPA**
@@ -24,47 +24,47 @@ Scraped **128,443** Companies ([3.97MB](data/companies.tsv)) as of *2024-02-01 0
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00289910 - **KETHMIN AGRO**
-* (112) PV00290127 - **AXIS INSTRUMENTS**
-* (223) PV00290361 - **THE DESIGN WORKS**
-* (334) PV00290590 - **COSHWO INDUSTRIES**
-* (445) PV00290854 - **LOVELY BLOSSOM SKIN CARE**
-* (556) PV00291098 - **PUTTALAM MICRO CREDIT**
-* (667) PV00291359 - **ZEENA AUTO TRADING COMPANY**
-* (778) PV00291591 - **VERTEX COOPERATION**
-* (889) PV00291963 - **KING & QUEEN ENTERPRISES**
+* (1) PV00289912 - **IR TRAVELS AND TOURS**
+* (112) PV00290129 - **CEYLON GREEN TROPICAL**
+* (223) PV00290362 - **ANGEL INTIMATES**
+* (334) PV00290591 - **SITHARA INTERNATIONAL**
+* (445) PV00290856 - **FINVOKE.AI**
+* (556) PV00291101 - **EXPRESS BIKES**
+* (667) PV00291360 - **COCO BREEZE**
+* (778) PV00291592 - **EADON SMART TECHNOLOGY**
+* (889) PV00291966 - **UNIVERSAL E VISION**
 * (1,000) PV00293176 - **ANTARES KANDY HOTEL**
 
 
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116864*
+*Sample of 10/116863*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,985) PV125586 - **BLUE RIDGE LANKA**
-* (25,970) PV73855 - **DILARDS INTERNATIONAL**
-* (38,955) PV00266494 - **GOLDEN FARM & AGRO**
-* (51,940) PV00211671 - **KAPU SUNSHINE**
-* (64,924) PV00214257 - **MITKO GATEWAY ABROAD**
-* (77,909) PV00291132 - **PRECIOUS GEMSTONE INVESTMENT**
-* (90,894) PV00292043 - **SHA BABY NEEDS**
-* (103,879) PV00203306 - **THE SCHOOL BUS COMPANY**
-* (116,864) PV118576 - **ZZAPPIT**
+* (12,985) PV89598 - **BLUE ROCK HOLDINGS**
+* (25,970) PV00261006 - **DILASHO IMPEX**
+* (38,955) PV68401 - **GOLDEN FARM**
+* (51,939) PV00211671 - **KAPU SUNSHINE**
+* (64,924) PV114684 - **MITKO HOMES**
+* (77,909) PV00231629 - **PRECIOUS GLOBAL VENTURES**
+* (90,893) PV00292043 - **SHA BABY NEEDS**
+* (103,878) PV00203306 - **THE SCHOOL BUS COMPANY**
+* (116,863) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4195*
+*Sample of 10/4196*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (467)  - **BRILLIANT JEWELLERS COLOMBO**
 * (933)  - **DMAS NETWORKS**
 * (1,399)  - **GLYMPS GLOBAL**
 * (1,865)  - **KANGANA TRANSPORTA**
-* (2,331)  - **MOA CLOTHING**
-* (2,797)  - **POLO LANKA APPAREL**
-* (3,263)  - **SHAVOLA**
-* (3,729)  - **THE PHONE GARAGE**
-* (4,195)  - **ZULACART**
+* (2,331)  - **MNR INTERNATIONAL HOLDINGS**
+* (2,797)  - **POLO LANKA**
+* (3,263)  - **SHAVEEN HARDWARE AND DISTRIBUTORS**
+* (3,729)  - **THE NEXT EDUCATION CONSULTANCY**
+* (4,196)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2752*
