@@ -2,30 +2,30 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,460** Companies ([3.97MB](data/companies.tsv)) as of *2024-02-01 22:15:21*.
+Scraped **128,466** Companies ([3.97MB](data/companies.tsv)) as of *2024-02-02 00:15:27*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128460*
+*Sample of 10/128466*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,274) PV00282254 - **BLUOCEAN HEALTHCARE**
-* (28,547) PV112857 - **DIMA HOLDINGS**
-* (42,820) PV00253366 - **GOODWILL IMPEX**
-* (57,093) PV00276940 - **KEENKOL TECHNOLOGIES**
-* (71,367) PV00276346 - **MONICA EXPORTS**
-* (85,640) PV5031 - **PRINT USA**
-* (99,913) PV90231 - **SEVENT'S INVESTMENTS HOLDINGS**
-* (114,186) PV107765 - **THE PANTRY LANKA**
-* (128,460) PV118576 - **ZZAPPIT**
+* (28,548) PV107003 - **DIMA INVESTMENTS**
+* (42,822) PV00239941 - **GOODWILL TRADE MART**
+* (57,096) PV68359 - **KEENS FOOD CENTRE**
+* (71,370) PV00225573 - **MONICA FOOD SOLUTIONS**
+* (85,644) PV00273185 - **PRINT WIN**
+* (99,918) PV90231 - **SEVENT''S INVESTMENTS HOLDINGS**
+* (114,192) PV107765 - **THE PANTRY LANKA**
+* (128,466) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00289954 - **SOBA CEYLON TRAVELS**
-* (112) PV00290170 - **VIVID MOTIONS**
+* (1) PV00289956 - **TIP NETWORK**
+* (112) PV00290174 - **GRANT ENGINEERING SERVICES**
 * (223) PV00290395 - **CHD MARKETING**
 * (334) PCC00290631 - **FLEMINGO DUTY FREE (PRIVATE) LIMITED.**
 * (445) PV00290891 - **MEMORIES BY AURORA PRODUCTIONS**
@@ -39,32 +39,32 @@ Scraped **128,460** Companies ([3.97MB](data/companies.tsv)) as of *2024-02-01 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116867*
+*Sample of 10/116873*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (12,986) PV123814 - **BLUE SAPPHIRE DEVELOPMENTS**
-* (25,971) PV00261006 - **DILASHO IMPEX**
-* (38,956) PV00204795 - **GOLDEN FEEDS INTERNATIONAL**
-* (51,941) PV00265477 - **KAPUTU KAKAKA**
-* (64,926) PV90359 - **MITRANS GLOBAL LOGISTICS**
-* (77,911) PV00225453 - **PRECISION TECHNICS INTERNATIONAL**
-* (90,896) PV00281254 - **SHA TECH**
-* (103,881) PV19999 - **THE SELVA ORGANISATION**
-* (116,867) PV118576 - **ZZAPPIT**
+* (25,972) PV18334 - **DILASHO INTERNATIONAL**
+* (38,958) PV65528 - **GOLDEN FISH INTERNATIONAL**
+* (51,944) PV00271900 - **KAPY SILKS**
+* (64,929) PV68366 - **MITSI'S DELICACIES**
+* (77,915) PV2607 - **PREDATOR INVESTMENT**
+* (90,901) PV120407 - **SHA SUPER**
+* (103,887) PV19999 - **THE SELVA ORGANISATION**
+* (116,873) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4210*
+*Sample of 10/4209*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (468)  - **BREADBOX**
 * (936)  - **DKSH**
-* (1,404)  - **GLOW GIRL**
+* (1,403)  - **GLOW AND BEAUTY**
 * (1,871)  - **KANDY UNITED SPORTS CLUB**
-* (2,339)  - **MNMR TRADING LANKA**
-* (2,807)  - **PLEX TECHNOLOGY**
-* (3,274)  - **SHALANKA DOT COM**
-* (3,742)  - **THE MOOT COURT BENCH**
-* (4,210)  - **ZULACART**
+* (2,338)  - **MNM LANKA**
+* (2,806)  - **PLAYFIT ARENA**
+* (3,273)  - **SHALANKA DOT COM**
+* (3,741)  - **THE MOOT COURT BENCH**
+* (4,209)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2753*
@@ -137,18 +137,18 @@ Scraped **128,460** Companies ([3.97MB](data/companies.tsv)) as of *2024-02-01 2
 * (373) FC1065 - **ZIBO GUANGZHENG ALKALI ALUMINIUM CHEMICAL INDUSTRY CO.,**
 
 ### "F"
-*Sample of 10/211*
+*Sample of 10/212*
 ![data/word_clouds/word_cloud_F.png](data/word_clouds/word_cloud_F.png)
 * (1) F350 - **ALGEMENE BANK NEDERLAND**
 * (24) F41 - **BOMBAY LIFE ASSURANCE CO.**
 * (47) F351 - **DET NORSKE VERITAS**
 * (71) F375 - **HARRIS CORPORATION (BERMUDA)**
 * (94) F47 - **LONDON & LANKASHIRE INSURANCE CO.**
-* (117) F7 - **NORTHERN ASSUARENCE CO.**
-* (141) F162 - **SAMPON & CO**
-* (164) F354 - **SUM CHRONG PILING**
-* (187) F131 - **THE PRUDENTIAL ASSURANCE CO.**
-* (211) F268 - **Y CICHAEL**
+* (118) F315 - **OBEROI HOTELS (INDIA) PRIVATE**
+* (141) F317 - **ROYAL NEPAL AIR LINES CORPORATION**
+* (165) F354 - **SUM CHRONG PILING**
+* (188) F131 - **THE PRUDENTIAL ASSURANCE CO.**
+* (212) F268 - **Y CICHAEL**
 
 ### "PQ"
 *Sample of 10/154*
