@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,472** Companies ([3.97MB](data/companies.tsv)) as of *2024-02-02 12:15:12*.
+Scraped **128,475** Companies ([3.97MB](data/companies.tsv)) as of *2024-02-02 16:15:00*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128472*
+*Sample of 10/128475*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,275) PV89875 - **BLUNESTONE CAPITAL 1 **
 * (28,550) PV00236731 - **DILZAM GEMS**
-* (42,824) PV00286793 - **GOODWILL EDUWIN**
-* (57,099) PV1538 - **KEEP CLEAN**
-* (71,373) PB00284858 - **MONIK CAPITAL HOLDING**
-* (85,648) PV126804 - **PRINT WIDE TRADING**
-* (99,922) PV90231 - **SEVENT''S INVESTMENTS HOLDINGS**
-* (114,197) PV107765 - **THE PANTRY LANKA**
-* (128,472) PV118576 - **ZZAPPIT**
+* (42,825) PV75869 - **GOODWILL AUTO MART**
+* (57,100) PV68359 - **KEENS FOOD CENTRE**
+* (71,375) PV100239 - **MONICA HEAVEN**
+* (85,650) PV94976 - **PRINT VISIONS**
+* (99,925) PV90231 - **SEVENT''S INVESTMENTS HOLDINGS**
+* (114,200) PV107765 - **THE PANTRY LANKA**
+* (128,475) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **128,472** Companies ([3.97MB](data/companies.tsv)) as of *2024-02-02 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/116874*
+*Sample of 10/116878*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (12,986) PV123814 - **BLUE SAPPHIRE DEVELOPMENTS**
-* (25,972) PV73855 - **DILARDS INTERNATIONAL**
-* (38,958) PV123 - **GOLDEN FEEDS**
-* (51,944) PV00277789 - **KARA WHITENING**
-* (64,930) PV90291 - **MITSUBOSHI LANKA**
-* (77,916) PV00213327 - **PREDOMINANT LINES**
-* (90,902) PV00291024 - **SHA WELLNESS CENTER AND SPA**
-* (103,888) PV110104 - **THE SENSE DIGITAL**
-* (116,874) PV118576 - **ZZAPPIT**
+* (12,987) PV00210038 - **BLUE SAPPHIRE GAMING**
+* (25,973) PV00261006 - **DILASHO IMPEX**
+* (38,960) PV68401 - **GOLDEN FARM**
+* (51,946) PV00251020 - **KARA SHIPPING LANKA**
+* (64,932) PV10118 - **MITSU ELECTRONIC**
+* (77,919) PV2607 - **PREDATOR INVESTMENT**
+* (90,905) PV00243855 - **SHA TRADINGS & EXPORTS**
+* (103,891) PV14498 - **THE SENA SERVICE**
+* (116,878) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4214*
@@ -95,18 +95,18 @@ Scraped **128,472** Companies ([3.97MB](data/companies.tsv)) as of *2024-02-02 1
 * (2,316) GA470 - **ZONTA CLUB II OF COLOMBO**
 
 ### "GL"
-*Sample of 10/746*
+*Sample of 10/745*
 ![data/word_clouds/word_cloud_GL.png](data/word_clouds/word_cloud_GL.png)
 * (1) GL00223389 - **A LITTLE  FOUNDATION**
 * (83) GL00236287 - **BRIDGE OF HOPE LANKA**
 * (166) GL00273941 - **DREAM LIFE FOUNDATION**
-* (249) GL00256634 - **GREEN WORLD TRUST**
-* (332) GL00240983 - **KANDURATA SAVIYA**
-* (414) GL00279874 - **MINDFULNESS FOR EARTH**
-* (497) GL00226336 - **PROFESSIONALS WITHOUT BORDERS LANKA**
-* (580) GL00222874 - **SLASPA**
-* (663) GL2404 - **TRANSDEV LANKA**
-* (746) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
+* (249) GL2040 - **GROW & GLOW**
+* (331) GL00240983 - **KANDURATA SAVIYA**
+* (414) GL2255 - **MISSION FOR SMILES**
+* (497) GL00258086 - **PROJECT BLOOM ASSOCIATION**
+* (579) GL00222874 - **SLASPA**
+* (662) GL2404 - **TRANSDEV LANKA**
+* (745) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
 
 ### "NF"
 *Sample of 10/516*
