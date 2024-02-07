@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,656** Companies ([3.98MB](data/companies.tsv)) as of *2024-02-07 08:15:03*.
+Scraped **128,659** Companies ([3.98MB](data/companies.tsv)) as of *2024-02-07 14:15:18*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128656*
+*Sample of 10/128659*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,296) PV00282254 - **BLUOCEAN HEALTHCARE**
-* (28,591) PV75130 - **DIMAGEZ**
-* (42,886) PV00286364 - **GOOGOL GREEN ENERGY**
-* (57,181) PV00279832 - **KEEPUP ELEVATORS**
-* (71,476) PV22253 - **MONO GARMENTS**
-* (85,771) PV00290682 - **PRINTEDGE**
-* (100,066) PV00200451 - **SEVEN WAYS**
-* (114,361) PV00275950 - **THE ORTHOPEDIC AGENCY**
-* (128,656) PV118576 - **ZZAPPIT**
+* (14,296) PV00271530 - **BLUMEN TRAVELS**
+* (28,591)  - **DIMACOINLAB**
+* (42,887)  - **GOOGLES LANKA**
+* (57,182) PV69196 - **KEEP ON TRACK ENGINEERING SERVICE SUPPLIES**
+* (71,477) PV112692 - **MONLANKA INVESTMENTS HOLDING**
+* (85,773) PV63386 - **PRINTEC ESTABLISHMENT**
+* (100,068) PV104163 - **SEVEN WAVES INTERNATIONAL**
+* (114,363) PV00271228 - **THE ORIENT PLUS**
+* (128,659) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **128,656** Companies ([3.98MB](data/companies.tsv)) as of *2024-02-07 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117001*
+*Sample of 10/117006*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,001) PV121116 - **BLUE RIBBON LANKA HOLDINGS**
-* (26,001) PV122784 - **DILANKA SKY GARDEN**
-* (39,001) PV00246291 - **GOLDEN GALLE**
-* (52,001) PV00271961 - **KAPUWELLA ESTATE**
-* (65,001) PV88713 - **MITRANS SHIPPING AGENCY**
-* (78,001) PV108049 - **PREEZY TRAVELS & TOURS**
-* (91,001) PV114349 - **SHA CREDIT**
-* (104,001) PV82112 - **THE S.T.P. AUTOLINK**
-* (117,001) PV118576 - **ZZAPPIT**
+* (13,001) PV00275112 - **BLUE RAY TRAVELS**
+* (26,002) PV88772 - **DILANKA CONSTRUCTION COMPANY**
+* (39,002) PV17789 - **GOLDEN FLIES**
+* (52,003) PV113928 - **KAPUTA RACING**
+* (65,003) PV132010 - **MITRA S K LANKA**
+* (78,004) PV63708 - **PREEMALI TOURIST HOTEL**
+* (91,004) PV128538 - **SHA CONSTRUCTIONS & CIVIL ENGINEERING**
+* (104,005) PV73412 - **THE S.G. FASHION**
+* (117,006) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4258*
+*Sample of 10/4256*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
-* (474)  - **BREVISIO CONSULTING**
-* (947)  - **DNA LEVESQUE VOYAGES**
-* (1,420)  - **GOLDEN RETRIEVER CLUB OF LANKA**
-* (1,893)  - **KANDANA KOCO MART**
-* (2,366)  - **MODERN LIVING HOMES**
-* (2,839)  - **PLANETGREEN LANKA**
-* (3,312)  - **SHAKTHI TRAVELS**
-* (3,785)  - **THE SILVA HOLDINGS**
-* (4,258)  - **ZULACART**
+* (473)  - **BRIDE IN STYLE**
+* (946)  - **DOCANNED COLOMBO**
+* (1,419)  - **GOLDEN RULE**
+* (1,892)  - **KANDY A & C GEMS**
+* (2,364)  - **MODERN LIVING HOMES**
+* (2,837)  - **PLANETGREEN LANKA**
+* (3,310)  - **SHAKTHI TRAVELS**
+* (3,783)  - **THE SILVA HOLDINGS**
+* (4,256)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2774*
