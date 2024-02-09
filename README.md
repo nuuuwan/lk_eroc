@@ -2,33 +2,33 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,714** Companies ([3.98MB](data/companies.tsv)) as of *2024-02-09 06:30:13*.
+Scraped **128,713** Companies ([3.98MB](data/companies.tsv)) as of *2024-02-09 08:14:57*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128714*
+*Sample of 10/128713*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,302) PV943 - **BLUETEX**
 * (28,603) PV107003 - **DIMA INVESTMENTS**
 * (42,905) PV66954 - **GOOROOK OYA MALLANDA MINI HYDRO POWER**
 * (57,206) PV68191 - **KEENEYE SOLUTIONS**
-* (71,508) PV00240525 - **MONKEY CARBON**
+* (71,507) PV00200180 - **MONKEY BEAN**
 * (85,809) PV76216 - **PRINTCOPE**
-* (100,111) PV00206341 - **SEVEN WIN INTERNATIONAL**
-* (114,412) PV2311 - **THE PAINT SHOP KATUBEDDA**
-* (128,714) PV118576 - **ZZAPPIT**
+* (100,110) PV00208827 - **SEVEN WILL SPA**
+* (114,411) PV3370 - **THE PAINT SHOP KALUTARA**
+* (128,713) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00290242 - **CEYLON BAGS ACADEMY**
-* (112) PV00290440 - **TRUST MEDICS**
-* (223) PV00290682 - **PRINTEDGE**
-* (334) PV00290919 - **GOLD RAY EXPO**
-* (445) PV00291165 - **THURKKAA ENTERPRISES**
+* (1) PV00290243 - **CITRINE ADVENTURE**
+* (112) PV00290441 - **EDUCA STUDY OVERSEAS**
+* (223) PV00290683 - **SELLHUB**
+* (334) PV00290920 - **FUSION  WORTH LANKA**
+* (445) PV00291166 - **YHL IMPACT**
 * (556) PV00291403 - **FARMERS DIRECT**
 * (667) PV00291623 - **KB HOLIDAYS LANKA TRAVEL**
 * (778) PV00291983 - **MANU INTERIORS**
@@ -39,18 +39,18 @@ Scraped **128,714** Companies ([3.98MB](data/companies.tsv)) as of *2024-02-09 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117050*
+*Sample of 10/117049*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,006) PV00284652 - **BLUE PEA**
 * (26,011) PV00281620 - **DILANJALINE HOLDINGS**
 * (39,017) PV00262184 - **GOLDEN GATE IMPORT & EXPORT**
 * (52,022) PV00271961 - **KAPUWELLA ESTATE**
-* (65,028) PV132010 - **MITRA S K LANKA**
+* (65,027) PV84663 - **MITRA INNOVATION**
 * (78,033) PV63708 - **PREEMALI TOURIST HOTEL**
-* (91,039) PV114349 - **SHA CREDIT**
-* (104,044) PV66262 - **THE SANDWICH FACTORY**
-* (117,050) PV118576 - **ZZAPPIT**
+* (91,038) PV118604 - **SHA COOL**
+* (104,043) PV00290742 - **THE SANDCASTLE**
+* (117,049) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4269*
