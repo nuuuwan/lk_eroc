@@ -2,30 +2,30 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,969** Companies ([3.98MB](data/companies.tsv)) as of *2024-02-12 02:15:36*.
+Scraped **128,968** Companies ([3.98MB](data/companies.tsv)) as of *2024-02-12 04:15:10*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128969*
+*Sample of 10/128968*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,330) PV89875 - **BLUNESTONE CAPITAL 1 **
 * (28,660)  - **DIMO SOLAR GALLE**
 * (42,990) PV00234054 - **GOURMET TRAILS**
-* (57,320) PV00282340 - **KEKU HABITAT STORE**
+* (57,319) PV00267377 - **KEKIRIDENIYA**
 * (71,649) PV72726 - **MOON TRADING COMPANY**
 * (85,979) PV93718 - **PRIYA PRODUCTS**
-* (100,309) PV108222 - **SEWANAGALA AYURVEDIC DRUGS MANUFACTURE**
-* (114,639) PV00235087 - **THE PET STORE**
-* (128,969) PV118576 - **ZZAPPIT**
+* (100,308) PV00252847 - **SEWANA HOMES**
+* (114,638) PV00232974 - **THE PET FOOD AND AGRI BUSINESSES**
+* (128,968) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00290466 - **AXTON EVERYDAY**
-* (112) PV00290716 - **CEYLON GREEN EARTH**
+* (1) PV00290468 - **MEDIA AND COMMUNICATION TECHNOLOGY CAMPUS**
+* (112) PV00290717 - **KHAYABAN CATERING**
 * (223) PV00290937 - **FLY FASTER SERVICER**
 * (334) PV00291169 - **SHENI ASA**
 * (445) PV00291393 - **SL I REPAIR LAB**
@@ -47,24 +47,24 @@ Scraped **128,969** Companies ([3.98MB](data/companies.tsv)) as of *2024-02-12 0
 * (39,084) PV00229168 - **GOLDEN LANKA MARKETING**
 * (52,111) PV124329 - **KARMA COLLECTION**
 * (65,139) PV00263070 - **ML LOGISTICS INTERNATIONAL**
-* (78,167) PV81924 - **PREMIER ENGLISH ACADEMY**
-* (91,194) PV128287 - **SHAAM FARM CENTRE**
-* (104,222) PV00257457 - **THE SIGNATURE COLLECTION**
+* (78,167) PV00223459 - **PREMIER ENGINEERING & TRADING**
+* (91,194) PV00271885 - **SHAAM CONSTRUCTION**
+* (104,222) PV00209055 - **THE SHOWTIME LANKA**
 * (117,250) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4303*
+*Sample of 10/4302*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
-* (479)  - **BREEZ HOLIDAY HOME**
-* (957)  - **DOLCE VITA**
-* (1,435)  - **GOOGLES LANKA**
-* (1,913)  - **KASHIKOI NIHONGO GAKKOU**
-* (2,391)  - **MOON MEDIA**
-* (2,869)  - **POP YARL ICE CREAM**
-* (3,347)  - **SHINY  SECRETS**
-* (3,825)  - **THEIA LUXURIES**
-* (4,303)  - **ZULACART**
+* (478)  - **BREADBOX**
+* (956)  - **DOGAZAL**
+* (1,434)  - **GOODWIN GENERAL TRADING**
+* (1,912)  - **KASAKARAYO**
+* (2,390)  - **MONOMART**
+* (2,868)  - **POP YARL ICE CREAM**
+* (3,346)  - **SHINY  SECRETS**
+* (3,824)  - **THEIA LUXURIES**
+* (4,302)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2775*
