@@ -2,30 +2,30 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **128,966** Companies ([3.98MB](data/companies.tsv)) as of *2024-02-12 20:15:17*.
+Scraped **128,964** Companies ([3.98MB](data/companies.tsv)) as of *2024-02-12 22:16:21*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/128966*
+*Sample of 10/128964*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,330) PV00271530 - **BLUMEN TRAVELS**
 * (28,659)  - **DIMO SOLAR GALLE**
-* (42,989) PV00214207 - **GOTOP**
-* (57,318) PV00279324 - **KEISHA VATHANAA BEAUTY & BRIDAL EXPERTS**
-* (71,648) PV114830 - **MOON LIGHT ENTERTAINMENT**
-* (85,977) PV131281 - **PRIVATE EYE ENERGY SERVICES**
-* (100,307) PV108222 - **SEWANAGALA AYURVEDIC DRUGS MANUFACTURE**
-* (114,636) PV00232974 - **THE PET FOOD AND AGRI BUSINESSES**
-* (128,966) PV118576 - **ZZAPPIT**
+* (42,988) PV119239 - **GOTOURS TRAVEL SERVICES**
+* (57,317) PV3175 - **KEISHIN LANKA**
+* (71,647) PV76584 - **MOON LIGHT HOTEL**
+* (85,976) PV00228149 - **PRIVATE EYE INVESTIGATIVE SOLUTIONS**
+* (100,305) PV108222 - **SEWANAGALA AYURVEDIC DRUGS MANUFACTURE**
+* (114,634) PV00232974 - **THE PET FOOD AND AGRI BUSINESSES**
+* (128,964) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00290511 - **FRONTIER AUTO IMPORTS**
-* (112) PV00290768 - **MEHRA INTERNATIONAL**
+* (1) PV00290513 - **ELEFANT ISLE TECH**
+* (112) PV00290771 - **ACTIVENET ENGINEERING SERVICE**
 * (223) PV00290979 - **MANNS HOLDING**
 * (334) PV00291206 - **THAMBAPANNI VENTURE CAPITAL**
 * (445) PV00291431 - **KING MOTORS & AUTO PARTS**
@@ -39,32 +39,32 @@ Scraped **128,966** Companies ([3.98MB](data/companies.tsv)) as of *2024-02-12 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117257*
+*Sample of 10/117256*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,029) PV00209831 - **BLUE RAVENIT**
 * (26,057) PV71735 - **DILEEMA**
-* (39,086) PV127317 - **GOLDEN ISLE PROPERTIES**
-* (52,114) PV77877 - **KARFT INTERNATIONAL L K**
-* (65,143) PV00261387 - **MKD PLANTATIONS**
-* (78,171) PV87306 - **PREMIER DESTINATIONS**
-* (91,200) PV00271885 - **SHAAM CONSTRUCTION**
-* (104,228) PV00209055 - **THE SHOWTIME LANKA**
-* (117,257) PV118576 - **ZZAPPIT**
+* (39,086) PV86112 - **GOLDEN JAPAN INTERNATIONAL**
+* (52,114) PV00277779 - **KARIKALAN EXPORT & TRANSPORT**
+* (65,142) PV00261387 - **MKD PLANTATIONS**
+* (78,171) PV117945 - **PREMIER EDGE PRODUCTIONS**
+* (91,199) PV00271885 - **SHAAM CONSTRUCTION**
+* (104,227) PV00209055 - **THE SHOWTIME LANKA**
+* (117,256) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4304*
+*Sample of 10/4303*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (479)  - **BRILLIANT JEWELLERS COLOMBO**
 * (957)  - **DON HOLDINGS**
-* (1,435)  - **GOODWIN GENERAL TRADING**
-* (1,913)  - **KASAKARAYO**
-* (2,391)  - **MONOMART**
-* (2,869)  - **PORT CITY PROPERTY SERVICES**
-* (3,347)  - **SHINE LANKA**
-* (3,825)  - **THE WIND HOUSE**
-* (4,304)  - **ZULACART**
+* (1,435)  - **GOOGLES LANKA**
+* (1,913)  - **KASHIKOI NIHONGO GAKKOU**
+* (2,391)  - **MOON MEDIA**
+* (2,869)  - **PORT CITY VILLA DEVELOPMENT**
+* (3,347)  - **SHINE WAVE SOLUTIONS**
+* (3,825)  - **THEEPAM TRADERS**
+* (4,303)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2774*
