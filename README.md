@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,031** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-13 22:16:51*.
+Scraped **129,032** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-14 02:15:41*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129031*
+*Sample of 10/129032*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,337) PV102861 - **BLUTRAIN**
 * (28,674) NF401 - **DIMON INTERNATIONAL A.G.**
 * (43,011) PV00267066 - **GOURMET LANKA**
-* (57,347)  - **KEHELWELA**
-* (71,684) PV104897 - **MOON LAKE HOTELS HOLDINGS**
-* (86,021) PV111393 - **PRISTINE GREEN HOTELS**
-* (100,357) GL2110 - **SEVO**
-* (114,694) GA00268222 - **THE PEARL PROTECTORS**
-* (129,031) PV118576 - **ZZAPPIT**
+* (57,348) PV00224280 - **KEHNO CLEAN & CARE**
+* (71,684) PV101064 - **MOON LANKA MOTORS**
+* (86,021) PV00276035 - **PRISTINE INVESTMENTS**
+* (100,358) GA00285852 - **SEVVEL FOUNDATION**
+* (114,695) GA616 - **THE PENTECOSTAL ASSEMBLIES OF SRI LANKA**
+* (129,032) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **129,031** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-13 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117287*
+*Sample of 10/117290*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,032) PV00276993 - **BLUE RIBBON CEYLON**
-* (26,064) PV79866 - **DILCO TECHNOLOGIES AND TRADING**
-* (39,096) PV00209562 - **GOLDEN KITCHEN**
-* (52,128) PV19427 - **KARANDANA GEMS AND TOURS**
-* (65,159) PV92425 - **MIZUUMI SEEDS INTERNATIONAL**
-* (78,191) PV00273345 - **PREMIER BUSINESS ACADEMY**
-* (91,223) PV00272453 - **SHA SHA SECURITY   SERVICES AND   MANPOWER**
-* (104,255) PV19999 - **THE SELVA ORGANISATION**
-* (117,287) PV118576 - **ZZAPPIT**
+* (13,033) PV121116 - **BLUE RIBBON LANKA HOLDINGS**
+* (26,065) PV85750 - **DILCOIR MILLS**
+* (39,097) PV77489 - **GOLDEN KNITTERS**
+* (52,129) PV00274253 - **KARANTHOI**
+* (65,161) PV92125 - **MJAUNT INTERNATIONAL**
+* (78,193) PV00237842 - **PREMIER CAR POINT**
+* (91,225) PV00281254 - **SHA TECH**
+* (104,257) PV00253924 - **THE SERENE AGRI PRODUCTS**
+* (117,290) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4335*
+*Sample of 10/4333*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (482)  - **BRINE & COMPANY**
-* (964)  - **DOLCE VITA**
+* (963)  - **DOGAZAL**
 * (1,445)  - **GOODWIN GENERAL TRADING**
-* (1,927)  - **KATTANKUDY FORUM FOR PROFESSIONALS AND CIVIL INSTITUTIONS**
-* (2,408)  - **MORINGA HOTELS**
-* (2,890)  - **POST OFFICE  BAR**
-* (3,371)  - **SHIMMER & SPARKLES**
-* (3,853)  - **THE WIND HOUSE**
-* (4,335)  - **ZULACART**
+* (1,926)  - **KATI CORNER**
+* (2,407)  - **MORGANCOUP**
+* (2,889)  - **POST OFFICE  BAR**
+* (3,370)  - **SHIMMER & SPARKLES**
+* (3,851)  - **THE WESTER SEATON CHESHIRE HOME**
+* (4,333)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2774*
