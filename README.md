@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,042** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-14 06:30:13*.
+Scraped **129,043** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-14 08:15:12*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129042*
+*Sample of 10/129043*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,338) PV00209133 - **BLYM TRAVEL AGENCY**
-* (28,676) PV100380 - **DIMSO GREEN ELECTRIC COMPANY**
-* (43,014) PV125886 - **GOULASH ENTERTAINMENT GROUP**
-* (57,352) PV63939 - **KEGEEN INTERNATIONAL**
-* (71,690) PV00266761 - **MOON**
-* (86,028) PV00269934 - **PRISSHA BEAUTY CARE & TRAINING ACADEMY**
-* (100,366) PV119482 - **SEVON TRADING & INVESTMENT**
-* (114,704) PV00214764 - **THE PEN FACTORY**
-* (129,042) PV118576 - **ZZAPPIT**
+* (14,339) PV00271016 - **BLYMO**
+* (28,677) PV87388 - **DIMUTH & SUSITH CONSTRUCTIONS**
+* (43,015) PV125886 - **GOULASH ENTERTAINMENT GROUP**
+* (57,353) PV63939 - **KEGEEN INTERNATIONAL**
+* (71,691) PV00266761 - **MOON**
+* (86,029) PV00269934 - **PRISSHA BEAUTY CARE & TRAINING ACADEMY**
+* (100,367) PV119482 - **SEVON TRADING & INVESTMENT**
+* (114,705) PV00214764 - **THE PEN FACTORY**
+* (129,043) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **129,042** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-14 0
 * (117,298) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4334*
+*Sample of 10/4335*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (482)  - **BRINE & COMPANY**
-* (963)  - **DOGAZAL**
-* (1,445)  - **GOOD EARTH DEVELOPERS**
-* (1,926)  - **KASHKI DESIGN COMPANY**
-* (2,408)  - **MOPERAMA INTERNATIONAL**
-* (2,889)  - **PORT CITY PROPERTY SERVICES**
-* (3,371)  - **SHIMMER & SPARKLES**
-* (3,852)  - **THE WESTER SEATON CHESHIRE HOME**
-* (4,334)  - **ZULACART**
+* (964)  - **DOLCE VITA**
+* (1,445)  - **GOOD AGRI WORLDWIDE SUBSTRATES EXPORTS**
+* (1,927)  - **KASHKI DESIGN COMPANY**
+* (2,408)  - **MOONSTRIKE CAPITAL PARTNERS**
+* (2,890)  - **PORT CITY PROPERTY SERVICES**
+* (3,371)  - **SHIKISEN**
+* (3,853)  - **THE WESTER SEATON CHESHIRE HOME**
+* (4,335)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2774*
