@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,084** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-15 16:15:11*.
+Scraped **129,086** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-15 18:20:20*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129084*
+*Sample of 10/129086*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,343) PV00209133 - **BLYM TRAVEL AGENCY**
 * (28,686) PV83746 - **DIMUTHU ENGINEERS**
-* (43,028) PV00225778 - **GOURMET ESSENTIALS LANKA**
-* (57,371) PV00247037 - **KEHNO BEVERAGES LANKA**
-* (71,713) PV00250700 - **MOON PHARMACY**
-* (86,056) PV00251988 - **PRIVATE CUSTOMIZED BUSINESS KTV**
-* (100,398) PV68678 - **SEWIN LAK FASHION**
-* (114,741) GL00291573 - **THE PEOPLE'S EYE**
-* (129,084) PV118576 - **ZZAPPIT**
+* (43,029) PV00203409 - **GOURMET DELICASIES BY CATAMARAN**
+* (57,372) PV88649 - **KEHIBELLA LANKA**
+* (71,714) PV00257999 - **MOON MOBILE STORE**
+* (86,057) PV00286963 - **PRIUS MAHAGEDARA MATARA**
+* (100,400) PV68678 - **SEWIN LAK FASHION**
+* (114,743) GL00291573 - **THE PEOPLE'S EYE**
+* (129,086) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -42,29 +42,29 @@ Scraped **129,084** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-15 1
 *Sample of 10/117330*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,037) PV121116 - **BLUE RIBBON LANKA HOLDINGS**
-* (26,074) PV112659 - **DILEKA FOODS**
-* (39,110) PV63979 - **GOLDEN KAFFE**
-* (52,147) PV00274253 - **KARANTHOI**
-* (65,183) PV00284313 - **MK COCO**
-* (78,220) PV00240247 - **PREMIER COCO LANKA**
+* (13,037) PV119457 - **BLUE RICE VILLA**
+* (26,074) PV00275037 - **DILENA LANKA TRADING**
+* (39,110) PV00235520 - **GOLDEN K M R HOLDINGS**
+* (52,147) PV104834 - **KARANS JEWELLERY**
+* (65,183) PV00282500 - **MJM TRADING GROUP**
+* (78,220) PV00248588 - **PREMIER COCO EXPORTS**
 * (91,256) PV00279979 - **SHAAKO AUTO WHEELS**
 * (104,293) PV00253924 - **THE SERENE AGRI PRODUCTS**
 * (117,330) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4338*
+*Sample of 10/4340*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
-* (482)  - **BRITAIN BOTTLED WATER**
-* (964)  - **DON AND SONS**
-* (1,446)  - **GOODWIN GENERAL TRADING**
-* (1,928)  - **KATTANKUDY FORUM FOR PROFESSIONALS AND CIVIL INSTITUTIONS**
-* (2,410)  - **MOTHER’S FOOD LANKA**
-* (2,892)  - **POWER HUT**
-* (3,374)  - **SHIVA PARTNERS**
-* (3,856)  - **THIEFGUARD**
-* (4,338)  - **ZULACART**
+* (483)  - **BRITAIN BOTTLED WATER**
+* (965)  - **DON AND SONS**
+* (1,447)  - **GOODWIN GENERAL TRADING**
+* (1,929)  - **KATTANKUDY FORUM FOR PROFESSIONALS AND CIVIL INSTITUTIONS**
+* (2,411)  - **MOTHER’S FOOD LANKA**
+* (2,893)  - **POWER HANDS AUTO MOBILE**
+* (3,375)  - **SHISHAN HOLDINGS**
+* (3,857)  - **THEMI APPERAL**
+* (4,340)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2775*
