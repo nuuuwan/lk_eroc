@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,289** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-20 14:15:30*.
+Scraped **129,290** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-20 16:15:02*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129289*
+*Sample of 10/129290*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,366) PV00245314 - **BLUSH SKINCARE**
-* (28,731) PV83746 - **DIMUTHU ENGINEERS**
-* (43,097) PV73216 - **GOTHIX INTERNATIONAL**
-* (57,462) PV74676 - **KEGALLE RANASINGE TOURS**
-* (71,827) PV117522 - **MOON LANKA INTERNATIONAL**
-* (86,193) PV100840 - **PRISTYN HOLDINGS**
-* (100,558) PV00217621 - **SEWIN ENTERPRISES**
-* (114,923) PV14330 - **THE PELICAN HOTELS**
-* (129,289) PV118576 - **ZZAPPIT**
+* (28,731) PV78666 - **DIMUTHU ECO-ORGANIC AGRO INVESTMENTS**
+* (43,097) GA00220180 - **GOTHAMI PSYCHOLOGICAL COUNSELING & SPIRITUAL DEVELOPMENT CENTER**
+* (57,462) PV00222035 - **KEGALLE PLYWOOD HOUSE**
+* (71,828) PV117522 - **MOON LANKA INTERNATIONAL**
+* (86,193)  - **PRISTY GROUPS**
+* (100,559) PV00217621 - **SEWIN ENTERPRISES**
+* (114,924) PV14330 - **THE PELICAN HOTELS**
+* (129,290) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,25 +39,25 @@ Scraped **129,289** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-20 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117507*
+*Sample of 10/117508*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,057) PV119457 - **BLUE RICE VILLA**
 * (26,113) PV00290325 - **DILI DAIRY FARM**
-* (39,169) PV00285930 - **GOLDEN HARVEST MILLS**
-* (52,225) PV00274253 - **KARANTHOI**
-* (65,282) PV00290907 - **MKD JAPANESE LANGUAGE CONSULTANTS**
-* (78,338) PV79295 - **PREMIER COMMUNICATIONS**
-* (91,394) PV00271885 - **SHAAM CONSTRUCTION**
-* (104,450) PV00205803 - **THE SERENDIB OCEANARY**
-* (117,507) PV118576 - **ZZAPPIT**
+* (39,170) PV00285930 - **GOLDEN HARVEST MILLS**
+* (52,226) PV00274253 - **KARANTHOI**
+* (65,282) PV00257830 - **MKB BADULLA**
+* (78,339) PV79295 - **PREMIER COMMUNICATIONS**
+* (91,395) PV00271885 - **SHAAM CONSTRUCTION**
+* (104,451) PV00205803 - **THE SERENDIB OCEANARY**
+* (117,508) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4360*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (485)  - **BRIDE IN STYLE**
-* (969)  - **DKSH**
+* (969)  - **DK HOLDINGS**
 * (1,454)  - **GOOGLES LANKA**
 * (1,938)  - **KAY BEE AL HASEENA JEWELLERS**
 * (2,422)  - **MOTO MAXTA**
