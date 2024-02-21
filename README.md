@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,266** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-21 16:15:44*.
+Scraped **129,265** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-21 18:21:27*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129266*
+*Sample of 10/129265*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,363) PV00209133 - **BLYM TRAVEL AGENCY**
 * (28,726) PV00202852 - **DIMUTHU LANKA ENTERPRISES**
-* (43,089)  - **GOURMET HOLDINGS**
-* (57,452) PV00252637 - **KEGALU DRIVING SCHOOL**
-* (71,814) PV96497 - **MOON IN SUN HOLDINGS**
-* (86,177) PV00235946 - **PRISTINE MARK**
-* (100,540) PV95230 - **SEWIN LANKA HOLDINGS**
-* (114,903) PV00214764 - **THE PEN FACTORY**
-* (129,266) PV118576 - **ZZAPPIT**
+* (43,089) PV00274204 - **GOURMET ONE**
+* (57,451) PV89663 - **KEGALU MOTOR STORES**
+* (71,814) PV101064 - **MOON LANKA MOTORS**
+* (86,177) PV12984 - **PRISTINE SOLUTIONS**
+* (100,539) PV95230 - **SEWIN LANKA HOLDINGS**
+* (114,902) PV00214764 - **THE PEN FACTORY**
+* (129,265) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **129,266** Companies ([3.99MB](data/companies.tsv)) as of *2024-02-21 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117503*
+*Sample of 10/117501*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,056) PV116893 - **BLUE SAPPHIRE RESIDENCIES**
 * (26,112) PV00254347 - **DILHARA HOLDINGS**
-* (39,168) PV00259748 - **GOLDEN HOLIDAYS & BUSINESS CONSULTANCY**
-* (52,224) PV19427 - **KARANDANA GEMS AND TOURS**
-* (65,279) PV00270142 - **MJF EPIGRO RENEWABLES**
-* (78,335) PV116897 - **PREMIER CEYLON HOTELS AND HOSPITALITY**
-* (91,391) PV128287 - **SHAAM FARM CENTRE**
-* (104,447) PV00205803 - **THE SERENDIB OCEANARY**
-* (117,503) PV118576 - **ZZAPPIT**
+* (39,167) PV100276 - **GOLDEN HOLIDAYS GROUP**
+* (52,223) PV00277693 - **KARANNAGODA INVESTMENT**
+* (65,278) PV00282500 - **MJM TRADING GROUP**
+* (78,334) PV129191 - **PREMIER CEYLON TEA EXPORTS**
+* (91,389) PV128287 - **SHAAM FARM CENTRE**
+* (104,445) PV00205803 - **THE SERENDIB OCEANARY**
+* (117,501) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4354*
+*Sample of 10/4355*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A KIRUBAA GROUP OF COMPANIES**
 * (484)  - **BOSWIN TRAVEL**
 * (968)  - **DK COMPANY SECRETARIAL SERVICES**
 * (1,452)  - **GOONESINGHE ASSOCIATES LAW FIRM**
-* (1,935)  - **KEHELWELA**
+* (1,936)  - **KELANI EXPORTS**
 * (2,419)  - **MOTOR CASTLE**
-* (2,903)  - **PRABODYA ENTERPRISES**
-* (3,386)  - **SHIRLEY ENTERPRISES**
-* (3,870)  - **THE WIND HOUSE**
-* (4,354)  - **ZULACART**
+* (2,903)  - **PRABAURA**
+* (3,387)  - **SHIRLEY ENTERPRISES**
+* (3,871)  - **THE WIND HOUSE**
+* (4,355)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2778*
