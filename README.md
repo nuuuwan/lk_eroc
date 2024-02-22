@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,357** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-23 02:15:40*.
+Scraped **129,356** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-23 04:15:00*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129357*
+*Sample of 10/129356*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,373) PV106356 - **BLULINE LANDS**
-* (28,746) PV00227843 - **DIMUTHU CONSTRUCTIONS LANKA**
-* (43,119) PV91663 - **GOURMET CITY**
-* (57,492) PV00270562 - **KEETHA ENTERPRISES**
-* (71,865) PV00208448 - **MOODYS INVESTMENT**
-* (86,238) PV00216978 - **PRISHA SPICES**
-* (100,611) PV00281207 - **SEWANA HOLDINGS**
-* (114,984) PV00213212 - **THE PASSIONFRUIT COMPANY**
-* (129,357) PV118576 - **ZZAPPIT**
+* (28,746) PV78666 - **DIMUTHU ECO-ORGANIC AGRO INVESTMENTS**
+* (43,119) PV00203409 - **GOURMET DELICASIES BY CATAMARAN**
+* (57,492) PV00203653 - **KEETO LANKA**
+* (71,864) PV00208448 - **MOODYS INVESTMENT**
+* (86,237) PV00216978 - **PRISHA SPICES**
+* (100,610) PV00281207 - **SEWANA HOLDINGS**
+* (114,983) PV00213212 - **THE PASSIONFRUIT COMPANY**
+* (129,356) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **129,357** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-23 0
 * (117,580) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4379*
+*Sample of 10/4378*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (487)  - **BOSS FURNITURE**
-* (973)  - **DIVINE EYE LANKA**
-* (1,460)  - **GOOD VENTURES LANKA**
-* (1,946)  - **KATEE ROTEE**
-* (2,433)  - **MORNING STAR FOUNDATION**
-* (2,919)  - **POTENT MATTER**
-* (3,406)  - **SHINE BATHWARE**
-* (3,892)  - **THE UNIVERSAL VISA CONSULTANT SERVICE**
-* (4,379)  - **ZULACART**
+* (973)  - **DIYAWANNAWE RECREATION CENTER**
+* (1,460)  - **GOODWIN GENERAL TRADING**
+* (1,946)  - **KATI CORNER**
+* (2,432)  - **MORNING STAR FOUNDATION**
+* (2,919)  - **POTENTIA GLOBAL**
+* (3,405)  - **SHINE BATHWARE**
+* (3,891)  - **THE UNIVERSAL VISA CONSULTANT SERVICE**
+* (4,378)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2773*
