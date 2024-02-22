@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,334** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-22 12:15:07*.
+Scraped **129,337** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-22 16:14:55*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129334*
+*Sample of 10/129337*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,371) PV102861 - **BLUTRAIN**
-* (28,741) PV00202852 - **DIMUTHU LANKA ENTERPRISES**
-* (43,112) PV00274204 - **GOURMET ONE**
-* (57,482) GA2384 - **KEGALLE DISTRICT CHAMBER OF COMMERCE, INDUSTRY AND AGRICULTURE**
-* (71,852) PV00281637 - **MOON AND ROSE**
-* (86,223) PV68495 - **PRISM GROUP HOLDINGS**
-* (100,593) PV00291378 - **SEWANA PROPERTIES**
-* (114,963) PV00213212 - **THE PASSIONFRUIT COMPANY**
-* (129,334) PV118576 - **ZZAPPIT**
+* (28,742) PV98251 - **DIMUTHU LEATHER WORKS**
+* (43,113) PV10889 - **GOURMET PALACE**
+* (57,483) PV111210 - **KEGALLE DISTRIBUTORS**
+* (71,854) PV00281637 - **MOON AND ROSE**
+* (86,225) PV68495 - **PRISM GROUP HOLDINGS**
+* (100,595) PV00291378 - **SEWANA PROPERTIES**
+* (114,966) PV00213212 - **THE PASSIONFRUIT COMPANY**
+* (129,337) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **129,334** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-22 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117570*
+*Sample of 10/117569*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,064) PV125564 - **BLUE SAPPHIRE TRADING**
 * (26,127) PV00235346 - **DILICELANKA**
 * (39,190) PV00214305 - **GOLDEN ISLE HOLDINGS**
 * (52,253) PV88019 - **KARAINAGAR BEACH HOTEL AND RECREATIONS**
-* (65,317) PV00265036 - **MJ MARKETING**
-* (78,380) PV00249025 - **PREMIER BROTHERS**
-* (91,443) PV90027 - **SHAA TRADE INTERNATIONAL**
-* (104,506) PV71111 - **THE SAPPHIRE GROUP**
-* (117,570) PV118576 - **ZZAPPIT**
+* (65,316) PV00262131 - **MJ GLOBAL EDUCATION AND  VISA CONSULTANTS**
+* (78,379) PV68142 - **PREMIER BACKOFFICE**
+* (91,442) PV00203581 - **SHAA STEEL**
+* (104,505) PV71111 - **THE SAPPHIRE GROUP**
+* (117,569) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4369*
+*Sample of 10/4373*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (486)  - **BOSUTHA  LAND  SALES**
-* (971)  - **DIVINE EYE LANKA**
-* (1,457)  - **GOYA CHEMICARE**
-* (1,942)  - **KAY BEE AL HASEENA JEWELLERS**
-* (2,427)  - **MOTHER’S FOOD LANKA**
-* (2,913)  - **POWER HUT**
-* (3,398)  - **SHINE WAVE SOLUTIONS**
-* (3,883)  - **THE WIND HOUSE**
-* (4,369)  - **ZULACART**
+* (972)  - **DIYAWANNAWE RECREATION CENTER**
+* (1,458)  - **GRACE ENTERPRISES**
+* (1,944)  - **KAY BEE AL HASEENA JEWELLERS**
+* (2,429)  - **MOTHER’S FOOD LANKA**
+* (2,915)  - **POWER HUT**
+* (3,401)  - **SHINY  SECRETS**
+* (3,887)  - **THE WIND HOUSE**
+* (4,373)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2773*
