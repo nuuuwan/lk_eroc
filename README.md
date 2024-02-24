@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,524** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-24 22:15:09*.
+Scraped **129,524** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-25 00:14:57*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -24,47 +24,47 @@ Scraped **129,524** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-24 2
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) GA00291228 - **HESHI  INTERNATIONAL FOUNDATION**
-* (112) PV00291428 - **NATURES PULSE FOOD EXPORTS**
-* (223) PV00291626 - **DEEN’S GEMSTONE**
-* (334) PV00291890 - **PIONEER INTERNATIONAL EDUCATION & CONSULTANCY**
-* (445) PV00292236 - **ELEGANZ CARE**
-* (556) PV00292593 - **NST ECO PRODUCTS**
-* (667) PV00292972 - **RU TRADING**
-* (778) PV00293375 - **ELITE APEX DEVELOPERS**
-* (889) PV00293883 - **NUTRAWELL**
-* (1,000) PV00294949 - **BRIGHT HUMAN INVESTMENT**
+* (1) PV00291232 - **MASAKORALA & DIAS HOLDINGS**
+* (112) PV00291435 - **CEYLON ALBUMS**
+* (223) PV00291630 - **A PUBLICATIONS**
+* (334) PV00291894 - **KANTHY STORES**
+* (445) PV00292249 - **ADDCENTURE**
+* (556) PV00292604 - **OMEGA DEVELOPERS**
+* (667) PV00292974 - **ANANKE LAUNDRY**
+* (778) PV00293378 - **LERNAXU.COM**
+* (889) PV00293900 - **NICOYA RESERCH INSTITUTE**
+* (1,000) PV00294998 - **BUCKWHEAT HOLDINGS**
 
 
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117725*
+*Sample of 10/117726*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,081) PV98825 - **BLUE RIBBON**
-* (26,161) PV88772 - **DILANKA CONSTRUCTION COMPANY**
-* (39,242) PV84495 - **GOLDEN HARVEST COMMODITIES**
-* (52,322) PV69842 - **KARAGAHAHINNA MINI HYDRO**
-* (65,403) PV63264 - **MIYAME ENTERPRISES**
-* (78,483) PV00233304 - **PREMADASAS AGRI**
-* (91,564) PV127570 - **SHA SAVIOUR HOLDINGS**
-* (104,644) PV00243126 - **THE SAPPHIRE CAPITAL CEYLON**
-* (117,725) PV118576 - **ZZAPPIT**
+* (26,162) PV88772 - **DILANKA CONSTRUCTION COMPANY**
+* (39,242) PV128536 - **GOLDEN HARVEST AGRO PARK**
+* (52,323) PV69842 - **KARAGAHAHINNA MINI HYDRO**
+* (65,403) PV3825 - **MIYAKO AUTO TRADING**
+* (78,484) PV00233304 - **PREMADASAS AGRI**
+* (91,564) PV00286928 - **SHA QUALITY PRODUCTS**
+* (104,645) PV00243126 - **THE SAPPHIRE CAPITAL CEYLON**
+* (117,726) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4404*
+*Sample of 10/4403*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (490)  - **BOSE AND CO**
-* (979)  - **DISSON INVESTMENTS**
-* (1,468)  - **GOLDEN RETRIEVER CLUB OF LANKA**
-* (1,957)  - **KASHMEER FOOD CITY**
-* (2,447)  - **MORE GREEN**
-* (2,936)  - **POTENT MATTER**
-* (3,425)  - **SHETONE ENTERTAINMENT**
-* (3,914)  - **THE TREASURE HUNT**
-* (4,404)  - **ZULACART**
+* (979)  - **DIVAS CONNECT**
+* (1,468)  - **GOLDEN RULE**
+* (1,957)  - **KATEE ROTEE**
+* (2,446)  - **MORE GREEN**
+* (2,935)  - **POTENT MATTER**
+* (3,424)  - **SHETONE ENTERTAINMENT**
+* (3,913)  - **THE TREASURE HUNT**
+* (4,403)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2770*
