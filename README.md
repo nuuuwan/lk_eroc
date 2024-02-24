@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,508** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-24 14:15:14*.
+Scraped **129,510** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-24 16:15:07*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129508*
+*Sample of 10/129510*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,390)  - **BLUEWAVE FISHERIES**
-* (28,780) PV00229775 - **DIMEX HOLDING**
-* (43,170) PV61517 - **GOT WOOD**
-* (57,559) PV00270562 - **KEETHA ENTERPRISES**
-* (71,949) PV00263056 - **MONTEREO ENTERPRISES**
-* (86,339) PV19851 - **PRINTRITE ENTERPRISES**
-* (100,728) PV00225423 - **SEWA PIYASA**
-* (115,118) PV120931 - **THE PARTY BOUTIQUE**
-* (129,508) PV118576 - **ZZAPPIT**
+* (28,780) PV00236920 - **DIMETH FOOD EXPORTS**
+* (43,170) PV00271119 - **GOT HOLDINGS**
+* (57,560) PV00270562 - **KEETHA ENTERPRISES**
+* (71,950) PV00263056 - **MONTEREO ENTERPRISES**
+* (86,340) PV80890 - **PRINTPAK ENVELOPES**
+* (100,730) PV00225423 - **SEWA PIYASA**
+* (115,120) PV120931 - **THE PARTY BOUTIQUE**
+* (129,510) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **129,508** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-24 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117715*
+*Sample of 10/117716*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,080) PV119457 - **BLUE RICE VILLA**
 * (26,159) PV00202622 - **DILANKA ROYAL CREDIT**
 * (39,239) PV17 - **GOLDEN HARVEST HOLDINGS (PRIVATE) .**
 * (52,318) PV342 - **KARAGODA TEA FACTORY**
-* (65,397) PV80896 - **MIYANAGOLLA MINI HYDRO POWER**
-* (78,477) PV99630 - **PREMADASAS LUXURY VILLA AND SPA**
-* (91,556) PV00272453 - **SHA SHA SECURITY   SERVICES AND   MANPOWER**
-* (104,635) PV71111 - **THE SAPPHIRE GROUP**
-* (117,715) PV118576 - **ZZAPPIT**
+* (65,398) PV98869 - **MIYANKAN TRADING LANKA**
+* (78,477) PV14707 - **PREMADASAS HOLDINGS**
+* (91,557) PV00272453 - **SHA SHA SECURITY   SERVICES AND   MANPOWER**
+* (104,636) PV71111 - **THE SAPPHIRE GROUP**
+* (117,716) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4399*
+*Sample of 10/4400*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (489)  - **BOSEWANA ENTERPRISE**
-* (978)  - **DIVE EAST**
-* (1,467)  - **GOLDEN STAR INTERNATIONAL**
-* (1,955)  - **KATI CORNER**
-* (2,444)  - **MORINGA HOTELS**
-* (2,933)  - **POUR & PERK**
-* (3,421)  - **SHEYRA**
-* (3,910)  - **THE UNIVERSAL VISA CONSULTANT SERVICE**
-* (4,399)  - **ZULACART**
+* (978)  - **DIVAS CONNECT**
+* (1,467)  - **GOLDEN SHINE EDUCATION SOLUTIONS**
+* (1,956)  - **KATI CORNER**
+* (2,444)  - **MORGANCOUP**
+* (2,933)  - **POTENTIA GLOBAL**
+* (3,422)  - **SHEYRA**
+* (3,911)  - **THE UNIVERSAL VISA CONSULTANT SERVICE**
+* (4,400)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2770*
