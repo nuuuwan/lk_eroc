@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,475** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-24 04:15:08*.
+Scraped **129,475** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-24 06:29:56*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -12,7 +12,7 @@ Scraped **129,475** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-24 0
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,387)  - **BLUEWAVE FISHERIES**
-* (28,773) PV114650 - **DIMBULA SUPREME**
+* (28,773) PV88440 - **DIMBULLA DISTRIBUTORS**
 * (43,159) PV00209818 - **GOSPEL HOLDINGS**
 * (57,545) PV14230 - **KEERTHI GUNAWARDENA AND COMPANY**
 * (71,931) PV2743 - **MONSOON DUNE**
@@ -39,32 +39,32 @@ Scraped **129,475** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-24 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117689*
+*Sample of 10/117688*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,077) PV98825 - **BLUE RIBBON**
-* (26,153) PV62121 - **DILAN TRAILER MANUFACTURING**
-* (39,230) PV00251805 - **GOLDEN GROW HOLDINGS**
-* (52,306) PV00251020 - **KARA SHIPPING LANKA**
-* (65,383) PV61834 - **MIWON DISTRIBUTORS**
-* (78,459) PV7478 - **PREMADASA AGENCIES**
-* (91,536) PV00288193 - **SHA HOME LANDS**
-* (104,612) PV3413 - **THE SARASA TRADING COMPANY**
-* (117,689) PV118576 - **ZZAPPIT**
+* (26,153) PV105669 - **DILANGO PORPERTY**
+* (39,230) PV00278181 - **GOLDEN GUEST HOUSE**
+* (52,306) PV17503 - **KARA TRAVELS AND TOURS**
+* (65,382) PV61834 - **MIWON DISTRIBUTORS**
+* (78,459) PV79923 - **PREMADASA FINE ART GALLERY**
+* (91,535) PV00288193 - **SHA HOME LANDS**
+* (104,611) PV3413 - **THE SARASA TRADING COMPANY**
+* (117,688) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4392*
+*Sample of 10/4393*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (488)  - **BOSS FURNITURE**
-* (976)  - **DIVI SAVIYA CREDIT**
-* (1,464)  - **GOLDWIN VENTURES**
-* (1,952)  - **KASHMEER FOOD CITY**
-* (2,440)  - **MOPERAMA INTERNATIONAL**
-* (2,928)  - **PORT CITY VILLA DEVELOPMENT**
-* (3,416)  - **SHIMMER & SPARKLES**
-* (3,904)  - **THE WAVE TRAINING CEYLON**
-* (4,392)  - **ZULACART**
+* (489)  - **BOSUTHA  LAND  SALES**
+* (977)  - **DIVINE EXPORT PRODUCTS**
+* (1,465)  - **GOLDWIN VENTURES**
+* (1,953)  - **KASHMEER FOOD CITY**
+* (2,441)  - **MOPERAMA INTERNATIONAL**
+* (2,929)  - **PORT CITY VILLA DEVELOPMENT**
+* (3,417)  - **SHIMMER & SPARKLES**
+* (3,905)  - **THE WAVE TRAINING CEYLON**
+* (4,393)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2772*
