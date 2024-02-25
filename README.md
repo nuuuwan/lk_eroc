@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,566** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-25 18:19:25*.
+Scraped **129,570** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-25 20:14:50*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129566*
+*Sample of 10/129570*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,397) PV943 - **BLUETEX**
-* (28,793) PV00236480 - **DIMENSIONS  GATES**
-* (43,189) PV00282613 - **GOSHA HOLDINGS**
-* (57,585) PV7606 - **KEERTHI FOOD CITY**
-* (71,981) PV00210246 - **MONRAK TRADING**
-* (86,377) PV110590 - **PRINTICATEASIA**
-* (100,773) PV00206482 - **SEVN DESIGN STUDIOS**
-* (115,169) PV858 - **THE PALACE HOTEL SIGIRIYA**
-* (129,566) PV118576 - **ZZAPPIT**
+* (28,794) PV107653 - **DIMENSIONS ENTERPRISES**
+* (43,190) PV00282613 - **GOSHA HOLDINGS**
+* (57,587) PV00203632 - **KEERTHI FUEL MART**
+* (71,983) PV11013 - **MONRO INTERNATIONAL**
+* (86,380) PV125552 - **PRINTHUB CEYLON**
+* (100,776) PV17477 - **SEVIRO BAKERS**
+* (115,173) PV858 - **THE PALACE HOTEL SIGIRIYA**
+* (129,570) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **129,566** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-25 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117772*
+*Sample of 10/117774*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,086) PV00275112 - **BLUE RAY TRAVELS**
 * (26,172) PV00202622 - **DILANKA ROYAL CREDIT**
 * (39,258) PV12961 - **GOLDEN GRAINS**
-* (52,343) PV93284 - **KAPRUKA GLOBAL SHOP**
-* (65,429) PV00263237 - **MITTER  CONNECT**
-* (78,515) PV61507 - **PREMA METAL CRUSHERS**
-* (91,600) PV63577 - **SHA GLOBAL**
-* (104,686) PV00252502 - **THE SAILOR**
-* (117,772) PV118576 - **ZZAPPIT**
+* (52,344) PV66737 - **KAPRUKA HOME DESIGN**
+* (65,430) PV20654 - **MITTER INTERNAITONAL**
+* (78,516) PV20698 - **PREMA LEARNERS**
+* (91,602) PV63577 - **SHA GLOBAL**
+* (104,688) PV00252502 - **THE SAILOR**
+* (117,774) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4392*
+*Sample of 10/4394*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (488)  - **BOOK PARADISE**
-* (976)  - **DISCOVER LIFE**
-* (1,464)  - **GOLDEN RULE**
-* (1,952)  - **KELAANDCO**
-* (2,440)  - **MOST VENERABLE MURUNGAGASYAYE GNANISSARA MEMORIAL INSTITUTE**
-* (2,928)  - **POYA ISLE FAMILY VENTURES**
-* (3,416)  - **SHINE LANKA**
-* (3,904)  - **THE WAVE TRAINING CEYLON**
-* (4,392)  - **ZULACART**
+* (489)  - **BOSE AND CO**
+* (977)  - **DISSON INVESTMENTS**
+* (1,465)  - **GOLDEN RULE**
+* (1,953)  - **KELAANDCO**
+* (2,441)  - **MOST VENERABLE MURUNGAGASYAYE GNANISSARA MEMORIAL INSTITUTE**
+* (2,929)  - **POWERTON**
+* (3,417)  - **SHINE BATHWARE**
+* (3,905)  - **THE UNIVERSAL VISA CONSULTANT SERVICE**
+* (4,394)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2766*
