@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,601** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-26 12:15:26*.
+Scraped **129,603** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-26 14:15:51*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129601*
+*Sample of 10/129603*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,401) PV118675 - **BLUEWING CREDIT**
 * (28,801) PV00205146 - **DIMODA**
 * (43,201) PV00244136 - **GOSSIP LANKA NEWS**
 * (57,601) PV00230657 - **KEFLANI**
-* (72,001) PV84542 - **MONTFORT HOLDINGS**
-* (86,401) PV00228414 - **PRINTSTART INTERNATIONAL**
-* (100,801) PV00202656 - **SEWA  DEVELOPMENT INTERNATIONAL**
-* (115,201) PV858 - **THE PALACE HOTEL SIGIRIYA**
-* (129,601) PV118576 - **ZZAPPIT**
+* (72,002) PV00276484 - **MONTFORT INTERNATIONAL**
+* (86,402) PV00228716 - **PRINTTECH VISION**
+* (100,802) PV00213273 - **SEWA INTERNATIONAL ENERGY LANKA**
+* (115,202) PV127119 - **THE PALACE OF ROYAL BATH**
+* (129,603) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **129,601** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-26 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117796*
+*Sample of 10/117795*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,089) PV119457 - **BLUE RICE VILLA**
 * (26,177) PV117009 - **DILCARE PHARMACEUTICALS**
-* (39,266) PV00275618 - **GOLDEN HANDS CONSTRUCTION**
-* (52,354) PV00260586 - **KAPURU INVESTMENT**
-* (65,442) PV00220007 - **MIXALOGY**
-* (78,531) PV4472 - **PREMADASA SPORTS CENTRE**
-* (91,619) PV00236768 - **SHA NATURAL BEAUTY PRODUCTS**
-* (104,707) PV00208499 - **THE S GALLERY HOTEL**
-* (117,796) PV118576 - **ZZAPPIT**
+* (39,265) PV67076 - **GOLDEN GUIDE**
+* (52,353) PV00260586 - **KAPURU INVESTMENT**
+* (65,442) PV00248782 - **MIXICO**
+* (78,530) PV4472 - **PREMADASA SPORTS CENTRE**
+* (91,618) PV00236768 - **SHA NATURAL BEAUTY PRODUCTS**
+* (104,706) PV00208499 - **THE S GALLERY HOTEL**
+* (117,795) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4407*
+*Sample of 10/4410*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (490)  - **BOSE AND CO**
 * (980)  - **DIVI SAVIYA CREDIT**
-* (1,469)  - **GOLDEN RULE**
-* (1,959)  - **KEMIN CEYLON FOOD**
-* (2,448)  - **MOTO MAXTA.LK**
-* (2,938)  - **PRAMODE LABS**
-* (3,427)  - **SHINY  SECRETS**
-* (3,917)  - **THE WIND HOUSE**
-* (4,407)  - **ZULACART**
+* (1,470)  - **GOLDEN SHINE EDUCATION SOLUTIONS**
+* (1,960)  - **KEMIN CEYLON FOOD**
+* (2,450)  - **MOTOR CASTLE**
+* (2,940)  - **PRARTHANA SHEET CENTER**
+* (3,430)  - **SHIRLEY ENTERPRISES**
+* (3,920)  - **THEIA LUXURIES**
+* (4,410)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2763*
