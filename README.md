@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,615** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-27 00:15:12*.
+Scraped **129,620** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-27 02:15:18*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129615*
+*Sample of 10/129620*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,402) PV107173 - **BLUEWATER OCEANTIC**
-* (28,804) PV00293396 - **DIMO SOLAR GALLE TWO**
-* (43,205) PV00244136 - **GOSSIP LANKA NEWS**
-* (57,607) PV111210 - **KEGALLE DISTRIBUTORS**
-* (72,008) PV103932 - **MONTRA INVESTMENTS**
-* (86,410) PV00280319 - **PRIORIMAX SOFTWARE**
-* (100,811) PV00225423 - **SEWA PIYASA**
-* (115,213) PV00279389 - **THE PANT HOUSE**
-* (129,615) PV118576 - **ZZAPPIT**
+* (14,403) PV00264151 - **BLUEWATER SEAFOODS**
+* (28,805)  - **DIMO SOLAR KEKIRAWA**
+* (43,207) GA00277707 - **GOSPEL MISSION OF LIFE**
+* (57,609) PV00230657 - **KEFLANI**
+* (72,011) PV80264 - **MONTMAYEUR**
+* (86,413) PV122846 - **PRINZ SALT INDUSTRIES**
+* (100,815) PV00213273 - **SEWA INTERNATIONAL ENERGY LANKA**
+* (115,217) PV00201988 - **THE PANACEA CENTRAL**
+* (129,620) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **129,615** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-27 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117802*
+*Sample of 10/117806*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,090) PV116234 - **BLUE RAYS SOLAR LANKA**
 * (26,179) PV00241516 - **DILAX CERAMIC HOLDINGS**
-* (39,268) PV00210162 - **GOLDEN HANDS JEWELLERS**
-* (52,357) PV00271900 - **KAPY SILKS**
-* (65,446) PV00234751 - **MIYAMO MOTORS**
-* (78,535) PV00245386 - **PREMADASAS METAL INDUSTRIES**
-* (91,624) PV00286928 - **SHA QUALITY PRODUCTS**
-* (104,713) PV00224036 - **THE SAFFRON RESTAURANT DELIGHT**
-* (117,802) PV118576 - **ZZAPPIT**
+* (39,269) PV00278181 - **GOLDEN GUEST HOUSE**
+* (52,358) PV5416 - **KAPUSALA GARDENS**
+* (65,448) PV63264 - **MIYAME ENTERPRISES**
+* (78,537) PV14707 - **PREMADASAS HOLDINGS**
+* (91,627) PV00289964 - **SHA PHARMACY & GROCERY**
+* (104,716) PV82112 - **THE S.T.P. AUTOLINK**
+* (117,806) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4415*
+*Sample of 10/4416*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (491)  - **BOSKOFA BATTERIES AND ENERGY STORAGE SYSTEMSDIOGER HEAVY INDUSTRIES**
-* (981)  - **DIVINE EYE LANKA**
-* (1,472)  - **GOLDEN STAR INTERNATIONAL**
-* (1,962)  - **KEN AQUATICS**
-* (2,453)  - **MOTOTEK LANKA**
-* (2,943)  - **PRASADIS HOME**
-* (3,434)  - **SHISHAN HOLDINGS**
-* (3,924)  - **THEMC LANKA**
-* (4,415)  - **ZULACART**
+* (982)  - **DIYAWANNAWE RECREATION CENTER**
+* (1,472)  - **GOLDEN SHINE EDUCATION SOLUTIONS**
+* (1,963)  - **KEN AQUATICS**
+* (2,453)  - **MOTOR MASTER LANKA**
+* (2,944)  - **PRASADIS HOME**
+* (3,434)  - **SHIRLEY HOLDINGS**
+* (3,925)  - **THEMC LANKA**
+* (4,416)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2763*
