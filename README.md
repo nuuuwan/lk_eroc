@@ -2,31 +2,31 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,609** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-26 20:15:06*.
+Scraped **129,613** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-26 22:15:52*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129609*
+*Sample of 10/129613*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,401) PV13071 - **BLUEWATER MANUFACTURERS**
-* (28,802) PV00291158 - **DIMO SOLAR ANURADHAPURA**
-* (43,203) PV68216 - **GOSPEL VISION**
-* (57,604) PV00230657 - **KEFLANI**
-* (72,005) PV84542 - **MONTFORT HOLDINGS**
-* (86,406) PV00228716 - **PRINTTECH VISION**
-* (100,807) PV00225423 - **SEWA PIYASA**
-* (115,208) PV00201988 - **THE PANACEA CENTRAL**
-* (129,609) PV118576 - **ZZAPPIT**
+* (14,402) PV107173 - **BLUEWATER OCEANTIC**
+* (28,803) PV00293395 - **DIMO SOLAR GALLE THREE**
+* (43,205) PV00244136 - **GOSSIP LANKA NEWS**
+* (57,606) PV00273355 - **KEGALLE BEVERAGES**
+* (72,007) PV80264 - **MONTMAYEUR**
+* (86,409) PV122846 - **PRINZ SALT INDUSTRIES**
+* (100,810) PV00213273 - **SEWA INTERNATIONAL ENERGY LANKA**
+* (115,211) PV00286565 - **THE PALLET CRAFT & STEEL FABRICATION**
+* (129,613) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00291376 - **HEAVENLY TOUCH NATURALS AND WELLNESS**
-* (112) PV00291575 - **MINIPALASA EDUCATION CENTRE**
-* (223) PV00291796 - **KESINGHE**
+* (1) PV00291375 - **RIZA MARKETING**
+* (112) GL00291573 - **THE PEOPLE'S EYE**
+* (223) PV00291795 - **ECO SOLAR RAYS HOLDINGS**
 * (334) PV00292106 - **CEILAO DUMBARA EXPORTS**
 * (445) PV00292449 - **THAMBAPANNI TOBACCO COMPANY**
 * (556) PV00292790 - **LEAF STUDIO**
@@ -39,32 +39,32 @@ Scraped **129,609** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-26 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117797*
+*Sample of 10/117800*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,089) PV00275112 - **BLUE RAY TRAVELS**
-* (26,177) PV00261006 - **DILASHO IMPEX**
-* (39,266) PV67076 - **GOLDEN GUIDE**
-* (52,354) PV00278141 - **KAPUTAS**
-* (65,443) PV00249763 - **MIXWORK**
-* (78,531) PV00246983 - **PREMADASA XTREME GRAVEL KARTING**
-* (91,620) PV00286928 - **SHA QUALITY PRODUCTS**
-* (104,708) PV82112 - **THE S.T.P. AUTOLINK**
-* (117,797) PV118576 - **ZZAPPIT**
+* (26,178) PV18334 - **DILASHO INTERNATIONAL**
+* (39,267) PV00275618 - **GOLDEN HANDS CONSTRUCTION**
+* (52,356) PV00271900 - **KAPY SILKS**
+* (65,444) PV63264 - **MIYAME ENTERPRISES**
+* (78,533) PV14707 - **PREMADASAS HOLDINGS**
+* (91,622) PV00289964 - **SHA PHARMACY & GROCERY**
+* (104,711) PV82112 - **THE S.T.P. AUTOLINK**
+* (117,800) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4414*
+*Sample of 10/4415*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (491)  - **BOSKOFA BATTERIES AND ENERGY STORAGE SYSTEMSDIOGER HEAVY INDUSTRIES**
 * (981)  - **DIVINE EYE LANKA**
 * (1,472)  - **GOLDEN STAR INTERNATIONAL**
 * (1,962)  - **KEMIN CEYLON FOOD**
-* (2,452)  - **MOTOR CASTLE**
+* (2,453)  - **MOTOR MASTER LANKA**
 * (2,943)  - **PRASAD AUTO ENGINEERING**
-* (3,433)  - **SHIRLEY HOLDINGS**
-* (3,923)  - **THEJAN IMPORTS**
-* (4,414)  - **ZULACART**
+* (3,434)  - **SHIRLEY HOLDINGS**
+* (3,924)  - **THEJAN IMPORTS**
+* (4,415)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2763*
