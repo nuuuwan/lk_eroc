@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,643** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-27 16:15:10*.
+Scraped **129,645** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-27 18:20:24*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129643*
+*Sample of 10/129645*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,405) PV115326 - **BLUESTONE CAPITAL**
 * (28,810) PB1721 - **DIMO AUTO INDUSTRIES**
 * (43,215) PV00213820 - **GOSHIRO INTERNATIONAL**
-* (57,619) PV00200203 - **KEERTHIRATHNA HOLDINGS**
-* (72,024) NF202 - **MONTEX**
-* (86,429) PV00280319 - **PRIORIMAX SOFTWARE**
-* (100,833) PV00225423 - **SEWA PIYASA**
-* (115,238) PV00279389 - **THE PANT HOUSE**
-* (129,643) PV118576 - **ZZAPPIT**
+* (57,620) PV00200203 - **KEERTHIRATHNA HOLDINGS**
+* (72,025) NF202 - **MONTEX**
+* (86,430) PV00280319 - **PRIORIMAX SOFTWARE**
+* (100,835) PV80841 - **SEWA WORLD LANKA**
+* (115,240) PV107765 - **THE PANTRY LANKA**
+* (129,645) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **129,643** Companies ([4.00MB](data/companies.tsv)) as of *2024-02-27 1
 * (117,823) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4415*
+*Sample of 10/4417*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (491)  - **BOSKOFA BATTERIES AND ENERGY STORAGE SYSTEMSDIOGER HEAVY INDUSTRIES**
-* (981)  - **DIVINE EYE LANKA**
-* (1,472)  - **GOLDEN RULE**
-* (1,962)  - **KECT VIYEMA RECRUITMENT & TRANING**
-* (2,453)  - **MOTHER’S FOOD LANKA**
-* (2,943)  - **PRASAD AUTO ENGINEERING**
-* (3,434)  - **SHIRLEY ENTERPRISES**
-* (3,924)  - **THEIA LUXURIES**
-* (4,415)  - **ZULACART**
+* (982)  - **DIYAWANNAWE RECREATION CENTER**
+* (1,473)  - **GOLDEN SHINE EDUCATION SOLUTIONS**
+* (1,963)  - **KECT VIYEMA RECRUITMENT & TRANING**
+* (2,454)  - **MOTHER’S FOOD LANKA**
+* (2,945)  - **PRASADIS HOME**
+* (3,435)  - **SHIRLEY ENTERPRISES**
+* (3,926)  - **THEJAN IMPORTS**
+* (4,417)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2762*
