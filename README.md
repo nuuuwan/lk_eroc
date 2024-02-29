@@ -2,36 +2,36 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,678** Companies ([4.01MB](data/companies.tsv)) as of *2024-02-29 16:15:59*.
+Scraped **129,673** Companies ([4.01MB](data/companies.tsv)) as of *2024-02-29 18:20:47*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129678*
+*Sample of 10/129673*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,409) PV131926 - **BLUESMART**
-* (28,818) PV00218085 - **DIMBULA TEA CEYLON**
-* (43,226) PV00282613 - **GOSHA HOLDINGS**
-* (57,635) PV78416 - **KEETHA CONSULTING**
-* (72,043) PV00207964 - **MONTPELLIER & CO**
-* (86,452) PV00235156 - **PRISM GLOBAL SOLUTIONS**
-* (100,860) PV00291378 - **SEWANA PROPERTIES**
-* (115,269) PV00286565 - **THE PALLET CRAFT & STEEL FABRICATION**
-* (129,678) PV118576 - **ZZAPPIT**
+* (28,817) PV114650 - **DIMBULA SUPREME**
+* (43,225) PV121982 - **GOSETUP**
+* (57,633) PV00264030 - **KEESO**
+* (72,041) PV14325 - **MONTGOMERY INVESTMENTS**
+* (86,449) PV102673 - **PRISM INTERNATIONAL**
+* (100,857) PV103941 - **SEWANAGALA PLANTATIONS**
+* (115,265) PV00201988 - **THE PANACEA CENTRAL**
+* (129,673) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00291504 - **GOOD EARTH AGRI SOLUTIONS**
-* (112) PV00291692 - **HOMESTED RENTALS**
-* (223) PV00291975 - **BEYOU**
-* (334) PV00292295 - **SUMMER FOODS LANKA**
-* (445) PV00292604 - **OMEGA DEVELOPERS**
-* (556) PV00292934 - **MS EXIM**
-* (667) GA00293295 - **FREEDOM CHURCH**
-* (778) GL00293657 - **CLIMATE FRONTIERS**
+* (1) PV00291508 - **SF MODELING & GARMENTS**
+* (112) PV00291701 - **PINK PEARL**
+* (223) PV00291983 - **MANU INTERIORS**
+* (334) PV00292302 - **GEMWING**
+* (445) PV00292606 - **SKY WAVES HOLDINGS**
+* (556) PV00292936 - **PRO ACTIVE LANKA**
+* (667) PV00293304 - **BEHANSA MICRO CREDIT**
+* (778) PV00293665 - **UNI ROYAL MARKETING**
 * (889) PV00294185 - **AK UNIVERSE INTERNATIONAL**
 * (1,000) PV00295309 - **SHINE GREEN GRASS GARDEN VILLA**
 
@@ -39,32 +39,32 @@ Scraped **129,678** Companies ([4.01MB](data/companies.tsv)) as of *2024-02-29 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/117861*
+*Sample of 10/117857*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,096) PV00202486 - **BLUE PEACOCK HOLIDAYS**
-* (26,192) PV88772 - **DILANKA CONSTRUCTION COMPANY**
-* (39,287) PV84495 - **GOLDEN HARVEST COMMODITIES**
-* (52,383) PV17503 - **KARA TRAVELS AND TOURS**
-* (65,478) PV00279122 - **MIYUKI GEMS & JEWELLERY**
-* (78,574) PV00203802 - **PREMIALABS**
-* (91,669) PV00281254 - **SHA TECH**
-* (104,765) PV00252502 - **THE SAILOR**
-* (117,861) PV118576 - **ZZAPPIT**
+* (26,191) PV101575 - **DILANJANA ENTERPRISES**
+* (39,286) PV128536 - **GOLDEN HARVEST AGRO PARK**
+* (52,381) PV00271900 - **KAPY SILKS**
+* (65,476) PV00244693 - **MIYU TECHNOLOGIES**
+* (78,571) PV131241 - **PREMIER ACCREDITED SOLUTIONS**
+* (91,666) PV00243855 - **SHA TRADINGS & EXPORTS**
+* (104,761) PV00252502 - **THE SAILOR**
+* (117,857) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4401*
+*Sample of 10/4400*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (489)  - **BOSS FURNITURE**
 * (978)  - **DIVE EAST**
 * (1,467)  - **GO VIRAL**
 * (1,956)  - **KEA CART**
-* (2,445)  - **MOTHER’S FOOD LANKA**
-* (2,934)  - **PRATHYAHARA**
-* (3,423)  - **SHRAMA MUTHU**
-* (3,912)  - **THIEFGUARD**
-* (4,401)  - **ZULACART**
+* (2,444)  - **MOTHER’S FOOD LANKA**
+* (2,933)  - **PRATHYAHARA**
+* (3,422)  - **SHRAMA MUTHU**
+* (3,911)  - **THIEFGUARD**
+* (4,400)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2760*
