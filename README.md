@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,677** Companies ([4.01MB](data/companies.tsv)) as of *2024-02-29 14:15:09*.
+Scraped **129,678** Companies ([4.01MB](data/companies.tsv)) as of *2024-02-29 16:15:59*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129677*
+*Sample of 10/129678*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,409) PV99141 - **BLUESKY HOLIDAYS TRAVEL**
-* (28,817) PV114650 - **DIMBULA SUPREME**
+* (14,409) PV131926 - **BLUESMART**
+* (28,818) PV00218085 - **DIMBULA TEA CEYLON**
 * (43,226) PV00282613 - **GOSHA HOLDINGS**
-* (57,634) PV82574 - **KEETH LANKA**
+* (57,635) PV78416 - **KEETHA CONSULTING**
 * (72,043) PV00207964 - **MONTPELLIER & CO**
-* (86,451) PV110816 - **PRISLA SUPER**
+* (86,452) PV00235156 - **PRISM GLOBAL SOLUTIONS**
 * (100,860) PV00291378 - **SEWANA PROPERTIES**
-* (115,268) PV127119 - **THE PALACE OF ROYAL BATH**
-* (129,677) PV118576 - **ZZAPPIT**
+* (115,269) PV00286565 - **THE PALLET CRAFT & STEEL FABRICATION**
+* (129,678) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -42,29 +42,29 @@ Scraped **129,677** Companies ([4.01MB](data/companies.tsv)) as of *2024-02-29 1
 *Sample of 10/117861*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,096) PV00284652 - **BLUE PEA**
-* (26,192) PV101575 - **DILANJANA ENTERPRISES**
-* (39,287) PV128536 - **GOLDEN HARVEST AGRO PARK**
-* (52,383) PV00251020 - **KARA SHIPPING LANKA**
-* (65,478) PV61054 - **MIYUKI AND TILLEY COMPANY**
-* (78,574) PV00232851 - **PREMEX INDUSTRIES**
-* (91,669) PV120407 - **SHA SUPER**
-* (104,765) PV00224036 - **THE SAFFRON RESTAURANT DELIGHT**
+* (13,096) PV00202486 - **BLUE PEACOCK HOLIDAYS**
+* (26,192) PV88772 - **DILANKA CONSTRUCTION COMPANY**
+* (39,287) PV84495 - **GOLDEN HARVEST COMMODITIES**
+* (52,383) PV17503 - **KARA TRAVELS AND TOURS**
+* (65,478) PV00279122 - **MIYUKI GEMS & JEWELLERY**
+* (78,574) PV00203802 - **PREMIALABS**
+* (91,669) PV00281254 - **SHA TECH**
+* (104,765) PV00252502 - **THE SAILOR**
 * (117,861) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4400*
+*Sample of 10/4401*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (489)  - **BOSS FURNITURE**
-* (978)  - **DIVI SAVIYA CREDIT**
-* (1,467)  - **GOBIAN GEMS AND JEWELLERY INTERNATIONAL**
-* (1,956)  - **KEAPER**
-* (2,444)  - **MOTHER’S FOOD LANKA**
-* (2,933)  - **PRATHYAHARA**
-* (3,422)  - **SHRAMA MUTHU**
-* (3,911)  - **THIEFGUARD**
-* (4,400)  - **ZULACART**
+* (978)  - **DIVE EAST**
+* (1,467)  - **GO VIRAL**
+* (1,956)  - **KEA CART**
+* (2,445)  - **MOTHER’S FOOD LANKA**
+* (2,934)  - **PRATHYAHARA**
+* (3,423)  - **SHRAMA MUTHU**
+* (3,912)  - **THIEFGUARD**
+* (4,401)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2760*
