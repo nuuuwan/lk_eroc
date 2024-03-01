@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,736** Companies ([4.01MB](data/companies.tsv)) as of *2024-03-01 18:20:56*.
+Scraped **129,738** Companies ([4.01MB](data/companies.tsv)) as of *2024-03-01 20:15:11*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129736*
+*Sample of 10/129738*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,416) PV128565 - **BLUESKY HOLIDAY HOTELS**
 * (28,831) PV88440 - **DIMBULLA DISTRIBUTORS**
-* (43,246) PV00209818 - **GOSPEL HOLDINGS**
-* (57,661) PV82574 - **KEETH LANKA**
-* (72,076) PV73565 - **MONTROSE DEVELOPMENTS**
-* (86,491) NF668 - **PRISM JOHNSON**
-* (100,906) PV00260599 - **SEWIN ENGINEERING & CONSTRUCTIONS**
-* (115,321) PV00250553 - **THE PAINT STORE**
-* (129,736) PV118576 - **ZZAPPIT**
+* (43,246) PV128373 - **GOSONIC LANKA**
+* (57,661) PV00264030 - **KEESO**
+* (72,077) PV00212441 - **MONTREO INTERNATIONAL**
+* (86,492) PV102673 - **PRISM INTERNATIONAL**
+* (100,907) PV18407 - **SEWEASY**
+* (115,322) PV914 - **THE PAINT SHOP WADDUWA**
+* (129,738) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **129,736** Companies ([4.01MB](data/companies.tsv)) as of *2024-03-01 1
 * (117,886) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4430*
+*Sample of 10/4432*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (493)  - **BOOK MASTER**
 * (985)  - **DIVE EAST**
-* (1,477)  - **GOLD ISLAND AGRO**
-* (1,969)  - **KAVUMKOKIS.LK**
-* (2,461)  - **MOTOR MASTER LANKA**
-* (2,953)  - **PREMIER BUILDERS**
-* (3,445)  - **SHOBIZ MUSIC**
-* (3,937)  - **THEIA LUXURIES**
-* (4,430)  - **ZULACART**
+* (1,478)  - **GOLD ISLAND AGRO**
+* (1,970)  - **KAVUMKOKIS.LK**
+* (2,462)  - **MOTOR CASTLE**
+* (2,955)  - **PREMIER BUILDERS**
+* (3,447)  - **SHOBIZ MUSIC**
+* (3,939)  - **THEIA LUXURIES**
+* (4,432)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2761*
