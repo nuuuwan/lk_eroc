@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **129,819** Companies ([4.01MB](data/companies.tsv)) as of *2024-03-02 12:16:21*.
+Scraped **129,820** Companies ([4.01MB](data/companies.tsv)) as of *2024-03-02 14:15:20*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/129819*
+*Sample of 10/129820*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,425) PV90695 - **BLUEPRINT HOLDINGS**
-* (28,849) PV114650 - **DIMBULA SUPREME**
-* (43,273) PV129300 - **GORGEOUS TRIMS INTERNATIONAL**
-* (57,697) PV00200203 - **KEERTHIRATHNA HOLDINGS**
-* (72,122) NF202 - **MONTEX**
-* (86,546) PV00228414 - **PRINTSTART INTERNATIONAL**
-* (100,970) PV00202656 - **SEWA  DEVELOPMENT INTERNATIONAL**
-* (115,394) PV00243485 - **THE ONE LANKA PRODUCTS**
-* (129,819) PV118576 - **ZZAPPIT**
+* (14,425) PV00219153 - **BLUEPINK**
+* (28,849) PV00225558 - **DIMAX ENGINEERINGS**
+* (43,274) PV129300 - **GORGEOUS TRIMS INTERNATIONAL**
+* (57,698) PV00200203 - **KEERTHIRATHNA HOLDINGS**
+* (72,122) PV00263056 - **MONTEREO ENTERPRISES**
+* (86,547) PV00228414 - **PRINTSTART INTERNATIONAL**
+* (100,971) PV00202656 - **SEWA  DEVELOPMENT INTERNATIONAL**
+* (115,395) PV00243485 - **THE ONE LANKA PRODUCTS**
+* (129,820) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **129,819** Companies ([4.01MB](data/companies.tsv)) as of *2024-03-02 1
 * (117,979) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4427*
+*Sample of 10/4428*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (492)  - **BOOK PARADISE**
-* (984)  - **DIVI SAVIYA CREDIT**
-* (1,476)  - **GOLDEN RETRIEVER CLUB OF LANKA**
-* (1,968)  - **KDR BUSINESS SOLUTIONS**
-* (2,459)  - **MOTHER’S FOOD LANKA**
-* (2,951)  - **PREMIER BUILDERS**
-* (3,443)  - **SHINE TECHNOLOGY SOLUTIONS**
-* (3,935)  - **THIEFGUARD**
-* (4,427)  - **ZULACART**
+* (492)  - **BOOK MASTER**
+* (984)  - **DIVE EAST**
+* (1,476)  - **GOLDEN JOBS SUPPLIERS**
+* (1,968)  - **KAY BEE AL HASEENA JEWELLERS**
+* (2,460)  - **MOTHER’S FOOD LANKA**
+* (2,952)  - **PREMIER BUILDERS**
+* (3,444)  - **SHINE TECHNOLOGY SOLUTIONS**
+* (3,936)  - **THIEFGUARD**
+* (4,428)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2761*
