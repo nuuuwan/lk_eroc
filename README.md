@@ -2,32 +2,32 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,036** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-05 02:15:32*.
+Scraped **130,037** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-05 04:15:14*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130036*
+*Sample of 10/130037*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,449) PV90695 - **BLUEPRINT HOLDINGS**
 * (28,897) PV00283393 - **DILY WHITTLER**
 * (43,346) PV00246113 - **GOOFOO ANALYTICS**
 * (57,794) PV00273911 - **KEERTHAS JEWELLERY**
-* (72,242) PV76871 - **MONTICARLO WINE STORSE**
+* (72,243) PV80264 - **MONTMAYEUR**
 * (86,691) PV86373 - **PRINTWAY PRINTERS**
-* (101,139) PV00282822 - **SEVINCO FURNITURES AND INTERIORS**
-* (115,587) PV00288164 - **THE O GROUP**
-* (130,036) PV118576 - **ZZAPPIT**
+* (101,140) PV00282822 - **SEVINCO FURNITURES AND INTERIORS**
+* (115,588) PV00288164 - **THE O GROUP**
+* (130,037) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00291820 - **GOOD WOOD AYURVEDA**
-* (112) PV00292133 - **ANANYHA COSMETICS**
-* (223) PV00292426 - **BRITISH STANDARD CAMPUS**
-* (334) PV00292720 - **GRAND UNIQUE GEM & JEWELLERS**
+* (1) PV00291827 - **HAAJAA STORES**
+* (112) PV00292135 - **TESCO LANKA INTERNATIONAL**
+* (223) PV00292427 - **CAMBRIDGE EDUCATION CAMPUS**
+* (334) PV00292722 - **AUXILIUME**
 * (445) PV00293010 - **CLARION LANKA HOLDINGS**
 * (556) PV00293347 - **SYNTARA SOFTWARE SOLUTIONS LK**
 * (667) GL00293657 - **CLIMATE FRONTIERS**
@@ -48,23 +48,23 @@ Scraped **130,036** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-05 0
 * (52,535) PV85272 - **KAPRUKA ENVIRONMENT FRIENDLY COMPANY**
 * (65,668) PV00234751 - **MIYAMO MOTORS**
 * (78,802) PV4946 - **PREMACHANDRA PLANTATIONS**
-* (91,935) PV16439 - **SHA HOLDINGS**
-* (105,069) PV110747 - **THE REGENT COUNTRY CLUB**
+* (91,935) PV00257907 - **SHA GLOBAL TRADERS**
+* (105,069) PV87093 - **THE REEF SURF VILLA**
 * (118,203) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4421*
+*Sample of 10/4422*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (492)  - **BONVOYAGE**
 * (983)  - **DINA MOBILE CITY**
 * (1,474)  - **GOD INTERNATIONAL**
 * (1,965)  - **KATEE ROTEE**
-* (2,456)  - **MORINGA HOTELS**
-* (2,947)  - **PREMIER BUILDERS**
-* (3,438)  - **SHINE CAMPUS**
-* (3,929)  - **THE WIND HOUSE**
-* (4,421)  - **ZULACART**
+* (2,457)  - **MORISON LANKA**
+* (2,948)  - **PREMIER PAWNS BROKERS**
+* (3,439)  - **SHINE LA HOLDINGS**
+* (3,930)  - **THEEPAM TRADERS**
+* (4,422)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2757*
