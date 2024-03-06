@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,012** Companies ([4.01MB](data/companies.tsv)) as of *2024-03-06 10:14:59*.
+Scraped **130,007** Companies ([4.01MB](data/companies.tsv)) as of *2024-03-06 16:15:43*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130012*
+*Sample of 10/130007*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,446) PV116113 - **BLUELINE INTERNATIONAL**
-* (28,892) PV80685 - **DILUM B M K ENGINEERS**
-* (43,338) PV74697 - **GOODWILL TRADING**
-* (57,783) PV00208123 - **KEEN ACHIEVERS**
-* (72,229)  - **MONKEY COTTAGE**
-* (86,675) PV00207200 - **PRINT ZONE THE BRAND**
-* (101,120) PV00276153 - **SEVENSEAS CONSULTANTS**
-* (115,566) PV00288164 - **THE O GROUP**
-* (130,012) PV118576 - **ZZAPPIT**
+* (28,891) PV71930 - **DILUM APPARELS**
+* (43,336) PV00287281 - **GOODWILLS GEM AND JEWELRY**
+* (57,781) PV00264081 - **KEEN APIS MELLIFERA**
+* (72,226)  - **MONKEY COTTAGE**
+* (86,671) PV104823 - **PRINTCAN PACKAGING**
+* (101,116) PV127087 - **SEVENSEAS RESIDENCE**
+* (115,561) PV00288164 - **THE O GROUP**
+* (130,007) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **130,012** Companies ([4.01MB](data/companies.tsv)) as of *2024-03-06 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/118184*
+*Sample of 10/118177*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,132) PV00233194 - **BLUE OCEAN INSIGHTS**
-* (26,263) PV70980 - **DIL PHARMACEUTICALS**
-* (39,395) PV93623 - **GOLDEN COCONUT CABANAS**
-* (52,526) PV00228291 - **KAPITAL C PLUS**
-* (65,658) PV4500 - **MITRAJAYA DEVELOPMENT LANKA**
-* (78,789) PV00275753 - **PRECIOUS SENSOR AUTOMATICS**
-* (91,921) PV00270815 - **SH AUTO TRADING**
-* (105,052) PV00206913 - **THE RELAX ON HOTELS INTERNATIONAL**
-* (118,184) PV118576 - **ZZAPPIT**
+* (13,131) PV86153 - **BLUE OCEAN HOLIDAYS**
+* (26,262) PV71823 - **DIL FOODS INTERNATIONAL**
+* (39,393) PV00273726 - **GOLDEN COCONUT HOLIDAY INTERNATIONAL TRAVEL AGENCY COMPANY**
+* (52,523) PV00228291 - **KAPITAL C PLUS**
+* (65,654) PV132010 - **MITRA S K LANKA**
+* (78,785) PV66961 - **PRECISE MANAGEMENT SOLUTION**
+* (91,915) PV00263500 - **SH BEST BUY**
+* (105,046) PV113072 - **THE RENEWABLE ENERGY SOLUTION**
+* (118,177) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4417*
+*Sample of 10/4419*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (491)  - **BONVOYAGE**
 * (982)  - **DIRIYA DIYANI KANTHA**
 * (1,473)  - **GOLDEN JOBS SUPPLIERS**
-* (1,963)  - **KATEE ROTEE**
-* (2,454)  - **MORGANCOUP**
-* (2,945)  - **PREMIER BUILDERS**
-* (3,435)  - **SHINE CAMPUS**
-* (3,926)  - **THE WESTER SEATON CHESHIRE HOME**
-* (4,417)  - **ZULACART**
+* (1,964)  - **KATI CORNER**
+* (2,455)  - **MORINGA HOTELS**
+* (2,946)  - **PREMIER PAWNS BROKERS**
+* (3,437)  - **SHINE REAL ESTATE INVESTMENT AND MANAGEMENT**
+* (3,928)  - **THE WESTER SEATON CHESHIRE HOME**
+* (4,419)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2755*
