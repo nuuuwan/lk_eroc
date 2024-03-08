@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,074** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-08 20:15:09*.
+Scraped **130,074** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-08 22:15:30*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
