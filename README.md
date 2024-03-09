@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,085** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-09 14:15:38*.
+Scraped **130,085** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-09 16:15:26*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -24,10 +24,10 @@ Scraped **130,085** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-09 1
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00292190 - **LAKMINI PAWNING CENTER**
-* (112) PV00292467 - **PROGREEN**
-* (223) PV00292740 - **NEVADA HOTELS & RESORTS**
-* (334) PV00293009 - **DON DADDY**
+* (1) PV00292191 - **GAMU PRODUCTS**
+* (112) PV00292468 - **HOODH INTERNATIONAL**
+* (223) PV00292747 - **EICKHORST INVESTMENT**
+* (334) PV00293010 - **CLARION LANKA HOLDINGS**
 * (445) PV00293322 - **SIEGNT LANKA CONSULTANTS**
 * (556) PV00293600 - **GOOD FOR OTHERS**
 * (667) PV00293962 - **ECO TECH HYBRID**
@@ -39,32 +39,32 @@ Scraped **130,085** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-09 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/118240*
+*Sample of 10/118241*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,138) PV00231660 - **BLUE OCEAN JAPAN CO.**
-* (26,276) PV19785 - **DILAN GARMENTS**
-* (39,414) PV00286647 - **GOLDEN GATE CHICKEN & AGRO**
-* (52,551) PV86155 - **KAPUDUWA**
-* (65,689) PV98869 - **MIYANKAN TRADING LANKA**
-* (78,827) PV00271524 - **PRECISION CUT**
-* (91,964) PV00204596 - **SHA BUSINESS SOLUTION**
-* (105,102) PV00249113 - **THE RIGHT CHOICE MARKETING**
-* (118,240) PV118576 - **ZZAPPIT**
+* (13,138) PV00221303 - **BLUE OCEAN ISLAND HOLDINGS - COLOMBO**
+* (26,276) PV00241213 - **DILAN FARM ORGANIC PRODUCE**
+* (39,414) PV00280509 - **GOLDEN GATE AUTOMOBILE**
+* (52,552) PV86155 - **KAPUDUWA**
+* (65,689) PV80896 - **MIYANAGOLLA MINI HYDRO POWER**
+* (78,827) PV66961 - **PRECISE MANAGEMENT SOLUTION**
+* (91,965) PV00204596 - **SHA BUSINESS SOLUTION**
+* (105,103) PV00249113 - **THE RIGHT CHOICE MARKETING**
+* (118,241) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4413*
+*Sample of 10/4412*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (491)  - **BNA ACCOUNTING & BUSINESS ADVISORY**
-* (981)  - **DIMACOINLAB**
-* (1,471)  - **GOD INTERNATIONAL**
-* (1,961)  - **KATI CORNER**
-* (2,452)  - **MOPERAMA INTERNATIONAL**
-* (2,942)  - **PREMIUM OUTLET**
-* (3,432)  - **SHEYRA**
-* (3,922)  - **THE TRAVEL HUB**
-* (4,413)  - **ZULACART**
+* (491)  - **BNS CEYLON**
+* (981)  - **DIMO SOLAR KEKIRAWA**
+* (1,471)  - **GOLD ISLAND AGRO**
+* (1,961)  - **KATTANKUDY FORUM FOR PROFESSIONALS AND CIVIL INSTITUTIONS**
+* (2,451)  - **MOPERAMA INTERNATIONAL**
+* (2,941)  - **PREMIUM OUTLET**
+* (3,431)  - **SHEYRA**
+* (3,921)  - **THE TRAVEL HUB**
+* (4,412)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2758*
