@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,101** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-10 16:14:53*.
+Scraped **130,103** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-10 18:19:01*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130101*
+*Sample of 10/130103*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,456) PV00224014 - **BLUEGREEN WAY**
 * (28,912) PV71930 - **DILUM APPARELS**
-* (43,367) PV15758 - **GORDEN TEA COMPANY**
-* (57,823) PV101947 - **KEERTHI GUNAWARDANA CONSTRUCTION**
-* (72,278) PV00274405 - **MONT KIARA**
-* (86,734) PV00200381 - **PRINT PIX**
-* (101,189) PV00227156 - **SEVENRAY GLOBAL HOLDINGS**
-* (115,645) PV00285588 - **THE ONE CEYLON INTERNATIONAL**
-* (130,101) PV118576 - **ZZAPPIT**
+* (43,368) PV00260829 - **GORDON FOREIGN EDUCATIONAL CONSULTANCY**
+* (57,824) PV14230 - **KEERTHI GUNAWARDENA AND COMPANY**
+* (72,279) PV00274405 - **MONT KIARA**
+* (86,735) PV00200381 - **PRINT PIX**
+* (101,191) PV110139 - **SEVENRAY INTERNATIONAL COMPANY**
+* (115,647) PV00219555 - **THE ONE FLOWER**
+* (130,103) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **130,101** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-10 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/118261*
+*Sample of 10/118263*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,141) PV80211 - **BLUE OCEAN INVESTMENTS**
 * (26,281) PV00236304 - **DILAL'S 3 DAUGHTERS**
 * (39,421) PV00286647 - **GOLDEN GATE CHICKEN & AGRO**
 * (52,561) PV00278141 - **KAPUTAS**
-* (65,701) PV61054 - **MIYUKI AND TILLEY COMPANY**
-* (78,841) PV88686 - **PRECIOUS SENSES OF LANKA **
-* (91,981) PV00281442 - **SHA BRIDAL**
-* (105,121) PV00266119 - **THE RITZ CASINO**
-* (118,261) PV118576 - **ZZAPPIT**
+* (65,702) PV00279122 - **MIYUKI GEMS & JEWELLERY**
+* (78,842) PV00275753 - **PRECIOUS SENSOR AUTOMATICS**
+* (91,982) PV00204596 - **SHA BUSINESS SOLUTION**
+* (105,122) PV98416 - **THE RIVERBANK**
+* (118,263) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4411*
@@ -60,10 +60,10 @@ Scraped **130,101** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-10 1
 * (981)  - **DIMUTHU MOTOR MECHANICALS & TYRE HOUSE**
 * (1,471)  - **GO LANKA TRAVELS**
 * (1,961)  - **KASHIKOI NIHONGO GAKKOU**
-* (2,451)  - **MONYFI**
-* (2,941)  - **PRANIQ**
-* (3,431)  - **SHEMAYA EXCLUSIVE & FASHION**
-* (3,921)  - **THE TREASURE HUNT**
+* (2,451)  - **MONTLUSH LIFESTYLE**
+* (2,941)  - **PRABUDDI CERTIFICATIONS**
+* (3,431)  - **SHELTER FOR HOMELESS JESUS NEVER FAILS ASSOCIATION**
+* (3,921)  - **THE TRAVEL HUB**
 * (4,411)  - **ZULACART**
 
 ### "PB"
