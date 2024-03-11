@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,198** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-11 10:15:22*.
+Scraped **130,202** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-11 18:21:06*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130198*
+*Sample of 10/130202*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,467) PV123495 - **BLUEBERRY RESPRTS**
-* (28,933) PV00260528 - **DILSHAN SILVA HOLDINGS**
-* (43,400) GA442 - **GOPIO OF SRI LANKA**
-* (57,866) PV00217933 - **KEERTHI TRADE CENTRE**
-* (72,332) PV13439 - **MONTE CARLO GARMENTS**
-* (86,799) PV65356 - **PRINT XCEL**
-* (101,265) PB1618 - **SEVENTY  (PBS 601)**
-* (115,731) PV116007 - **THE OUTLET STORE CLOTHING**
-* (130,198) PV118576 - **ZZAPPIT**
+* (14,467) PV00271964 - **BLUEBERRY ENTERTAINMENTS**
+* (28,934) PV77663 - **DILSHAN INTERNATIONAL COLOMBO**
+* (43,401) PV66954 - **GOOROOK OYA MALLANDA MINI HYDRO POWER**
+* (57,868) PV84951 - **KEERTHI MUNASINGHE AND SONS**
+* (72,334) PV93924 - **MONTE BIANCO RESORT**
+* (86,801) PV00273185 - **PRINT WIN**
+* (101,268) PV00220299 - **SEVENTH SENSE SERVICES**
+* (115,735) PV116007 - **THE OUTLET STORE CLOTHING**
+* (130,202) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **130,198** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-11 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/118342*
+*Sample of 10/118345*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,150) PV103654 - **BLUE OCEAN CONSULTANCY BUREAU**
-* (26,299) PV92974 - **DIL SERENDIB PIONEER INTERNATIONAL MARITIME SERVICES**
-* (39,448) PV00280509 - **GOLDEN GATE AUTOMOBILE**
-* (52,597) PV00278129 - **KARADIYA PLUS**
-* (65,746) PV73813 - **MIZUHO NATURE**
-* (78,895) PV110300 - **PRECISION GAT**
-* (92,044) PV00206487 - **SHA MARINE SERVICES**
-* (105,193) PV126665 - **THE RUHUNU FOODS CENTER**
-* (118,342) PV118576 - **ZZAPPIT**
+* (13,150) PV112305 - **BLUE OCEAN BREEZE**
+* (26,299) PV71823 - **DIL FOODS INTERNATIONAL**
+* (39,449) PV79136 - **GOLDEN FOREIGN EDUCATION ACADEMY**
+* (52,598) PV00280982 - **KARADANA TRADERS**
+* (65,747) PV105658 - **MIZUHO GREEN**
+* (78,897) PV69348 - **PRECISION ENGINEERING SYSTEM**
+* (92,046) PV00241082 - **SHA LION**
+* (105,195) PV00269027 - **THE ROYAL ROSE**
+* (118,345) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4424*
+*Sample of 10/4425*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (492)  - **BLUE FLOWER WELLNESS CENTRE**
-* (983)  - **DIKWELA PRODUCTS**
-* (1,475)  - **GLOIRE INTERNATIONAL**
-* (1,966)  - **KANDYAN LEISURE**
-* (2,458)  - **MONE**
-* (2,949)  - **PRABHAYUSH PRODUCTION**
-* (3,441)  - **SHEN SEN**
-* (3,932)  - **THE WIND HOUSE**
-* (4,424)  - **ZULACART**
+* (492)  - **BLUE FARM ENTERPRISES**
+* (984)  - **DIKWELA PRODUCTS**
+* (1,475)  - **GLOBALXPAND**
+* (1,967)  - **KANDYAN LEISURE**
+* (2,458)  - **MONDAL CREATIVITY & JEWELLERY DESIGNING**
+* (2,950)  - **PRABHAYUSH PRODUCTION**
+* (3,441)  - **SHEMAYA EXCLUSIVE & FASHION**
+* (3,933)  - **THE WIND HOUSE**
+* (4,425)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2763*
