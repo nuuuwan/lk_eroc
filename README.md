@@ -2,32 +2,32 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,212** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-12 08:16:13*.
+Scraped **130,213** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-12 10:15:18*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130212*
+*Sample of 10/130213*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,468) PV102592 - **BLUEBELL SAVOURY**
-* (28,936) PV00213453 - **DILSHAN PHARMA DISTRIBUTORS**
-* (43,404) PV18933 - **GOONATILLEKE HOLDINGS**
-* (57,872) PV00230657 - **KEFLANI**
-* (72,340) NF202 - **MONTEX**
-* (86,808) PV00207200 - **PRINT ZONE THE BRAND**
-* (101,276) PV00258115 - **SEVENTH SCIENCE HOLDING**
-* (115,744) PV116007 - **THE OUTLET STORE CLOTHING**
-* (130,212) PV118576 - **ZZAPPIT**
+* (14,469) PV00219425 - **BLUEBELL SPA & CENTER**
+* (28,937) PV00207888 - **DILSHAN SILVA CONSTRUCTION**
+* (43,405) PV18933 - **GOONATILLEKE HOLDINGS**
+* (57,873) PV00230657 - **KEFLANI**
+* (72,341) NF202 - **MONTEX**
+* (86,809) PV00207200 - **PRINT ZONE THE BRAND**
+* (101,277) PV00220299 - **SEVENTH SENSE SERVICES**
+* (115,745) PV116007 - **THE OUTLET STORE CLOTHING**
+* (130,213) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00292376 - **KANILRO ENGINEERING**
-* (112) PV00292637 - **IPC WORLDWIDE RESOURCES CMB**
-* (223) PV00292900 - **JIVAYA**
-* (334) PV00293205 - **INSPIRE VISTA BUSINES**
+* (1) PV00292380 - **HAZZ TECHNOLOGIES**
+* (112) PB00292642 - **PHOEBUS ENERGY**
+* (223) PV00292901 - **ZEDNEY FOODS HOLDING**
+* (334) PV00293210 - **THIRAVIYAM GLOBAL IMPEX**
 * (445) PV00293464 - **AIM ART**
 * (556) PV00293800 - **LIYOMARK**
 * (667) PV00294153 - **SIDDHADI MEDICARE**
@@ -53,18 +53,18 @@ Scraped **130,212** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-12 0
 * (118,356) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4432*
+*Sample of 10/4433*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (493)  - **BLUE KEY**
 * (985)  - **DILSHAN ALU FAB**
-* (1,478)  - **GLORY INTERNATIONAL EDUCATION CONSULTANCY**
-* (1,970)  - **KANSEI NIPPON**
-* (2,462)  - **MOMO LEISURE**
-* (2,955)  - **PR AMAZEN INTERNATIONAL**
-* (3,447)  - **SHELBY**
-* (3,939)  - **THE WESTER SEATON CHESHIRE HOME**
-* (4,432)  - **ZULACART**
+* (1,478)  - **GLORIOUS IMPEX**
+* (1,970)  - **KANKANAMGE TRADINGS**
+* (2,463)  - **MOMO LEISURE**
+* (2,955)  - **POWERTON**
+* (3,448)  - **SHELTER FOR HOMELESS JESUS NEVER FAILS ASSOCIATION**
+* (3,940)  - **THE WESTER SEATON CHESHIRE HOME**
+* (4,433)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2760*
