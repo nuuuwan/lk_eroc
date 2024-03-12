@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,207** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-12 04:15:43*.
+Scraped **130,206** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-12 06:30:07*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130207*
+*Sample of 10/130206*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,468) PV113685 - **BLUEBELL PASTRY**
-* (28,935) PV00207888 - **DILSHAN SILVA CONSTRUCTION**
-* (43,403) PV112983 - **GOPI FOOD CEYLON**
-* (57,870) PV111210 - **KEGALLE DISTRIBUTORS**
-* (72,337) PV00276484 - **MONTFORT INTERNATIONAL**
-* (86,805) PV101293 - **PRINTBOOK**
-* (101,272) PV00220299 - **SEVENTH SENSE SERVICES**
-* (115,739) PV116007 - **THE OUTLET STORE CLOTHING**
-* (130,207) PV118576 - **ZZAPPIT**
+* (14,468) PV102592 - **BLUEBELL SAVOURY**
+* (28,935) PV00260528 - **DILSHAN SILVA HOLDINGS**
+* (43,402) PV112983 - **GOPI FOOD CEYLON**
+* (57,869) PV111210 - **KEGALLE DISTRIBUTORS**
+* (72,337) PV00254253 - **MONTH**
+* (86,804) PV101293 - **PRINTBOOK**
+* (101,271) PV00220299 - **SEVENTH SENSE SERVICES**
+* (115,738) PV116007 - **THE OUTLET STORE CLOTHING**
+* (130,206) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -42,8 +42,8 @@ Scraped **130,207** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-12 0
 *Sample of 10/118352*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,151) PV104495 - **BLUE MOUNTAIN RESIDENCIES**
-* (26,301) PV70980 - **DIL PHARMACEUTICALS**
+* (13,151) PV1043 - **BLUE MOUNTAIN TEA EXPORTS**
+* (26,301) PV00217377 - **DIL SAPUKOTANAGE SALONS**
 * (39,451) PV00246291 - **GOLDEN GALLE**
 * (52,601) PV00241560 - **KARAN INVESTMENT**
 * (65,751) PV00262131 - **MJ GLOBAL EDUCATION AND  VISA CONSULTANTS**
@@ -53,18 +53,18 @@ Scraped **130,207** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-12 0
 * (118,352) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4431*
+*Sample of 10/4430*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (493)  - **BLUE GREEN CONSERVATION**
 * (985)  - **DILSHAN  MOTORS LANKA**
-* (1,477)  - **GLORIOUS IMPEX**
-* (1,969)  - **KANSEI NIPPON**
-* (2,462)  - **MONARA**
-* (2,954)  - **PR AMAZEN INTERNATIONAL**
-* (3,446)  - **SHELBY**
-* (3,938)  - **THE WESTER SEATON CHESHIRE HOME**
-* (4,431)  - **ZULACART**
+* (1,477)  - **GLORY INTERNATIONAL EDUCATION CONSULTANCY**
+* (1,969)  - **KANSO FASHION**
+* (2,461)  - **MONARA**
+* (2,953)  - **PR AMAZEN INTERNATIONAL**
+* (3,445)  - **SHELBY**
+* (3,937)  - **THE WESTER SEATON CHESHIRE HOME**
+* (4,430)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2760*
