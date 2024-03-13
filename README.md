@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,254** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-13 20:15:03*.
+Scraped **130,255** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-13 22:15:32*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130254*
+*Sample of 10/130255*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,473) PV131483 - **BLUEBELL CONSTRUCTION**
-* (28,946) PV5604 - **DILSHAN ENTERPRISES**
-* (43,418) PV00209156 - **GOODZONE**
-* (57,891) PV78416 - **KEETHA CONSULTING**
-* (72,363) PV93924 - **MONTE BIANCO RESORT**
-* (86,836) PV95351 - **PRINT MASTERS**
-* (101,308) PV00258115 - **SEVENTH SCIENCE HOLDING**
-* (115,781) PV127119 - **THE PALACE OF ROYAL BATH**
-* (130,254) PV118576 - **ZZAPPIT**
+* (28,946) PV00251148 - **DILSHAN ENGINEERING & CONSULTANCY SERVICES**
+* (43,419) PV00209156 - **GOODZONE**
+* (57,891) PV00226348 - **KEETH HOLDINGS**
+* (72,364) PV93924 - **MONTE BIANCO RESORT**
+* (86,837) PV95351 - **PRINT MASTERS**
+* (101,309) PV00258115 - **SEVENTH SCIENCE HOLDING**
+* (115,782) PV127119 - **THE PALACE OF ROYAL BATH**
+* (130,255) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **130,254** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-13 2
 * (118,411) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4409*
+*Sample of 10/4410*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (490)  - **BLUE FLOWER WELLNESS CENTRE**
-* (980)  - **DILSHAN  MOTORS LANKA**
-* (1,470)  - **GLOBALXPAND**
-* (1,960)  - **KANDY POLYMER LANKA**
-* (2,449)  - **MOKSHA AYURVEDA HEALTHCARE**
-* (2,939)  - **PRABODYA ENTERPRISES**
-* (3,429)  - **SHERI DISTRIBUTORS**
-* (3,919)  - **THEIA LUXURIES**
-* (4,409)  - **ZULACART**
+* (980)  - **DILAN KONG S G**
+* (1,470)  - **GLOBALTECHFLOOR LANKA**
+* (1,960)  - **KANDY COOL ENGINEERING**
+* (2,450)  - **MOKSHA AYURVEDA HEALTHCARE**
+* (2,940)  - **PRABODYA ENTERPRISES**
+* (3,430)  - **SHERI DISTRIBUTORS**
+* (3,920)  - **THEIA LUXURIES**
+* (4,410)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2764*
