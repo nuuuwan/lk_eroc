@@ -2,32 +2,32 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,233** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-13 14:15:04*.
+Scraped **130,234** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-13 16:15:01*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130233*
+*Sample of 10/130234*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,471) PV00221193 - **BLUE WINGS TRADING**
-* (28,941) PV00282481 - **DILSHAN ELECTRICAL**
-* (43,411) PV66954 - **GOOROOK OYA MALLANDA MINI HYDRO POWER**
-* (57,881) GA2384 - **KEGALLE DISTRICT CHAMBER OF COMMERCE, INDUSTRY AND AGRICULTURE**
-* (72,352) PV00213996 - **MONTEC INTERNATIONAL HOLDINGS**
-* (86,822) PV00245455 - **PRINT PLUS SOLUTIONS**
-* (101,292) PV00258115 - **SEVENTH SCIENCE HOLDING**
-* (115,762) PV00206009 - **THE PAINTBALL ADVENTURES**
-* (130,233) PV118576 - **ZZAPPIT**
+* (28,941) PV00251148 - **DILSHAN ENGINEERING & CONSULTANCY SERVICES**
+* (43,412) PV112983 - **GOPI FOOD CEYLON**
+* (57,882) PV102813 - **KEGALLE FILLING  STATIONS**
+* (72,352) PV00263056 - **MONTEREO ENTERPRISES**
+* (86,823)  - **PRINT SMART DIGITAL**
+* (101,293) PB1618 - **SEVENTY  (PBS 601)**
+* (115,763) PV858 - **THE PALACE HOTEL SIGIRIYA**
+* (130,234) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00292484 - **JOTHY HEALTHCARE**
-* (112) PV00292753 - **H AND D BEST WAY MARKETING**
-* (223) PV00293013 - **ARCH ENGINEERING AND CONSTRUCTIONS**
-* (334) GA00293294 - **HUMANE LIVESTOCK PROCESS COORDINATING TRUST**
+* (1) PV00292486 - **FIRST STEP LEARN**
+* (112) PV00292759 - **ASIJAN ROYAL**
+* (223) PV00293016 - **DREEM APPAREL**
+* (334) GA00293295 - **FREEDOM CHURCH**
 * (445) PV00293546 - **MADUSANKA ELECTRICALS**
 * (556) PV00293898 - **HETTIPOLA JEWELLERS**
 * (667) PV00294267 - **CBTF EVENTS**
@@ -53,18 +53,18 @@ Scraped **130,233** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-13 1
 * (118,398) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4410*
+*Sample of 10/4411*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (490)  - **BLUE FLOWER WELLNESS CENTRE**
-* (980)  - **DIKWELA PRODUCTS**
-* (1,470)  - **GLOBAL TRAVEL MASTER**
-* (1,960)  - **KAMILKA PERERA ARCHITECT**
-* (2,450)  - **MOI HOTELS**
-* (2,940)  - **PR AMAZEN INTERNATIONAL**
-* (3,430)  - **SHENLING CLINIC**
-* (3,920)  - **THEEPAM TRADERS**
-* (4,410)  - **ZULACART**
+* (491)  - **BLUE GREEN CONSERVATION**
+* (981)  - **DILAN KONG S G**
+* (1,471)  - **GLOBALTECHFLOOR LANKA**
+* (1,961)  - **KANDY POLYMER LANKA**
+* (2,451)  - **MOMO LEISURE**
+* (2,941)  - **PRABODYA ENTERPRISES**
+* (3,431)  - **SHERI DISTRIBUTORS**
+* (3,921)  - **THEIA LUXURIES**
+* (4,411)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2764*
