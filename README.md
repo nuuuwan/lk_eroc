@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,230** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-13 08:15:28*.
+Scraped **130,228** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-13 10:15:55*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130230*
+*Sample of 10/130228*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,470) PV00237441 - **BLUE WINGS HOLDINGS**
 * (28,940) PV5148 - **DILSHAN DISTRIBUTORS**
-* (43,410) PV00271452 - **GOONATILLAKE ELECTRICALS**
-* (57,880) PV106671 - **KEG AGRO PLANTAIONS**
-* (72,350) PV00276484 - **MONTFORT INTERNATIONAL**
-* (86,820) PV116216 - **PRINT ZONE EMBELLISHERS**
-* (101,290) PV00216312 - **SEVENWAY ENTERPRISES**
-* (115,760) PV858 - **THE PALACE HOTEL SIGIRIYA**
-* (130,230) PV118576 - **ZZAPPIT**
+* (43,410) PV18933 - **GOONATILLEKE HOLDINGS**
+* (57,879) PV106671 - **KEG AGRO PLANTAIONS**
+* (72,349) PV00276484 - **MONTFORT INTERNATIONAL**
+* (86,819) PV00207200 - **PRINT ZONE THE BRAND**
+* (101,288) PV00216312 - **SEVENWAY ENTERPRISES**
+* (115,758) PV858 - **THE PALACE HOTEL SIGIRIYA**
+* (130,228) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -45,7 +45,7 @@ Scraped **130,230** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-13 0
 * (13,154) PV00262481 - **BLUE MOON GEMS INTERNATIONAL**
 * (26,308) PV78881 - **DIKOTIMI LANKA**
 * (39,462) PV00246291 - **GOLDEN GALLE**
-* (52,616) PV00249687 - **KARAN AUTO SPRAY PAINTING INTERNATIONAL**
+* (52,616) PV115152 - **KARAN DEEPAK COLD CHAIN**
 * (65,770) PV00265036 - **MJ MARKETING**
 * (78,924) PV78874 - **PRECISION NETWORK SOLUTIONS**
 * (92,078) PV63845 - **SHA MOBILE NETWORK SYSTEMS**
@@ -53,18 +53,18 @@ Scraped **130,230** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-13 0
 * (118,386) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4418*
+*Sample of 10/4416*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (491)  - **BLUE GREEN CONSERVATION**
 * (982)  - **DIL GEMS**
-* (1,473)  - **GLOBALTECHFLOOR LANKA**
-* (1,964)  - **KANDYAN AESTHETICS**
-* (2,454)  - **MOMO LEISURE**
-* (2,945)  - **PRABHAYUSH PRODUCTION**
-* (3,436)  - **SHEMAYA EXCLUSIVE & FASHION**
-* (3,927)  - **THE WIND HOUSE**
-* (4,418)  - **ZULACART**
+* (1,472)  - **GLOBAL WAY AGENCY**
+* (1,963)  - **KANDY POLYMER LANKA**
+* (2,453)  - **MOMO LEISURE**
+* (2,944)  - **PRABODYA ENTERPRISES**
+* (3,434)  - **SHEMAYA EXCLUSIVE & FASHION**
+* (3,925)  - **THE WIND HOUSE**
+* (4,416)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2764*
