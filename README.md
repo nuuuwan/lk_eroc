@@ -2,31 +2,31 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,272** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-14 06:30:06*.
+Scraped **130,275** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-14 08:14:56*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130272*
+*Sample of 10/130275*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,475) PV131483 - **BLUEBELL CONSTRUCTION**
-* (28,950) PV103642 - **DILSHAN FASHION**
-* (43,424) PV00216789 - **GOODWIN METALS**
-* (57,899) PV13543 - **KEERTHIWANSA GROUP**
-* (72,373) PV99229 - **MONTACE TRAVELS & TOURS**
-* (86,848) PV919 - **PRINT LINE**
-* (101,322) PV00258115 - **SEVENTH SCIENCE HOLDING**
-* (115,797) PV914 - **THE PAINT SHOP WADDUWA**
-* (130,272) PV118576 - **ZZAPPIT**
+* (28,950) PV00282481 - **DILSHAN ELECTRICAL**
+* (43,425)  - **GOODWIN GENERAL TRADING**
+* (57,900) PV00254452 - **KEERTHIHA MALL**
+* (72,375) PV00274405 - **MONT KIARA**
+* (86,850) PV00255452 - **PRINT LIFE**
+* (101,325) PV00258115 - **SEVENTH SCIENCE HOLDING**
+* (115,800) PV914 - **THE PAINT SHOP WADDUWA**
+* (130,275) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00292503 - **JAFFNA BATTERY SERVICE**
-* (112) PV00292772 - **EAST ISLAND TRADING**
-* (223) PV00293039 - **CL LANKA LOGISTIC**
+* (1) PV00292504 - **HM MARKETING**
+* (112) PV00292773 - **BLING GEMS**
+* (223) PV00293045 - **HERITAGE BOUTIQUE HOTELS**
 * (334) PV00293319 - **AL SERVICES**
 * (445) PV00293575 - **BEST ONE TRADING COMPANY**
 * (556) PV00293920 - **LUXSHI VETCARE**
@@ -39,32 +39,32 @@ Scraped **130,272** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-14 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/118417*
+*Sample of 10/118419*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,158) PV4284 - **BLUE MOON RISING**
-* (26,315) PV68449 - **DIKO MAX PRINTING**
-* (39,473) PV123 - **GOLDEN FEEDS**
-* (52,630) PV115152 - **KARAN DEEPAK COLD CHAIN**
-* (65,787) PV00248856 - **MIZUKI JAPANESE LANGUAGE SCHOOL**
-* (78,945) PV00271524 - **PRECISION CUT**
-* (92,102) PV00224609 - **SHA HOLDINGS LANKA**
-* (105,259) PV00224036 - **THE SAFFRON RESTAURANT DELIGHT**
-* (118,417) PV118576 - **ZZAPPIT**
+* (26,316) PV107759 - **DIKO MAX AGRO PRODUCTS**
+* (39,473) PV00266494 - **GOLDEN FARM & AGRO**
+* (52,631) PV00215654 - **KARAN CRAFTS GROUP**
+* (65,788) PV76182 - **MIZUKI J.P.N.**
+* (78,946) PV66961 - **PRECISE MANAGEMENT SOLUTION**
+* (92,103) PV16439 - **SHA HOLDINGS**
+* (105,261) PV00224036 - **THE SAFFRON RESTAURANT DELIGHT**
+* (118,419) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4417*
+*Sample of 10/4418*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (491)  - **BLUE GREEN CONSERVATION**
-* (982)  - **DILSHAN ALU FAB**
-* (1,473)  - **GLORIOUS EVENT ORGANISERS**
-* (1,963)  - **KANDYAN QUEEN**
-* (2,454)  - **MOKSHA AYURVEDA HEALTHCARE**
-* (2,945)  - **PRABODYA ENTERPRISES**
-* (3,435)  - **SHERI DISTRIBUTORS**
-* (3,926)  - **THEEPAM TRADERS**
-* (4,417)  - **ZULACART**
+* (982)  - **DILSHAN  MOTORS LANKA**
+* (1,473)  - **GLOIRE INTERNATIONAL**
+* (1,964)  - **KANDYAN QUEEN**
+* (2,454)  - **MOI HOTELS**
+* (2,945)  - **PRABHAYUSH PRODUCTION**
+* (3,436)  - **SHERI DISTRIBUTORS**
+* (3,927)  - **THEEPAM TRADERS**
+* (4,418)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2766*
