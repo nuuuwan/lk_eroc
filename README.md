@@ -2,13 +2,13 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,312** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-15 00:15:04*.
+Scraped **130,313** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-15 02:15:37*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130312*
+*Sample of 10/130313*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,480) PV113683 - **BLUEBELL DELICACY**
@@ -18,18 +18,18 @@ Scraped **130,312** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-15 0
 * (72,396) PV61648 - **MONSOON FOOD**
 * (86,875) PV66345 - **PRINT MAKE**
 * (101,354) PV00219065 - **SEVENZIGMA TECHNOLOGIES**
-* (115,833) PV00279389 - **THE PANT HOUSE**
-* (130,312) PV118576 - **ZZAPPIT**
+* (115,833) PV107765 - **THE PANTRY LANKA**
+* (130,313) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00292565 - **FUTURE TRUST INTERNATIONAL**
-* (112) PV00292825 - **RED WAVE INTERNATIONAL**
-* (223) PV00293105 - **NISSARANA TV**
-* (334) PV00293368 - **SARAJ IMPORT AND EXPORT**
-* (445) PV00293645 - **ACP RENEWABLE**
-* (556) PV00293966 - **MAHAJANA WOODS**
+* (1) GA00292570 - **NICHI LAN TERA**
+* (112) PV00292827 - **ISAKYA COMMODITIES**
+* (223) PV00293110 - **GAMAGE PRODUCTS**
+* (334) PV00293375 - **ELITE APEX DEVELOPERS**
+* (445) PV00293647 - **PRUVE**
+* (556) PV00293967 - **SUVIK TRADING**
 * (667) PV00294322 - **SIL - TALENTEX**
 * (778) PV00294722 - **CANG INTERNATIONAL**
 * (889) PV00295328 - **LA ROUSSE HOSPITALITY AND HOTEL MANAGMENT SCHOOL**
@@ -39,32 +39,32 @@ Scraped **130,312** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-15 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/118454*
+*Sample of 10/118457*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,162) PV00272386 - **BLUE MOON PROPERTIES**
-* (26,323) PV00289606 - **DIHI**
-* (39,485) PV00203694 - **GOLDEN EAZY CASH**
-* (52,646) PV342 - **KARAGODA TEA FACTORY**
-* (65,808) PV13881 - **MIYURU ENTERPRISES**
-* (78,969) PV00275753 - **PRECIOUS SENSOR AUTOMATICS**
-* (92,131) PV00224609 - **SHA HOLDINGS LANKA**
-* (105,292) PV00224036 - **THE SAFFRON RESTAURANT DELIGHT**
-* (118,454) PV118576 - **ZZAPPIT**
+* (26,324) PV00261923 - **DIIS EDUCATION AND MIGRATION**
+* (39,486) PV00226905 - **GOLDEN ELDER RESORT**
+* (52,648) PV88019 - **KARAINAGAR BEACH HOTEL AND RECREATIONS**
+* (65,809) PV126389 - **MIZ LANKA HOTELS**
+* (78,971) PV00211793 - **PRECISE BUSINESS SOLUTIONS**
+* (92,133) PV15583 - **SHA INVESTMENT**
+* (105,295) PV00202807 - **THE SALON HIRU ACADEMY**
+* (118,457) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4417*
+*Sample of 10/4415*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (491)  - **BLUE GREEN CONSERVATION**
-* (982)  - **DILAN KONG S G**
-* (1,473)  - **GLOBALTECHFLOOR LANKA**
-* (1,963)  - **KANDY POLYMER LANKA**
-* (2,454)  - **MOHAMED RAHMATH ENTERPRISES**
-* (2,945)  - **PR AMAZEN INTERNATIONAL**
-* (3,435)  - **SHENZHEN SMART TECH**
-* (3,926)  - **THE WIND HOUSE**
-* (4,417)  - **ZULACART**
+* (981)  - **DIL GEMS**
+* (1,472)  - **GLOBAL WAY AGENCY**
+* (1,962)  - **KANDY COOL ENGINEERING**
+* (2,453)  - **MODISH INTERNATIONAL**
+* (2,943)  - **POWER HUT**
+* (3,434)  - **SHENLING CLINIC**
+* (3,924)  - **THE WESTER SEATON CHESHIRE HOME**
+* (4,415)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2770*
