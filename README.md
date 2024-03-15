@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,333** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-15 18:20:52*.
+Scraped **130,335** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-15 20:15:42*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130333*
+*Sample of 10/130335*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,482) PV00271964 - **BLUEBERRY ENTERTAINMENTS**
-* (28,963) PV00251148 - **DILSHAN ENGINEERING & CONSULTANCY SERVICES**
-* (43,445) PV18933 - **GOONATILLEKE HOLDINGS**
-* (57,926) GA2384 - **KEGALLE DISTRICT CHAMBER OF COMMERCE, INDUSTRY AND AGRICULTURE**
-* (72,407) PV00276484 - **MONTFORT INTERNATIONAL**
-* (86,889) PV123245 - **PRINT TEX SYSTEMS**
-* (101,370) PV00282822 - **SEVINCO FURNITURES AND INTERIORS**
-* (115,851) PV00231543 - **THE PARTY VIBES**
-* (130,333) PV118576 - **ZZAPPIT**
+* (28,964) PV5604 - **DILSHAN ENTERPRISES**
+* (43,445) PV00271452 - **GOONATILLAKE ELECTRICALS**
+* (57,927) GA2384 - **KEGALLE DISTRICT CHAMBER OF COMMERCE, INDUSTRY AND AGRICULTURE**
+* (72,408) PV84542 - **MONTFORT HOLDINGS**
+* (86,890) PV102574 - **PRINT TECHNOLOGIES LANKA**
+* (101,371) PV00256882 - **SEVERN EDUCATIONAL & VISA CONSULTANTS**
+* (115,853) PV00231543 - **THE PARTY VIBES**
+* (130,335) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **130,333** Companies ([4.02MB](data/companies.tsv)) as of *2024-03-15 1
 * (118,473) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4415*
+*Sample of 10/4417*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (491)  - **BLUE FLOWER WELLNESS CENTRE**
-* (981)  - **DIGITEX**
-* (1,472)  - **GLOBAL SAPPHIRE EXPORTS**
-* (1,962)  - **KAMILKA PERERA ARCHITECT**
-* (2,453)  - **MODERN HEALTH CARE**
-* (2,943)  - **POWER GRID SOLUTIONS**
-* (3,434)  - **SHENZHEN SMART TECH**
-* (3,924)  - **THE WIND HOUSE**
-* (4,415)  - **ZULACART**
+* (982)  - **DIGITION**
+* (1,473)  - **GLOBAL SAPPHIRE EXPORTS**
+* (1,963)  - **KAMILKA PERERA ARCHITECT**
+* (2,454)  - **MODEL GROUP INTERNATIONAL**
+* (2,945)  - **POWER GRID SOLUTIONS**
+* (3,435)  - **SHENLING CLINIC**
+* (3,926)  - **THE WIND HOUSE**
+* (4,417)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2769*
