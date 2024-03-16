@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,374** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-16 04:15:27*.
+Scraped **130,375** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-16 06:30:01*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130374*
+*Sample of 10/130375*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,486) PV113684 - **BLUEBELL SPICY BUNS**
-* (28,972) PV103642 - **DILSHAN FASHION**
-* (43,458) PV112983 - **GOPI FOOD CEYLON**
-* (57,944) PV00222035 - **KEGALLE PLYWOOD HOUSE**
-* (72,430) PV128008 - **MONTRELA CONSULTANTS**
-* (86,916) PV62717 - **PRINT TECH SOLUTIONS**
-* (101,402) PV00253935 - **SEVINRO WASTE MANAGEMENT LANKA**
-* (115,888) PV00209373 - **THE PASTA FACTORY**
-* (130,374) PV118576 - **ZZAPPIT**
+* (14,487) PV00238170 - **BLUEBERRY CONCEPTS**
+* (28,973) PV103642 - **DILSHAN FASHION**
+* (43,459) PV112983 - **GOPI FOOD CEYLON**
+* (57,945) PV00222035 - **KEGALLE PLYWOOD HOUSE**
+* (72,431) PV128008 - **MONTRELA CONSULTANTS**
+* (86,917) PV62717 - **PRINT TECH SOLUTIONS**
+* (101,403) PV00253935 - **SEVINRO WASTE MANAGEMENT LANKA**
+* (115,889) PV00209373 - **THE PASTA FACTORY**
+* (130,375) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **130,374** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-16 0
 * (118,519) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4410*
+*Sample of 10/4411*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (490)  - **BLUE GREEN CONSERVATION**
-* (980)  - **DIGITION**
-* (1,470)  - **GLOBAL PLANIT**
-* (1,960)  - **KANDY POLYMER LANKA**
-* (2,450)  - **MODERN HEALTH CARE**
-* (2,940)  - **POWER HUT**
-* (3,430)  - **SHERI DISTRIBUTORS**
-* (3,920)  - **THEEPAM TRADERS**
-* (4,410)  - **ZULACART**
+* (491)  - **BLUE HORIZON LANKA**
+* (981)  - **DIGITION**
+* (1,471)  - **GLOBAL PLANIT**
+* (1,961)  - **KANDY POLYMER LANKA**
+* (2,451)  - **MODERN HEALTH CARE**
+* (2,941)  - **POWER HUT**
+* (3,431)  - **SHERI DISTRIBUTORS**
+* (3,921)  - **THEEPAM TRADERS**
+* (4,411)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2768*
