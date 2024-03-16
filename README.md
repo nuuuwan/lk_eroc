@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,535** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-16 20:15:29*.
+Scraped **130,534** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-16 22:15:43*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130535*
+*Sample of 10/130534*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,504) PV94458 - **BLUECHIP CONSTRUX**
 * (29,008) PV94179 - **DILIGENT BUSINESS SCHOOL**
-* (43,512)  - **GOOD VENTURES LANKA**
-* (58,016) PV87801 - **KEEN MIND MOBILE SOLUTIONS**
-* (72,519) PV125675 - **MONOCOAT DEV LANKA**
-* (87,023) PV00232979 - **PRINT  FOREST**
-* (101,527) PV00205843 - **SEVENSIGNS**
-* (116,031) PV914 - **THE PAINT SHOP WADDUWA**
-* (130,535) PV118576 - **ZZAPPIT**
+* (43,512) PV14322 - **GOOD VALUE MARKETING**
+* (58,015) PV00224505 - **KEEN GLOBAL EXPO**
+* (72,519) PV80726 - **MONOCLE**
+* (87,023) PV00236021 - **PRINSAS CREATIVE**
+* (101,526) PV127087 - **SEVENSEAS RESIDENCE**
+* (116,030) PV2311 - **THE PAINT SHOP KATUBEDDA**
+* (130,534) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **130,535** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-16 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/118655*
+*Sample of 10/118652*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,184) PV80210 - **BLUE OCEAN GLOBAL**
-* (26,368) PV00209487 - **DIGITAL SERVICES GLOBAL**
-* (39,552) PV00285517 - **GOLDEN CEYLON COCO PRODUCTS**
-* (52,736) PV00260586 - **KAPURU INVESTMENT**
-* (65,919) PV61054 - **MIYUKI AND TILLEY COMPANY**
-* (79,103) PV121165 - **PRE-TRADE SOLUTIONS**
-* (92,287) PV00292043 - **SHA BABY NEEDS**
-* (105,471) PV82112 - **THE S.T.P. AUTOLINK**
-* (118,655) PV118576 - **ZZAPPIT**
+* (26,367) PV00209798 - **DIGITAL SERVICES ASIA**
+* (39,551) PV00253603 - **GOLDEN CERAMIC**
+* (52,734) PV00253772 - **KAPUGE MOTORS**
+* (65,918) PV87621 - **MIYUGUNA HOSPITALS**
+* (79,101) PV00262509 - **PRE WALKS LANKA**
+* (92,285) PV120256 - **SHA AGRO EXPORTS**
+* (105,468) PV00208499 - **THE S GALLERY HOTEL**
+* (118,652) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4436*
+*Sample of 10/4438*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (493)  - **BLUE KEY**
-* (986)  - **DICKYAYA GREEN ENERGY COMPANY**
-* (1,479)  - **GLOBAL GATEWAY**
-* (1,972)  - **KALUWILA ENTERPRISES**
-* (2,464)  - **MNM LANKA**
-* (2,957)  - **POUR & PERK**
-* (3,450)  - **SHEN SEN**
-* (3,943)  - **THE WAVE TRAINING CEYLON**
-* (4,436)  - **ZULACART**
+* (494)  - **BLUE LOTUS WELLNESS**
+* (987)  - **DIGIBRANDING INTERNATIONAL**
+* (1,480)  - **GLOBAL GATEWAY CAMPUS**
+* (1,973)  - **KALUTARA YOUTH AGRICULTURAL NETWORK REVOLUTION**
+* (2,466)  - **MNM LANKA**
+* (2,959)  - **POUR & PERK**
+* (3,452)  - **SHEN SEN**
+* (3,945)  - **THE WAVE TRAINING CEYLON**
+* (4,438)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2768*
@@ -137,32 +137,32 @@ Scraped **130,535** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-16 2
 * (374) FC1065 - **ZIBO GUANGZHENG ALKALI ALUMINIUM CHEMICAL INDUSTRY CO.,**
 
 ### "F"
-*Sample of 10/206*
+*Sample of 10/207*
 ![data/word_clouds/word_cloud_F.png](data/word_clouds/word_cloud_F.png)
 * (1) F234 - **ALCO INSURANCE COMPANY**
 * (23) F327 - **BANQUE DE L'INDOCHINE ET DE SUEZ (FRANCE)**
 * (46) F301 - **DEEN RAMBLE PVT**
 * (69) F340 - **HABIB BANK A.G. ZURICH**
 * (92) F288 - **LINTAS**
-* (114) F55 - **NEWZELAND INS. CO.**
-* (137) F59 - **ROYAL INSURANCE CO.**
-* (160) F76 - **SUN LIFE ASSURANCE CO OF CANADA**
-* (183) F193 - **THE STANDARD GENERAL ASSURANCE CO.**
-* (206) F268 - **Y CICHAEL**
+* (115) F7 - **NORTHERN ASSUARENCE CO.**
+* (138) F317 - **ROYAL NEPAL AIR LINES CORPORATION**
+* (161) F305 - **SWISSAIR TRANSPOTATION CO**
+* (184) F296 - **THE STANDARD VACUM OIL CORPORATION**
+* (207) F6 - **YORKSHIRE INSURANCE CO LTC CEASED 1/11/70**
 
 ### "PQ"
-*Sample of 10/154*
+*Sample of 10/153*
 ![data/word_clouds/word_cloud_PQ.png](data/word_clouds/word_cloud_PQ.png)
 * (1) PQ188 - **ABANS ELECTRICALS**
-* (18) PQ130 - **CARGILLS (CEYLON)**
-* (35) PQ50 - **COLOMBO DOCKYARD**
-* (52) PQ153 - **EASTERN MERCHANTS**
-* (69) PQ81 - **HOTEL SIGIRYA**
-* (86) PQ228 - **LAND AND BUILDING**
-* (103) PQ177 - **MULLER & PHIPPS (CEYLON)**
-* (120) PQ167 - **ROYAL PALMS BEACH HOTELS**
-* (137) PQ162 - **TANGERINE BEACH HOTELS**
-* (154) PQ00234079 - **WINDFORCE**
+* (17) PQ00252285 - **CAPITAL ALLIANCE**
+* (34) PQ71 - **COLOMBO CITY HOLDINGS**
+* (51) PQ221 - **EAST WEST PROPERTIES**
+* (68) PQ81 - **HOTEL SIGIRYA**
+* (85) PQ228 - **LAND AND BUILDING**
+* (102) PQ177 - **MULLER & PHIPPS (CEYLON)**
+* (119) PQ167 - **ROYAL PALMS BEACH HOTELS**
+* (136) PQ162 - **TANGERINE BEACH HOTELS**
+* (153) PQ00234079 - **WINDFORCE**
 
 ### "PBPV"
 *Sample of 10/80*
