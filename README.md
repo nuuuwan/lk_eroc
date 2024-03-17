@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,561** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-17 10:15:17*.
+Scraped **130,565** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-17 12:15:10*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130561*
+*Sample of 10/130565*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,507) PV120539 - **BLUECARPET TECHNOLOGIES**
-* (29,014) PV00203507 - **DILCHAND**
-* (43,521) PV00267182 - **GOOD LUCK HOLDINGS**
-* (58,027) PV00216724 - **KECT MANAGEMENT SERVICES**
-* (72,534) PV7683 - **MONGO**
-* (87,041)  - **PRINCE'S PLACE**
-* (101,547) PV110139 - **SEVENRAY INTERNATIONAL COMPANY**
-* (116,054) PV00234593 - **THE OZONE INN**
-* (130,561) PV118576 - **ZZAPPIT**
+* (14,508) PV00238156 - **BLUECELLS**
+* (29,015) PV64591 - **DILCHIRIS INTERNATIONAL**
+* (43,522) PV00251312 - **GOOD LUCK IMPEX**
+* (58,029) PV78910 - **KEDALLA ARCHITECTS & DESIGNERS**
+* (72,536) PV00276346 - **MONICA EXPORTS**
+* (87,043) PV19362 - **PRINCES EDUCATIONAL SERVICES**
+* (101,550) PV119296 - **SEVENS INVESTMENT AND PROPERTIES**
+* (116,057) PV2311 - **THE PAINT SHOP KATUBEDDA**
+* (130,565) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **130,561** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-17 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/118684*
+*Sample of 10/118688*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,188) PV112705 - **BLUE OCEAN FACILITIES MANAGEMENT**
 * (26,375) PV93944 - **DIGITAL NET COMPANY**
-* (39,562) PV128286 - **GOLDBLOCK JAPAN**
-* (52,749) PV00247333 - **KAPRUKA E-COMMERCE**
-* (65,936) PV00248782 - **MIXICO**
-* (79,123) PV95137 - **PRAVENI LANDS**
-* (92,310) PV00273915 - **SH GEMS**
-* (105,497) PV00246810 - **THE RUSH WEDDING BOUTIQUE**
-* (118,684) PV118576 - **ZZAPPIT**
+* (39,563) PV111150 - **GOLDEN AGRI RESOURCES**
+* (52,750) PV85272 - **KAPRUKA ENVIRONMENT FRIENDLY COMPANY**
+* (65,938) PV00290080 - **MIXX ART**
+* (79,125) PV00204660 - **PRAVINCO STEEL FURNITURE**
+* (92,313) PV00293806 - **SH SPLEND DECOR**
+* (105,500) PV73412 - **THE S.G. FASHION**
+* (118,688) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4437*
