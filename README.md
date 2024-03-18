@@ -2,34 +2,34 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,638** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-18 20:15:34*.
+Scraped **130,636** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-18 22:17:15*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/130638*
+*Sample of 10/130636*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,516) PV113685 - **BLUEBELL PASTRY**
-* (29,031) PV00241213 - **DILAN FARM ORGANIC PRODUCE**
+* (14,516) PV102592 - **BLUEBELL SAVOURY**
+* (29,031) PV19785 - **DILAN GARMENTS**
 * (43,546) GA00288458 - **GOOD HOPE TRUST**
 * (58,061) NF266 - **KEC INTERNATIONAL**
-* (72,577) PV10726 - **MONCAM ENGINEERING**
-* (87,092) PV00268657 - **PRIMROSE TRADING  LANKA**
-* (101,607) PV00232824 - **SEVEN SPORTS HOLDINGS**
-* (116,122) PV116007 - **THE OUTLET STORE CLOTHING**
-* (130,638) PV118576 - **ZZAPPIT**
+* (72,576)  - **MONDAL CREATIVITY & JEWELLERY DESIGNING**
+* (87,091) PV00271856 - **PRIMROSE VISA AND IMMIGRATION CONSULTANTS**
+* (101,606) PV63178 - **SEVEN STAR CONSTRUCTION**
+* (116,121) GA70 - **THE OUTWARD BOUND TRUST**
+* (130,636) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00292990 - **SANKAPATHMA GEMS, JEWELRY & MINING**
-* (112) PV00293262 - **TANZO GEM AND JEWELLERY**
-* (223) PV00293471 - **TALLGIRL**
-* (334) PV00293726 - **OPEN ROAD LANKA**
-* (445) PV00294021 - **NEXUS ELECTRICALS**
-* (556) PV00294329 - **CSR INTERNATIONAL LOGISTICS**
+* (1) PV00292995 - **BIG SKY**
+* (112) PV00293263 - **LEO WORLD**
+* (223) PV00293472 - **ECOPLUS INTERNATIONAL**
+* (334) PV00293733 - **GADC CONSTRUCTIONS**
+* (445) PV00294023 - **DUP CARZ**
+* (556) PV00294335 - **NEW ROYAL FOODS AND MACHINERIES**
 * (667) PV00294674 - **RZELS**
 * (778) PV00295109 - **AIANA LIFESTYLES**
 * (889) PV00295716 - **KNAP ASSOCIATES**
@@ -42,10 +42,10 @@ Scraped **130,638** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-18 2
 *Sample of 10/118767*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,197) PV104495 - **BLUE MOUNTAIN RESIDENCIES**
-* (26,393) PV00223342 - **DIGITAL MATRIX**
-* (39,589) PV00249132 - **GOLD VISION**
-* (52,785) PV00212846 - **KAPTIVE ADS**
+* (13,197) PV1043 - **BLUE MOUNTAIN TEA EXPORTS**
+* (26,393) PV78604 - **DIGITAL MEDIA NETWORK**
+* (39,589) PV00220697 - **GOLD TOUCH INVESTMENT**
+* (52,785) PV00206397 - **KAPTCHA**
 * (65,982) PV00263237 - **MITTER  CONNECT**
 * (79,178) PV62384 - **PRATHEEP METAAL**
 * (92,374) PV95723 - **SEZA LEISURE**
@@ -53,18 +53,18 @@ Scraped **130,638** Companies ([4.03MB](data/companies.tsv)) as of *2024-03-18 2
 * (118,767) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4437*
+*Sample of 10/4435*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (493)  - **BLUE GREEN CONSERVATION**
 * (986)  - **DFC PLANTATIONS & PROCESSING**
-* (1,479)  - **GLOBAL CITY CENTER**
-* (1,972)  - **JUPITER INTERNATIONAL LANKA**
-* (2,465)  - **MITHUDAMA LANDS & PROPERTIES**
-* (2,958)  - **POINTLOOKZ INTEGRITY**
-* (3,451)  - **SHE AMORE**
-* (3,944)  - **THE TREASURE HUNT**
-* (4,437)  - **ZULACART**
+* (1,479)  - **GLOBAL CONVERSIONS**
+* (1,971)  - **JUPITER INTERNATIONAL LANKA**
+* (2,464)  - **MIYAASH INDUSTRIAL TRADEWAYS**
+* (2,957)  - **POLO LANKA**
+* (3,449)  - **SHE AMORE**
+* (3,942)  - **THE TREASURE HUNT**
+* (4,435)  - **ZULACART**
 
 ### "PB"
 *Sample of 10/2776*
