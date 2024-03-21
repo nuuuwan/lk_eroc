@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **130,874** Companies ([4.04MB](data/companies.tsv)) as of *2024-03-21 10:15:19*.
+Scraped **130,874** Companies ([4.04MB](data/companies.tsv)) as of *2024-03-21 14:15:54*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -12,11 +12,11 @@ Scraped **130,874** Companies ([4.04MB](data/companies.tsv)) as of *2024-03-21 1
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,542) PV117375 - **BLUE WHALE TOURS**
-* (29,083) PV19785 - **DILAN GARMENTS**
-* (43,625) GA00288458 - **GOOD HOPE TRUST**
-* (58,166) PV82827 - **KEBITIGOLLEWA SOLAR POWER**
-* (72,708) PV118613 - **MONEO GLOBAL LANKA**
-* (87,249) PV00274680 - **PRINCE HARDWARE AND ELECTRICALS**
+* (29,083) PV00216258 - **DILAN FASHION HOUSE**
+* (43,625) PV14971 - **GOOD HOPE PROPERTY DEVELOPERS**
+* (58,166) PV71563 - **KEBITIGOLLAWA PLANTATION**
+* (72,708) PV83931 - **MONENTUM SOFT-WORKS**
+* (87,249)  - **PRINCE GOLD**
 * (101,791) PV97326 - **SEVEN STORIES RANJANAS**
 * (116,332) PV00275950 - **THE ORTHOPEDIC AGENCY**
 * (130,874) PV118576 - **ZZAPPIT**
@@ -39,32 +39,32 @@ Scraped **130,874** Companies ([4.04MB](data/companies.tsv)) as of *2024-03-21 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/118966*
+*Sample of 10/118964*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,219) PV99677 - **BLUE MOUNTAIN APARTMENTS**
 * (26,437) PV112800 - **DIGITAL NEURON**
-* (39,656) PV128986 - **GOLDEN BEAUTY COSMETICS**
-* (52,874) PV00271900 - **KAPY SILKS**
-* (66,092) PV6001 - **MIURA DUTCH EDGE HOTEL**
-* (79,311) PV00229315 - **PRATHISHAKTHI PRODUCTS**
-* (92,529) PV110925 - **SFINN SOLUTIONS**
-* (105,747) PV122676 - **THE ROYAL INSTITUTE OF COLOMBO CAMPUS**
-* (118,966) PV118576 - **ZZAPPIT**
+* (39,655) PV00207231 - **GOLDEN BEACH HOTEL INVESTMENT**
+* (52,873) PV00271961 - **KAPUWELLA ESTATE**
+* (66,091) PV84482 - **MIURA CARS**
+* (79,309) PV00273579 - **PRATHIBA LANKA**
+* (92,527) PV110925 - **SFINN SOLUTIONS**
+* (105,745) PV122676 - **THE ROYAL INSTITUTE OF COLOMBO CAMPUS**
+* (118,964) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4447*
+*Sample of 10/4449*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (495)  - **BLISSFUL VENTURES**
-* (989)  - **DESCOLOMBO.LK**
-* (1,483)  - **GIFT GALLERIA**
-* (1,977)  - **JSK BROTHERS CONSTRUCTION**
-* (2,471)  - **MK SOLUTIONS**
-* (2,965)  - **PORT CITY VILLA DEVELOPMENT**
-* (3,459)  - **SHEDAR BOUTIQUE HOTEL**
-* (3,953)  - **THE WAVE TRAINING CEYLON**
-* (4,447)  - **ZYNOWIX**
+* (989)  - **DERMERZEL**
+* (1,483)  - **GHOST PROTOCOL**
+* (1,977)  - **JS TRADERS**
+* (2,472)  - **MK SOLUTIONS**
+* (2,966)  - **PORT CITY VILLA DEVELOPMENT**
+* (3,460)  - **SHAZ NANO TECHNOLOGIES**
+* (3,954)  - **THE UNIVERSAL VISA CONSULTANT SERVICE**
+* (4,449)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2781*
