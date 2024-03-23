@@ -2,30 +2,30 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,062** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-23 20:15:37*.
+Scraped **131,060** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-23 22:15:22*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/131062*
+*Sample of 10/131060*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,563) PV00247393 - **BLUE WILD**
 * (29,125) PV103028 - **DILAX CHEMICAL**
-* (43,688) PV5122 - **GOOD SPIRIT CO.**
-* (58,250) PV00217691 - **KEDELLA RESIDENCE**
-* (72,812) PV121589 - **MONEYWORKZ TECHNOLOGIES**
-* (87,375) PV71114 - **PRINCIYANA VILLA**
-* (101,937) PV00205843 - **SEVENSIGNS**
-* (116,499) PV96200 - **THE ORCHIDIST**
-* (131,062) PV118576 - **ZZAPPIT**
+* (43,687) PV102857 - **GOOD STORY LANKA**
+* (58,249) PV00211742 - **KEDGE ENTERPRISES**
+* (72,811) PV00219066 - **MONG KOK TEA RESTAURANT**
+* (87,373) PV71114 - **PRINCIYANA VILLA**
+* (101,935) PV00205843 - **SEVENSIGNS**
+* (116,497) PV96200 - **THE ORCHIDIST**
+* (131,060) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
 * (1) PV00293410 - **ANANDA AYURVEDA SERVICES**
-* (112) PV00293645 - **ACP RENEWABLE**
+* (112) PV00293643 - **GALLE WEDDING FILMS**
 * (223) PV00293920 - **LUXSHI VETCARE**
 * (334) PV00294186 - **SUNNYSIDE HOLDINGS**
 * (445) PV00294481 - **FOLLI FOLLIE INTERNATIONAL GEMSTONE**
@@ -39,18 +39,18 @@ Scraped **131,062** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-23 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/119153*
+*Sample of 10/119151*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,240) PV111592 - **BLUE NATIONS**
-* (26,479) PV132179 - **DIGITAL PULZ**
-* (39,718) PV65671 - **GOLDEN DRAGON AGRI EXPORTS**
-* (52,957) PV19427 - **KARANDANA GEMS AND TOURS**
-* (66,196) PV00249763 - **MIXWORK**
-* (79,435) PV94911 - **PRAXIS WORKS**
-* (92,674) PV00262006 - **SHA & SON'S PRODUCTS**
-* (105,913) PV00236102 - **THE RIVERSTON GRAND**
-* (119,153) PV118576 - **ZZAPPIT**
+* (13,239) PV1043 - **BLUE MOUNTAIN TEA EXPORTS**
+* (26,478) PV12125 - **DIGITAL PRINT INTERNATIONAL**
+* (39,717) PV00236970 - **GOLDEN EAGLE BREWERIES**
+* (52,956) PV104834 - **KARANS JEWELLERY**
+* (66,195) PV00290080 - **MIXX ART**
+* (79,434) PV8066 - **PRAYAMA CREATIONS**
+* (92,673) PV100524 - **SHA 3**
+* (105,912) PV00276945 - **THE ROAST CAFE**
+* (119,151) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4447*
@@ -58,7 +58,7 @@ Scraped **131,062** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-23 2
 * (1)  - **A AND Y COMMODITIES**
 * (495)  - **BLOODY SWEET**
 * (989)  - **DEVIYANWAHANSEGE SABHAWA LOKADUTHA MEHEWARA SANGAMAYA**
-* (1,483)  - **GIRIBAWA ENGLISH ACADEMY**
+* (1,483)  - **GIN JOINT WINE STORES**
 * (1,977)  - **JSM LEISURE HOLDING**
 * (2,471)  - **MODEL GROUP INTERNATIONAL**
 * (2,965)  - **PRABUDDI CERTIFICATIONS**
