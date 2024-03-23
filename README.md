@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,065** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-23 14:15:05*.
+Scraped **131,065** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-23 16:15:11*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -24,14 +24,14 @@ Scraped **131,065** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-23 1
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) GA00293407 - **LILY CARE FOUNDATION**
-* (112) PV00293635 - **JD SKY TRADE**
-* (223) PV00293915 - **KIDS GLOBAL HOLDINGS**
-* (334) PV00294181 - **AMANDI WELLNESS SALON & SPA**
-* (445) PV00294463 - **CEYLAN AUTHENTIC**
-* (556) PV00294787 - **CROP SHELLO**
-* (667) PV00295181 - **PRASANNA NARANGODA CONSULTANTS**
-* (778) PV00295664 - **AGASTRA EVENTS**
+* (1) PV00293408 - **VINK HOLDING**
+* (112) PV00293637 - **APEX TRUST INVESTMENT**
+* (223) PV00293916 - **LIVING COLOR EXPO GROUP**
+* (334) PV00294183 - **FSE INTERNATIONAL**
+* (445) PV00294464 - **MS MARKETING HOUSE**
+* (556) PV00294791 - **ABA GLOBAL LOGISTICS**
+* (667) PV00295182 - **WONDERSCAPE CEYLON**
+* (778) PV00295665 - **WICKRAMANAYAKE HOTEL & RESTAURANT**
 * (889) PV00296222 - **CEYLON ELEVEN EXPO**
 * (1,000) PV00297346 - **KOSMOS NAIL STUDIO**
 
@@ -39,32 +39,32 @@ Scraped **131,065** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-23 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/119149*
+*Sample of 10/119150*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,239) PV1043 - **BLUE MOUNTAIN TEA EXPORTS**
 * (26,478) PV116546 - **DIGITAL REALTY**
 * (39,717) PV00206905 - **GOLDEN DREAMS CREDIT**
-* (52,955) PV19427 - **KARANDANA GEMS AND TOURS**
+* (52,956) PV104834 - **KARANS JEWELLERY**
 * (66,194) PV00249763 - **MIXWORK**
 * (79,433) PV94911 - **PRAXIS WORKS**
-* (92,671) PV00293806 - **SH SPLEND DECOR**
-* (105,910) PV98416 - **THE RIVERBANK**
-* (119,149) PV118576 - **ZZAPPIT**
+* (92,672) PV00262006 - **SHA & SON'S PRODUCTS**
+* (105,911) PV00236102 - **THE RIVERSTON GRAND**
+* (119,150) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4452*
+*Sample of 10/4451*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (495)  - **BLOODY SWEET**
-* (990)  - **DESTINY TOURS AND TRAVELS**
+* (989)  - **DESIGN MAGAZINE**
 * (1,484)  - **GIN JOINT WINE STORES**
-* (1,979)  - **JSM LEISURE HOLDING**
+* (1,978)  - **JSK BROTHERS CONSTRUCTION**
 * (2,473)  - **MODEL GROUP INTERNATIONAL**
-* (2,968)  - **PRABUDDI CERTIFICATIONS**
+* (2,967)  - **PRABODYA ENTERPRISES**
 * (3,462)  - **SHINE REAL ESTATE INVESTMENT AND MANAGEMENT**
-* (3,957)  - **THEIA LUXURIES**
-* (4,452)  - **ZYNOWIX**
+* (3,956)  - **THEEPAM TRADERS**
+* (4,451)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2782*
