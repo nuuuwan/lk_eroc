@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,085** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-24 10:15:06*.
+Scraped **131,088** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-24 12:14:59*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/131085*
+*Sample of 10/131088*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,565) PV00205134 - **BLUE ZONE COMPANY**
-* (29,130) PV71735 - **DILEEMA**
-* (43,695) PV113966 - **GOOD VIBES**
-* (58,260) PV87801 - **KEEN MIND MOBILE SOLUTIONS**
-* (72,825) PB00284858 - **MONIK CAPITAL HOLDING**
-* (87,390) PV21779 - **PRINT AND PRINT GRAPHICS**
-* (101,955) PV00220299 - **SEVENTH SENSE SERVICES**
-* (116,520) PV00272947 - **THE ORANGE CREW**
-* (131,085) PV118576 - **ZZAPPIT**
+* (14,566) PV00288422 - **BLUE-INK MOBILE ACCESSORIES**
+* (29,131) PV00202382 - **DILEIN CONSTRUCTION**
+* (43,696) PV00272175 - **GOOD VIBE'S INVESTMENT**
+* (58,261) PV00255052 - **KEEN GRAPHICS**
+* (72,827) PV00284859 - **MONIK AUTOCARE**
+* (87,392) PV104611 - **PRINT 77**
+* (101,957) PV00258115 - **SEVENTH SCIENCE HOLDING**
+* (116,522) PV00251586 - **THE ORACLE ZONE**
+* (131,088) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **131,085** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-24 1
 * (119,181) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4440*
+*Sample of 10/4442*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (494)  - **BLOSSOM UNIQUE AESTHETIC CLINIC**
 * (987)  - **DEWLIYA HOMES**
-* (1,480)  - **GISHAN BAKERS AND PULSES PROCESSING INDUSTRIES**
-* (1,973)  - **JULIET ROSE**
-* (2,467)  - **MOHIZHU FABRIC**
-* (2,960)  - **PRECISION SCIENTIFIC SERVICES & CONSULTANCY**
-* (3,453)  - **SHOW MONEY LANKA**
-* (3,946)  - **THE WIND HOUSE**
-* (4,440)  - **ZYNOWIX**
+* (1,481)  - **GISHAN BAKERS AND PULSES PROCESSING INDUSTRIES**
+* (1,974)  - **JULIET ROSE**
+* (2,468)  - **MOHAMED RAHMATH ENTERPRISES**
+* (2,961)  - **PRATHAPAGE PRODUCTS**
+* (3,455)  - **SHOW MONEY LANKA**
+* (3,948)  - **THE WIND HOUSE**
+* (4,442)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2780*
@@ -95,18 +95,18 @@ Scraped **131,085** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-24 1
 * (2,347) GA470 - **ZONTA CLUB II OF COLOMBO**
 
 ### "GL"
-*Sample of 10/788*
+*Sample of 10/789*
 ![data/word_clouds/word_cloud_GL.png](data/word_clouds/word_cloud_GL.png)
 * (1) GL00223389 - **A LITTLE  FOUNDATION**
 * (88) GL00218395 - **BLUE EAGLES SPORTS CLUB**
-* (175) GL00216223 - **DON BOSCO SERVICES OF EMPOWERMENT**
-* (263) GL2040 - **GROW & GLOW**
-* (350) GL00250516 - **JATAA WORLDWIDE**
-* (438) GL00262552 - **MISSION GREEN S L**
-* (525) GL2409 - **RAILWAY MUSEUM**
-* (613) GL00234768 - **SIVATHARMA MAHABODHI ATHEENAM**
-* (700) GL2205 - **TRADERS ASSOCIATION VAVUNIYA**
-* (788) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
+* (176) GL2408 - **DOWELS DOCTORS WELFARE ASSOCIATION**
+* (263) GL00256634 - **GREEN WORLD TRUST**
+* (351) GL00250516 - **JATAA WORLDWIDE**
+* (438) GL2255 - **MISSION FOR SMILES**
+* (526) GL2409 - **RAILWAY MUSEUM**
+* (613) GL00237757 - **SIVANARUL HOPE**
+* (701) GL2205 - **TRADERS ASSOCIATION VAVUNIYA**
+* (789) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
 
 ### "NF"
 *Sample of 10/503*
