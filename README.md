@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,101** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-26 00:15:11*.
+Scraped **131,102** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-26 02:15:58*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/131101*
+*Sample of 10/131102*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,567) PV13956 - **BLUEBERRY INVESTMENTS**
 * (29,134) PV00223135 - **DILEXUS INFOTECH**
-* (43,701) PV00207044 - **GOOD WAY INVESTMENT**
-* (58,267) PV00254092 - **KEEGS INTERNATIONAL**
-* (72,834) PV100239 - **MONICA HEAVEN**
-* (87,401) PV61555 - **PRINT - N - GARD**
-* (101,967) PV00212517 - **SEVENTH HEAVEN EVENTS**
-* (116,534) PV71632 - **THE ORANGE SOLUTIONS**
-* (131,101) PV118576 - **ZZAPPIT**
+* (43,701) PV00234068 - **GOOD VISION ECO INTEGRATED**
+* (58,268) PV00254092 - **KEEGS INTERNATIONAL**
+* (72,834) PV00225573 - **MONICA FOOD SOLUTIONS**
+* (87,401) PV00232979 - **PRINT  FOREST**
+* (101,968) PV00212517 - **SEVENTH HEAVEN EVENTS**
+* (116,535) PV71632 - **THE ORANGE SOLUTIONS**
+* (131,102) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **131,101** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-26 0
 * (119,206) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4442*
+*Sample of 10/4443*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (494)  - **BLUE  FORCE HOLDINGS**
-* (987)  - **DHONAAL FURNITURE**
-* (1,481)  - **GLAMOROUS GLAM BOUTIQ**
-* (1,974)  - **JSR RENT A CAR**
-* (2,468)  - **MODISH INTERNATIONAL**
-* (2,961)  - **PRABHAYUSH PRODUCTION**
-* (3,455)  - **SHINE LA HOLDINGS**
-* (3,948)  - **THE WAVE TRAINING CEYLON**
-* (4,442)  - **ZYNOWIX**
+* (988)  - **DIAMOND ENTERTAINMENT LANKA**
+* (1,481)  - **GLAMOROUS BEAUTY**
+* (1,975)  - **JSR RENT A CAR**
+* (2,468)  - **MODERN INTERIOR SOLUTIONS**
+* (2,962)  - **PRABHAYUSH PRODUCTION**
+* (3,455)  - **SHIMAKRA INDUSTRIES**
+* (3,949)  - **THE WAVE TRAINING CEYLON**
+* (4,443)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2775*
