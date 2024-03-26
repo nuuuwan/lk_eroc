@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,106** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-26 06:30:03*.
+Scraped **131,109** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-26 08:15:51*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/131106*
+*Sample of 10/131109*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,568) PV123495 - **BLUEBERRY RESPRTS**
-* (29,135) PV00287131 - **DILFA PHARMA**
-* (43,702) PV00272175 - **GOOD VIBE'S INVESTMENT**
-* (58,269) PV67381 - **KEDGE INTERNATIONAL AND PUBLICATIONS**
-* (72,837) PV00247053 - **MONGOLIAN STREET RESTAURANTS**
-* (87,404) PV00285086 - **PRINOVA AGENCIES**
-* (101,971) PV90231 - **SEVENT'S INVESTMENTS HOLDINGS**
-* (116,538) PV00284920 - **THE OPTIMIST**
-* (131,106) PV118576 - **ZZAPPIT**
+* (29,136) PV120548 - **DILFAR TEA COMPANY**
+* (43,703) PV113966 - **GOOD VIBES**
+* (58,271) PV67381 - **KEDGE INTERNATIONAL AND PUBLICATIONS**
+* (72,838) PV7683 - **MONGO**
+* (87,406) PV00285086 - **PRINOVA AGENCIES**
+* (101,973) PV116589 - **SEVENSTAR LAGONE**
+* (116,541) PV00284920 - **THE OPTIMIST**
+* (131,109) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **131,106** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-26 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/119210*
+*Sample of 10/119213*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,246) PV00233194 - **BLUE OCEAN INSIGHTS**
-* (26,491) PV00217477 - **DIGITAL SEVEN M**
-* (39,737) PV00224275 - **GOLDEN ENERGY SOLUTION**
-* (52,982) PV00228632 - **KARAPINCHA TREE FAMILY RESTAURANT**
-* (66,228) PV00234751 - **MIYAMO MOTORS**
-* (79,473) PV00201294 - **PRECIOUS BEAUTY BY SLAVI**
-* (92,719) PV63577 - **SHA GLOBAL**
-* (105,964) PV98416 - **THE RIVERBANK**
-* (119,210) PV118576 - **ZZAPPIT**
+* (26,492) PV75835 - **DIGITAL SIGN ADVERTISING SERVICES**
+* (39,738) PV69502 - **GOLDEN ENGINEERING**
+* (52,984) PV75886 - **KARARAGAMA VILLAGE**
+* (66,229) PV00234751 - **MIYAMO MOTORS**
+* (79,475) PV120287 - **PRECIOUS CARE**
+* (92,721) PV00289036 - **SHA EVENTS**
+* (105,967) PV98416 - **THE RIVERBANK**
+* (119,213) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4443*
@@ -59,9 +59,9 @@ Scraped **131,106** Companies ([4.05MB](data/companies.tsv)) as of *2024-03-26 0
 * (494)  - **BLUBOY ENTERTAINMENTS**
 * (988)  - **DHONAAL FURNITURE**
 * (1,481)  - **GIZMO LANKA**
-* (1,975)  - **JSK BROTHERS CONSTRUCTION**
-* (2,468)  - **MOBILE PLANET**
-* (2,962)  - **POWER HANDS AUTO MOBILE**
+* (1,975)  - **JS TRADERS**
+* (2,468)  - **MOA CLOTHING**
+* (2,962)  - **POWER GRID SOLUTIONS**
 * (3,455)  - **SHENEXCO HOLDINGS**
 * (3,949)  - **THE UNIVERSAL VISA CONSULTANT SERVICE**
 * (4,443)  - **ZYNOWIX**
