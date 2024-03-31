@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,417** Companies ([4.06MB](data/companies.tsv)) as of *2024-04-01 00:15:10*.
+Scraped **131,417** Companies ([4.06MB](data/companies.tsv)) as of *2024-04-01 02:15:34*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -11,20 +11,20 @@ Scraped **131,417** Companies ([4.06MB](data/companies.tsv)) as of *2024-04-01 0
 *Sample of 10/131417*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,602) PV116113 - **BLUELINE INTERNATIONAL**
-* (29,204) PV00212071 - **DILINABIZ**
-* (43,806) PV00206480 - **GOPRO CONSULTANCY GROUP**
-* (58,408) PV7606 - **KEERTHI FOOD CITY**
-* (73,009) PV00293911 - **MONOROC**
-* (87,611) PV12880 - **PRINT COLLECTION**
-* (102,213) PV00220299 - **SEVENTH SENSE SERVICES**
+* (14,602) PV91225 - **BLUELINE CEYLON**
+* (29,204) PV00288560 - **DILINA SILVA HOLDINGS**
+* (43,806) GA442 - **GOPIO OF SRI LANKA**
+* (58,408) PV00290718 - **KEERTHI EXPORTS LANKA**
+* (73,009) PV00207248 - **MONORAIL . L K**
+* (87,611) PV106883 - **PRINT CITY LANKA**
+* (102,213) PV00258115 - **SEVENTH SCIENCE HOLDING**
 * (116,815) PV116562 - **THE PEACOCK''S NEST**
 * (131,417) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) GA00293940 - **CENTRE FOR INTERNATIONAL DEVELOPMENT AND INCLUSIVE GOVERNANCE (CIDIG)**
+* (1) PV00293942 - **DEHYGREENS**
 * (112) PV00294178 - **ENDLESS.LK**
 * (223) PV00294447 - **CEYSOW CONSULTANTS**
 * (334) PV00294718 - **VISHWAHARA INSTITUTE OF LANGUAGES AND TECHNOLOGY**
@@ -39,32 +39,32 @@ Scraped **131,417** Companies ([4.06MB](data/companies.tsv)) as of *2024-04-01 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/119475*
+*Sample of 10/119474*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,275) PV67904 - **BLUE RAKERS GUEST AND RESTAURANT**
-* (26,550) PV00207711 - **DIGITAL YODA**
-* (39,825) PV00204269 - **GOLDEN LANKA ESTEEM INTERNATIONAL**
-* (53,100) PV19975 - **KARNI INTERNATIONAL**
-* (66,375) PV92425 - **MIZUUMI SEEDS INTERNATIONAL**
-* (79,650) PV00246509 - **PRECIOUS LABS**
-* (92,925) PV00204596 - **SHA BUSINESS SOLUTION**
-* (106,200) PV00220451 - **THE ROYAL RESTORES**
-* (119,475) PV118576 - **ZZAPPIT**
+* (13,275) PV105391 - **BLUE PLANET TRADE INTERNATIONAL**
+* (26,550) PV00214475 - **DIGITAL WRITERS**
+* (39,825) PV120288 - **GOLDEN LANDS AND HOMES**
+* (53,100) PV73416 - **KARNAK INTERNATIONAL ORGANIZATION**
+* (66,374) PV126103 - **MIZUNO TRADE LINK**
+* (79,649) PV74631 - **PRECIOUS HOLIDAYS**
+* (92,924) PV00245091 - **SHA BEAUTY SECRETS**
+* (106,199) PV00220451 - **THE ROYAL RESTORES**
+* (119,474) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4452*
+*Sample of 10/4453*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (495)  - **BLISS ACADEMY**
 * (990)  - **DHANUKA COORAY MOTOR COMPANY**
-* (1,484)  - **GLAMOROUS GLAM BOUTIQ**
+* (1,485)  - **GLASGOW CABANA**
 * (1,979)  - **JS STORES**
-* (2,473)  - **MODISH INTERNATIONAL**
-* (2,968)  - **POWERTON**
-* (3,462)  - **SHOBIZ MUSIC**
-* (3,957)  - **THREE ONE THREE**
-* (4,452)  - **ZYNOWIX**
+* (2,474)  - **MOHAMED RAHMATH ENTERPRISES**
+* (2,969)  - **PRABHAYUSH PRODUCTION**
+* (3,463)  - **SHOP FEELS**
+* (3,958)  - **THREE ONE THREE**
+* (4,453)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2786*
