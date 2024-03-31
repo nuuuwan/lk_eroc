@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,378** Companies ([4.06MB](data/companies.tsv)) as of *2024-03-31 06:30:23*.
+Scraped **131,380** Companies ([4.06MB](data/companies.tsv)) as of *2024-03-31 08:16:03*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/131378*
+*Sample of 10/131380*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,598) PV91225 - **BLUELINE CEYLON**
-* (29,195) PV00229658 - **DILINA AIR**
-* (43,793) PV18933 - **GOONATILLEKE HOLDINGS**
-* (58,390) PV00241360 - **KEENPICK ENERGY VENTURES**
-* (72,988) PV00224552 - **MONOPOLY PACKAGING**
-* (87,585) PV66345 - **PRINT MAKE**
-* (102,183) PV14730 - **SEVERAL MANPOWER SUPPLIERS**
-* (116,780) PV11660 - **THE PEAK RESIDENCE**
-* (131,378) PV118576 - **ZZAPPIT**
+* (29,196) GA00291250 - **DILINA SILVA FOUNDATION**
+* (43,794) PV00243930 - **GOONAWARDANE  MOTORCYCLE WORKS**
+* (58,391) PV00224538 - **KEENSCHOLAR INSTITUTE**
+* (72,989) PV00207248 - **MONORAIL . L K**
+* (87,587) PV66345 - **PRINT MAKE**
+* (102,184) PV90655 - **SEVER**
+* (116,782) PV11660 - **THE PEAK RESIDENCE**
+* (131,380) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **131,378** Companies ([4.06MB](data/companies.tsv)) as of *2024-03-31 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/119427*
+*Sample of 10/119428*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,270) PV105391 - **BLUE PLANET TRADE INTERNATIONAL**
 * (26,540) PV103064 - **DIGITAL WORLD COLOMBO**
-* (39,809) PV964 - **GOLDEN KEY TRAVELS**
+* (39,810) PV00209562 - **GOLDEN KITCHEN**
 * (53,079) PV00269010 - **KARLAN**
-* (66,348) PV69021 - **MIZUNO LANKA TRADING**
-* (79,618) PV00221868 - **PRECISION MARINE SURVEY LANKA**
-* (92,887) PV15583 - **SHA INVESTMENT**
-* (106,157) PV00208499 - **THE S GALLERY HOTEL**
-* (119,427) PV118576 - **ZZAPPIT**
+* (66,349) PV126103 - **MIZUNO TRADE LINK**
+* (79,619) PV00221868 - **PRECISION MARINE SURVEY LANKA**
+* (92,888) PV15583 - **SHA INVESTMENT**
+* (106,158) PV00208499 - **THE S GALLERY HOTEL**
+* (119,428) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4453*
+*Sample of 10/4454*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (495)  - **BLOCKCHAIN ASSOCIATION OF SRI LANKA**
 * (990)  - **DHANUKA COORAY MOTOR COMPANY**
 * (1,485)  - **GLASGOW CABANA**
-* (1,979)  - **JS STORES**
+* (1,980)  - **JS TRADERS**
 * (2,474)  - **MOBILE PLANET**
-* (2,969)  - **PRABHAYUSH PRODUCTION**
-* (3,463)  - **SHOP FEELS**
-* (3,958)  - **THREE M INFORMATION SYSTEMS**
-* (4,453)  - **ZYNOWIX**
+* (2,969)  - **POWERTON**
+* (3,464)  - **SHOP FEELS**
+* (3,959)  - **THREE M INFORMATION SYSTEMS**
+* (4,454)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2786*
