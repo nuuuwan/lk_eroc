@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,432** Companies ([4.06MB](data/companies.tsv)) as of *2024-04-01 10:15:15*.
+Scraped **131,429** Companies ([4.06MB](data/companies.tsv)) as of *2024-04-01 14:16:19*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/131432*
+*Sample of 10/131429*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,604) PV00254684 - **BLUELINE PETROLEUM**
-* (29,207) PV65607 - **DILINI DRAGON FARM**
-* (43,811) PV105361 - **GORDEN CERAMICS**
-* (58,414) PV69196 - **KEEP ON TRACK ENGINEERING SERVICE SUPPLIES**
-* (73,018) PV00259279 - **MONOLITH HOMES & BATHWARE**
-* (87,621) PV106883 - **PRINT CITY LANKA**
-* (102,225) PV00258115 - **SEVENTH SCIENCE HOLDING**
-* (116,828) PV116562 - **THE PEACOCK'S NEST**
-* (131,432) PV118576 - **ZZAPPIT**
+* (29,207) PV00212071 - **DILINABIZ**
+* (43,810) PV20158 - **GOPSONS LANKA**
+* (58,413) PV15128 - **KEENWIN APPARELS**
+* (73,016) PV80726 - **MONOCLE**
+* (87,619) PV00220729 - **PRINT CITY INTERNATIONAL**
+* (102,222) PV00212517 - **SEVENTH HEAVEN EVENTS**
+* (116,825) PV4304 - **THE PEACE VIEW**
+* (131,429) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,31 +39,31 @@ Scraped **131,432** Companies ([4.06MB](data/companies.tsv)) as of *2024-04-01 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/119487*
+*Sample of 10/119484*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,277) PV00242622 - **BLUE RARE**
-* (26,553) PV66411 - **DIGITALIFE**
-* (39,829) PV61576 - **GOLDEN LANKA TRAVELS**
-* (53,105) PV20313 - **KARMADOR**
-* (66,382) PV126103 - **MIZUNO TRADE LINK**
-* (79,658) PV00246509 - **PRECIOUS LABS**
-* (92,934) PV00245091 - **SHA BEAUTY SECRETS**
-* (106,210) PV00269027 - **THE ROYAL ROSE**
-* (119,487) PV118576 - **ZZAPPIT**
+* (13,276) PV67904 - **BLUE RAKERS GUEST AND RESTAURANT**
+* (26,552) PV00244847 - **DIGITAL ZYNDICATE**
+* (39,828) PV00229168 - **GOLDEN LANKA MARKETING**
+* (53,104) PV00274295 - **KARMA NETWORK**
+* (66,380) PV72495 - **MIZUNO KOUSAN**
+* (79,656) PV00246509 - **PRECIOUS LABS**
+* (92,932) PV00245091 - **SHA BEAUTY SECRETS**
+* (106,208) PV00269027 - **THE ROYAL ROSE**
+* (119,484) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4453*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (495)  - **BLISS ACADEMY**
-* (990)  - **DHANAWARDANA ENTERPRISES**
-* (1,485)  - **GLASGOW CABANA**
-* (1,979)  - **JOVI'S COLLECTION**
-* (2,474)  - **MODEL GROUP INTERNATIONAL**
-* (2,969)  - **POWERTON**
-* (3,463)  - **SHOP FEELS**
-* (3,958)  - **THREE ONE THREE**
+* (990)  - **DGM EXPORTS**
+* (1,485)  - **GLAMOROUS GLAM BOUTIQ**
+* (1,979)  - **JOURNEY EXPERTS**
+* (2,474)  - **MOBILE PLANET**
+* (2,969)  - **POWER HUT**
+* (3,463)  - **SHOBIZ MUSIC**
+* (3,958)  - **THREE MINI TRADING**
 * (4,453)  - **ZYNOWIX**
 
 ### "PB"
