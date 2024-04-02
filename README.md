@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,562** Companies ([4.06MB](data/companies.tsv)) as of *2024-04-02 14:15:27*.
+Scraped **131,563** Companies ([4.06MB](data/companies.tsv)) as of *2024-04-02 18:21:44*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/131562*
+*Sample of 10/131563*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,618) PV105472 - **BLUENILE TRAVELS & TOURS**
-* (29,236) PV00213268 - **DILIGENCE LANKA**
-* (43,854) PV101587 - **GORALINE IMPEX**
-* (58,472) PV84951 - **KEERTHI MUNASINGHE AND SONS**
-* (73,090) PV101028 - **MONTE ZITA RESTAURANTS**
-* (87,708) PB793 - **PRINTCARE PREMEDIA SERVICES**
-* (102,326) PV95230 - **SEWIN LANKA HOLDINGS**
-* (116,944)  - **THE PARTS ZONE**
-* (131,562) PV118576 - **ZZAPPIT**
+* (14,619) PV00231241 - **BLUEPEAK**
+* (29,237) PV00247359 - **DILIGENCE-HEALPHA LANKA**
+* (43,855) PV105361 - **GORDEN CERAMICS**
+* (58,473) PV15470 - **KEERTHI STORES**
+* (73,091) PV00213996 - **MONTEC INTERNATIONAL HOLDINGS**
+* (87,709) PV109984 - **PRINTCOM ADVERTISING**
+* (102,327) PV1409 - **SEWING SOLUTIONS**
+* (116,945) PV00209373 - **THE PASTA FACTORY**
+* (131,563) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **131,562** Companies ([4.06MB](data/companies.tsv)) as of *2024-04-02 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/119636*
+*Sample of 10/119637*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,293) PV125586 - **BLUE RIDGE LANKA**
 * (26,586) PV00212404 - **DIGITAL SPHERE**
 * (39,879) PV121843 - **GOLDEN LAND ENGINEERING**
 * (53,172) PV79490 - **KAROODA ENTERTAINMENT**
-* (66,464) PV00258973 - **MLB GARMENT**
-* (79,757) PV75758 - **PREMA THIRUCHCHELVAM TRANSPORT**
-* (93,050) PV00277593 - **SHAAZNAM IMPORT & EXPORT**
-* (106,343) PV126665 - **THE RUHUNU FOODS CENTER**
-* (119,636) PV118576 - **ZZAPPIT**
+* (66,465) PV00205750 - **MLENCA EXPORTS**
+* (79,758) PV4946 - **PREMACHANDRA PLANTATIONS**
+* (93,051) PV96059 - **SHAAZO LANKA**
+* (106,344) PV00283721 - **THE RUSSIAN SCHOOL OF BALLET & DANCING**
+* (119,637) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4437*
