@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,605** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 02:15:08*.
+Scraped **131,604** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 04:15:16*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/131605*
+*Sample of 10/131604*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,623) PV130508 - **BLUESTONE 1**
 * (29,246) PV00210654 - **DILINI INTERNATIONAL TRADING**
-* (43,869) PV122750 - **GOSEN CAPITAL**
+* (43,868) PV127156 - **GOSANKE**
 * (58,491) PV102813 - **KEGALLE FILLING  STATIONS**
-* (73,114) PV85030 - **MOODSWINGS**
-* (87,737) PV85401 - **PRINTKINGLANKA**
-* (102,359) PV62045 - **SEXTUS EXPORT AND IMPORT**
-* (116,982)  - **THE PATH SOLUTIONS**
-* (131,605) PV118576 - **ZZAPPIT**
+* (73,113) PV00287313 - **MOODLE**
+* (87,736) PB1014 - **PRINTING SOLUTIONS**
+* (102,358) PV00266198 - **SEWWANDI FOOD PRODUCTS**
+* (116,981) PV00209373 - **THE PASTA FACTORY**
+* (131,604) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,35 +39,35 @@ Scraped **131,605** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/119655*
+*Sample of 10/119657*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,295) PV00217970 - **BLUE SKY COMMODITIES**
-* (26,590) PV00279300 - **DIGITAL WEIGHING AND AUTOMATION SOLUTIONS**
-* (39,885) PV00270109 - **GOLDEN MAID SUPER MARKET**
-* (53,180) PV00266610 - **KARUNA ELDER CARE CENTER**
-* (66,475) PV110458 - **MMEER**
-* (79,770) PV00245479 - **PREMADASAS ASSET MANAGEMENT & INVESTMENT**
-* (93,065) PV68613 - **SHAD SOLUTIONS**
-* (106,360) PV12342 - **THE S SPOT COMPUTERS**
-* (119,655) PV118576 - **ZZAPPIT**
+* (13,296) PV00246644 - **BLUE SKY CONSTRUCTION AND ENGINEERING**
+* (26,591) PV346 - **DIGITAL WEIGHING EQUIPMENT**
+* (39,886) PV00269001 - **GOLDEN MANGO RESTAURANT**
+* (53,181) PV13039 - **KARUNA JAYAWARDENE AND SONS**
+* (66,476) PV110477 - **MMEER LANKA**
+* (79,771) PV2735 - **PREMADASAS GEMS AND JEWELLERY**
+* (93,066) PV00268845 - **SHADAZRA GLOBAL INTERNATIONAL**
+* (106,361) PV73412 - **THE S.G. FASHION**
+* (119,657) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4461*
+*Sample of 10/4458*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (496)  - **BLISSFUL VENTURES**
-* (992)  - **DIGITAL LIGHTING SOLUTION**
-* (1,487)  - **GLOBAL FUTURE INVESTMENTS**
-* (1,983)  - **JSM LEISURE HOLDING**
-* (2,478)  - **MOMO LEISURE**
-* (2,974)  - **PRANIQ**
-* (3,469)  - **SHRAMA MUTHU**
-* (3,965)  - **THRITH RESORT**
-* (4,461)  - **ZYNOWIX**
+* (991)  - **DIGITAL BRIDGE COMPANY**
+* (1,486)  - **GLOBAL FORCE MART**
+* (1,981)  - **JS TRADERS**
+* (2,477)  - **MOKSHA AYURVEDA HEALTHCARE**
+* (2,972)  - **PRABODYA ENTERPRISES**
+* (3,467)  - **SHOW MONEY LANKA**
+* (3,962)  - **THREE ORBIT CONSULTANCY**
+* (4,458)  - **ZYNOWIX**
 
 ### "PB"
-*Sample of 10/2783*
+*Sample of 10/2782*
 ![data/word_clouds/word_cloud_PB.png](data/word_clouds/word_cloud_PB.png)
 * (1) PB5111 - **A ONE TOP TRADING**
 * (310) PB508 - **CHILAW FINANCE**
@@ -78,7 +78,7 @@ Scraped **131,605** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 0
 * (1,855) PB4696 - **SEEMASAHITHA DIANAWATTA GAMANEGUMA JANATHA SAMAGAMA**
 * (2,164) PB3901 - **SEEMASAHITHA NEDOLA GAMANGEGUMA JANATHA SAMAGAMA**
 * (2,473) PB5032 - **SEVEN SEAS GLOBAL TRADING**
-* (2,783) PB118 - **ZYREX POWER COMPANY**
+* (2,782) PB118 - **ZYREX POWER COMPANY**
 
 ### "GA"
 *Sample of 10/2340*
@@ -151,18 +151,18 @@ Scraped **131,605** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 0
 * (205) F6 - **YORKSHIRE INSURANCE CO LTC CEASED 1/11/70**
 
 ### "PQ"
-*Sample of 10/149*
+*Sample of 10/150*
 ![data/word_clouds/word_cloud_PQ.png](data/word_clouds/word_cloud_PQ.png)
 * (1) PQ188 - **ABANS ELECTRICALS**
 * (17) PQ00252285 - **CAPITAL ALLIANCE**
-* (33) PQ90 - **CITY HOUSING AND REAL ESTATE COMPANY**
+* (34) PQ71 - **COLOMBO CITY HOLDINGS**
 * (50) PQ199 - **EDEN HOTEL LANKA**
-* (66) PQ6 - **HEMAS HOLDINGS**
+* (67) PQ81 - **HOTEL SIGIRYA**
 * (83) PQ168 - **LANKA ASHOK LEYLAND**
-* (99) PQ177 - **MULLER & PHIPPS (CEYLON)**
+* (100) PQ136 - **NAMUNUKULA PLANTATIONS**
 * (116) PQ42 - **RUBBER INVESTMENT**
-* (132) PQ84 - **THE AUTODROME**
-* (149) PQ00234079 - **WINDFORCE**
+* (133) PQ172 - **THE COLOMBO FORT LAND AND BUILDING**
+* (150) PQ181 - **YORK ARCADE HOLDINGS**
 
 ### "PBPV"
 *Sample of 10/80*
