@@ -2,37 +2,37 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,614** Companies ([4.20MB](data\companies.tsv)) as of *2024-04-04 10:37:49*.
+Scraped **131,617** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-04 12:15:03*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/131614*
-![data\word_clouds\word_cloud_all.png](data\word_clouds\word_cloud_all.png)
+*Sample of 10/131617*
+![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,624) PV943 - **BLUETEX**
-* (29,248)  - **DILIP CREATION**
-* (43,872) PV128373 - **GOSONIC LANKA**
-* (58,495) PV16412 - **KEERTHIWARDENE PROPERTY SALES**
-* (73,119) PV00230605 - **MONTREAL INSTITUTE**
-* (87,743) PV63386 - **PRINTEC ESTABLISHMENT**
-* (102,366) PV116926 - **SEWMINI RICE PRODUCT**
-* (116,990)  - **THE PARTS ZONE**
-* (131,614) PV118576 - **ZZAPPIT**
+* (14,625) PV00238884 - **BLUETEC HOLDING**
+* (29,249)  - **DILIP CREATION**
+* (43,873) PV128373 - **GOSONIC LANKA**
+* (58,497) PV00273777 - **KEERTHY STAR**
+* (73,121) PV128008 - **MONTRELA CONSULTANTS**
+* (87,745) PV89329 - **PRINTEC LANKA**
+* (102,369) PV116926 - **SEWMINI RICE PRODUCT**
+* (116,993)  - **THE PARTS ZONE**
+* (131,617) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
-![data\word_clouds\word_cloud_latest.png](data\word_clouds\word_cloud_latest.png)
-* (1) PV00294249 - **CONSERVE TECH**
-* (112) PV00294493 - **YARL CREATORS**
-* (223) PV00294757 - **NEURA SCRIPTS SOLUTIONS**
-* (334) PV00295085 - **RENA HARDWARE**
-* (445) PV00295453 - **GARG TRAVEL LANKA**
-* (556) PV00295804 - **DFORTY**
-* (667) PV00296181 - **SY NIRO**
-* (778) PV00296640 - **DILAAN SUPER MARKET**
-* (889) PV00297158 - **TARGET EXPORT**
+![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
+* (1) PV00294254 - **SAJITH AUTOMATION**
+* (112) PV00294495 - **SYNCSHARE COWORKING**
+* (223) PV00294760 - **RAHAN PACKAGING**
+* (334) PV00295094 - **DANSHA ENTERPRISES**
+* (445) PV00295455 - **MAIDSTONE RENEWABLES**
+* (556) PV00295819 - **THREE TIPS ELLA**
+* (667) PV00296190 - **DELICIA CAFE FLOWER ROAD**
+* (778) PV00296645 - **CYBERSPACE SOLUTIONS**
+* (889) PV00297171 - **KRATOS INVESTMENTS**
 * (1,000) PV00298263 - **IN THE MOMENT**
 
 
@@ -40,49 +40,49 @@ Scraped **131,614** Companies ([4.20MB](data\companies.tsv)) as of *2024-04-04 1
 
 ### "PV"
 *Sample of 10/119679*
-![data\word_clouds\word_cloud_PV.png](data\word_clouds\word_cloud_PV.png)
+![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,298) PV00274006 - **BLUE SKY LANKA  HOLDINGS**
-* (26,596) PV00207711 - **DIGITAL YODA**
-* (39,893) PV00254358 - **GOLDEN MAPLE MEDIA**
-* (53,191) PV128487 - **KAROSH LANKA**
-* (66,488) PV00264618 - **MM EXPRESS**
-* (79,786) PV79923 - **PREMADASA FINE ART GALLERY**
+* (13,298) PV00251639 - **BLUE SKY INVESTMENTS**
+* (26,596) PV00244847 - **DIGITAL ZYNDICATE**
+* (39,893) PV00278210 - **GOLDEN MARKETING**
+* (53,191) PV114713 - **KARPOS CONSULTANTS**
+* (66,488) PV00284444 - **MM INTERNATIONAL TRADING**
+* (79,786) PV19807 - **PREMADASA OFF-SET PLATE MAKERS**
 * (93,083) PV00277145 - **SHABIK MOTORS**
 * (106,381) PV00283721 - **THE RUSSIAN SCHOOL OF BALLET & DANCING**
 * (119,679) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4446*
-![data\word_clouds\word_cloud_.png](data\word_clouds\word_cloud_.png)
+![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (494)  - **BLISSFUL VENTURES**
-* (988)  - **DIGIBRANDING INTERNATIONAL**
-* (1,482)  - **GLOBAL GATEWAY CAMPUS**
-* (1,976)  - **JSM LEISURE HOLDING**
-* (2,470)  - **MOKSHA AYURVEDA HEALTHCARE**
-* (2,964)  - **PRABUDDI CERTIFICATIONS**
-* (3,458)  - **SHRAMA MUTHU**
-* (3,952)  - **THRISHIRA HOLDINGS**
+* (494)  - **BLISS ACADEMY**
+* (988)  - **DICKYAYA GREEN ENERGY COMPANY**
+* (1,482)  - **GLOBAL GATEWAY**
+* (1,976)  - **JSK BROTHERS CONSTRUCTION**
+* (2,470)  - **MOI HOTELS**
+* (2,964)  - **PRABODYA ENTERPRISES**
+* (3,458)  - **SHOPON.LK**
+* (3,952)  - **THREE SN ENTERPRISES**
 * (4,446)  - **ZYNOWIX**
 
 ### "PB"
-*Sample of 10/2782*
-![data\word_clouds\word_cloud_PB.png](data\word_clouds\word_cloud_PB.png)
+*Sample of 10/2785*
+![data/word_clouds/word_cloud_PB.png](data/word_clouds/word_cloud_PB.png)
 * (1) PB5111 - **A ONE TOP TRADING**
 * (310) PB508 - **CHILAW FINANCE**
-* (619) PB674 - **HOTELS COLOMBO (1963)**
-* (928) PB4999 - **NATION LANKA PROMOTIONS**
-* (1,237) PB3204 - **SEEMASAHITHA (JANATHA) BATHALAYAYA GAMIDIRIYA SAMAGAMA**
-* (1,546) PB1529 - **SEEMASAHITHA (JANATHA) NIHILUWA NEGENAHIRA GAMIDIRIYA SAMGAMA (NEPV719)**
-* (1,855) PB4696 - **SEEMASAHITHA DIANAWATTA GAMANEGUMA JANATHA SAMAGAMA**
-* (2,164) PB3901 - **SEEMASAHITHA NEDOLA GAMANGEGUMA JANATHA SAMAGAMA**
-* (2,473) PB5032 - **SEVEN SEAS GLOBAL TRADING**
-* (2,782) PB118 - **ZYREX POWER COMPANY**
+* (619) PB4790 - **HOTELROOMNET**
+* (929) PB4999 - **NATION LANKA PROMOTIONS**
+* (1,238) PB3204 - **SEEMASAHITHA (JANATHA) BATHALAYAYA GAMIDIRIYA SAMAGAMA**
+* (1,547) PB1529 - **SEEMASAHITHA (JANATHA) NIHILUWA NEGENAHIRA GAMIDIRIYA SAMGAMA (NEPV719)**
+* (1,857) PB4743 - **SEEMASAHITHA DIGGALPURA YAYA HAYA GAMANEGUMA JANATHA SAMAGAMA**
+* (2,166) PB4101 - **SEEMASAHITHA NEGENAHIRA MAHAWEWA GAMANEGUMA JANATHA SAMAGAMA**
+* (2,475) PB5032 - **SEVEN SEAS GLOBAL TRADING**
+* (2,785) PB118 - **ZYREX POWER COMPANY**
 
 ### "GA"
 *Sample of 10/2342*
-![data\word_clouds\word_cloud_GA.png](data\word_clouds\word_cloud_GA.png)
+![data/word_clouds/word_cloud_GA.png](data/word_clouds/word_cloud_GA.png)
 * (1) GA00213478 - **A QUINT ONDAATJE FOUNDATION**
 * (261) GA00224335 - **BODHI CHATHUPARISA TAMBAPANNIDEEPA**
 * (521) GA659 - **DABINDU COLLECTIVE**
@@ -96,7 +96,7 @@ Scraped **131,614** Companies ([4.20MB](data\companies.tsv)) as of *2024-04-04 1
 
 ### "GL"
 *Sample of 10/808*
-![data\word_clouds\word_cloud_GL.png](data\word_clouds\word_cloud_GL.png)
+![data/word_clouds/word_cloud_GL.png](data/word_clouds/word_cloud_GL.png)
 * (1) GL00223389 - **A LITTLE  FOUNDATION**
 * (90) GL39 - **BOAT BUILDING TECHNOLOGY IMPROVEMENT INSTITUTE LANKA**
 * (180) GL00216223 - **DON BOSCO SERVICES OF EMPOWERMENT**
@@ -110,7 +110,7 @@ Scraped **131,614** Companies ([4.20MB](data\companies.tsv)) as of *2024-04-04 1
 
 ### "NF"
 *Sample of 10/503*
-![data\word_clouds\word_cloud_NF.png](data\word_clouds\word_cloud_NF.png)
+![data/word_clouds/word_cloud_NF.png](data/word_clouds/word_cloud_NF.png)
 * (1) NF137 - **AB FINLANKA**
 * (56) NF206 - **BRILLIANT VALLEY**
 * (112) NF637 - **EDEXCEL**
@@ -124,7 +124,7 @@ Scraped **131,614** Companies ([4.20MB](data\companies.tsv)) as of *2024-04-04 1
 
 ### "FC"
 *Sample of 10/365*
-![data\word_clouds\word_cloud_FC.png](data\word_clouds\word_cloud_FC.png)
+![data/word_clouds/word_cloud_FC.png](data/word_clouds/word_cloud_FC.png)
 * (1) FC00251549 - **AA JAPAN (PVT) LTD**
 * (41) FC1044 - **BIS VAM ANLAGENTECHNIK GMBH**
 * (81) FC1253 - **CONTROL PRINT**
@@ -138,7 +138,7 @@ Scraped **131,614** Companies ([4.20MB](data\companies.tsv)) as of *2024-04-04 1
 
 ### "F"
 *Sample of 10/205*
-![data\word_clouds\word_cloud_F.png](data\word_clouds\word_cloud_F.png)
+![data/word_clouds/word_cloud_F.png](data/word_clouds/word_cloud_F.png)
 * (1) F234 - **ALCO INSURANCE COMPANY**
 * (23) F81 - **BOLNPRI FINE INS CO.**
 * (46) F380 - **DUBAI BANK**
@@ -152,7 +152,7 @@ Scraped **131,614** Companies ([4.20MB](data\companies.tsv)) as of *2024-04-04 1
 
 ### "PQ"
 *Sample of 10/149*
-![data\word_clouds\word_cloud_PQ.png](data\word_clouds\word_cloud_PQ.png)
+![data/word_clouds/word_cloud_PQ.png](data/word_clouds/word_cloud_PQ.png)
 * (1) PQ188 - **ABANS ELECTRICALS**
 * (17) PQ00252285 - **CAPITAL ALLIANCE**
 * (33) PQ90 - **CITY HOUSING AND REAL ESTATE COMPANY**
@@ -166,7 +166,7 @@ Scraped **131,614** Companies ([4.20MB](data\companies.tsv)) as of *2024-04-04 1
 
 ### "PBPV"
 *Sample of 10/80*
-![data\word_clouds\word_cloud_PBPV.png](data\word_clouds\word_cloud_PBPV.png)
+![data/word_clouds/word_cloud_PBPV.png](data/word_clouds/word_cloud_PBPV.png)
 * (1) PB1296PV - **A BAUR AND COMPANY  TRAVEL**
 * (9) PB162PV - **ASSETLINE INSURANCE BROKERS**
 * (18) PB30PV - **DAVID PIERIS AUTOMOBILES**
@@ -180,7 +180,7 @@ Scraped **131,614** Companies ([4.20MB](data\companies.tsv)) as of *2024-04-04 1
 
 ### "PCC"
 *Sample of 10/47*
-![data\word_clouds\word_cloud_PCC.png](data\word_clouds\word_cloud_PCC.png)
+![data/word_clouds/word_cloud_PCC.png](data/word_clouds/word_cloud_PCC.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (6) PCC00295416 - **BISTEC SOLUTIONS (PVT) LTD.**
 * (11) PCC00290488 - **CHINA HARBOUR ENGINEERING COMPANY (LANKA) LIMITED.**
@@ -194,7 +194,7 @@ Scraped **131,614** Companies ([4.20MB](data\companies.tsv)) as of *2024-04-04 1
 
 ### "PVPB"
 *Sample of 10/46*
-![data\word_clouds\word_cloud_PVPB.png](data\word_clouds\word_cloud_PVPB.png)
+![data/word_clouds/word_cloud_PVPB.png](data/word_clouds/word_cloud_PVPB.png)
 * (1) PV4158PB - **ADAM CARBONS**
 * (6) PV77699PB - **BUTANI CAPITAL**
 * (11) PV6857PB - **CEYLON LEATHER PRODUCTS MANUFACTURERS**
@@ -208,7 +208,7 @@ Scraped **131,614** Companies ([4.20MB](data\companies.tsv)) as of *2024-04-04 1
 
 ### "PBG"
 *Sample of 10/45*
-![data\word_clouds\word_cloud_PBG.png](data\word_clouds\word_cloud_PBG.png)
+![data/word_clouds/word_cloud_PBG.png](data/word_clouds/word_cloud_PBG.png)
 * (1) PBG45 - **ACCOUNTANCY ASSOSICATES**
 * (5) PBG28 - **BLUE DIAMOND SPORTSMEN**
 * (10) PBG8 - **COLOMBO MEDICAL SCHEMES**
@@ -222,7 +222,7 @@ Scraped **131,614** Companies ([4.20MB](data\companies.tsv)) as of *2024-04-04 1
 
 ### "PBPQ"
 *Sample of 10/40*
-![data\word_clouds\word_cloud_PBPQ.png](data\word_clouds\word_cloud_PBPQ.png)
+![data/word_clouds/word_cloud_PBPQ.png](data/word_clouds/word_cloud_PBPQ.png)
 * (1) PB200PQ - **ACCESS ENGINEERING**
 * (5) PB1090PQ - **AMBEON CAPITAL**
 * (9) PB3259PQ - **BIMPUTH FINANCE**
