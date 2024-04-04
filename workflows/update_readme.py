@@ -1,6 +1,6 @@
 import os
 
-from utils import TIME_FORMAT_TIME, File, Log, Time, TSVFile
+from utils import TimeFormat, File, Log, Time, TSVFile
 
 from lk_eroc import Company, WordCloud
 from workflows.aggregate import ALL_PATH
@@ -27,7 +27,7 @@ def summary_lines(company_list: list[Company]) -> list[str]:
     n_companies = len(company_list)
     file_size = os.path.getsize(ALL_PATH)
     file_size_m = file_size / 1_000_000
-    time_str = TIME_FORMAT_TIME.stringify(Time.now())
+    time_str = TimeFormat.TIME.formatNow
     return [
         f'Scraped **{n_companies:,}** Companies '
         + f'([{file_size_m:.2f}MB]({ALL_PATH})) as of *{time_str}*.',

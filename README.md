@@ -2,14 +2,14 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 20:14:59*.
+Scraped **131,614** Companies ([4.20MB](data\companies.tsv)) as of *2024-04-04 10:37:49*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
 *Sample of 10/131614*
-![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
+![data\word_clouds\word_cloud_all.png](data\word_clouds\word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,624) PV943 - **BLUETEX**
 * (29,248)  - **DILIP CREATION**
@@ -23,7 +23,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
-![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
+![data\word_clouds\word_cloud_latest.png](data\word_clouds\word_cloud_latest.png)
 * (1) PV00294249 - **CONSERVE TECH**
 * (112) PV00294493 - **YARL CREATORS**
 * (223) PV00294757 - **NEURA SCRIPTS SOLUTIONS**
@@ -40,7 +40,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### "PV"
 *Sample of 10/119679*
-![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
+![data\word_clouds\word_cloud_PV.png](data\word_clouds\word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,298) PV00274006 - **BLUE SKY LANKA  HOLDINGS**
 * (26,596) PV00207711 - **DIGITAL YODA**
@@ -54,7 +54,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### ""
 *Sample of 10/4446*
-![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
+![data\word_clouds\word_cloud_.png](data\word_clouds\word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (494)  - **BLISSFUL VENTURES**
 * (988)  - **DIGIBRANDING INTERNATIONAL**
@@ -68,7 +68,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### "PB"
 *Sample of 10/2782*
-![data/word_clouds/word_cloud_PB.png](data/word_clouds/word_cloud_PB.png)
+![data\word_clouds\word_cloud_PB.png](data\word_clouds\word_cloud_PB.png)
 * (1) PB5111 - **A ONE TOP TRADING**
 * (310) PB508 - **CHILAW FINANCE**
 * (619) PB674 - **HOTELS COLOMBO (1963)**
@@ -82,7 +82,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### "GA"
 *Sample of 10/2342*
-![data/word_clouds/word_cloud_GA.png](data/word_clouds/word_cloud_GA.png)
+![data\word_clouds\word_cloud_GA.png](data\word_clouds\word_cloud_GA.png)
 * (1) GA00213478 - **A QUINT ONDAATJE FOUNDATION**
 * (261) GA00224335 - **BODHI CHATHUPARISA TAMBAPANNIDEEPA**
 * (521) GA659 - **DABINDU COLLECTIVE**
@@ -96,7 +96,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### "GL"
 *Sample of 10/808*
-![data/word_clouds/word_cloud_GL.png](data/word_clouds/word_cloud_GL.png)
+![data\word_clouds\word_cloud_GL.png](data\word_clouds\word_cloud_GL.png)
 * (1) GL00223389 - **A LITTLE  FOUNDATION**
 * (90) GL39 - **BOAT BUILDING TECHNOLOGY IMPROVEMENT INSTITUTE LANKA**
 * (180) GL00216223 - **DON BOSCO SERVICES OF EMPOWERMENT**
@@ -110,7 +110,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### "NF"
 *Sample of 10/503*
-![data/word_clouds/word_cloud_NF.png](data/word_clouds/word_cloud_NF.png)
+![data\word_clouds\word_cloud_NF.png](data\word_clouds\word_cloud_NF.png)
 * (1) NF137 - **AB FINLANKA**
 * (56) NF206 - **BRILLIANT VALLEY**
 * (112) NF637 - **EDEXCEL**
@@ -124,7 +124,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### "FC"
 *Sample of 10/365*
-![data/word_clouds/word_cloud_FC.png](data/word_clouds/word_cloud_FC.png)
+![data\word_clouds\word_cloud_FC.png](data\word_clouds\word_cloud_FC.png)
 * (1) FC00251549 - **AA JAPAN (PVT) LTD**
 * (41) FC1044 - **BIS VAM ANLAGENTECHNIK GMBH**
 * (81) FC1253 - **CONTROL PRINT**
@@ -138,7 +138,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### "F"
 *Sample of 10/205*
-![data/word_clouds/word_cloud_F.png](data/word_clouds/word_cloud_F.png)
+![data\word_clouds\word_cloud_F.png](data\word_clouds\word_cloud_F.png)
 * (1) F234 - **ALCO INSURANCE COMPANY**
 * (23) F81 - **BOLNPRI FINE INS CO.**
 * (46) F380 - **DUBAI BANK**
@@ -152,7 +152,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### "PQ"
 *Sample of 10/149*
-![data/word_clouds/word_cloud_PQ.png](data/word_clouds/word_cloud_PQ.png)
+![data\word_clouds\word_cloud_PQ.png](data\word_clouds\word_cloud_PQ.png)
 * (1) PQ188 - **ABANS ELECTRICALS**
 * (17) PQ00252285 - **CAPITAL ALLIANCE**
 * (33) PQ90 - **CITY HOUSING AND REAL ESTATE COMPANY**
@@ -166,7 +166,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### "PBPV"
 *Sample of 10/80*
-![data/word_clouds/word_cloud_PBPV.png](data/word_clouds/word_cloud_PBPV.png)
+![data\word_clouds\word_cloud_PBPV.png](data\word_clouds\word_cloud_PBPV.png)
 * (1) PB1296PV - **A BAUR AND COMPANY  TRAVEL**
 * (9) PB162PV - **ASSETLINE INSURANCE BROKERS**
 * (18) PB30PV - **DAVID PIERIS AUTOMOBILES**
@@ -180,7 +180,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### "PCC"
 *Sample of 10/47*
-![data/word_clouds/word_cloud_PCC.png](data/word_clouds/word_cloud_PCC.png)
+![data\word_clouds\word_cloud_PCC.png](data\word_clouds\word_cloud_PCC.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (6) PCC00295416 - **BISTEC SOLUTIONS (PVT) LTD.**
 * (11) PCC00290488 - **CHINA HARBOUR ENGINEERING COMPANY (LANKA) LIMITED.**
@@ -194,7 +194,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### "PVPB"
 *Sample of 10/46*
-![data/word_clouds/word_cloud_PVPB.png](data/word_clouds/word_cloud_PVPB.png)
+![data\word_clouds\word_cloud_PVPB.png](data\word_clouds\word_cloud_PVPB.png)
 * (1) PV4158PB - **ADAM CARBONS**
 * (6) PV77699PB - **BUTANI CAPITAL**
 * (11) PV6857PB - **CEYLON LEATHER PRODUCTS MANUFACTURERS**
@@ -208,7 +208,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### "PBG"
 *Sample of 10/45*
-![data/word_clouds/word_cloud_PBG.png](data/word_clouds/word_cloud_PBG.png)
+![data\word_clouds\word_cloud_PBG.png](data\word_clouds\word_cloud_PBG.png)
 * (1) PBG45 - **ACCOUNTANCY ASSOSICATES**
 * (5) PBG28 - **BLUE DIAMOND SPORTSMEN**
 * (10) PBG8 - **COLOMBO MEDICAL SCHEMES**
@@ -222,7 +222,7 @@ Scraped **131,614** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-03 2
 
 ### "PBPQ"
 *Sample of 10/40*
-![data/word_clouds/word_cloud_PBPQ.png](data/word_clouds/word_cloud_PBPQ.png)
+![data\word_clouds\word_cloud_PBPQ.png](data\word_clouds\word_cloud_PBPQ.png)
 * (1) PB200PQ - **ACCESS ENGINEERING**
 * (5) PB1090PQ - **AMBEON CAPITAL**
 * (9) PB3259PQ - **BIMPUTH FINANCE**

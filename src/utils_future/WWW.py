@@ -3,7 +3,7 @@ import os
 import tempfile
 
 import requests
-from utils import JSONFile, Log, hashx
+from utils import JSONFile, Log, Hash
 
 TIMEOUT = 30
 
@@ -22,7 +22,7 @@ class WWW:
         return content
 
     def post(self, data=None):
-        h = hashx.md5(json.dumps(dict(url=self.url, data=data)))
+        h = Hash.md5(json.dumps(dict(url=self.url, data=data)))
         DIR_CACHE = os.path.join(tempfile.gettempdir(), 'utils.www.cache')
         if not os.path.exists(DIR_CACHE):
             os.makedirs(DIR_CACHE)
