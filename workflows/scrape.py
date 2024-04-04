@@ -3,7 +3,7 @@ import os
 import random
 import time
 
-from utils import SECONDS_IN, Log
+from utils import TimeUnit, Log
 
 from lk_eroc import Company
 
@@ -13,7 +13,7 @@ SPACE = ' '
 SPACE_REPLACE = '_' * 2
 RESERVED_WORD_SUFFIX = '_'
 ALPHA = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-MAX_SCRAPE_TIME = SECONDS_IN.MINUTE * 10
+MAX_SCRAPE_TIME = TimeUnit.SECONDS_IN.MINUTE * 10
 ILLEGAL_FILE_PREFIXES = ['AUX', 'CON', 'PRN', 'NUL']
 
 
