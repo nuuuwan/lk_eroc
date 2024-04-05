@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,610** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-05 06:30:19*.
+Scraped **131,629** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-05 08:15:28*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/131610*
+*Sample of 10/131629*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,624) PV00237404 - **BLUETEAC ENGINEERING**
-* (29,247) PV00229658 - **DILINA AIR**
-* (43,870) PV115727 - **GORGEOUS SALONS**
-* (58,493) PV00290718 - **KEERTHI EXPORTS LANKA**
-* (73,117) PV98614 - **MONTE ZITA LANKA**
-* (87,740) PV65356 - **PRINT XCEL**
-* (102,363) PV60682 - **SEWANIMA DISTRIBUTORS**
-* (116,986) PV00220224 - **THE PALM BEACH RESORT**
-* (131,610) PV118576 - **ZZAPPIT**
+* (14,626) PV96153 - **BLUESTAR ENGINEERING**
+* (29,251) PV00258327 - **DILI'S EDU TOYS**
+* (43,877) PV15758 - **GORDEN TEA COMPANY**
+* (58,502) PV00224538 - **KEENSCHOLAR INSTITUTE**
+* (73,127) PV75817 - **MONSTER WEAR**
+* (87,753) PV6926 - **PRINT STYLES**
+* (102,378) PV00252847 - **SEWANA HOMES**
+* (117,003) PV00206009 - **THE PAINTBALL ADVENTURES**
+* (131,629) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **131,610** Companies ([4.07MB](data/companies.tsv)) as of *2024-04-05 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/119677*
+*Sample of 10/119688*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,298) PV63343 - **BLUE SKY HOLDINGS**
-* (26,595) PV00279300 - **DIGITAL WEIGHING AND AUTOMATION SOLUTIONS**
-* (39,893) PV6638 - **GOLDEN LION**
-* (53,190) PV80690 - **KAROODA BARS CLUBS**
-* (66,487) PV00205750 - **MLENCA EXPORTS**
-* (79,785) PV112721 - **PREM LANKA GENERAL TRADERS**
-* (93,082) PV118971 - **SHAAM SERANDIB EXPORTERS**
-* (106,379) PV122676 - **THE ROYAL INSTITUTE OF COLOMBO CAMPUS**
-* (119,677) PV118576 - **ZZAPPIT**
+* (13,299) PV97801 - **BLUE SKY HOMES**
+* (26,598) PV99754 - **DIGITAL TECHNOLOGY SOLUTIONS LANKA**
+* (39,896) PV00229168 - **GOLDEN LANKA MARKETING**
+* (53,195) PV71809 - **KARN**
+* (66,493) PV00293297 - **MKS CEYLON FOODS**
+* (79,792) PV66047 - **PREISTINE ENTERPRISES CONSULTING**
+* (93,090) PV00279979 - **SHAAKO AUTO WHEELS**
+* (106,389) PV3993 - **THE ROYAL HERITAGE HOTEL**
+* (119,688) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4442*
+*Sample of 10/4450*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (494)  - **BLOOMEN**
-* (987)  - **DIANA GLOBAL**
-* (1,481)  - **GLOBAL FORCE MART**
-* (1,974)  - **JS STORES**
-* (2,468)  - **MOHAMED RAHMATH ENTERPRISES**
-* (2,961)  - **POWER GRID SOLUTIONS**
-* (3,455)  - **SHIVA PARTNERS**
-* (3,948)  - **THREE COINS**
-* (4,442)  - **ZYNOWIX**
+* (495)  - **BLAZE GUARD FIRE ENGINEERING**
+* (989)  - **DHANUKA COORAY MOTOR COMPANY**
+* (1,484)  - **GLOBAL CONVERSIONS**
+* (1,978)  - **JOVI'S COLLECTION**
+* (2,472)  - **MOBILE PLANET**
+* (2,967)  - **POSH WASH LAUNDERETTE**
+* (3,461)  - **SHIMAKRA INDUSTRIES**
+* (3,955)  - **THOUGHT XP**
+* (4,450)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2789*
