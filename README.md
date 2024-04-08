@@ -2,32 +2,32 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,896** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-09 00:16:28*.
+Scraped **131,900** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-09 02:15:07*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/131896*
+*Sample of 10/131900*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,656) PV70694 - **BLUEDGE SOLUTIONS**
 * (29,311) PV109071 - **DILARO WOOD CARVING**
-* (43,966) PV00226034 - **GOODNESS MARKETING**
-* (58,621) PV00228958 - **KEEN ENGINEERING**
-* (73,276) PV76871 - **MONTICARLO WINE STORSE**
-* (87,931) PV00219453 - **PRINTCARE DIGITAL SOLUTIONS**
-* (102,586) PV00281500 - **SEYANSA PHARMACY**
-* (117,241) PV00263741 - **THE PRIME FOCUS**
-* (131,896) PV118576 - **ZZAPPIT**
+* (43,967) PV00264039 - **GOODNESS CEYLON INTERNATIONAL**
+* (58,622) PV88323 - **KEEN COIR PRODUCTS**
+* (73,278) PV00254253 - **MONTH**
+* (87,933) PV00219453 - **PRINTCARE DIGITAL SOLUTIONS**
+* (102,589) PV72710 - **SEYARA BUSINESS SOLUTIONS**
+* (117,244) PV00218763 - **THE PREMIUM ULTIMATE CAR CARE**
+* (131,900) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00294656 - **EATCO**
-* (112) PV00294930 - **DANCE COMMUNITY**
-* (223) PV00295250 - **THE WAVE TRAINING CEYLON**
-* (334) PV00295547 - **AERY CHILD CARE AND CONSULTANCY**
+* (1) PV00294658 - **HOUZE OF JINDAL**
+* (112) PV00294934 - **ETERNITY CREATIONS**
+* (223) PV00295256 - **GREFEXS**
+* (334) PV00295548 - **HAIR MANIA HAIR CARE WITH RANGA**
 * (445) PV00295894 - **HR FANCIFUL**
 * (556) PV00296231 - **HD SWIFTMOVE**
 * (667) PV00296644 - **AGGRANDIZE GLOBAL**
@@ -39,32 +39,32 @@ Scraped **131,896** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-09 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/119938*
+*Sample of 10/119940*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,327) PV00283134 - **BLUE OYSTER**
-* (26,653) PV00220588 - **DIGITAL ONLINE TRADING LANKA**
-* (39,980) PV00254434 - **GOLDEN GATE RESTAURANT**
-* (53,306) PV00213796 - **KARISH GARDEN**
-* (66,632) PV00267771 - **MLM SAFETY HOUSE**
-* (79,959) PV61507 - **PREMA METAL CRUSHERS**
-* (93,285) PV70412 - **SHADETREE PRODUCTIONS**
-* (106,611) PV00260923 - **THE SLIDER STATION**
-* (119,938) PV118576 - **ZZAPPIT**
+* (26,654) PV67575 - **DIGITAL OXYGEN**
+* (39,980) PV00247928 - **GOLDEN GATE REAL ESTATE**
+* (53,307) PV00213796 - **KARISH GARDEN**
+* (66,633) PV00269078 - **MLK JAFFNA**
+* (79,960) PV61507 - **PREMA METAL CRUSHERS**
+* (93,286) PV70412 - **SHADETREE PRODUCTIONS**
+* (106,613) PV00260923 - **THE SLIDER STATION**
+* (119,940) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4448*
+*Sample of 10/4449*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (495)  - **BLACKPOOL RESTAURANTS**
 * (989)  - **DHANAWARDANA ENTERPRISES**
-* (1,483)  - **GLOBAL CITY CENTER**
-* (1,977)  - **JOUCHI JAPANESE LANGUAGE ACADEMY**
-* (2,471)  - **MMI DISTRIBUTORS**
-* (2,965)  - **POUR & PERK**
-* (3,459)  - **SHEYRA**
-* (3,953)  - **THREE COINS**
-* (4,448)  - **ZYNOWIX**
+* (1,483)  - **GLOBAL BUSINESS**
+* (1,977)  - **JONAIZA APPAREL**
+* (2,472)  - **MMI DISTRIBUTORS**
+* (2,966)  - **POWER GRID SOLUTIONS**
+* (3,460)  - **SHIKISEN**
+* (3,954)  - **THREE COINS**
+* (4,449)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2800*
@@ -192,6 +192,20 @@ Scraped **131,896** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-09 0
 * (42) PCC00289409 - **SAMPATH BANK PLC.**
 * (48) PCC00292982 - **YOULANKA GROUP LIMITED**
 
+### "PVPB"
+*Sample of 10/46*
+![data/word_clouds/word_cloud_PVPB.png](data/word_clouds/word_cloud_PVPB.png)
+* (1) PV4158PB - **ADAM CARBONS**
+* (6) PV77699PB - **BUTANI CAPITAL**
+* (11) PV6857PB - **CEYLON LEATHER PRODUCTS MANUFACTURERS**
+* (16) PV64927PB - **EVOKE INTERNATIONAL**
+* (21) PV88548PB - **GREEN FIELDS CONSULTANCY SERVICES**
+* (26) PV84201PB - **M POWER CAPITAL**
+* (31) PV114960PB - **NOORANI RENEWABLE ENERGY**
+* (36) PV65801PB - **SILVEREEN MICRO CREDITCOMPANY**
+* (41) PV83543PB - **STANDARD PAINTS**
+* (46) PV78825PB - **TRILLIUM PROPERTY MANAGEMENT & SERVICES**
+
 ### "PBG"
 *Sample of 10/45*
 ![data/word_clouds/word_cloud_PBG.png](data/word_clouds/word_cloud_PBG.png)
@@ -205,20 +219,6 @@ Scraped **131,896** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-09 0
 * (35) PBG20 - **THE FREE LANKA BENEFITS**
 * (40) PBG39 - **THEEPAM INSTITUTE**
 * (45) PBG14 - **UNITED SPORTSMAN**
-
-### "PVPB"
-*Sample of 10/45*
-![data/word_clouds/word_cloud_PVPB.png](data/word_clouds/word_cloud_PVPB.png)
-* (1) PV4158PB - **ADAM CARBONS**
-* (5) PV7329PB - **BUSINESS MANAGEMENT SERVICES**
-* (10) PV3326PB - **CEYBANK ASSET MANAGEMENT**
-* (15) PV5736PB - **ELGI RUBBER COMPANY**
-* (20) PV102488PB - **GRAINS 'N' GREEN**
-* (25) PV17741PB - **LIBERTY HOLDINGS**
-* (30) PV114960PB - **NOORANI RENEWABLE ENERGY**
-* (35) PV65801PB - **SILVEREEN MICRO CREDITCOMPANY**
-* (40) PV83543PB - **STANDARD PAINTS**
-* (45) PV78825PB - **TRILLIUM PROPERTY MANAGEMENT & SERVICES**
 
 ### "PBPQ"
 *Sample of 10/39*
