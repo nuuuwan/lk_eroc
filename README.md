@@ -2,31 +2,31 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **131,985** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-11 00:33:01*.
+Scraped **131,986** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-11 02:15:33*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/131985*
+*Sample of 10/131986*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,665) PV91225 - **BLUELINE CEYLON**
-* (29,330) PV00223135 - **DILEXUS INFOTECH**
-* (43,995) PV00204857 - **GOODWILL  TOURS**
-* (58,660) PV00290718 - **KEERTHI EXPORTS LANKA**
-* (73,325) PV63388 - **MONTY HOLDINGS**
-* (87,990) PV128095 - **PRINTS & TRIMS**
-* (102,655) PV21709 - **SEYHAI LANKA**
-* (117,320) PV00263666 - **THE PRINCE ELECTRONICS**
-* (131,985) PV118576 - **ZZAPPIT**
+* (14,666) PV116113 - **BLUELINE INTERNATIONAL**
+* (29,331) PV00287131 - **DILFA PHARMA**
+* (43,996) PV00204857 - **GOODWILL  TOURS**
+* (58,661) GA3330 - **KEERTHI DISSANAYAKE FOUNDATION**
+* (73,326) PV00263314 - **MONTTORO INVESTMENTS**
+* (87,991) PV91024 - **PRINTPAL**
+* (102,656) PV00244151 - **SEYGENS**
+* (117,321) PV00218763 - **THE PREMIUM ULTIMATE CAR CARE**
+* (131,986) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00294917 - **LIHINI AGRI**
-* (112) PV00295213 - **JORDENE**
-* (223) PV00295506 - **HAFEELA MEAT AND VEGETABLE SUPPLIES**
+* (1) PV00294919 - **RUGS & MORE**
+* (112) PV00295219 - **SM ELECTRICALENGINEERING SOLAR SOLUTION**
+* (223) PV00295510 - **SUPER STELLA**
 * (334) PV00295811 - **LANKA SURF BIKES**
 * (445) PV00296135 - **THE DREAMS EVENT CONSULTANTS**
 * (556) PV00296517 - **PIRM HOLDINGS**
@@ -39,32 +39,32 @@ Scraped **131,985** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-11 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/120019*
+*Sample of 10/120016*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,336) PV116234 - **BLUE RAYS SOLAR LANKA**
-* (26,671) PV00209487 - **DIGITAL SERVICES GLOBAL**
-* (40,007) PV67076 - **GOLDEN GUIDE**
-* (53,342) PV80662 - **KAROODA HEALTH**
-* (66,677) PV00294357 - **MM PLUS**
-* (80,013) PV127852 - **PREMASIRI MINI SUPER MARKET**
-* (93,348) PV9344 - **SHADOW WARRIORS SECURITY & INVESTIGATION SERVICES**
-* (106,683) PV00256514 - **THE SMOKE HUT**
-* (120,019) PV118576 - **ZZAPPIT**
+* (13,336) PV98825 - **BLUE RIBBON**
+* (26,671) PV00217477 - **DIGITAL SEVEN M**
+* (40,006) PV18623 - **GOLDEN HANDS**
+* (53,341) PV80582 - **KAROODA HOLDINS**
+* (66,676) PV00296631 - **MM PROPERTY & CONSTRUCTION**
+* (80,011) PV127852 - **PREMASIRI MINI SUPER MARKET**
+* (93,346) PV00264799 - **SHADOW SHINE**
+* (106,681) PV00205183 - **THE SMART PHONE SHOP**
+* (120,016) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4462*
+*Sample of 10/4466*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (496)  - **BLAZE GUARD FIRE ENGINEERING**
-* (992)  - **DHANUKA COORAY MOTOR COMPANY**
-* (1,488)  - **GLOBAL ASSET MANAGEMENT**
-* (1,983)  - **JRN TRADINGS**
-* (2,479)  - **ML CAPITAL**
-* (2,975)  - **POWER HANDS AUTO MOBILE**
-* (3,470)  - **SHEYRA**
-* (3,966)  - **THINK WIDE MEDIA**
-* (4,462)  - **ZYNOWIX**
+* (497)  - **BLAZE GUARD FIRE ENGINEERING**
+* (993)  - **DHANUKA COORAY MOTOR COMPANY**
+* (1,489)  - **GLASGOW CABANA**
+* (1,985)  - **JOY'S**
+* (2,481)  - **MK BUILDERS**
+* (2,977)  - **POUR & PERK**
+* (3,473)  - **SHENEXCO INTERNATIONAL HOLDINGS**
+* (3,969)  - **THILINI PRIYAMALI FOUNDATION**
+* (4,466)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2795*
