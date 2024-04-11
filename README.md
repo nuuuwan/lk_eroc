@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,011** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-11 20:15:06*.
+Scraped **132,016** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-11 22:15:36*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/132011*
+*Sample of 10/132016*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,668) PV00277600 - **BLUEGEN AQUACULTURE**
-* (29,336) PV122784 - **DILANKA SKY GARDEN**
-* (44,004) PV00207044 - **GOOD WAY INVESTMENT**
-* (58,672) PV126133 - **KEDELLA HOLDINGS**
-* (73,339) PV00210246 - **MONRAK TRADING**
-* (88,007) PV00273185 - **PRINT WIN**
-* (102,675) PV128899 - **SEWIN TECH**
-* (117,343) PV00249441 - **THE PLATFORM**
-* (132,011) PV118576 - **ZZAPPIT**
+* (14,669) PV00277600 - **BLUEGEN AQUACULTURE**
+* (29,337) PV00281620 - **DILANJALINE HOLDINGS**
+* (44,006) PV89015 - **GOOD VIEW**
+* (58,674) PV00217759 - **KEDELLA BUILDERS AND PROPERTY DEVELOPERS**
+* (73,342) PV00243685 - **MONOZUKURI MANUFACTURING SOLUTIONS**
+* (88,011) PV00273185 - **PRINT WIN**
+* (102,679) PV128899 - **SEWIN TECH**
+* (117,347) PV00249441 - **THE PLATFORM**
+* (132,016) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **132,011** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-11 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/120050*
+*Sample of 10/120055*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,339) PV00209831 - **BLUE RAVENIT**
-* (26,678) PV00210057 - **DIGITAL PAYMENT SERVICES**
-* (40,017) PV121926 - **GOLDEN GALAXY**
-* (53,356) PV120926 - **KARENZA INTERNATIONAL**
-* (66,694) PV00287864 - **MKR FOOD PRODUCTS**
-* (80,033) PV77247 - **PREMA PROPERTY**
-* (93,372) PV96575 - **SHABNAMS**
-* (106,711) PV00246930 - **THE SMART AVENUE**
-* (120,050) PV118576 - **ZZAPPIT**
+* (13,340) PV00242622 - **BLUE RARE**
+* (26,679) PV00221400 - **DIGITAL ONE LABS**
+* (40,019) PV67948 - **GOLDEN FORK RESTAURANT**
+* (53,358) PV00262262 - **KAREEMA HAJJ & UMRAH TRAVELS**
+* (66,697) PV00267315 - **MKM BROTHERS**
+* (80,037) PV77247 - **PREMA PROPERTY**
+* (93,376) PV96575 - **SHABNAMS**
+* (106,715) PV00246930 - **THE SMART AVENUE**
+* (120,055) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4456*
+*Sample of 10/4457*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (496)  - **BLACK WORLD INTERNATIONAL **
-* (991)  - **DESIGN MAGAZINE**
+* (496)  - **BLACKPOOL FARM**
+* (991)  - **DESTINY TOURS AND TRAVELS**
 * (1,486)  - **GEX LOGENIX LOGISTICS**
 * (1,981)  - **JKR IMPORTS & EXPORTS**
 * (2,476)  - **MIRAE APEX**
-* (2,971)  - **POLO LANKA**
-* (3,466)  - **SHAZ NANO TECHNOLOGIES**
-* (3,961)  - **THE WILD WOK**
-* (4,456)  - **ZYNOWIX**
+* (2,971)  - **POINTLOOKZ INTEGRITY**
+* (3,466)  - **SHAVOLA**
+* (3,961)  - **THE WHISKEY BOX CO**
+* (4,457)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2791*
@@ -137,18 +137,18 @@ Scraped **132,011** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-11 2
 * (373) FC1065 - **ZIBO GUANGZHENG ALKALI ALUMINIUM CHEMICAL INDUSTRY CO.,**
 
 ### "F"
-*Sample of 10/213*
+*Sample of 10/212*
 ![data/word_clouds/word_cloud_F.png](data/word_clouds/word_cloud_F.png)
 * (1) F234 - **ALCO INSURANCE COMPANY**
 * (24) F132 - **BPTIST MISSIONERY SOCIETY**
-* (48) F19 - **EASTERN BANK**
-* (71) F265 - **HORLICKS**
-* (95) F201 - **LONDON AND OVERSEAS INS. CO.**
-* (118) F315 - **OBEROI HOTELS (INDIA) PRIVATE**
-* (142) F49 - **SCOTTISH UNION NATIONAL INSURANCE CO.**
-* (165) F209 - **TALAWAKELLE ESTATE CO.**
-* (189) F250 - **THE PIONERR FIRE & GEN INS CO**
-* (213) F6 - **YORKSHIRE INSURANCE CO LTC CEASED 1/11/70**
+* (47) F19 - **EASTERN BANK**
+* (71) F306 - **HYATT OF CEYLON**
+* (94) F201 - **LONDON AND OVERSEAS INS. CO.**
+* (118) F68 - **OCEAN MARINE INSURANCE CO.**
+* (141) F49 - **SCOTTISH UNION NATIONAL INSURANCE CO.**
+* (165) F343 - **TELEFONAKTIE BOLAGET LM EFISSON**
+* (188) F250 - **THE PIONERR FIRE & GEN INS CO**
+* (212) F6 - **YORKSHIRE INSURANCE CO LTC CEASED 1/11/70**
 
 ### "PQ"
 *Sample of 10/151*
