@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,075** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-12 14:16:44*.
+Scraped **132,075** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-12 16:15:15*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -57,7 +57,7 @@ Scraped **132,075** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-12 1
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (496)  - **BLACK PEPPER INTERNATIONAL**
-* (992)  - **DESIGN MAGAZINE**
+* (992)  - **DESTINY TOURS AND TRAVELS**
 * (1,487)  - **GETME LANKA**
 * (1,983)  - **JIO TALK**
 * (2,478)  - **MINTA HOTEL**
