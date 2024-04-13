@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,138** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-13 18:18:35*.
+Scraped **132,141** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-13 20:15:10*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/132138*
+*Sample of 10/132141*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,682) PV18381 - **BLUEFIN ENTERPRISES**
-* (29,364) PV109071 - **DILARO WOOD CARVING**
-* (44,046) PV14890 - **GOODE ESTATES**
-* (58,728) PV73039 - **KEBILADOWA HYDROPOWER**
-* (73,410) PV125675 - **MONOCOAT DEV LANKA**
-* (88,092) PV00278660 - **PRINT MIX HOUSE**
-* (102,774) PV128899 - **SEWIN TECH**
-* (117,456) PV00229941 - **THE PLANTED TANK**
-* (132,138) PV118576 - **ZZAPPIT**
+* (14,683) PV00241054 - **BLUEFIN EXCLUSIVE**
+* (29,365) PV103028 - **DILAX CHEMICAL**
+* (44,047) PV92408 - **GOODE INVESTMENTS**
+* (58,729) PV75908 - **KEBA ELECTRONICS**
+* (73,412) PV80726 - **MONOCLE**
+* (88,094) PV17468 - **PRINT MAX**
+* (102,776) PV68678 - **SEWIN LAK FASHION**
+* (117,458) GL2403 - **THE PLANTATION RURAL DEVELOPMENT SOCIAL SERVICE CENTER**
+* (132,141) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **132,138** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-13 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/120161*
+*Sample of 10/120163*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,352) PV98825 - **BLUE RIBBON**
 * (26,703) PV00241917 - **DIGITAL RESOURCE LANKA**
-* (40,054) PV00246291 - **GOLDEN GALLE**
-* (53,405) PV63862 - **KARAMOJA**
-* (66,756) PV00266926 - **MJ WORLDWIDE EXPRESS**
-* (80,107) PV83541 - **PREM**
-* (93,458) PV107104 - **SHABNAM JEWELLERS**
-* (106,809) PV00250959 - **THE SM CEYLON TRADING**
-* (120,161) PV118576 - **ZZAPPIT**
+* (40,055) PV00280509 - **GOLDEN GATE AUTOMOBILE**
+* (53,406) PV10995 - **KARAMINIYA NATURAL DRUGS**
+* (66,757) PV00265036 - **MJ MARKETING**
+* (80,109) PV83541 - **PREM**
+* (93,460) PV107104 - **SHABNAM JEWELLERS**
+* (106,811) PV00250959 - **THE SM CEYLON TRADING**
+* (120,163) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4451*
@@ -221,18 +221,18 @@ Scraped **132,138** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-13 1
 * (45) PBG14 - **UNITED SPORTSMAN**
 
 ### "PBPQ"
-*Sample of 10/39*
+*Sample of 10/40*
 ![data/word_clouds/word_cloud_PBPQ.png](data/word_clouds/word_cloud_PBPQ.png)
 * (1) PB200PQ - **ACCESS ENGINEERING**
 * (5) PB4739PQ - **ARPICO INSURANCE**
 * (9) PB1280PQ - **CEYLON TEA BROKERS**
-* (13) PB744PQ - **EXPOLANKA HOLDINGS**
-* (17) PB307PQ - **JANASHAKTHI INSURANCE**
-* (22) PB376PQ - **MILLENNIUM HOUSING DEVELOPERS**
-* (26) PB647PQ - **PEOPLE'S LEASING & FINANCE**
-* (30) PB813PQ - **SINGER FINANCE (LANKA)**
-* (34) PB689PQ - **TESS AGRO**
-* (39) PB4242PQ - **WASKADUWA BEACH RESORT**
+* (14) PB127PQ - **FIRST CAPITAL TREASURIES**
+* (18) PB307PQ - **JANASHAKTHI INSURANCE**
+* (22) PB76PQ - **MERCANTILE INVESTMENTS & FINANCE**
+* (27) PB647PQ - **PEOPLE'S LEASING & FINANCE**
+* (31) PB813PQ - **SINGER FINANCE (LANKA)**
+* (35) PB689PQ - **TESS AGRO**
+* (40) PB4242PQ - **WASKADUWA BEACH RESORT**
 
 ### "NPVS"
 *Sample of 10/29*
