@@ -2,29 +2,29 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,182** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-14 19:50:58*.
+Scraped **132,183** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-14 20:47:15*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/132182*
+*Sample of 10/132183*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,687) PV00231666 - **BLUEFIN LANKA**
 * (29,374) PV79866 - **DILCO TECHNOLOGIES AND TRADING**
-* (44,061) PV00200367 - **GOODNESS ME**
-* (58,748) PV104132 - **KE HUNG INDUSTIRAL**
-* (73,434) PV00247053 - **MONGOLIAN STREET RESTAURANTS**
-* (88,121) PV11836 - **PRINT**
-* (102,808) PB1105 - **SEWA  COMMUNITY CREDIT**
-* (117,495) PV00271347 - **THE PLUSH SALON**
-* (132,182) PV118576 - **ZZAPPIT**
+* (44,061) PV00265075 - **GOODNESS PLANET**
+* (58,748) PV69218 - **KEALEE CREATIONS**
+* (73,435) PV100239 - **MONICA HEAVEN**
+* (88,122) PV00238510 - **PRINT CABIN SOLUTION**
+* (102,809) PV00221665 - **SEWA.LK**
+* (117,496) PV00287778 - **THE POND PICTURES**
+* (132,183) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00295321 - **THUSHARI & SON FILLING STATION**
+* (1) PV00295319 - **FLI ENGINEERING**
 * (112) PV00295591 - **BRILLIANT FINE WATER**
 * (223) PV00295883 - **NT UNIVERSAL**
 * (334) PV00296160 - **OMEGA VENTURES**
@@ -39,21 +39,21 @@ Scraped **132,182** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-14 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/120214*
+*Sample of 10/120216*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,358) PV110937 - **BLUE RAY SECURITY**
 * (26,715) PV00209487 - **DIGITAL SERVICES GLOBAL**
-* (40,072) PV00247928 - **GOLDEN GATE REAL ESTATE**
-* (53,429) PV00230180 - **KAPRUKA TIMBER**
-* (66,786) PV00290080 - **MIXX ART**
-* (80,143) PV110436 - **PRECIOUS AUTO MOBILE**
-* (93,500) PV120407 - **SHA SUPER**
-* (106,857) PV00235487 - **THE SIX MIDIGAMA**
-* (120,214) PV118576 - **ZZAPPIT**
+* (40,072) PV00254434 - **GOLDEN GATE RESTAURANT**
+* (53,429) PV00212846 - **KAPTIVE ADS**
+* (66,787) PV98869 - **MIYANKAN TRADING LANKA**
+* (80,144) PV103015 - **PRECIOUS GEM TESTING LABORATORIES**
+* (93,501) PV14043 - **SHAA COLA BEVERAGES**
+* (106,858) PV97107 - **THE SKYLIFT**
+* (120,216) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4439*
+*Sample of 10/4438*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (494)  - **BLACK SPACE**
@@ -64,7 +64,7 @@ Scraped **132,182** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-14 1
 * (2,959)  - **PORT CITY VILLA DEVELOPMENT**
 * (3,452)  - **SHELBY THE BULLY**
 * (3,945)  - **THILL OUT**
-* (4,439)  - **ZYNOWIX**
+* (4,438)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2801*
