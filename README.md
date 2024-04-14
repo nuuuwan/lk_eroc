@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,182** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-14 17:01:12*.
+Scraped **132,182** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-14 19:50:58*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -39,32 +39,32 @@ Scraped **132,182** Companies ([4.08MB](data/companies.tsv)) as of *2024-04-14 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/120213*
+*Sample of 10/120214*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,357) PV00209831 - **BLUE RAVENIT**
-* (26,714) PV00209798 - **DIGITAL SERVICES ASIA**
-* (40,071) PV00261347 - **GOLDEN GATE MIGRATION CONSULTANT**
-* (53,428) PV00201623 - **KAPRUKA PRODUCTIONS**
-* (66,785) PV00290080 - **MIXX ART**
-* (80,142) PV110436 - **PRECIOUS AUTO MOBILE**
-* (93,499) PV120407 - **SHA SUPER**
-* (106,856) PV00235487 - **THE SIX MIDIGAMA**
-* (120,213) PV118576 - **ZZAPPIT**
+* (13,358) PV110937 - **BLUE RAY SECURITY**
+* (26,715) PV00209487 - **DIGITAL SERVICES GLOBAL**
+* (40,072) PV00247928 - **GOLDEN GATE REAL ESTATE**
+* (53,429) PV00230180 - **KAPRUKA TIMBER**
+* (66,786) PV00290080 - **MIXX ART**
+* (80,143) PV110436 - **PRECIOUS AUTO MOBILE**
+* (93,500) PV120407 - **SHA SUPER**
+* (106,857) PV00235487 - **THE SIX MIDIGAMA**
+* (120,214) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4440*
+*Sample of 10/4439*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (494)  - **BLACK SPACE**
 * (987)  - **DEVIYANWAHANSEGE SABHAWA LOKADUTHA MEHEWARA SANGAMAYA**
 * (1,480)  - **GITHMI  ORGANIC FERTILIZER**
 * (1,973)  - **JM AUTOMART**
-* (2,467)  - **MIS TRADING**
-* (2,960)  - **PORT CITY VILLA DEVELOPMENT**
-* (3,453)  - **SHELBY THE BULLY**
-* (3,946)  - **THILL OUT**
-* (4,440)  - **ZYNOWIX**
+* (2,466)  - **MIS TRADING**
+* (2,959)  - **PORT CITY VILLA DEVELOPMENT**
+* (3,452)  - **SHELBY THE BULLY**
+* (3,945)  - **THILL OUT**
+* (4,439)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2801*
