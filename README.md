@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,247** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-15 22:15:02*.
+Scraped **132,246** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-16 00:15:44*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/132247*
+*Sample of 10/132246*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,695) PV91159 - **BLUEINK HOLDINGS**
-* (29,389) PV19785 - **DILAN GARMENTS**
-* (44,083) PV00274868 - **GOODFELLAS TATTOO STUDIO AND ACADEMY**
-* (58,777) PV00257322 - **KDN IMPEX INTERNATIONAL**
-* (73,471) PV00276346 - **MONICA EXPORTS**
-* (88,165) PV00232979 - **PRINT  FOREST**
-* (102,859) PV00225423 - **SEWA PIYASA**
-* (117,553) GL2138 - **THE PREMADASA CENTRE**
-* (132,247) PV118576 - **ZZAPPIT**
+* (14,694) PV91159 - **BLUEINK HOLDINGS**
+* (29,388) PV19785 - **DILAN GARMENTS**
+* (44,082) PV00274868 - **GOODFELLAS TATTOO STUDIO AND ACADEMY**
+* (58,776) PV00257322 - **KDN IMPEX INTERNATIONAL**
+* (73,470) PV00276346 - **MONICA EXPORTS**
+* (88,164) PV00232979 - **PRINT  FOREST**
+* (102,858) PV00225423 - **SEWA PIYASA**
+* (117,552) GL2138 - **THE PREMADASA CENTRE**
+* (132,246) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **132,247** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-15 2
 * (120,261) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4454*
+*Sample of 10/4453*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (495)  - **BLISSFUL VENTURES**
-* (990)  - **DESCOLOMBO.LK**
-* (1,485)  - **GIFTART**
-* (1,980)  - **JM AUTOMART**
-* (2,474)  - **MISSAKA NIWASA**
-* (2,969)  - **POUR & PERK**
-* (3,464)  - **SHELTER FOR HOMELESS JESUS NEVER FAILS ASSOCIATION**
-* (3,959)  - **THILINI PRIYAMALI FOUNDATION**
-* (4,454)  - **ZYNOWIX**
+* (495)  - **BLOCKCHAIN ASSOCIATION OF SRI LANKA**
+* (990)  - **DESIGN CALIBALI**
+* (1,485)  - **GIN JOINT WINE STORES**
+* (1,979)  - **JM AUTOMART**
+* (2,474)  - **MISTER GROOM**
+* (2,969)  - **POWER LANKA MARKETING**
+* (3,463)  - **SHELTER FOR HOMELESS JESUS NEVER FAILS ASSOCIATION**
+* (3,958)  - **THILINI PRIYAMALI FOUNDATION**
+* (4,453)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2799*
