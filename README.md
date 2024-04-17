@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,392** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-17 16:15:24*.
+Scraped **132,395** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-17 18:21:37*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/132392*
+*Sample of 10/132395*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,711) PV00231666 - **BLUEFIN LANKA**
-* (29,421) PV20193 - **DIL TRADING**
-* (44,131) PV99198 - **GOOD VIEW RESORTS**
-* (58,841) PV00260089 - **KE BRAVO**
-* (73,551) PV00216655 - **MONITOR I T SYSTEMS**
-* (88,261) PV115883 - **PRINCETON COLLEGE**
-* (102,971) PV00213273 - **SEWA INTERNATIONAL ENERGY LANKA**
-* (117,681) PV00269291 - **THE PLAYGROUND ENTERPRISE**
-* (132,392) PV118576 - **ZZAPPIT**
+* (29,421) PV00217377 - **DIL SAPUKOTANAGE SALONS**
+* (44,132) PV00272175 - **GOOD VIBE'S INVESTMENT**
+* (58,842) PV00257322 - **KDN IMPEX INTERNATIONAL**
+* (73,553) PV00253991 - **MONISM INTERNATIONAL**
+* (88,263) PV00212975 - **PRINCESS UNIVERSE GROUP OF COMPANIES**
+* (102,974) PV00213273 - **SEWA INTERNATIONAL ENERGY LANKA**
+* (117,684) PV00269291 - **THE PLAYGROUND ENTERPRISE**
+* (132,395) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -43,7 +43,7 @@ Scraped **132,392** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-17 1
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,382) PV67904 - **BLUE RAKERS GUEST AND RESTAURANT**
-* (26,763) PV00208535 - **DIGITAL LANKA ONLINE**
+* (26,763) PV00227242 - **DIGITAL LENDING**
 * (40,145) PV98753 - **GOLDEN EAGLE SECURITY SERVICE**
 * (53,526) PV00230433 - **KAPITAL ENERGY S P**
 * (66,907) PV123761 - **MIVOX HOLDINGS**
@@ -53,18 +53,18 @@ Scraped **132,392** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-17 1
 * (120,433) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4424*
+*Sample of 10/4427*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (492)  - **BLOOMS CEYLON**
-* (983)  - **DIA MOUNT**
-* (1,475)  - **GLOBAL CONVERSIONS**
-* (1,966)  - **KADUWELA SPORTS CLUB**
-* (2,458)  - **MOMO LEISURE**
-* (2,949)  - **PREMIUM TRANSPORT HOLDINGS**
-* (3,441)  - **SHOP FEELS**
-* (3,932)  - **THILINI PRIYAMALI FOUNDATION**
-* (4,424)  - **ZYNOWIX**
+* (984)  - **DHIVISHA TEX**
+* (1,476)  - **GLOBAL BUSINESS**
+* (1,968)  - **KADOL SANDS RESORT AND SPA**
+* (2,459)  - **MOI HOTELS**
+* (2,951)  - **PREMIUM PROPERTIES HOLDINGS**
+* (3,443)  - **SHIVA PARTNERS**
+* (3,935)  - **THILINI PRIYAMALI FOUNDATION**
+* (4,427)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2796*
