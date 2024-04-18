@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,410** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-18 04:15:02*.
+Scraped **132,412** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-18 06:30:02*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/132410*
+*Sample of 10/132412*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,713) PV78748 - **BLUEFIN SEARCH**
 * (29,425) PV00217723 - **DIL'S STAR RESTAURANT**
-* (44,137) PV18813 - **GOOD VALUE IMPORTERS**
-* (58,849) FC00233048 - **KDAW CONSTRUCTION LTD**
-* (73,561) PB00284858 - **MONIK CAPITAL HOLDING**
-* (88,273) PV00212975 - **PRINCESS UNIVERSE GROUP OF COMPANIES**
-* (102,985) PV15213 - **SEW GUNASEKERA PAWN BROKERS**
-* (117,697) PV00249441 - **THE PLATFORM**
-* (132,410) PV118576 - **ZZAPPIT**
+* (44,138) PV18813 - **GOOD VALUE IMPORTERS**
+* (58,850) FC00233048 - **KDAW CONSTRUCTION LTD**
+* (73,562) PB00284858 - **MONIK CAPITAL HOLDING**
+* (88,275) PV115883 - **PRINCETON COLLEGE**
+* (102,987) PV72676 - **SEW TECH LANKA**
+* (117,699) PV00249441 - **THE PLATFORM**
+* (132,412) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **132,410** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-18 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/120459*
+*Sample of 10/120461*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,385) PV00209831 - **BLUE RAVENIT**
 * (26,769) PV68212 - **DIGITAL LIQUID ADVERTISING**
-* (40,153) PV00211819 - **GOLDEN DRAGON PROPERTIES**
-* (53,537) PV88229 - **KAPILA INVESTMENTS**
-* (66,922) PV20654 - **MITTER INTERNAITONAL**
-* (80,306) PV00285870 - **PRATHI COSMIC**
-* (93,690) PV76430 - **SHA MODERN HOMES**
-* (107,074) PV00216738 - **THE SHOPSY**
-* (120,459) PV118576 - **ZZAPPIT**
+* (40,154) PV116048 - **GOLDEN DRAGON SEAFOOD RESTAURANTS**
+* (53,538) PV00280854 - **KAPILA MAN POWER AND CONSTRUCTION**
+* (66,923) PV79772 - **MITTRANANDA HARDWARE**
+* (80,307) PV00285870 - **PRATHI COSMIC**
+* (93,692) PV20681 - **SHA MOTORS**
+* (107,076) PV00216738 - **THE SHOPSY**
+* (120,461) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4417*
@@ -58,9 +58,9 @@ Scraped **132,410** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-18 0
 * (1)  - **A AND Y COMMODITIES**
 * (491)  - **BLOOMS CEYLON**
 * (982)  - **DIA MOUNT**
-* (1,473)  - **GLOBAL EMPIRIC**
-* (1,963)  - **KADUWELA SPORTS CLUB**
-* (2,454)  - **MOMO LEISURE**
+* (1,473)  - **GLOBAL EDUCATION SERVICES**
+* (1,963)  - **KADOL SANDS RESORT AND SPA**
+* (2,454)  - **MOKSA LAZY YOGI STUDIO**
 * (2,945)  - **PRESCOTT ROYAL MEN**
 * (3,435)  - **SHOP VOPIA**
 * (3,926)  - **THINK UNI**
