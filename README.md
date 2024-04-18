@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,412** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-18 12:15:50*.
+Scraped **132,412** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-18 14:15:24*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -14,9 +14,9 @@ Scraped **132,412** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-18 1
 * (14,713) PV00225780 - **BLUEGEN I.T. SOLUTIONS**
 * (29,425) PV20193 - **DIL TRADING**
 * (44,138) PV125359 - **GOOD STROY**
-* (58,850) PV00261491 - **KD FASHION**
-* (73,562) PV00225573 - **MONICA FOOD SOLUTIONS**
-* (88,275) PV00290690 - **PRINCESS CANELA EXPORTS**
+* (58,850)  - **KD GUNATHISSA**
+* (73,562) PV00290962 - **MONIINO CLOTHING**
+* (88,275) PV115883 - **PRINCETON COLLEGE**
 * (102,987) PV63419 - **SEVWANDI INDUSTRIALS**
 * (117,699) GL2403 - **THE PLANTATION RURAL DEVELOPMENT SOCIAL SERVICE CENTER**
 * (132,412) PV118576 - **ZZAPPIT**
@@ -39,32 +39,32 @@ Scraped **132,412** Companies ([4.09MB](data/companies.tsv)) as of *2024-04-18 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/120470*
+*Sample of 10/120468*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,386) PV110937 - **BLUE RAY SECURITY**
 * (26,771) PV6135 - **DIGITAL INTERGRATION**
-* (40,157) PV00293641 - **GOLDEN CROPS CULTIVATION**
-* (53,542) PV00224255 - **KAPA RECYCLING**
-* (66,928) PV90291 - **MITSUBOSHI LANKA**
-* (80,313) PV00285870 - **PRATHI COSMIC**
-* (93,699) PV00236768 - **SHA NATURAL BEAUTY PRODUCTS**
-* (107,084) PV00216738 - **THE SHOPSY**
-* (120,470) PV118576 - **ZZAPPIT**
+* (40,156) PV111990 - **GOLDEN CREDIT INVESTMENT**
+* (53,541) PV66665 - **KAPALIA TOURS AND TRAVELS**
+* (66,927) PV00272593 - **MITSUKI CONSTRUCTION**
+* (80,312) PV00272480 - **PRATHIBHA HOLDINGS**
+* (93,697) PV00236768 - **SHA NATURAL BEAUTY PRODUCTS**
+* (107,082) PV00216738 - **THE SHOPSY**
+* (120,468) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4414*
+*Sample of 10/4416*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (491)  - **BLOSSOM UNIQUE AESTHETIC CLINIC**
-* (981)  - **DIAMOND LANKA PAPERS**
+* (982)  - **DIAMONDMINT**
 * (1,472)  - **GLOBAL FOOD NETWORK**
-* (1,962)  - **KAFE KARACHI**
-* (2,452)  - **MOKSA LAZY YOGI STUDIO**
-* (2,943)  - **PREMIUM TRANSPORT HOLDINGS**
-* (3,433)  - **SHIVA PARTNERS**
-* (3,923)  - **THILINA SUPPLIERS**
-* (4,414)  - **ZYNOWIX**
+* (1,963)  - **KAFE KARACHI**
+* (2,453)  - **MOKSA LAZY YOGI STUDIO**
+* (2,944)  - **PREMIUM TRANSPORT HOLDINGS**
+* (3,434)  - **SHIRANTHA HOTEL  AND INVESTMENT**
+* (3,925)  - **THILINA SUPPLIERS**
+* (4,416)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2793*
