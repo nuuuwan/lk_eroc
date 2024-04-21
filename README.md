@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,577** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-21 16:15:12*.
+Scraped **132,574** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-21 18:20:51*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/132577*
+*Sample of 10/132574*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,731) PV00251245 - **BLUEBERRY APPARELS**
-* (29,462) PV00284534 - **DILAN ELECTRICALS**
-* (44,193) PV00203980 - **GOOD VENUS**
-* (58,923)  - **KD GUNATHISSA**
-* (73,654) PV00231527 - **MONETA DEVELOPMENTS**
-* (88,385) PV00290278 - **PRINCE  SOLUTIONS**
-* (103,115) PV00226286 - **SEVONRICH CREATION**
-* (117,846) PV00294163 - **THE PHONE GARAGE**
-* (132,577) PV118576 - **ZZAPPIT**
+* (29,461) PV107179 - **DILAN & INDRA ENTERPRISES**
+* (44,192) PV00295260 - **GOOD VENTURES LANKA**
+* (58,922) PV00275757 - **KDAW LEISURE**
+* (73,652) PV00284715 - **MONETA WINGS SOLUTIONS**
+* (88,383) PV101922 - **PRINCE AUTO**
+* (103,113) PV117426 - **SEVONROO GLOBAL HAIR AND BEAUTY SOLUTION CO.**
+* (117,843) PV00294163 - **THE PHONE GARAGE**
+* (132,574) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,21 +39,21 @@ Scraped **132,577** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-21 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/120634*
+*Sample of 10/120630*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,404) PV19151 - **BLUE OCEAN TRAVELS**
-* (26,808) PV00271387 - **DIGITAL MARKETING & BROADCASTING CORPORATION**
-* (40,212) PV00293641 - **GOLDEN CROPS CULTIVATION**
-* (53,615) PV00204091 - **KAORI CAFE AND VILLA**
-* (67,019) PV00272326 - **MITHRA PRO ENGINEERS AND CONSULTANTS**
-* (80,423) PV00261101 - **PRASANNA HIGASHI NIHON SURIRANKA**
-* (93,826) PV16439 - **SHA HOLDINGS**
-* (107,230) PV119602 - **THE SEASCAPE MEDDAWATTA**
-* (120,634) PV118576 - **ZZAPPIT**
+* (26,807) PV00218900 - **DIGITAL MAKERS**
+* (40,210) PV00286675 - **GOLDEN CREATION**
+* (53,613) PV00225948 - **KAORI INTERNATIONAL**
+* (67,017) PV18814 - **MITHRA TRADING COMPANY**
+* (80,420) PV00261101 - **PRASANNA HIGASHI NIHON SURIRANKA**
+* (93,823) PV16439 - **SHA HOLDINGS**
+* (107,226) PV00230400 - **THE SEARCH BAR**
+* (120,630) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4411*
+*Sample of 10/4412*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (491)  - **BLACK SPACE**
@@ -64,7 +64,7 @@ Scraped **132,577** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-21 1
 * (2,941)  - **PRESTIGE REGENCY PROPERTIES**
 * (3,431)  - **SHREE ENERGY**
 * (3,921)  - **THINK WIDE MEDIA**
-* (4,411)  - **ZYNOWIX**
+* (4,412)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2785*
