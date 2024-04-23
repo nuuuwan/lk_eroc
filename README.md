@@ -2,31 +2,31 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,583** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-23 00:15:03*.
+Scraped **132,584** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-23 06:30:18*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/132583*
+*Sample of 10/132584*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,732) PV102592 - **BLUEBELL SAVOURY**
 * (29,463) PV00213561 - **DILA  RETREAT**
-* (44,195) PV00293075 - **GOOD SHEPHERD SOLUTIONS**
-* (58,926) PV00268284 - **KBCK ENTERPRISES**
-* (73,657) PV20841 - **MONDIAL IMPEX**
+* (44,195) PV104127 - **GOOD SHEPHERD CAMPUS**
+* (58,926) PV00274292 - **KB HOTELS AND RESORTS**
+* (73,658) PV130860 - **MONDO HOLDINGS**
 * (88,389) PV8775 - **PRINCE THEATRES**
-* (103,120) PV00225423 - **SEWA PIYASA**
-* (117,851) PV00213288 - **THE PICTURE HOUSE CREATIONS**
-* (132,583) PV118576 - **ZZAPPIT**
+* (103,121) PV2986 - **SEWAGAMA**
+* (117,852) PV00248380 - **THE PINK AUTO SHOP**
+* (132,584) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00295954 - **HUWASI CEYLON**
-* (112) PV00296183 - **PORT ASIA**
-* (223) PV00296451 - **KUMARYA AYURVED**
+* (1) PV00295957 - **LANKASEAL**
+* (112) PV00296184 - **KRAFT CAPITAL**
+* (223) PV00296453 - **LOFT-STUDIOS**
 * (334) PV00296725 - **HIGHGATE**
 * (445) PV00297033 - **SHINE TECHNOLOGY SOLUTIONS**
 * (556) PV00297341 - **BY WIRED**
@@ -39,32 +39,32 @@ Scraped **132,583** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-23 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/120654*
+*Sample of 10/120653*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,406) PV102439 - **BLUE OCEAN TRADING COMPANY**
 * (26,812) PV00227242 - **DIGITAL LENDING**
 * (40,218) PV00247891 - **GOLDEN CARE SIDDHA AYURVEDA HOSPITAL AND TRAINING INSTITUTE**
 * (53,624) PV72250 - **KANUMALE ENTERPRISES**
-* (67,030) PV130073 - **MISU LANKA HOLDINGS**
-* (80,436) PV00200965 - **PRASANNA GUEST HOUSE**
-* (93,842) PV00257907 - **SHA GLOBAL TRADERS**
-* (107,248) PV00251764 - **THE SCAPERS HUB**
-* (120,654) PV118576 - **ZZAPPIT**
+* (67,029) PV130073 - **MISU LANKA HOLDINGS**
+* (80,435) PV00200965 - **PRASANNA GUEST HOUSE**
+* (93,841) PV16439 - **SHA HOLDINGS**
+* (107,247) PV6019 - **THE SEA SHIPPING LINES**
+* (120,653) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4396*
+*Sample of 10/4397*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (489)  - **BLACK SPACE**
 * (977)  - **DEWON TEA & SPICES**
-* (1,466)  - **GLOBAL LANKA LOGISTICS**
-* (1,954)  - **KANAZAWA AUTO**
-* (2,442)  - **MOODY MOON**
-* (2,931)  - **PRO AUDIO LADS**
-* (3,419)  - **SIGMAXCELERATE**
-* (3,907)  - **THRIVE 360**
-* (4,396)  - **ZYNOWIX**
+* (1,466)  - **GLOBAL LANDSCAPE & GARDENS**
+* (1,954)  - **KAN STRATEGICAL SOLUTIONS**
+* (2,443)  - **MOODY MOON**
+* (2,931)  - **PRINTEX LANKA**
+* (3,420)  - **SIGMAXCELERATE**
+* (3,908)  - **THRIVE 360**
+* (4,397)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2779*
@@ -109,18 +109,18 @@ Scraped **132,583** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-23 0
 * (820) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
 
 ### "NF"
-*Sample of 10/510*
+*Sample of 10/511*
 ![data/word_clouds/word_cloud_NF.png](data/word_clouds/word_cloud_NF.png)
 * (1) NF137 - **AB FINLANKA**
 * (57) NF193 - **BRIGHT ELITE**
 * (114) NF637 - **EDEXCEL**
-* (170) NF282 - **HILDE & CO.**
+* (171) NF298 - **HITACHI PALNT ENGINEERING CONSTRUCTION CO**
 * (227) NF240 - **KOREA TELECOM INTERNATIONAL CO.**
-* (283) NF45 - **MOUNTAIN INDUSTRIES**
-* (340) NF158 - **POLSON ENTERPRISES**
-* (396) NF386 - **SKANSKA INTERNATIONAL CIVIL ENGINEERING AKTIOBOLAG**
-* (453) NF161 - **TOGETHER PRODUCTION**
-* (510) NF711 - **ZTE CORPORATION**
+* (284) NF263 - **MOUNTEL COMMUNICATIONS INTERNATIONAL B.V.**
+* (341) NF402 - **POLY - K - AMERICA INC.**
+* (397) NF386 - **SKANSKA INTERNATIONAL CIVIL ENGINEERING AKTIOBOLAG**
+* (454) NF161 - **TOGETHER PRODUCTION**
+* (511) NF711 - **ZTE CORPORATION**
 
 ### "FC"
 *Sample of 10/366*
