@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,691** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-24 22:16:04*.
+Scraped **132,691** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-25 00:15:07*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -39,32 +39,32 @@ Scraped **132,691** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-24 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/120753*
+*Sample of 10/120754*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,417) PV80211 - **BLUE OCEAN INVESTMENTS**
-* (26,834) PV00245496 - **DIGITAL FACE**
-* (40,251) PV116252 - **GOLDEN CARE RESIDENCE**
-* (53,668) PV94128 - **KANTHI INTERNATIONAL TRAVEL AGENCY**
-* (67,085) PV104916 - **MISTY HILLS ELLA RESORT**
-* (80,502) PV106870 - **PRASANNA MARINE EXPORTS**
-* (93,919) PV16439 - **SHA HOLDINGS**
-* (107,336) PV00291510 - **THE SECRET INGREDIENT**
-* (120,753) PV118576 - **ZZAPPIT**
+* (13,418) PV80211 - **BLUE OCEAN INVESTMENTS**
+* (26,835) PV00245496 - **DIGITAL FACE**
+* (40,252) PV116252 - **GOLDEN CARE RESIDENCE**
+* (53,669) PV94128 - **KANTHI INTERNATIONAL TRAVEL AGENCY**
+* (67,086) PV104916 - **MISTY HILLS ELLA RESORT**
+* (80,503) PV106870 - **PRASANNA MARINE EXPORTS**
+* (93,920) PV16439 - **SHA HOLDINGS**
+* (107,337) PV00291510 - **THE SECRET INGREDIENT**
+* (120,754) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4387*
+*Sample of 10/4386*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (488)  - **BIZFORMATIONS**
-* (975)  - **DESIGN MAGAZINE**
-* (1,463)  - **GLOBAL FORCE MART**
-* (1,950)  - **KANDY LEISURE HOLDINGS**
-* (2,437)  - **MOON LIGHT LANKA**
-* (2,925)  - **PROFITABLE AGRICULTURE**
-* (3,412)  - **SIHINA GROUP**
-* (3,899)  - **THUSITHA BANDARA CONSTRUCTION**
-* (4,387)  - **ZYNOWIX**
+* (488)  - **BIZNEZBEE**
+* (975)  - **DESTINY TOURS AND TRAVELS**
+* (1,462)  - **GLOBAL FORCE MART**
+* (1,949)  - **KANDY LEISURE HOLDINGS**
+* (2,437)  - **MOONHEART ACADEMY**
+* (2,924)  - **PROFITABLE AGRICULTURE**
+* (3,411)  - **SIHINA GROUP**
+* (3,898)  - **THUSITHA BANDARA CONSTRUCTION**
+* (4,386)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2788*
