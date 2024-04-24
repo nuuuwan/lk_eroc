@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,646** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-24 04:16:12*.
+Scraped **132,646** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-24 06:30:32*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -17,20 +17,20 @@ Scraped **132,646** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-24 0
 * (58,954) PV130521 - **KCHOICE**
 * (73,692)  - **MONEY MAX FUNDING**
 * (88,431) PV00251808 - **PRINKY HAIR & BEAUTY CORNER**
-* (103,169) PV00273630 - **SEWANA HARDWARE AND TOOLS**
-* (117,907) PV00249441 - **THE PLATFORM**
+* (103,169) PV00252847 - **SEWANA HOMES**
+* (117,907) PV00264602 - **THE PLATINUM EVENTS**
 * (132,646) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PCC00295997 - **GTN GROUP HOLDING LIMITED**
-* (112) PV00296246 - **HLK ACCESSORIES**
-* (223) PV00296536 - **TECHMART GADGET STORE**
-* (334) PV00296795 - **LAKNA TRADING**
-* (445) PV00297112 - **SJ GLOBAL CORPORATION**
-* (556) PV00297383 - **DCSL GROUP MARKETING**
-* (667) PV00297730 - **THAMOHANATHA**
+* (1) PCC00295998 - **I P D COLOMBO (PRIVATE) LIMITED.**
+* (112) GA00296250 - **KALAA RASIKA FOUNDATION**
+* (223) PV00296538 - **CAMBRIDGE INTERNATIONAL HOTEL SCHOOL**
+* (334) PV00296797 - **SAMUDRA FISH STALL**
+* (445) PV00297113 - **RATHNA HERBAL SPA & WELLNESS CENTER**
+* (556) PV00297394 - **NORTHERN GOLDEN ANCHOR**
+* (667) PV00297731 - **BEING**
 * (778) PV00298145 - **UNIQUE SOLAR SOLUTIONS**
 * (889) PV00298587 - **LANKA ROAD ENGINEER**
 * (1,000) PV00299543 - **LGJ SUPER CENTRE**
@@ -39,32 +39,32 @@ Scraped **132,646** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-24 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/120708*
+*Sample of 10/120707*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,412) PV107850 - **BLUE OCEAN SHIP REPAIR**
 * (26,824) PV00264387 - **DIGITAL HUSTLE**
 * (40,236) PV00220931 - **GOLDEN CEM HOLDINGS**
 * (53,648) PV63710 - **KANVIK**
-* (67,060) PV9264 - **MITCHELL**
-* (80,472) PV00270329 - **PRASANNA TRAVELS & TOURS**
-* (93,884) PV00241082 - **SHA LION**
-* (107,296) PV110104 - **THE SENSE DIGITAL**
-* (120,708) PV118576 - **ZZAPPIT**
+* (67,059) PV00224709 - **MITARA MERIDIAN**
+* (80,471) PV78598 - **PRASANNA TEA TRADE CENTER**
+* (93,883) PV00241082 - **SHA LION**
+* (107,295) PV110104 - **THE SENSE DIGITAL**
+* (120,707) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4389*
+*Sample of 10/4390*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (488)  - **BIZSTRIVE DIGITAL SOLUTIONS**
 * (976)  - **DEVIYANWAHANSEGE SABHAWA LOKADUTHA MEHEWARA SANGAMAYA**
-* (1,463)  - **GLOBAL FUTURE INVESTMENTS**
+* (1,464)  - **GLOBAL GATEWAY**
 * (1,951)  - **KANDY HYBRID LANKA**
-* (2,438)  - **MOONHEART ACADEMY**
-* (2,926)  - **PROMETHEUS CAPITAL VENTURES**
-* (3,413)  - **SIKURU 7**
-* (3,901)  - **THUSMILA LANKA**
-* (4,389)  - **ZYNOWIX**
+* (2,439)  - **MOONK APPAREL**
+* (2,927)  - **PROPERTECK**
+* (3,414)  - **SILAN SHUTTERS**
+* (3,902)  - **THYA INTERNATIONAL**
+* (4,390)  - **ZYNOWIX**
 
 ### "PB"
 *Sample of 10/2784*
