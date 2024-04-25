@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,751** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-25 22:16:27*.
+Scraped **132,751** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-26 00:15:12*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -17,8 +17,8 @@ Scraped **132,751** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-25 2
 * (59,001) PV00291623 - **KB HOLIDAYS LANKA TRAVEL**
 * (73,751) PV00232475 - **MONEY EXPRESS SERVICES & INVESTMENT**
 * (88,501) PV20758 - **PRINT ANIMATION**
-* (103,251) PV00260599 - **SEWIN ENGINEERING & CONSTRUCTIONS**
-* (118,001) PV00248380 - **THE PINK AUTO SHOP**
+* (103,251) PV00217621 - **SEWIN ENTERPRISES**
+* (118,001) PV00206658 - **THE PINK FOX RESORT**
 * (132,751) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
@@ -39,7 +39,7 @@ Scraped **132,751** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-25 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/120818*
+*Sample of 10/120817*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,425) PV103654 - **BLUE OCEAN CONSULTANCY BUREAU**
@@ -48,9 +48,9 @@ Scraped **132,751** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-25 2
 * (53,697) PV13758 - **KANTHISIRI TRADE CENTER**
 * (67,121) PV00206324 - **MISTORIA ESTATE AGENCY LANKA**
 * (80,545) PV00295181 - **PRASANNA NARANGODA CONSULTANTS**
-* (93,969) PV63845 - **SHA MOBILE NETWORK SYSTEMS**
-* (107,393) PV00271247 - **THE SEAD**
-* (120,818) PV118576 - **ZZAPPIT**
+* (93,969) PV76430 - **SHA MODERN HOMES**
+* (107,393) PV87121 - **THE SEAFOOD FACTORY**
+* (120,817) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4392*
@@ -63,7 +63,7 @@ Scraped **132,751** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-25 2
 * (2,440)  - **MOTHER OF SPICES (MOS)**
 * (2,928)  - **PS TRADING LANKA**
 * (3,416)  - **SILVER AQUATIC INTERNATIONAL**
-* (3,904)  - **THRIVE CEYLON SPICES**
+* (3,904)  - **THUMBS UP**
 * (4,392)  - **ZYNOWIX**
 
 ### "PB"
@@ -81,18 +81,18 @@ Scraped **132,751** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-25 2
 * (2,788) PB118 - **ZYREX POWER COMPANY**
 
 ### "GA"
-*Sample of 10/2363*
+*Sample of 10/2364*
 ![data/word_clouds/word_cloud_GA.png](data/word_clouds/word_cloud_GA.png)
 * (1) GA00213478 - **A QUINT ONDAATJE FOUNDATION**
 * (263) GA3116 - **BJOERN STEIGER FOUNDATION**
-* (525) GA659 - **DABINDU COLLECTIVE**
+* (526) GA00257667 - **DADDY FOUNDATION**
 * (788) GA713 - **GROUP ACTION FOR SOCIAL ORDER**
-* (1,050) GA343 - **JESUS SAVIOUR EVENGELICAL MINISTRIES**
+* (1,051) GA704 - **JESUS SOLVES ALL PROBLEMS SOLVING SERVICE**
 * (1,313) GA2737 - **MERCY COMMUNITY CENTRE**
-* (1,575) GA00288853 - **PODU URUMA SURAKEEME SANVIDHANAYA**
+* (1,576) GA724 - **PODUJANA HIMIKAM KAMITUWA**
 * (1,838) GA00245932 - **SIW HELAYE DARUWO**
-* (2,100) GA00276787 - **THE JAFFNA TEACHING HOSPITAL FOUNDATION**
-* (2,363) GA470 - **ZONTA CLUB II OF COLOMBO**
+* (2,101) GA00240607 - **THE JAPANESE TRUST BRIDGE**
+* (2,364) GA470 - **ZONTA CLUB II OF COLOMBO**
 
 ### "GL"
 *Sample of 10/810*
