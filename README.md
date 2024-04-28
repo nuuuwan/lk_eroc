@@ -2,29 +2,29 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **132,780** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-28 04:15:16*.
+Scraped **132,783** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-28 06:30:23*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/132780*
+*Sample of 10/132783*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,754) PV69411 - **BLUE WHALE GROUP**
-* (29,507) PV00217071 - **DIKAP  TRADING  &  MANUFACTURING**
-* (44,260) PV00247681 - **GOOD HEALTH SALOON & SPA**
-* (59,013) PV60797 - **KAYU INTERNATIONAL**
-* (73,767) PV00232475 - **MONEY EXPRESS SERVICES & INVESTMENT**
-* (88,520) PV12880 - **PRINT COLLECTION**
-* (103,273) PV117227 - **SEWMINI MULTI INVESTMENT**
-* (118,026) PV00271347 - **THE PLUSH SALON**
-* (132,780) PV118576 - **ZZAPPIT**
+* (14,754) PV00203171 - **BLUE WHALE FOOD AND BEVERAGE**
+* (29,508) PV12050 - **DIJITWAY ESYS**
+* (44,261) GA00238544 - **GOOD HANDS INITIATIVES**
+* (59,015) PV20136 - **KAYTEES CREATIVE PROMOTIONS**
+* (73,768) PV124603 - **MONEX INVESTMENT & BUSINESS SOLUTIONS**
+* (88,522) PV106883 - **PRINT CITY LANKA**
+* (103,275)  - **SEWMINI MARKETING**
+* (118,029) PV00271347 - **THE PLUSH SALON**
+* (132,783) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00296223 - **PEARL GATEWAY SOLUTIONS**
+* (1) PV00296225 - **IADD RESORTS & SPA**
 * (112) PV00296498 - **AABID FABRIC IMPORTERS**
 * (223) PV00296748 - **COLS EXPORTS**
 * (334) PV00297025 - **VTRADING ASIA**
@@ -39,32 +39,32 @@ Scraped **132,780** Companies ([4.10MB](data/companies.tsv)) as of *2024-04-28 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/120823*
+*Sample of 10/120825*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,425) PV112705 - **BLUE OCEAN FACILITIES MANAGEMENT**
-* (26,850) PV00226566 - **DIGITAL GENICS**
-* (40,275) PV66341 - **GOLD SQUARE INTERNATIONAL**
-* (53,699) PV00280315 - **KANSAI ABE INTERNATIONALS**
-* (67,124) PV00224637 - **MISTER GUNS**
-* (80,549) PV00270329 - **PRASANNA TRAVELS & TOURS**
-* (93,973) PV00272453 - **SHA SHA SECURITY   SERVICES AND   MANPOWER**
-* (107,398) PV107781 - **THE SELLING EDGE**
-* (120,823) PV118576 - **ZZAPPIT**
+* (13,425) PV101946 - **BLUE OCEAN CAPITAL**
+* (26,850) PV00223595 - **DIGITAL GARA**
+* (40,275) PV00212880 - **GOLD SEA LANKA GENERAL TRADING**
+* (53,700) PV00213529 - **KANROTA FIBER EXPORT**
+* (67,125) PV00259978 - **MISTER AM ENTERPRISE**
+* (80,550) PV78598 - **PRASANNA TEA TRADE CENTER**
+* (93,975) PV00272453 - **SHA SHA SECURITY   SERVICES AND   MANPOWER**
+* (107,400) PV107781 - **THE SELLING EDGE**
+* (120,825) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4402*
+*Sample of 10/4403*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (490)  - **BITZ  IT**
 * (979)  - **DERMA BLISS**
-* (1,468)  - **GLOBAL IMPORTS INTERNATIONAL**
-* (1,957)  - **KARIYAKARAWANA TRAINING INSTITUTE**
-* (2,446)  - **MOTO MAXTA.LK**
-* (2,935)  - **PROXICO**
-* (3,424)  - **SILVER LANKA IMPORTS**
-* (3,913)  - **THUMBS UP**
-* (4,402)  - **ZZ PRESTIGE MOTORS**
+* (1,468)  - **GLOBAL HOLIDAY CONNECTIONS**
+* (1,957)  - **KARATS AND FACETS**
+* (2,446)  - **MOTHER’S FOOD LANKA**
+* (2,935)  - **PROTOMED C M F**
+* (3,424)  - **SILVER AQUATIC INTERNATIONAL**
+* (3,913)  - **THRIVE CEYLON SPICES**
+* (4,403)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2786*
