@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,005** Companies ([4.11MB](data/companies.tsv)) as of *2024-05-02 08:16:48*.
+Scraped **133,007** Companies ([4.11MB](data/companies.tsv)) as of *2024-05-02 10:16:10*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133005*
+*Sample of 10/133007*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,779) PV00279619 - **BLUE WAVES LANKAN**
 * (29,557) PV00284003 - **DIGIXPERT SOLUTIONS**
-* (44,335) PV00247681 - **GOOD HEALTH SALOON & SPA**
-* (59,113) PV106655 - **KAYVEE''S RESTARANTS**
-* (73,892) PV72041 - **MONERAGALA PAPER BOARDS**
-* (88,670) PV919 - **PRINT LINE**
-* (103,448) PV00226286 - **SEVONRICH CREATION**
-* (118,226) PV00248297 - **THE PINK ACADEMY**
-* (133,005) PV118576 - **ZZAPPIT**
+* (44,336) GA00238544 - **GOOD HANDS INITIATIVES**
+* (59,114) PV17036 - **KAYPRO LIVESTOCK AND AGRI FARM**
+* (73,893)  - **MONE**
+* (88,671) PV00276108 - **PRINT HUB**
+* (103,450) PV97764 - **SEVON ENGINEERING**
+* (118,228) PV122068 - **THE PICASSO THE ACADEMY OF CULINARY ARTS**
+* (133,007) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **133,005** Companies ([4.11MB](data/companies.tsv)) as of *2024-05-02 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121046*
+*Sample of 10/121048*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,450) PV111592 - **BLUE NATIONS**
-* (26,899) PV8048 - **DIGITAL DATA SYSTEMS  [N(PVS) 39811]**
-* (40,349) PV90631 - **GOLD N GREEN**
-* (53,798) PV00268756 - **KANTEX**
-* (67,248) PV00246597 - **MISTER LANKA HOLDINGS**
-* (80,697) PV96692 - **PRASANNA WINE STORES**
-* (94,147) PV00260045 - **SGM APPARELS**
-* (107,596) PV00290742 - **THE SANDCASTLE**
-* (121,046) PV118576 - **ZZAPPIT**
+* (26,900) PV00254918 - **DIGITAL DEVELOPMENT COOPERATION**
+* (40,350) PV00218118 - **GOLD MARK PLANTATION**
+* (53,799) PV101638 - **KANTA SNACK**
+* (67,249) PV00259978 - **MISTER AM ENTERPRISE**
+* (80,699) PV78598 - **PRASANNA TEA TRADE CENTER**
+* (94,148) PV00285077 - **SG VENTURES**
+* (107,598) PV92762 - **THE SANCTUARY BOUTIQUE BUNGALOW KANDY**
+* (121,048) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4396*
