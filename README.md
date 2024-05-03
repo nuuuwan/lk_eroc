@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,144** Companies ([4.11MB](data/companies.tsv)) as of *2024-05-03 20:14:51*.
+Scraped **133,144** Companies ([4.11MB](data/companies.tsv)) as of *2024-05-03 22:16:12*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -15,9 +15,9 @@ Scraped **133,144** Companies ([4.11MB](data/companies.tsv)) as of *2024-05-03 2
 * (29,588) PV00233336 - **DIKSHAA IMPORTS**
 * (44,382) PV114036 - **GOOD RICH**
 * (59,175) PV1589 - **KEANGNAM READYMIX**
-* (73,969) PV00224552 - **MONOPOLY PACKAGING**
-* (88,763) PV91024 - **PRINTPAL**
-* (103,556)  - **SEYANSA GAS DISTRIBUTORS**
+* (73,969) PV00207248 - **MONORAIL . L K**
+* (88,763) PV128095 - **PRINTS & TRIMS**
+* (103,556) PV00281500 - **SEYANSA PHARMACY**
 * (118,350) PV00262503 - **THE PETAL COLLECTIVE**
 * (133,144) PV118576 - **ZZAPPIT**
 
@@ -39,32 +39,32 @@ Scraped **133,144** Companies ([4.11MB](data/companies.tsv)) as of *2024-05-03 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121145*
+*Sample of 10/121146*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,461) PV00253212 - **BLUE OCEAN AQUA**
-* (26,921) PV00252594 - **DIGITAL EQUITY SOLUTIONS LANKA**
+* (26,922) PV127846 - **DIGITAL EVOLUTION**
 * (40,382) PV70633 - **GOLDEN APPLE GROUP OF COMPANIES**
-* (53,842) PV00295585 - **KANWAY INTERNATIONAL**
+* (53,843) PV105997 - **KANWILL ENVIRONMENTAL SOLUTIONS**
 * (67,303) PV10516 - **MITECH COMPUTER SYSTEMS**
-* (80,763) PV00285870 - **PRATHI COSMIC**
-* (94,224) PV63845 - **SHA MOBILE NETWORK SYSTEMS**
-* (107,684) PV98470 - **THE SALAD BAR**
-* (121,145) PV118576 - **ZZAPPIT**
+* (80,764) PV00285870 - **PRATHI COSMIC**
+* (94,224) PV67105 - **SHA MEDICALS**
+* (107,685) PV98470 - **THE SALAD BAR**
+* (121,146) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4411*
+*Sample of 10/4410*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (491)  - **BKT GROUP**
-* (981)  - **DEVON E & CT**
-* (1,471)  - **GLORIOUS IMPEX**
-* (1,961)  - **KAO VENTURES SOLUTIONS**
-* (2,451)  - **MPOWERR ENTERPRISE**
-* (2,941)  - **PUT2KADE**
-* (3,431)  - **SINDY'S STORE**
-* (3,921)  - **TIANJ**
-* (4,411)  - **ZZ PRESTIGE MOTORS**
+* (490)  - **BIZSTRIVE DIGITAL SOLUTIONS**
+* (980)  - **DEVIYANWAHANSEGE SABHAWA LOKADUTHA MEHEWARA SANGAMAYA**
+* (1,470)  - **GLORIOUS EVENT ORGANISERS**
+* (1,960)  - **KANVIK GLOBAL**
+* (2,450)  - **MPOWERR ENTERPRISE**
+* (2,940)  - **PUTTALAM 2 PROPERTY**
+* (3,430)  - **SINGHA CLEARING AND TRANSPORT**
+* (3,920)  - **TIANJ**
+* (4,410)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2811*
