@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,277** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-05 00:15:07*.
+Scraped **133,280** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-05 02:15:09*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133277*
+*Sample of 10/133280*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,809) PV00221193 - **BLUE WINGS TRADING**
-* (29,617) PV98536 - **DILAKSHITHA EXPORTS**
-* (44,426) PV14890 - **GOODE ESTATES**
-* (59,234) GA3330 - **KEERTHI DISSANAYAKE FOUNDATION**
-* (74,043) PV106863 - **MOON LIGHT RESTAURENT AND SPA**
-* (88,851) PV102586 - **PRIYANKARA CONSTRUCTION**
-* (103,660) PV00275180 - **SGR TYRE COMPANY**
-* (118,468) PV00284547 - **THE PHEONIX TRAVELS**
-* (133,277) PV118576 - **ZZAPPIT**
+* (29,618) PV98536 - **DILAKSHITHA EXPORTS**
+* (44,427) PV14890 - **GOODE ESTATES**
+* (59,236) PV115365 - **KEERTHI DISTRIBUTORS**
+* (74,044) PV106863 - **MOON LIGHT RESTAURENT AND SPA**
+* (88,853) PV00287706 - **PRIYANKARA ELECTRONICS**
+* (103,662) PV00270815 - **SH AUTO TRADING**
+* (118,471) PV00284547 - **THE PHEONIX TRAVELS**
+* (133,280) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **133,277** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-05 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121264*
+*Sample of 10/121266*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,474) PV00221303 - **BLUE OCEAN ISLAND HOLDINGS - COLOMBO**
 * (26,948) PV00210510 - **DIGITAL LABS ASIA**
 * (40,422) PV00270571 - **GOLDEN CHEF TRADING COMPANY**
-* (53,895) PV93284 - **KAPRUKA GLOBAL SHOP**
-* (67,369) PV00249763 - **MIXWORK**
-* (80,843) PV21374 - **PREFER ASSOCIATES**
-* (94,316) PV00295244 - **SHADY LANE RETAIL**
-* (107,790) PV95360 - **THE SEVEN SPIRITUAL RESORT**
-* (121,264) PV118576 - **ZZAPPIT**
+* (53,896) PV66737 - **KAPRUKA HOME DESIGN**
+* (67,370) PV00290080 - **MIXX ART**
+* (80,844) PV00269495 - **PREFER LANKA**
+* (94,318) PV73109 - **SHAEERO ASSOCIATES**
+* (107,792) PV95360 - **THE SEVEN SPIRITUAL RESORT**
+* (121,266) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4403*
+*Sample of 10/4404*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (490)  - **BKT GROUP**
-* (979)  - **DEVIYANWAHANSEGE SABHAWA LOKADUTHA MEHEWARA SANGAMAYA**
-* (1,468)  - **GLORY INTERNATIONAL EDUCATION CONSULTANCY**
-* (1,957)  - **KARIYAKARAWANA TRAINING INSTITUTE**
-* (2,446)  - **MRC FABRICS**
-* (2,935)  - **QACCOUNTING SOLUTION**
-* (3,424)  - **SINTECH LANKA**
-* (3,913)  - **TIANJ**
-* (4,403)  - **ZZ PRESTIGE MOTORS**
+* (979)  - **DEVBASE**
+* (1,468)  - **GLORIOUS IMPEX**
+* (1,957)  - **KARATS AND FACETS**
+* (2,447)  - **MRC FABRICS**
+* (2,936)  - **QACCOUNTING SOLUTION**
+* (3,425)  - **SINTECH LANKA**
+* (3,914)  - **TIANJ**
+* (4,404)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2820*
