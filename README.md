@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,298** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-05 20:15:22*.
+Scraped **133,294** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-05 22:15:53*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133298*
+*Sample of 10/133294*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,811) PV110051 - **BLUEBELL JOURNEY**
-* (29,622) PV00216258 - **DILAN FASHION HOUSE**
-* (44,433) NF431 - **GOODMAN CO.**
-* (59,244) PV00217933 - **KEERTHI TRADE CENTRE**
-* (74,054) PV106863 - **MOON LIGHT RESTAURENT AND SPA**
-* (88,865) PV111182 - **PRIYANI VISA CONSULTATION**
-* (103,676) PV114741 - **SGATS WIN**
-* (118,487) PV00284547 - **THE PHEONIX TRAVELS**
-* (133,298) PV118576 - **ZZAPPIT**
+* (29,621) PV00283442 - **DILAN KONARA INTERNATIONAL**
+* (44,432) PV00296549 - **GOODMAX LANKA**
+* (59,242) PV70979 - **KEERTHIGA CONSTRUCTION**
+* (74,052) PV00226028 - **MOON MART**
+* (88,863) PV101097 - **PRIYANKA KARTHIKA**
+* (103,673)  - **SGD STUDY ABROAD CONSULTANTS**
+* (118,483) PV00284547 - **THE PHEONIX TRAVELS**
+* (133,294) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **133,298** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-05 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121274*
+*Sample of 10/121270*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,475) PV102439 - **BLUE OCEAN TRADING COMPANY**
-* (26,950) PV00246481 - **DIGITAL MARKETING STRATEGIES**
-* (40,425) PV105366 - **GOLDEN CROWN SALOONS**
-* (53,900) PV5416 - **KAPUSALA GARDENS**
-* (67,374) PV98869 - **MIYANKAN TRADING LANKA**
-* (80,849) PV00252865 - **PREEMINENT HOLDINGS**
-* (94,324) PV8639 - **SHADOWLINE**
-* (107,799) PV00279136 - **THE SHAHE BRIDAL & AARI EMBROIDERY**
-* (121,274) PV118576 - **ZZAPPIT**
+* (26,949) PV00223342 - **DIGITAL MATRIX**
+* (40,424) PV102117 - **GOLDEN DOME**
+* (53,898) PV00271961 - **KAPUWELLA ESTATE**
+* (67,372) PV00210976 - **MIYOMEX RESIDENCIES**
+* (80,847) PV21374 - **PREFER ASSOCIATES**
+* (94,321) PV86783 - **SHADY HEAVEN**
+* (107,795) PV00279136 - **THE SHAHE BRIDAL & AARI EMBROIDERY**
+* (121,270) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4410*
