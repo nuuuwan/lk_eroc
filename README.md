@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,303** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-06 00:15:38*.
+Scraped **133,305** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-06 02:15:13*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133303*
+*Sample of 10/133305*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,812) PV102595 - **BLUEBELL PATISSERIE**
-* (29,623) PV103062 - **DILAN QUARRIES & CONSTRUCTIONS**
-* (44,435) PV00288936 - **GOODMAX INTERNATIONAL**
-* (59,246) PV70979 - **KEERTHIGA CONSTRUCTION**
-* (74,057)  - **MOON MEDIA**
-* (88,869) PV00292008 - **PRIYANKA RATHNAYAKE  PHOTOGRAPHY AND DESIGNER WEAR**
-* (103,680) PV00285077 - **SG VENTURES**
-* (118,491) PV68706 - **THE PHARMACY A.P.Y.**
-* (133,303) PV118576 - **ZZAPPIT**
+* (14,812) PV00232242 - **BLUEBELL ENTERPRISES**
+* (29,624)  - **DILAN KONG S G**
+* (44,435) NF431 - **GOODMAN CO.**
+* (59,247) PV89612 - **KEERTHI TRADERS**
+* (74,058) PV00226028 - **MOON MART**
+* (88,870) PV00245606 - **PRIYANKA MOTOR TRADING**
+* (103,681) PV00290384 - **SG AGRO HUB**
+* (118,493) PV68706 - **THE PHARMACY A.P.Y.**
+* (133,305) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -42,7 +42,7 @@ Scraped **133,303** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-06 0
 *Sample of 10/121282*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,476) PV61714 - **BLUE OCEAN TRANS SHIPPING**
+* (13,476) PV102439 - **BLUE OCEAN TRADING COMPANY**
 * (26,952) PV00274859 - **DIGITAL MEDICAL**
 * (40,428) PV00260732 - **GOLDEN CROWN SECURITY**
 * (53,903) PV5416 - **KAPUSALA GARDENS**
@@ -53,18 +53,18 @@ Scraped **133,303** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-06 0
 * (121,282) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4405*
+*Sample of 10/4407*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (490)  - **BIZFORMATIONS**
-* (979)  - **DESIGN MAGAZINE**
-* (1,469)  - **GLORIOUS IMPEX**
-* (1,958)  - **KAO VENTURES SOLUTIONS**
-* (2,447)  - **MR BIRIYANI**
-* (2,937)  - **PV IT BUSINESS SOLUTIONS**
-* (3,426)  - **SIPWAY HIGHER EDUCATION**
-* (3,915)  - **TICASS KITCHEN AND CAFFEE**
-* (4,405)  - **ZZ PRESTIGE MOTORS**
+* (490)  - **BIZ-WIZ**
+* (980)  - **DESIGN HUB INNOVATIONS**
+* (1,469)  - **GLOIRE INTERNATIONAL**
+* (1,959)  - **KANVIK GLOBAL**
+* (2,448)  - **MR BARBER**
+* (2,938)  - **PUTTALAM 2 PROPERTY**
+* (3,427)  - **SIONIX CONSULTANT**
+* (3,917)  - **TICASS KITCHEN AND CAFFEE**
+* (4,407)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2819*
