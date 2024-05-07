@@ -2,30 +2,30 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,330** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-07 06:30:20*.
+Scraped **133,336** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-07 08:21:18*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133330*
+*Sample of 10/133336*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,815) PV00232242 - **BLUEBELL ENTERPRISES**
-* (29,629) PV00283442 - **DILAN KONARA INTERNATIONAL**
-* (44,444) PV00296549 - **GOODMAX LANKA**
-* (59,258) PV00226348 - **KEETH HOLDINGS**
-* (74,072) PV89372 - **MOON STAR MOBILES**
-* (88,887) PV102586 - **PRIYANKARA CONSTRUCTION**
-* (103,701) PV00295145 - **SG ACCESS ENTERPRISES**
-* (118,515) PV00284547 - **THE PHEONIX TRAVELS**
-* (133,330) PV118576 - **ZZAPPIT**
+* (14,816) PV110051 - **BLUEBELL JOURNEY**
+* (29,631)  - **DILAN KONG S G**
+* (44,446) PV00231210 - **GOODMAX HOLDINGS**
+* (59,261) PV00264030 - **KEESO**
+* (74,076) PV89372 - **MOON STAR MOBILES**
+* (88,891) PV00244564 - **PRIYANKARA  LANKA MOTOR TRADERS**
+* (103,706) PV00295145 - **SG ACCESS ENTERPRISES**
+* (118,521) PV00237693 - **THE PHONE BOOTH**
+* (133,336) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00296897 - **SAMRON LITTLE MIRACLE**
-* (112) PV00297161 - **VITHTHAKAM INTERNATIONAL**
+* (1) PV00296898 - **TISAKHYA**
+* (112) PV00297162 - **AL HUSSAIN TRAVELS**
 * (223) PV00297411 - **WEST COAST TATTOO STUDIO**
 * (334) PV00297665 - **FISHNET LK**
 * (445) PV00297939 - **RUMAS HOLDING**
@@ -39,32 +39,32 @@ Scraped **133,330** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-07 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121318*
+*Sample of 10/121323*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,480) PV00218211 - **BLUE ONE OCEAN**
-* (26,960) PV00262601 - **DIGITAL MY BUSINESS**
-* (40,440) PV00238294 - **GOLDEN ELITE INTERNATIONAL**
-* (53,919) PV00247817 - **KARAK LANKA**
-* (67,399) PV00293308 - **MIZZTY CLOTHING COMPANY**
-* (80,879) PV7478 - **PREMADASA AGENCIES**
-* (94,358) PV67659 - **SHADOW WATCH SECURITY & INVESTIGATION SERVICES**
-* (107,838) PV113129 - **THE SHIELD ADJUSTERS**
-* (121,318) PV118576 - **ZZAPPIT**
+* (13,481) PV00214223 - **BLUE OZONE HEALTH CARE CENTER**
+* (26,961) PV00224097 - **DIGITAL NANNY GLOBAL**
+* (40,441) PV00203694 - **GOLDEN EAZY CASH**
+* (53,921) PV89722 - **KARAINAGAR BEACH RESORTS**
+* (67,402) PV00293308 - **MIZZTY CLOTHING COMPANY**
+* (80,882) PV4946 - **PREMACHANDRA PLANTATIONS**
+* (94,362) PV67659 - **SHADOW WATCH SECURITY & INVESTIGATION SERVICES**
+* (107,842) PV113129 - **THE SHIELD ADJUSTERS**
+* (121,323) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4399*
+*Sample of 10/4400*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (489)  - **BIZ FIRST CONSULTANTS**
-* (978)  - **DEONEX**
-* (1,467)  - **GLOBAL PLANIT**
-* (1,955)  - **KANDY CHROMA**
-* (2,444)  - **MOTOWN ACADEMY FOR MUSIC**
-* (2,933)  - **PURE NATURAL**
-* (3,421)  - **SINGHA SHOES**
-* (3,910)  - **TICASS KITCHEN AND CAFFEE**
-* (4,399)  - **ZZ PRESTIGE MOTORS**
+* (978)  - **DENSU DENTURES**
+* (1,467)  - **GLOBAL PET EXPRESS**
+* (1,956)  - **KANDY CHROMA**
+* (2,444)  - **MOTOR CASTLE**
+* (2,933)  - **PURE CEYLON ESSENCE**
+* (3,422)  - **SINGHA SHOES**
+* (3,911)  - **TICASS KITCHEN AND CAFFEE**
+* (4,400)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2819*
