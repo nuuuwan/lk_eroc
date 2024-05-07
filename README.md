@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,345** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-07 12:16:37*.
+Scraped **133,345** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-07 14:15:18*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -13,9 +13,9 @@ Scraped **133,345** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-07 1
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,817)  - **BLUE WHITE TRADING**
 * (29,633) PV98536 - **DILAKSHITHA EXPORTS**
-* (44,449) PV00221811 - **GOODFOLKS**
-* (59,265) PV7606 - **KEERTHI FOOD CITY**
-* (74,081) PV00257999 - **MOON MOBILE STORE**
+* (44,449) PV00274868 - **GOODFELLAS TATTOO STUDIO AND ACADEMY**
+* (59,265) PV115365 - **KEERTHI DISTRIBUTORS**
+* (74,081)  - **MOON MEDIA**
 * (88,897) PV124476 - **PRIYANGA PROPERTIES AND DEVELOPERS**
 * (103,713) PV00265351 - **SFM GROUP OF COMPANY**
 * (118,529) PV00284547 - **THE PHEONIX TRAVELS**
@@ -24,8 +24,8 @@ Scraped **133,345** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-07 1
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00296906 - **LANKA WELCOME CARGO**
-* (112) PV00297164 - **WE TRAVEL LANKA**
+* (1) PV00296907 - **LOYAL SHINE**
+* (112) PV00297165 - **ARMANI ENTERPRISES**
 * (223) PV00297415 - **UBAY GUEST AND RESTAURANT**
 * (334) PV00297670 - **UNF INTERNATIONAL**
 * (445) PV00297947 - **SOLIDCORE CONSTRUCTIONS**
@@ -58,9 +58,9 @@ Scraped **133,345** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-07 1
 * (1)  - **A AND Y COMMODITIES**
 * (489)  - **BIZ-WIZ**
 * (978)  - **DEONEX**
-* (1,467)  - **GLOBAL PLANIT**
-* (1,956)  - **KANDY CHROMA**
-* (2,444)  - **MOTOR CASTLE**
+* (1,467)  - **GLOBAL PET EXPRESS**
+* (1,956)  - **KANDEEPAN ENTERPRISE**
+* (2,444)  - **MOTO MAXTA.LK**
 * (2,933)  - **PURE CEYLON ESSENCE**
 * (3,422)  - **SINGHA SHOES**
 * (3,911)  - **TICASS KITCHEN AND CAFFEE**
