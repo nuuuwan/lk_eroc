@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,342** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-08 10:15:33*.
+Scraped **133,347** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-08 12:15:35*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133342*
+*Sample of 10/133347*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,816) PV00246364 - **BLUE WHALES OCEAN HOLDING**
-* (29,632) PV00296640 - **DILAAN SUPER MARKET**
-* (44,448) PV18813 - **GOOD VALUE IMPORTERS**
-* (59,263) PV00267487 - **KEENBRIDGE ENGLISH ACADEMIC**
-* (74,079) PV1986 - **MOON BEAUTY CARE**
-* (88,895) PV70788 - **PRIVILEDGE HOLDINGS**
-* (103,710) PV81225 - **SEYNURA NATURA OILS & SPICES**
-* (118,526) GL00298657 - **THE PEKOE TRAIL COMPANY**
-* (133,342) PV118576 - **ZZAPPIT**
+* (14,817)  - **BLUE WHITE TRADING**
+* (29,633) PV100772 - **DILAD SOLUTIONS**
+* (44,449) PV14322 - **GOOD VALUE MARKETING**
+* (59,265) PV131076 - **KEENFA**
+* (74,082) PV1986 - **MOON BEAUTY CARE**
+* (88,898) PV106644 - **PRIVELTH GLOBAL TRADING **
+* (103,714) PV81225 - **SEYNURA NATURA OILS & SPICES**
+* (118,530) GL00298657 - **THE PEKOE TRAIL COMPANY**
+* (133,347) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **133,342** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-08 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121335*
+*Sample of 10/121339*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,482) PV00286193 - **BLUE OCEAN PEARL**
-* (26,964) PV00271387 - **DIGITAL MARKETING & BROADCASTING CORPORATION**
-* (40,445) PV00270571 - **GOLDEN CHEF TRADING COMPANY**
-* (53,927) PV00249845 - **KAPUKOTUWA SUPER**
-* (67,408) PV00223171 - **MIYOSHI INTERNATIONAL**
-* (80,890) PV00220574 - **PRECISION TRADING**
-* (94,371) PV70412 - **SHADETREE PRODUCTIONS**
-* (107,853) PV00297372 - **THE SECOND HOME TRAVELS**
-* (121,335) PV118576 - **ZZAPPIT**
+* (13,483) PV84899 - **BLUE OCEAN PROPERTIES**
+* (26,965) PV00225659 - **DIGITAL MARKETING & WEB SOLUTIONS**
+* (40,447) PV129970 - **GOLDEN COAT**
+* (53,929) PV5416 - **KAPUSALA GARDENS**
+* (67,411) PV00223171 - **MIYOSHI INTERNATIONAL**
+* (80,893) PV00284306 - **PRECISION TEX LANKA**
+* (94,375) PV70412 - **SHADETREE PRODUCTIONS**
+* (107,857) PV00297372 - **THE SECOND HOME TRAVELS**
+* (121,339) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4397*
+*Sample of 10/4398*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (489)  - **BIZ-WIZ**
-* (977)  - **DERMA BLISS**
+* (978)  - **DESCOLOMBO.LK**
 * (1,466)  - **GLOBAL TRADE CONQUERORS**
-* (1,954)  - **KANDY LEISURE HOLDINGS**
+* (1,955)  - **KANDY SUPER TITANIUM AND CONSTRUCTION**
 * (2,443)  - **MOTOWN ACADEMY FOR MUSIC**
-* (2,931)  - **PURE CEYLON ESSENCE**
+* (2,932)  - **PURE NATURAL**
 * (3,420)  - **SINOX LANKA**
-* (3,908)  - **TICASS KITCHEN AND CAFFEE**
-* (4,397)  - **ZZ PRESTIGE MOTORS**
+* (3,909)  - **TICKET SURF**
+* (4,398)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2824*
