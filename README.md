@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,347** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-08 12:15:35*.
+Scraped **133,348** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-08 18:23:32*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133347*
+*Sample of 10/133348*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,817)  - **BLUE WHITE TRADING**
 * (29,633) PV100772 - **DILAD SOLUTIONS**
-* (44,449) PV14322 - **GOOD VALUE MARKETING**
-* (59,265) PV131076 - **KEENFA**
+* (44,450) PV00295260 - **GOOD VENTURES LANKA**
+* (59,266) PV00276940 - **KEENKOL TECHNOLOGIES**
 * (74,082) PV1986 - **MOON BEAUTY CARE**
-* (88,898) PV106644 - **PRIVELTH GLOBAL TRADING **
-* (103,714) PV81225 - **SEYNURA NATURA OILS & SPICES**
-* (118,530) GL00298657 - **THE PEKOE TRAIL COMPANY**
-* (133,347) PV118576 - **ZZAPPIT**
+* (88,899) PV106644 - **PRIVELTH GLOBAL TRADING **
+* (103,715) PV81225 - **SEYNURA NATURA OILS & SPICES**
+* (118,531) GL00298657 - **THE PEKOE TRAIL COMPANY**
+* (133,348) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -31,8 +31,8 @@ Scraped **133,347** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-08 1
 * (445) PV00297975 - **CMYK PRINT SOLUTIONS**
 * (556) PV00298269 - **THE SPLEND BEAUTICARE**
 * (667) PV00298587 - **LANKA ROAD ENGINEER**
-* (778) PV00298944 - **JOHN ASIA LEISURE**
-* (889) PV00299420 - **VDL CEYLON**
+* (778) PV00298937 - **ASIAN CREDIT & MARKETING**
+* (889) PV00299413 - **RITIGALA ENTERPRISES**
 * (1,000) PV00300282 - **RUS’MA ELITE**
 
 
@@ -47,24 +47,24 @@ Scraped **133,347** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-08 1
 * (40,447) PV129970 - **GOLDEN COAT**
 * (53,929) PV5416 - **KAPUSALA GARDENS**
 * (67,411) PV00223171 - **MIYOSHI INTERNATIONAL**
-* (80,893) PV00284306 - **PRECISION TEX LANKA**
+* (80,893) PV66733 - **PRECISION OPTICS**
 * (94,375) PV70412 - **SHADETREE PRODUCTIONS**
 * (107,857) PV00297372 - **THE SECOND HOME TRAVELS**
 * (121,339) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4398*
+*Sample of 10/4399*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (489)  - **BIZ-WIZ**
 * (978)  - **DESCOLOMBO.LK**
-* (1,466)  - **GLOBAL TRADE CONQUERORS**
+* (1,467)  - **GLOBAL TRAVEL MASTER**
 * (1,955)  - **KANDY SUPER TITANIUM AND CONSTRUCTION**
-* (2,443)  - **MOTOWN ACADEMY FOR MUSIC**
-* (2,932)  - **PURE NATURAL**
-* (3,420)  - **SINOX LANKA**
-* (3,909)  - **TICKET SURF**
-* (4,398)  - **ZZ PRESTIGE MOTORS**
+* (2,444)  - **MOUNT EAGLE**
+* (2,933)  - **PURE SENSE**
+* (3,421)  - **SINOX LANKA**
+* (3,910)  - **TICKET SURF**
+* (4,399)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2824*
