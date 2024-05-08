@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,351** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-09 00:15:54*.
+Scraped **133,353** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-09 02:15:26*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133351*
+*Sample of 10/133353*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,817)  - **BLUE WHITE TRADING**
-* (29,634) PV9324 - **DILAJ LOUNGE**
-* (44,451) PV00272175 - **GOOD VIBE'S INVESTMENT**
-* (59,267) PV131076 - **KEENFA**
-* (74,084) PV1986 - **MOON BEAUTY CARE**
-* (88,901) PV96876 - **PRIVELTH GLOBAL**
-* (103,717)  - **SEYNEX LANKA**
-* (118,534) GL00298657 - **THE PEKOE TRAIL COMPANY**
-* (133,351) PV118576 - **ZZAPPIT**
+* (14,817) PV80456 - **BLUE WHALES BEACH RESORTS**
+* (29,634) PV00296640 - **DILAAN SUPER MARKET**
+* (44,451) PV14322 - **GOOD VALUE MARKETING**
+* (59,268) PV68191 - **KEENEYE SOLUTIONS**
+* (74,085) PV00212761 - **MOON BEANS LANKA**
+* (88,902) PV00205371 - **PRIVATE EYE SECURITY SERVICES**
+* (103,719)  - **SEYNEX LANKA**
+* (118,536) GL00298657 - **THE PEKOE TRAIL COMPANY**
+* (133,353) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **133,351** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-09 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121337*
+*Sample of 10/121338*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,482) PV00286193 - **BLUE OCEAN PEARL**
-* (26,964) PV00271387 - **DIGITAL MARKETING & BROADCASTING CORPORATION**
-* (40,446) PV00200333 - **GOLDEN CITY CREDIT &  INVESTMENTS**
-* (53,928) PV00260586 - **KAPURU INVESTMENT**
-* (67,409) PV00210976 - **MIYOMEX RESIDENCIES**
-* (80,891) PV66733 - **PRECISION OPTICS**
-* (94,373) PV70412 - **SHADETREE PRODUCTIONS**
-* (107,855) PV00297372 - **THE SECOND HOME TRAVELS**
-* (121,337) PV118576 - **ZZAPPIT**
+* (13,482) PV121846 - **BLUE OCEAN PARADISE LANKA**
+* (26,964) PV00297279 - **DIGITAL MARKETERS LK**
+* (40,446) PV00270571 - **GOLDEN CHEF TRADING COMPANY**
+* (53,928) PV00249845 - **KAPUKOTUWA SUPER**
+* (67,410) PV00210976 - **MIYOMEX RESIDENCIES**
+* (80,892) PV66733 - **PRECISION OPTICS**
+* (94,374) PV70412 - **SHADETREE PRODUCTIONS**
+* (107,856) PV00297372 - **THE SECOND HOME TRAVELS**
+* (121,338) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4404*
+*Sample of 10/4405*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (490)  - **BIZFORMATIONS**
-* (979)  - **DESIGN CALIBALI**
-* (1,468)  - **GLOBAL WAY AGENCY**
-* (1,957)  - **KANDY SUPER TITANIUM AND CONSTRUCTION**
-* (2,447)  - **MOUNT EAGLE**
-* (2,936)  - **PURE CEYLON ESSENCE**
-* (3,425)  - **SINGHA SHOES**
-* (3,914)  - **TICASS KITCHEN AND CAFFEE**
-* (4,404)  - **ZZ PRESTIGE MOTORS**
+* (490)  - **BIZ-WIZ**
+* (979)  - **DESCOLOMBO.LK**
+* (1,469)  - **GLOBAL WAY AGENCY**
+* (1,958)  - **KANDY SUPER TITANIUM AND CONSTRUCTION**
+* (2,447)  - **MOTOWN ACADEMY FOR MUSIC**
+* (2,937)  - **PURE CEYLON ESSENCE**
+* (3,426)  - **SINGHA SHOES**
+* (3,915)  - **TICASS KITCHEN AND CAFFEE**
+* (4,405)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2824*
