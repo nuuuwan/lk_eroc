@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,371** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-09 20:14:58*.
+Scraped **133,371** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-09 22:17:59*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -15,7 +15,7 @@ Scraped **133,371** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-09 2
 * (29,638) PV00214326 - **DILAJ SEAFOOD**
 * (44,457) PV22241 - **GOOD WORTH LANKA**
 * (59,276) GA3330 - **KEERTHI DISSANAYAKE FOUNDATION**
-* (74,095) PV117522 - **MOON LANKA INTERNATIONAL**
+* (74,095) PV70962 - **MOON LIGHT BEEDI COMPANY**
 * (88,914) PV97159 - **PRIYADARSHANI MOTORS**
 * (103,733) PV00269958 - **SF ELEGANCE**
 * (118,552) PV114647 - **THE PETAL SHOP**
@@ -24,7 +24,7 @@ Scraped **133,371** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-09 2
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00296982 - **Y DE SILVA COMPANY**
+* (1) PV00296985 - **TRILOGY ENGINEERING**
 * (112) PV00297238 - **CONSULTANCY**
 * (223) PV00297474 - **IMPERIAL GLOBAL TRADERS**
 * (334) PV00297739 - **ACADEX INTERNATIONAL**
@@ -39,18 +39,18 @@ Scraped **133,371** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-09 2
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121354*
+*Sample of 10/121353*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,484) PV00286193 - **BLUE OCEAN PEARL**
 * (26,968) PV116794 - **DIGITAL MARKETING FACTORY**
-* (40,452) PV75002 - **GOLDEN CORALS**
+* (40,451) PV00258251 - **GOLDEN CONSTRUCTION & TRADINGS**
 * (53,935) PV00251020 - **KARA SHIPPING LANKA**
-* (67,419) PV00241401 - **MIYURU SAMPATH LIYANAGE ASTROLOGY**
-* (80,903) PV72043 - **PREFECT CREATIONS**
-* (94,386) PV00203899 - **SHADOW AYURVEDIC MEDICAL & TREATMENT**
-* (107,870) PV106848 - **THE SERENE NEST**
-* (121,354) PV118576 - **ZZAPPIT**
+* (67,418) PV126389 - **MIZ LANKA HOTELS**
+* (80,902) PV72043 - **PREFECT CREATIONS**
+* (94,385) PV00203899 - **SHADOW AYURVEDIC MEDICAL & TREATMENT**
+* (107,869) PV106848 - **THE SERENE NEST**
+* (121,353) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/4399*
@@ -207,18 +207,18 @@ Scraped **133,371** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-09 2
 * (46) PBG14 - **UNITED SPORTSMAN**
 
 ### "PVPB"
-*Sample of 10/44*
+*Sample of 10/45*
 ![data/word_clouds/word_cloud_PVPB.png](data/word_clouds/word_cloud_PVPB.png)
 * (1) PV4158PB - **ADAM CARBONS**
 * (5) PV7329PB - **BUSINESS MANAGEMENT SERVICES**
 * (10) PV3326PB - **CEYBANK ASSET MANAGEMENT**
 * (15) PV64927PB - **EVOKE INTERNATIONAL**
 * (20) PV88548PB - **GREEN FIELDS CONSULTANCY SERVICES**
-* (24) PV17741PB - **LIBERTY HOLDINGS**
-* (29) PV66661PB - **NAVARA CAPITAL**
-* (34) PV64694PB - **PADIYAPELELLA HYDROPOWER**
-* (39) PV64641PB - **SOUTH ASIAN INSTITUTE OF TECHNOLOGY AND MEDICINE**
-* (44) PV3822PB - **SWARNAMAHAL JEWELLERS**
+* (25) PV17741PB - **LIBERTY HOLDINGS**
+* (30) PV66661PB - **NAVARA CAPITAL**
+* (35) PV64694PB - **PADIYAPELELLA HYDROPOWER**
+* (40) PV64641PB - **SOUTH ASIAN INSTITUTE OF TECHNOLOGY AND MEDICINE**
+* (45) PV3822PB - **SWARNAMAHAL JEWELLERS**
 
 ### "PBPQ"
 *Sample of 10/37*
