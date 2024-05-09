@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,370** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-09 18:21:53*.
+Scraped **133,371** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-09 20:14:58*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133370*
+*Sample of 10/133371*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,819) PV00246364 - **BLUE WHALES OCEAN HOLDING**
 * (29,638) PV00214326 - **DILAJ SEAFOOD**
 * (44,457) PV22241 - **GOOD WORTH LANKA**
 * (59,276) GA3330 - **KEERTHI DISSANAYAKE FOUNDATION**
-* (74,094) PV4765 - **MOON LAKE RESORT**
-* (88,913) PV61104 - **PRIYADARSHANA TRADING COMPANY**
-* (103,732) PV00209855 - **SEZENTA**
-* (118,551) PV00262503 - **THE PETAL COLLECTIVE**
-* (133,370) PV118576 - **ZZAPPIT**
+* (74,095) PV117522 - **MOON LANKA INTERNATIONAL**
+* (88,914) PV97159 - **PRIYADARSHANI MOTORS**
+* (103,733) PV00269958 - **SF ELEGANCE**
+* (118,552) PV114647 - **THE PETAL SHOP**
+* (133,371) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **133,370** Companies ([4.12MB](data/companies.tsv)) as of *2024-05-09 1
 * (121,354) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4398*
+*Sample of 10/4399*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (489)  - **BIZ FIRST CONSULTANTS**
 * (978)  - **DERMA BLISS**
-* (1,466)  - **GLOBAL TRAVEL MASTER**
+* (1,467)  - **GLOBAL WAY AGENCY**
 * (1,955)  - **KANDY TIMBER FLOORING**
-* (2,443)  - **MOTO MAXTA.LK**
-* (2,932)  - **PURE AROMA**
-* (3,420)  - **SINGHA CLEARING AND TRANSPORT**
-* (3,909)  - **THYA INTERNATIONAL**
-* (4,398)  - **ZZ PRESTIGE MOTORS**
+* (2,444)  - **MOTOR CASTLE**
+* (2,933)  - **PURE CEYLON ESSENCE**
+* (3,421)  - **SINGHA PARTNERS**
+* (3,910)  - **TIANJ**
+* (4,399)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2827*
