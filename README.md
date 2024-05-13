@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,575** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-14 00:15:51*.
+Scraped **133,576** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-14 02:15:31*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133575*
+*Sample of 10/133576*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,842) PV7654 - **BLUECHIP CUSTOMER ENGINEERING LANKA**
 * (29,684) PV122784 - **DILANKA SKY GARDEN**
-* (44,525) PV104843 - **GOODGUYU'S**
+* (44,526) PV1810 - **GOODHOPE HOLDINGS**
 * (59,367) PV63939 - **KEGEEN INTERNATIONAL**
-* (74,208) PV00259954 - **MOONLIGHT AUTO TRADERS**
-* (89,050) PV00260481 - **PRIYASHAYUR CEYLON AYURVEDA**
-* (103,891)  - **SF ENTERTAINMENT**
-* (118,733) PV68706 - **THE PHARMACY A.P.Y.**
-* (133,575) PV118576 - **ZZAPPIT**
+* (74,209) PV17511 - **MOONLIGHT BATIK INDUSTRIES**
+* (89,051) PV00243647 - **PRIYAVI CAKE ACADEMY**
+* (103,892) PV00264787 - **SF HOUSE OF SPICES**
+* (118,734) PV00284547 - **THE PHEONIX TRAVELS**
+* (133,576) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **133,575** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-14 0
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121536*
+*Sample of 10/121535*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,504) PV00214594 - **BLUE RIVER DESIGN & CONSTRUCTION**
 * (27,008) PV00241458 - **DIGITAL NOMAD INTERNATIONAL**
 * (40,512) PV105366 - **GOLDEN CROWN SALOONS**
 * (54,016) PV00223993 - **KARDIPRO**
-* (67,520) PV00264201 - **MKP MEDICAL INSTITUTE**
-* (81,024) PV9521 - **PREMATOR EAST HOLDING**
-* (94,528) PV00285980 - **SHADHA AUTO MOTORS**
-* (108,032) PV00279136 - **THE SHAHE BRIDAL & AARI EMBROIDERY**
-* (121,536) PV118576 - **ZZAPPIT**
+* (67,519) PV00267315 - **MKM BROTHERS**
+* (81,023) PV00267026 - **PREMATHILAKA GEMS**
+* (94,527) PV70412 - **SHADETREE PRODUCTIONS**
+* (108,031) PV00281554 - **THE SEVEN'S**
+* (121,535) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4426*
+*Sample of 10/4429*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (492)  - **BIXCELERAETE**
-* (984)  - **DEMYSTIQUE**
-* (1,476)  - **GLOBAL SILKINK**
-* (1,967)  - **KANDY CHROMA**
-* (2,459)  - **MOTOR CASTLE**
-* (2,951)  - **PUBUDU MAN POWER**
-* (3,442)  - **SINGHA SHOES**
-* (3,934)  - **TIANJ**
-* (4,426)  - **ZZ PRESTIGE MOTORS**
+* (493)  - **BIZ FIRST CONSULTANTS**
+* (985)  - **DENEMEK**
+* (1,477)  - **GLOBAL TRADE CONQUERORS**
+* (1,969)  - **KANDY LEISURE HOLDINGS**
+* (2,461)  - **MOUNT EAGLE**
+* (2,953)  - **PULLE**
+* (3,445)  - **SIONIX CONSULTANT**
+* (3,937)  - **TIANJ**
+* (4,429)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2827*
@@ -81,18 +81,18 @@ Scraped **133,575** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-14 0
 * (2,827) PB118 - **ZYREX POWER COMPANY**
 
 ### "GA"
-*Sample of 10/2362*
+*Sample of 10/2361*
 ![data/word_clouds/word_cloud_GA.png](data/word_clouds/word_cloud_GA.png)
 * (1) GA00213478 - **A QUINT ONDAATJE FOUNDATION**
 * (263) GA3275 - **BIOGENIC GREEN TECHNOLOGY RESEARCH INSTITUTE**
 * (525) GA2815 - **DAMSAVIYA INTERNATIONAL FOUNDATION**
-* (788) GA3443 - **HAAFIZH FORUM**
-* (1,050) GA00262709 - **JOSEPH THEVAN FOUNDATION**
+* (787) GA3372 - **GURU DEV SUWA ARANA**
+* (1,049) GA72 - **JOINT APPAREL ASSOCIATION FORUM**
 * (1,312) GA00285591 - **METHTHA SAMADHI INTERNATIONAL FOUNDATION**
-* (1,575) GA185 - **PRAJA KENDRIYA SAMPATH HUWAMARUWA**
-* (1,837) GA2353 - **SOCIAL DEVELOPMENT & RESEARCH ORGANIZATION**
-* (2,099) GA2206 - **THE INDUSTRIAL RELATIONS ASSOCIATION SRI LANKA**
-* (2,362) GA470 - **ZONTA CLUB II OF COLOMBO**
+* (1,574) GA00262775 - **PRAGNA COLLECTIVE**
+* (1,836) GA33 - **SMYRNA FELLOWSHIP**
+* (2,098) GA235 - **THE INDIA SRI LANKA FOUNDATION**
+* (2,361) GA470 - **ZONTA CLUB II OF COLOMBO**
 
 ### "GL"
 *Sample of 10/819*
