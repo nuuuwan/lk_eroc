@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,570** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-13 12:16:43*.
+Scraped **133,569** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-13 16:15:56*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133570*
+*Sample of 10/133569*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,842) PV00242830 - **BLUECHIP A.I. ASIA**
-* (29,683) PV109071 - **DILARO WOOD CARVING**
-* (44,524) PV108534 - **GOODLIFE LANKA**
-* (59,365) PV00289608 - **KEGALU ANIMAL CLINIC**
-* (74,206)  - **MOONHEART ACADEMY**
-* (89,047) PV00206863 - **PRIYASHA GROUP INTERNATIONAL**
-* (103,888) PV00209855 - **SEZENTA**
-* (118,729) PV8846 - **THE PHARMACO**
-* (133,570) PV118576 - **ZZAPPIT**
+* (14,841) PV00226588 - **BLUECHEM LANKA**
+* (29,682) PV73855 - **DILARDS INTERNATIONAL**
+* (44,523) PV00239077 - **GOODIES MART**
+* (59,364) PV89663 - **KEGALU MOTOR STORES**
+* (74,205)  - **MOONK APPAREL**
+* (89,046) PV13376 - **PRIYASHAN ADVERTISING SERVICES**
+* (103,887) PV00269958 - **SF ELEGANCE**
+* (118,728) PV8846 - **THE PHARMACO**
+* (133,569) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **133,570** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-13 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121543*
+*Sample of 10/121539*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,505) PV119457 - **BLUE RICE VILLA**
-* (27,010) PV00221400 - **DIGITAL ONE LABS**
-* (40,515) PV116048 - **GOLDEN DRAGON SEAFOOD RESTAURANTS**
-* (54,019) PV00223993 - **KARDIPRO**
-* (67,524) PV00267315 - **MKM BROTHERS**
-* (81,029) PV9762 - **PREMASIRI SUPER MARKET**
-* (94,533) PV67734 - **SHADES OF WANAMAL**
-* (108,038) PV00281554 - **THE SEVEN'S**
-* (121,543) PV118576 - **ZZAPPIT**
+* (27,009) PV00250745 - **DIGITAL ODYSSEY**
+* (40,513) PV102117 - **GOLDEN DOME**
+* (54,017) PV00243596 - **KAREEM LANKA FOODS**
+* (67,522) PV00287864 - **MKR FOOD PRODUCTS**
+* (81,026) PV73026 - **PREMASIRI TRADERS**
+* (94,530) PV70412 - **SHADETREE PRODUCTIONS**
+* (108,034) PV00281554 - **THE SEVEN'S**
+* (121,539) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4417*
+*Sample of 10/4420*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (491)  - **BIXCELERAETE**
-* (982)  - **DEMYSTIQUE**
-* (1,473)  - **GLOBAL SAPPHIRE EXPORTS**
-* (1,963)  - **KAN STRATEGICAL SOLUTIONS**
-* (2,454)  - **MOTHERS CHOICE**
-* (2,945)  - **PUBUDU MAN POWER**
-* (3,435)  - **SINGHA CLEARING AND TRANSPORT**
-* (3,926)  - **THYA INTERNATIONAL**
-* (4,417)  - **ZZ PRESTIGE MOTORS**
+* (492)  - **BIZ FIRST CONSULTANTS**
+* (983)  - **DENEMEK**
+* (1,474)  - **GLOBAL SILKINK**
+* (1,965)  - **KANAZAWA AUTO**
+* (2,456)  - **MOTHER’S FOOD LANKA**
+* (2,947)  - **PUBUDU MAN POWER**
+* (3,438)  - **SINGHA PARTNERS**
+* (3,929)  - **THYA INTERNATIONAL**
+* (4,420)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2826*
