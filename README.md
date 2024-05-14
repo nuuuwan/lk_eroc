@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,583** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-15 02:15:10*.
+Scraped **133,583** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-15 04:15:10*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -15,9 +15,9 @@ Scraped **133,583** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-15 0
 * (29,685) PV00254687 - **DILENA GLOBAL TRADERS**
 * (44,528) PV120953 - **GOODWIL NATURE HOLDINGS**
 * (59,370) PV3175 - **KEISHIN LANKA**
-* (74,213)  - **MOONSTRIKE CAPITAL PARTNERS**
-* (89,055) PV120429 - **PRO - AM SERENDIB**
-* (103,898) PV00272590 - **SG AGRO FOODS LANKA**
+* (74,213) PV64971 - **MOONSTONE MOVIE**
+* (89,055) PV00220486 - **PRIZMA GLOBAL**
+* (103,898) PV00248081 - **SFS HOLDINGS**
 * (118,740) PV68706 - **THE PHARMACY A.P.Y.**
 * (133,583) PV118576 - **ZZAPPIT**
 
@@ -43,28 +43,28 @@ Scraped **133,583** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-15 0
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,504) PV00269558 - **BLUE RIDGE VALUERS**
-* (27,008) PV00256612 - **DIGITAL RESEARCH INSTITUTE**
-* (40,512) PV00224275 - **GOLDEN ENERGY SOLUTION**
-* (54,016) PV116930 - **KARL HOLDINGS**
-* (67,520) PV00269700 - **MM PHARMACY**
-* (81,024) PV124124 - **PREMELTHI**
-* (94,528) PV107266 - **SHADOO SALOON AND SPA**
+* (27,008) PV116546 - **DIGITAL REALTY**
+* (40,512) PV00238294 - **GOLDEN ELITE INTERNATIONAL**
+* (54,016) PV114590 - **KARL BENZ INTERNATIONAL**
+* (67,520) PV00263050 - **MM LANKA**
+* (81,024) PV128275 - **PREMAWARDANA LOGISTICS**
+* (94,528) PV00278630 - **SHADHA TRADING**
 * (108,032) PV00253924 - **THE SERENE AGRI PRODUCTS**
 * (121,536) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4429*
+*Sample of 10/4428*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (493)  - **BIXCELERAETE**
-* (985)  - **DEMYSTIQUE**
-* (1,477)  - **GLOBAL SAPPHIRE EXPORTS**
-* (1,969)  - **KANDY HYBRID LANKA**
-* (2,461)  - **MOTOWN ACADEMY FOR MUSIC**
-* (2,953)  - **PUBUDU MAN POWER**
-* (3,445)  - **SINOX LANKA**
-* (3,937)  - **TIANJ**
-* (4,429)  - **ZZ PRESTIGE MOTORS**
+* (492)  - **BITZ  IT**
+* (984)  - **DEMEP OVERSEAS**
+* (1,476)  - **GLOBAL SAPPHIRE EXPORTS**
+* (1,968)  - **KANDY HYBRID LANKA**
+* (2,460)  - **MOTOR CASTLE**
+* (2,952)  - **PUBODA ENTERPRISE**
+* (3,444)  - **SINGHA SHOES**
+* (3,936)  - **TIANJ**
+* (4,428)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2826*
@@ -109,18 +109,18 @@ Scraped **133,583** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-15 0
 * (820) GL2310 - **ZOE LIFE INTERNATIONAL (GURANTEE)**
 
 ### "NF"
-*Sample of 10/520*
+*Sample of 10/521*
 ![data/word_clouds/word_cloud_NF.png](data/word_clouds/word_cloud_NF.png)
 * (1) NF137 - **AB FINLANKA**
 * (58) NF193 - **BRIGHT ELITE**
 * (116) NF217 - **EASY & JOYTEX CORPORATION**
 * (174) NF25 - **HAZAMA GUMI**
-* (231) NF260 - **KOREA EXCHANGE BANK**
+* (232) NF317 - **KOREA HEAVY INDUSTRIES AND CONSTRUCTION CO.**
 * (289) NF455 - **MONSANTO INDIA**
 * (347) NF158 - **POLSON ENTERPRISES**
-* (404) NF12 - **SIMELA COMPANY**
-* (462) NF161 - **TOGETHER PRODUCTION**
-* (520) NF711 - **ZTE CORPORATION**
+* (405) NF691 - **SIMPLEX INFRASTRUCTURE**
+* (463) NF161 - **TOGETHER PRODUCTION**
+* (521) NF711 - **ZTE CORPORATION**
 
 ### "FC"
 *Sample of 10/371*
