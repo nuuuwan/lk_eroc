@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,574** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-14 10:15:10*.
+Scraped **133,575** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-14 12:16:42*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133574*
+*Sample of 10/133575*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,842) PV68092 - **BLUECHIP GROUP**
-* (29,683) PV71986 - **DILCO REAL ESTATE CONSTRUCTION AND EQUIPMENT SERVICES**
-* (44,525) PV00264039 - **GOODNESS CEYLON INTERNATIONAL**
-* (59,366) PV62609 - **KEIHINI LANKA**
-* (74,208) PV00276515 - **MOONRISE HOLIDAYS**
-* (89,049) PV90039 - **PRO - THERAPEUTICS**
-* (103,891) PV00285077 - **SG VENTURES**
-* (118,732) PV00284547 - **THE PHEONIX TRAVELS**
-* (133,574) PV118576 - **ZZAPPIT**
+* (29,684) PV71986 - **DILCO REAL ESTATE CONSTRUCTION AND EQUIPMENT SERVICES**
+* (44,525) PV00296549 - **GOODMAX LANKA**
+* (59,367) PV62609 - **KEIHINI LANKA**
+* (74,208) PV00254011 - **MOONPAVO**
+* (89,050) PV90039 - **PRO - THERAPEUTICS**
+* (103,891) PV00290384 - **SG AGRO HUB**
+* (118,733) PV00284547 - **THE PHEONIX TRAVELS**
+* (133,575) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **133,574** Companies ([4.13MB](data/companies.tsv)) as of *2024-05-14 1
 * (121,531) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4425*
+*Sample of 10/4426*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (492)  - **BITZ  IT**
-* (984)  - **DENSU DENTURES**
-* (1,475)  - **GLOBAL SILKINK**
-* (1,967)  - **KANDY LEISURE HOLDINGS**
-* (2,458)  - **MOTOWN ACADEMY FOR MUSIC**
-* (2,950)  - **PUBUDU MAN POWER**
-* (3,441)  - **SINGHA SHOES**
-* (3,933)  - **THYA INTERNATIONAL**
-* (4,425)  - **ZZ PRESTIGE MOTORS**
+* (984)  - **DENEMEK**
+* (1,476)  - **GLOBAL SILKINK**
+* (1,967)  - **KANDY HYBRID LANKA**
+* (2,459)  - **MOTOWN ACADEMY FOR MUSIC**
+* (2,951)  - **PUBUDU MAN POWER**
+* (3,442)  - **SINGHA SHOES**
+* (3,934)  - **THYA INTERNATIONAL**
+* (4,426)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2824*
