@@ -2,30 +2,30 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,753** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-18 14:15:22*.
+Scraped **133,759** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-18 16:14:47*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133753*
+*Sample of 10/133759*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (14,862) PV00245278 - **BLUEBAY LABS**
-* (29,723) PV00287131 - **DILFA PHARMA**
-* (44,585) PV00206326 - **GOODWIN IMPEX CONTAINER TERMINAL**
-* (59,446) PV00212137 - **KELANI BRIDGES**
-* (74,307) PV111118 - **MOONWALK COMPANY**
-* (89,169) PV00231539 - **PRO DRAFTING**
-* (104,030) PV00240673 - **SEZ SOFTWARE**
-* (118,891) PV00209373 - **THE PASTA FACTORY**
-* (133,753) PV118576 - **ZZAPPIT**
+* (14,863) PV00245278 - **BLUEBAY LABS**
+* (29,725) PV120548 - **DILFAR TEA COMPANY**
+* (44,587) PV00206326 - **GOODWIN IMPEX CONTAINER TERMINAL**
+* (59,449) PQ117 - **KELANI CABLES**
+* (74,311) PV125722 - **MOORE CONSULTING**
+* (89,173)  - **PRO FARMING GLOBAL**
+* (104,035) PV1407 - **SEYSHOP**
+* (118,897) PV00209373 - **THE PASTA FACTORY**
+* (133,759) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PB00297498 - **LANKA DAIRIES**
-* (112) PV00297730 - **THAMOHANATHA**
+* (1) PV00297497 - **RISHMI PHARMACEUTICAL**
+* (112) PV00297728 - **CAMBIO SOFTWARE**
 * (223) PV00297967 - **SUTHRAM**
 * (334) PV00298237 - **RICHY REALIZE**
 * (445) PV00298531 - **MOONLIT STUDIO**
@@ -39,32 +39,32 @@ Scraped **133,753** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-18 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121700*
+*Sample of 10/121704*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,523) PV00210528 - **BLUE PEARL INVESTMENTS**
-* (27,045) PV116546 - **DIGITAL REALTY**
-* (40,567) PV00232578 - **GOLDEN EYE MICRO CREDIT**
-* (54,089) PV00237277 - **KARLSHUE DEVELOPERS LANKA**
-* (67,611) PV00286542 - **MMA CONSULTARE**
-* (81,133) PV9560 - **PREMESS INTERLINING**
-* (94,655) PV00292999 - **SHABARIS TOURIST HOTEL**
-* (108,177) PV00211411 - **THE RUSH HAIR**
-* (121,700) PV118576 - **ZZAPPIT**
+* (27,046) PV00256612 - **DIGITAL RESEARCH INSTITUTE**
+* (40,568) PV112656 - **GOLDEN EYE TRADING**
+* (54,091) PV00231877 - **KARMA CANE**
+* (67,613) PV00272666 - **MMB METAMORPHOSE BEAUTE**
+* (81,136) PV131241 - **PREMIER ACCREDITED SOLUTIONS**
+* (94,658) PV117533 - **SHABANG**
+* (108,181) PV00211411 - **THE RUSH HAIR**
+* (121,704) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4405*
+*Sample of 10/4407*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (490)  - **BIOMA HEALTHCARE**
-* (979)  - **DEEGAYU & CO**
-* (1,469)  - **GLOBAL PLANIT**
-* (1,958)  - **KANAZAWA AUTO**
-* (2,447)  - **MOSLEY IMPORT EXPORT LANKA**
-* (2,937)  - **PS PAPA SAYS**
-* (3,426)  - **SIRIYANGANI EDIBLE OILS**
-* (3,915)  - **TICASS KITCHEN AND CAFFEE**
-* (4,405)  - **ZZ PRESTIGE MOTORS**
+* (490)  - **BIO EXCESS MANAGEMENT**
+* (980)  - **DEEGAYU & CO**
+* (1,469)  - **GLOBAL NEXUS CONSULTANCY**
+* (1,959)  - **KAN STRATEGICAL SOLUTIONS**
+* (2,448)  - **MORNING OF EARTH**
+* (2,938)  - **PROXICO**
+* (3,427)  - **SIRI NISSANKA ASSOCIATES**
+* (3,917)  - **TICASS KITCHEN AND CAFFEE**
+* (4,407)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2845*
