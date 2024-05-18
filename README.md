@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,759** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-18 16:14:47*.
+Scraped **133,760** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-18 18:21:57*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/133759*
+*Sample of 10/133760*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,863) PV00245278 - **BLUEBAY LABS**
 * (29,725) PV120548 - **DILFAR TEA COMPANY**
-* (44,587) PV00206326 - **GOODWIN IMPEX CONTAINER TERMINAL**
-* (59,449) PQ117 - **KELANI CABLES**
-* (74,311) PV125722 - **MOORE CONSULTING**
-* (89,173)  - **PRO FARMING GLOBAL**
-* (104,035) PV1407 - **SEYSHOP**
-* (118,897) PV00209373 - **THE PASTA FACTORY**
-* (133,759) PV118576 - **ZZAPPIT**
+* (44,587) PV104953 - **GOODWIN IMPEX**
+* (59,449) PV00212137 - **KELANI BRIDGES**
+* (74,311) PV78743 - **MOOR ONE**
+* (89,173) PV66455 - **PRO FACTORY**
+* (104,035) PV98577 - **SEYON INVESTMENT**
+* (118,897) PV91370 - **THE PARTY STATION**
+* (133,760) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -44,27 +44,27 @@ Scraped **133,759** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-18 1
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,523) PV00210528 - **BLUE PEARL INVESTMENTS**
 * (27,046) PV00256612 - **DIGITAL RESEARCH INSTITUTE**
-* (40,568) PV112656 - **GOLDEN EYE TRADING**
-* (54,091) PV00231877 - **KARMA CANE**
-* (67,613) PV00272666 - **MMB METAMORPHOSE BEAUTE**
-* (81,136) PV131241 - **PREMIER ACCREDITED SOLUTIONS**
-* (94,658) PV117533 - **SHABANG**
-* (108,181) PV00211411 - **THE RUSH HAIR**
+* (40,568) PV00232578 - **GOLDEN EYE MICRO CREDIT**
+* (54,091) PV00291914 - **KARMA BPO**
+* (67,613) PV00285252 - **MMA TRADING GROUP**
+* (81,136) PV00203802 - **PREMIALABS**
+* (94,658) PV00277293 - **SHABANA FOODS**
+* (108,181) PV126665 - **THE RUHUNU FOODS CENTER**
 * (121,704) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4407*
+*Sample of 10/4408*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (490)  - **BIO EXCESS MANAGEMENT**
 * (980)  - **DEEGAYU & CO**
-* (1,469)  - **GLOBAL NEXUS CONSULTANCY**
+* (1,470)  - **GLOBAL PET EXPRESS**
 * (1,959)  - **KAN STRATEGICAL SOLUTIONS**
-* (2,448)  - **MORNING OF EARTH**
-* (2,938)  - **PROXICO**
-* (3,427)  - **SIRI NISSANKA ASSOCIATES**
-* (3,917)  - **TICASS KITCHEN AND CAFFEE**
-* (4,407)  - **ZZ PRESTIGE MOTORS**
+* (2,449)  - **MOSLEY IMPORT EXPORT LANKA**
+* (2,939)  - **PS PAPA SAYS**
+* (3,428)  - **SIRIYANGANI EDIBLE OILS**
+* (3,918)  - **TICASS KITCHEN AND CAFFEE**
+* (4,408)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2845*
