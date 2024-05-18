@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,753** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-18 12:15:23*.
+Scraped **133,753** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-18 14:15:22*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -16,8 +16,8 @@ Scraped **133,753** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-18 1
 * (44,585) PV00206326 - **GOODWIN IMPEX CONTAINER TERMINAL**
 * (59,446) PV00212137 - **KELANI BRIDGES**
 * (74,307) PV111118 - **MOONWALK COMPANY**
-* (89,169) PV00258014 - **PRO CREATION ENTERPRISES**
-* (104,030) PV1407 - **SEYSHOP**
+* (89,169) PV00231539 - **PRO DRAFTING**
+* (104,030) PV00240673 - **SEZ SOFTWARE**
 * (118,891) PV00209373 - **THE PASTA FACTORY**
 * (133,753) PV118576 - **ZZAPPIT**
 
@@ -39,7 +39,7 @@ Scraped **133,753** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-18 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121699*
+*Sample of 10/121700*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,523) PV00210528 - **BLUE PEARL INVESTMENTS**
@@ -49,22 +49,22 @@ Scraped **133,753** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-18 1
 * (67,611) PV00286542 - **MMA CONSULTARE**
 * (81,133) PV9560 - **PREMESS INTERLINING**
 * (94,655) PV00292999 - **SHABARIS TOURIST HOTEL**
-* (108,177) PV73412 - **THE S.G. FASHION**
-* (121,699) PV118576 - **ZZAPPIT**
+* (108,177) PV00211411 - **THE RUSH HAIR**
+* (121,700) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4406*
+*Sample of 10/4405*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
 * (490)  - **BIOMA HEALTHCARE**
 * (979)  - **DEEGAYU & CO**
 * (1,469)  - **GLOBAL PLANIT**
 * (1,958)  - **KANAZAWA AUTO**
-* (2,448)  - **MOSVOLD-MARTINUS FOUNDATION**
+* (2,447)  - **MOSLEY IMPORT EXPORT LANKA**
 * (2,937)  - **PS PAPA SAYS**
-* (3,427)  - **SISIRA GEMS**
-* (3,916)  - **TICASS KITCHEN AND CAFFEE**
-* (4,406)  - **ZZ PRESTIGE MOTORS**
+* (3,426)  - **SIRIYANGANI EDIBLE OILS**
+* (3,915)  - **TICASS KITCHEN AND CAFFEE**
+* (4,405)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2845*
@@ -81,18 +81,18 @@ Scraped **133,753** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-18 1
 * (2,845) PB118 - **ZYREX POWER COMPANY**
 
 ### "GA"
-*Sample of 10/2383*
+*Sample of 10/2384*
 ![data/word_clouds/word_cloud_GA.png](data/word_clouds/word_cloud_GA.png)
 * (1) GA00213478 - **A QUINT ONDAATJE FOUNDATION**
 * (265) GA3275 - **BIOGENIC GREEN TECHNOLOGY RESEARCH INSTITUTE**
 * (530) GA245 - **DAR - AL - BIR ASSOCIATION**
 * (795) GA393 - **HABITAT FOR HUMANITY  SRI LANKA**
-* (1,059) GA2427 - **JOYCE MAYER FOUNDATION**
+* (1,060) GA3053 - **JUST MEDIA FOUNDATION**
 * (1,324) GA00223897 - **METHMAGA MEDIA NETWORK**
 * (1,589) GA2736 - **PRAJASHAKTHI EKSATH SANGAMAYA**
-* (1,853) GA327 - **SOCIAL ECONOMICAL AND ENVIRONMENTAL DEVELOPERS**
-* (2,118) GA385 - **THE INSTITURE OF PUBLIC FINANCE AND DEVELOPMENT ACCOUNTANCY**
-* (2,383) GA470 - **ZONTA CLUB II OF COLOMBO**
+* (1,854) GA327 - **SOCIAL ECONOMICAL AND ENVIRONMENTAL DEVELOPERS**
+* (2,119) GA385 - **THE INSTITURE OF PUBLIC FINANCE AND DEVELOPMENT ACCOUNTANCY**
+* (2,384) GA470 - **ZONTA CLUB II OF COLOMBO**
 
 ### "GL"
 *Sample of 10/817*
@@ -123,18 +123,18 @@ Scraped **133,753** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-18 1
 * (512) NF711 - **ZTE CORPORATION**
 
 ### "FC"
-*Sample of 10/375*
+*Sample of 10/374*
 ![data/word_clouds/word_cloud_FC.png](data/word_clouds/word_cloud_FC.png)
 * (1) FC00251549 - **AA JAPAN (PVT) LTD**
 * (42) FC1036 - **BIWATER CONTRACTING B.V.**
-* (84) FC00277895 - **CUBE CONTENT GOVERNANCE GLOBAL LIMITED**
+* (83) FC1253 - **CONTROL PRINT**
 * (125) FC1081 - **FUJITO PTE**
-* (167) FC00236404 - **ITW CONSULTING PRIVATE LIMITED**
+* (166) FC00268109 - **ITD CEMENTATION INDIA LIMITED**
 * (208) FC1293 - **MALAYSIA AIRLINES BERHAD**
-* (250) FC1134 - **OKRICH GARMANT INTERNATIONAL CO.**
-* (291) FC1008 - **SATYAM COMPUTER SERVICES**
-* (333) FC1038 - **THE BRITISH COMPUTER SOCIETY**
-* (375) FC1065 - **ZIBO GUANGZHENG ALKALI ALUMINIUM CHEMICAL INDUSTRY CO.,**
+* (249) FC00210858 - **OELT Limited**
+* (291) FC00211497 - **SBT CO., LTD.**
+* (332) FC1038 - **THE BRITISH COMPUTER SOCIETY**
+* (374) FC1065 - **ZIBO GUANGZHENG ALKALI ALUMINIUM CHEMICAL INDUSTRY CO.,**
 
 ### "F"
 *Sample of 10/213*
