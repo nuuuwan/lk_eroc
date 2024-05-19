@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,773** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-19 04:15:01*.
+Scraped **133,773** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-19 06:30:47*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -24,15 +24,15 @@ Scraped **133,773** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-19 0
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00297513 - **AWAKENING TRAINING ACADEMY**
-* (112) PV00297744 - **THE MARK**
-* (223) PV00297987 - **SHAWARMA STATION**
-* (334) PV00298256 - **TAVORA TRAVELS**
-* (445) PV00298547 - **THE FLYING CHANGE**
-* (556) PV00298846 - **MULTY FASHION**
-* (667) PV00299141 - **GSS HR SOLUTIONS**
-* (778) PV00299530 - **WORLD VISION INVESMENT**
-* (889) PV00300013 - **DIAPEX**
+* (1) PV00297515 - **SHIZUOKA AUTO TRADING**
+* (112) PV00297747 - **GABRIEL MOTORS**
+* (223) PV00297988 - **STONETECH SERVICES**
+* (334) PV00298263 - **IN THE MOMENT**
+* (445) PV00298550 - **LAPTOPKINGLK.COM**
+* (556) PV00298848 - **RAJARATA TYRE CENTER**
+* (667) PV00299144 - **JP CONSULTING**
+* (778) GA00299536 - **ECFABT**
+* (889) PV00300021 - **VIBE FITNESS**
 * (1,000) PV00301244 - **VOAK**
 
 
@@ -45,7 +45,7 @@ Scraped **133,773** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-19 0
 * (13,524) PV127098 - **BLUE PEPPER ADVERTISING & EVENTS**
 * (27,048) PV00209487 - **DIGITAL SERVICES GLOBAL**
 * (40,572) PV00204795 - **GOLDEN FEEDS INTERNATIONAL**
-* (54,096) PV00231877 - **KARMA CANE**
+* (54,096) PV124329 - **KARMA COLLECTION**
 * (67,620) PV00294357 - **MM PLUS**
 * (81,144) PV9560 - **PREMESS INTERLINING**
 * (94,668) PV00277293 - **SHABANA FOODS**
