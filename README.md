@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,808** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-28 10:14:38*.
+Scraped **133,808** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-29 10:13:16*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -24,47 +24,47 @@ Scraped **133,808** Companies ([4.14MB](data/companies.tsv)) as of *2024-05-28 1
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) GA00297602 - **THE CHILD VOICE INTERNATIONAL**
-* (112) PV00297821 - **JAYSTAR BIKE MALL**
-* (223) PV00298070 - **CIJ SOLAR**
-* (334) PV00298364 - **UNIMECH ENGINEERING**
-* (445) PV00298623 - **RAPID RIPPLES HOLDINGS**
-* (556) PV00298921 - **AG ELEVATOR SOLUTIONS**
-* (667) PV00299222 - **THE LAKE AMORE**
-* (778) PV00299608 - **BANYA HOUSE**
-* (889) PV00300133 - **ELITE RENT A CAR**
+* (1) PV00297603 - **JMM TRADING COMPANY**
+* (112) PV00297824 - **ASIAN CONNECT SOLUTIONS**
+* (223) PV00298071 - **HALE COSMETICS**
+* (334) PV00298366 - **INSTITUTE OF OPERATIONS AND SUPPLY CHAIN MANAGEMENT**
+* (445) PV00298625 - **MEHESURU ENGINEERING**
+* (556) PV00298923 - **ROYAL XPOSE**
+* (667) PV00299227 - **SUNWISE ENERGY**
+* (778) PV00299610 - **ANPARAN CARE**
+* (889) PV00300139 - **STORY OF STONE**
 * (1,000) PV00301682 - **AURA AYURVEDIC PRODUCTS**
 
 
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121749*
+*Sample of 10/121750*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,528) PV00263010 - **BLUE PEARL AQUA**
 * (27,056) PV00233632 - **DIGITAL RETAIL SERVICES**
-* (40,583) PV124038 - **GOLDEN FABRICS**
+* (40,584) PV79188 - **GOLDEN FALCON TREASURY**
 * (54,111) PV00201605 - **KARINDU TEA RUBBER COCONUT PLANTATION**
-* (67,638) PV00275149 - **MM APEX HOLDINGS**
-* (81,166) PV00249764 - **PREMIER AQUA CULTURE**
-* (94,693) PV00277593 - **SHAAZNAM IMPORT & EXPORT**
-* (108,221) PV00215941 - **THE ROYAL BAKERY 1906**
-* (121,749) PV118576 - **ZZAPPIT**
+* (67,639) PV00283324 - **MM AUDIO**
+* (81,167) PV00249764 - **PREMIER AQUA CULTURE**
+* (94,694) PV00277593 - **SHAAZNAM IMPORT & EXPORT**
+* (108,222) PV00215941 - **THE ROYAL BAKERY 1906**
+* (121,750) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4402*
+*Sample of 10/4401*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (490)  - **BIKE CENTER**
-* (979)  - **DEEN FOOD IDIYAPPA GEDARA**
-* (1,468)  - **GLOBAL TRAVEL MASTER**
-* (1,957)  - **KANDY LEISURE HOLDINGS**
-* (2,446)  - **MOTOR CASTLE**
-* (2,935)  - **PS PAPA SAYS**
-* (3,424)  - **SITREC INTERNATIONAL**
-* (3,913)  - **TICKET SURF**
-* (4,402)  - **ZZ PRESTIGE MOTORS**
+* (489)  - **BIGTIFY**
+* (978)  - **DEEGAYU & CO**
+* (1,467)  - **GLOBAL TRADE CONQUERORS**
+* (1,956)  - **KANDY HYBRID LANKA**
+* (2,445)  - **MOTO MAXTA.LK**
+* (2,934)  - **PS PAPA SAYS**
+* (3,423)  - **SITREC INTERNATIONAL**
+* (3,912)  - **TICKET SURF**
+* (4,401)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2849*
