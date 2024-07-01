@@ -2,7 +2,7 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **133,936** Companies ([4.14MB](data/companies.tsv)) as of *2024-06-30 10:12:20*.
+Scraped **133,936** Companies ([4.14MB](data/companies.tsv)) as of *2024-07-01 10:13:03*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
@@ -12,9 +12,9 @@ Scraped **133,936** Companies ([4.14MB](data/companies.tsv)) as of *2024-06-30 1
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (14,882) PV19249 - **BLUE WATER SYSTEMS INTERNATIONAL**
-* (29,764) PV1107 - **DILHANIEE MOTOR TRADES**
+* (29,764) PV00254347 - **DILHARA HOLDINGS**
 * (44,646)  - **GOODWIN GENERAL TRADING**
-* (59,527) PV3175 - **KEISHIN LANKA**
+* (59,527) PV90817 - **KEJU CEYLON**
 * (74,409) PV106863 - **MOON LIGHT RESTAURENT AND SPA**
 * (89,291) PV00244564 - **PRIYANKARA  LANKA MOTOR TRADERS**
 * (104,172) PV97511 - **SEYLAN STORES LANKA**
@@ -24,47 +24,47 @@ Scraped **133,936** Companies ([4.14MB](data/companies.tsv)) as of *2024-06-30 1
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00297860 - **SALON BLACK WHITE**
-* (112) PV00298091 - **DISRUPT MEDIA**
-* (223) PV00298375 - **MIDOSA SOLUTIONHUB**
-* (334) PV00298615 - **FLI AGRO**
-* (445) PV00298892 - **LUNA NOVA VENTURES**
-* (556) PV00299182 - **JIFCO RECRUITMENT**
-* (667) PV00299556 - **VISIBLE CREATIONS**
-* (778) PV00300010 - **LUNE ATTIC**
-* (889) PV00300680 - **R AND D FARMS**
+* (1) PV00297869 - **KALTEGS**
+* (112) PV00298104 - **THEVAKI INDUSTRIES**
+* (223) PV00298380 - **OONEWOO LANKA**
+* (334) PV00298625 - **MEHESURU ENGINEERING**
+* (445) PV00298901 - **HYZEN EDUCATION**
+* (556) PV00299195 - **N ABLE ENGINEERING**
+* (667) PV00299571 - **CLICKZ RENTECH**
+* (778) PV00300032 - **FISCALFLEX SOLUTIONS**
+* (889) PV00300760 - **CITY ASSETS**
 * (1,000) PV00303750 - **SOUTHERN WIND POWER PROJECT**
 
 
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/121940*
+*Sample of 10/121946*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,549) PV80211 - **BLUE OCEAN INVESTMENTS**
-* (27,098) PV00224067 - **DIGITAL RETAIL SPACE**
-* (40,647) PV00226905 - **GOLDEN ELDER RESORT**
-* (54,196) PV00231877 - **KARMA CANE**
-* (67,744) PV540 - **MLESNA THE KIOSK**
-* (81,293) PV22314 - **PREMIER AUTOMOBILES**
-* (94,842) PV00220078 - **SHAA BEAUTY SOLUTIONS**
-* (108,391) PV00287088 - **THE RESOURCE POOL**
-* (121,940) PV118576 - **ZZAPPIT**
+* (13,550) PV00221303 - **BLUE OCEAN ISLAND HOLDINGS - COLOMBO**
+* (27,099) PV00248872 - **DIGITAL SARASAVIYA**
+* (40,649) PV00209716 - **GOLDEN ELECTRIC VEHICLES**
+* (54,198) PV00281720 - **KARMA FIGHT LEAGUE**
+* (67,748) PV540 - **MLESNA THE KIOSK**
+* (81,297) PV22314 - **PREMIER AUTOMOBILES**
+* (94,847) PV14043 - **SHAA COLA BEVERAGES**
+* (108,396) PV90364 - **THE RESOURCE SYNDICATE**
+* (121,946) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4385*
+*Sample of 10/4380*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A AND Y COMMODITIES**
-* (488)  - **BIKE CENTER**
-* (975)  - **DELI FOOD BAKERS**
-* (1,462)  - **GLORIOUS IMPEX**
-* (1,949)  - **KANKANAMGE TRADINGS**
-* (2,436)  - **MORE GREEN**
-* (2,923)  - **PROGRES ENGINEERING**
-* (3,410)  - **SINOX LANKA**
-* (3,897)  - **THYA INTERNATIONAL**
-* (4,385)  - **ZZ PRESTIGE MOTORS**
+* (487)  - **BIGTIFY**
+* (974)  - **DELI FOOD BAKERS**
+* (1,460)  - **GLORIOUS EVENT ORGANISERS**
+* (1,947)  - **KANKANAMGE TRADINGS**
+* (2,433)  - **MORE GREEN**
+* (2,920)  - **PROGRES ENGINEERING**
+* (3,406)  - **SINGHA SHOES**
+* (3,893)  - **THUSMILA LANKA**
+* (4,380)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2801*
@@ -305,9 +305,6 @@ Scraped **133,936** Companies ([4.14MB](data/companies.tsv)) as of *2024-06-30 1
 
 ### "PVPBPV"
 * (1) PV4405PBPV - **DAVE TRACTORS**
-
-### "UC"
-* (1) UC1 - **JACEY AND COMPANY**
 
 ### "PBpv"
 * (1) PB1236pv - **UNILEAVER CEYLON SERVICES**
