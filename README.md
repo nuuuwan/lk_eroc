@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **135,631** Companies ([4.19MB](data/companies.tsv)) as of *2025-05-02 10:16:26*.
+Scraped **135,637** Companies ([4.19MB](data/companies.tsv)) as of *2025-05-03 10:16:09*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/135631*
+*Sample of 10/135637*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (15,071) PV00247393 - **BLUE WILD**
-* (30,141) PV68750 - **DILLCREATION**
-* (45,211)  - **GOURMET CUISINE**
-* (60,281) PV109385 - **KEM CARE TECHNOLOGIES**
-* (75,351) PV00294210 - **MOSES ALIMENTARI**
-* (90,421) PV00217399 - **PROCLEAN LANKA**
-* (105,491) PV00230086 - **SHAABI TRADING**
-* (120,561) GL2403 - **THE PLANTATION RURAL DEVELOPMENT SOCIAL SERVICE CENTER**
-* (135,631) PV118576 - **ZZAPPIT**
+* (30,142) PV00251668 - **DILLID CAPITAL HOLDINGS**
+* (45,213) PV00225778 - **GOURMET ESSENTIALS LANKA**
+* (60,283) PV00236582 - **KEMAL SEA FOOD**
+* (75,354) PV00294210 - **MOSES ALIMENTARI**
+* (90,425) PV11091 - **PROCHEM LANKA**
+* (105,495) PV00281294 - **SHAA TRADERS**
+* (120,566) F250 - **THE PIONERR FIRE & GEN INS CO**
+* (135,637) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **135,631** Companies ([4.19MB](data/companies.tsv)) as of *2025-05-02 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/123451*
+*Sample of 10/123453*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (13,717) PV107850 - **BLUE OCEAN SHIP REPAIR**
 * (27,434) PV00284571 - **DIGITS BAZAAR**
 * (41,151) PV20945 - **GOLDEN LANDMARK**
-* (54,867) PV84845 - **KASTHANAYA INVESTMENT GROUP**
-* (68,584) PV65682 - **MODEL MOTORS AND TYRE HOUSE**
-* (82,301) PV110142 - **PREMIER INDUSTRIAL SERVICES**
-* (96,017) PV00254933 - **SHAHIRU INTERNATIONAL**
-* (109,734) PV00269076 - **THE SIGNATURE TRAVELS AND TOURS**
-* (123,451) PV118576 - **ZZAPPIT**
+* (54,868) PV00235936 - **KASTHANE CEYLON**
+* (68,585) PV65682 - **MODEL MOTORS AND TYRE HOUSE**
+* (82,302) PV110142 - **PREMIER INDUSTRIAL SERVICES**
+* (96,019) PV00302212 - **SHAI @ HOPE**
+* (109,736) PV00269076 - **THE SIGNATURE TRAVELS AND TOURS**
+* (123,453) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4608*
+*Sample of 10/4612*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
-* (512)  - **BLISS. L K**
-* (1,024)  - **DEONEX**
-* (1,536)  - **GND ASSET MANAGEMENT**
-* (2,048)  - **KAVAN GEMS & JEWELLERY**
-* (2,560)  - **MRC FABRICS**
-* (3,072)  - **QAYYIMAH EDUCATIONAL INSTITUTION**
-* (3,584)  - **SILVER AQUATIC INTERNATIONAL**
-* (4,096)  - **THILAKARATHNE RICE MILLS**
-* (4,608)  - **ZZ PRESTIGE MOTORS**
+* (513)  - **BLOCKCHAIN ASSOCIATION OF SRI LANKA**
+* (1,025)  - **DEQRA INSPECTION AND CERTIFICATION SERVICES**
+* (1,538)  - **GO LANKA LEISURE**
+* (2,050)  - **KAVEE FASHIONS**
+* (2,562)  - **MR LUCK**
+* (3,075)  - **QATAR VENESSIA STORM BRIDGE**
+* (3,587)  - **SILUXSON**
+* (4,099)  - **THIGAZHINI THACHCHUTH THOZHILAKAM**
+* (4,612)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2764*
