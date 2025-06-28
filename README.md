@@ -2,29 +2,29 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **136,162** Companies ([4.20MB](data/companies.tsv)) as of *2025-06-26 10:19:48*.
+Scraped **136,173** Companies ([4.20MB](data/companies.tsv)) as of *2025-06-28 10:14:01*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/136162*
+*Sample of 10/136173*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (15,130) PV94458 - **BLUECHIP CONSTRUX**
-* (30,259) PV00292462 - **DILSA HOLDINGS**
-* (45,388) PV61651 - **GOOD VALUE ESWARAN WORLDWIDE**
-* (60,517) PV16412 - **KEERTHIWARDENE PROPERTY SALES**
-* (75,646) PV00233245 - **MORA CLOTHING**
-* (90,775) PV00206863 - **PRIYASHA GROUP INTERNATIONAL**
-* (105,904) PV00260721 - **SHA SHA CEYLON**
-* (121,033) PV00284547 - **THE PHEONIX TRAVELS**
-* (136,162) PV118576 - **ZZAPPIT**
+* (15,131) PV7654 - **BLUECHIP CUSTOMER ENGINEERING LANKA**
+* (30,261) PV98527 - **DILSCOOP INTERNATIONAL**
+* (45,391) PV00203980 - **GOOD VENUS**
+* (60,521) PV00217933 - **KEERTHI TRADE CENTRE**
+* (75,652) PV00230978 - **MOR U**
+* (90,782) PV00230056 - **PRIYAPARAN LANKA FILLING STATION**
+* (105,912) PV127570 - **SHA SAVIOUR HOLDINGS**
+* (121,042) PV8846 - **THE PHARMACO**
+* (136,173) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00320011 - **AASTRA TECHNOLOGY**
+* (1) PV00320018 - **AS NETWORKS**
 * (112) PV00320881 - **ALTHAF TRADING**
 * (223) PV00321686 - **CHOLA DISTRIBUTOR**
 * (334) PV00322564 - **TORO BROTHERS MATTRESS & WELDING**
@@ -39,32 +39,32 @@ Scraped **136,162** Companies ([4.20MB](data/companies.tsv)) as of *2025-06-26 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/123905*
+*Sample of 10/123913*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (13,768) PV00214594 - **BLUE RIVER DESIGN & CONSTRUCTION**
-* (27,535) PV100772 - **DILAD SOLUTIONS**
-* (41,302) PV00235649 - **GOLDEN BRIDGE INTERNATIONAL COLLEGE**
-* (55,069) PV62796 - **KARL KARTESS**
-* (68,836) PV00234385 - **MOBILE LANKA HOLDING**
-* (82,603) PV00232851 - **PREMEX INDUSTRIES**
-* (96,370) PV00276876 - **SHAHDHI HOLDING**
-* (110,137) PV95360 - **THE SEVEN SPIRITUAL RESORT**
-* (123,905) PV118576 - **ZZAPPIT**
+* (13,769) PV89598 - **BLUE ROCK HOLDINGS**
+* (27,537) PV00214326 - **DILAJ SEAFOOD**
+* (41,305) PV00201903 - **GOLDEN BUSINESS PARTNERS INTERNATIONAL**
+* (55,073) PV116930 - **KARL HOLDINGS**
+* (68,841) PV00234385 - **MOBILE LANKA HOLDING**
+* (82,609) PV89886 - **PREMERO**
+* (96,377) PV104058 - **SHAHAS RASH INTERNATIONAL**
+* (110,145) PV95360 - **THE SEVEN SPIRITUAL RESORT**
+* (123,913) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4706*
+*Sample of 10/4709*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
-* (523)  - **BLOCKCHAIN ASSOCIATION OF SRI LANKA**
-* (1,046)  - **DEVA IMPERIAL**
-* (1,569)  - **GMP TRADING & SERVICES COMPANY**
-* (2,092)  - **KARIYAKARAWANA TRAINING INSTITUTE**
-* (2,614)  - **MR BARBER**
-* (3,137)  - **PUT2KADE**
-* (3,660)  - **SILKNINE**
-* (4,183)  - **THREE FEIORY ENTERPRISES**
-* (4,706)  - **ZZ PRESTIGE MOTORS**
+* (524)  - **BLOOMING ACRES**
+* (1,047)  - **DEVAS INTERNATIONAL**
+* (1,570)  - **GNANAM VALAR ARIVU VALAR**
+* (2,093)  - **KARATS AND FACETS**
+* (2,616)  - **MR BARBER**
+* (3,139)  - **PUT2KADE**
+* (3,662)  - **SILKNINE**
+* (4,185)  - **THRED**
+* (4,709)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2747*
