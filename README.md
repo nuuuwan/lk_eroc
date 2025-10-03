@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **140,586** Companies ([4.34MB](data/companies.tsv)) as of *2025-10-02 10:09:59*.
+Scraped **140,610** Companies ([4.34MB](data/companies.tsv)) as of *2025-10-03 10:09:53*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/140586*
+*Sample of 10/140610*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (15,621) PV00258625 - **BOOK HUB**
-* (31,242) PV00253836 - **DISNA INVESTMENT**
-* (46,862) PV00208936 - **GREEN ABLE TECHNOLOGIES**
-* (62,483) PV00312788 - **KEYARA.LK**
-* (78,103) PB00291858 - **MULLER & PHIPPS ( HEALTH CARE )**
-* (93,724) PV00266129 - **PVL TRAVELS AND CONSULTANT**
-* (109,344) PV00287295 - **SHANGFANG RESTAURANT**
-* (124,965) PV101868 - **THE WITHERD LEAVES TEA AND SPICES COMPANY**
-* (140,586) PV118576 - **ZZAPPIT**
+* (15,624) PV00295885 - **BOOK MASTER**
+* (31,247) PV00261797 - **DISNI PRODUCTS**
+* (46,870) PV00269164 - **GREEN AGRI  EXPORT (CEYLON)**
+* (62,493) PV119760 - **KEYNES INVESTMENTS LANKA**
+* (78,117) PV00227977 - **MULTI BAKERS PRIDE**
+* (93,740) PV18549 - **PYRAMID AGENCIES DEVELOPMENT**
+* (109,363) PV76863 - **SHANGRI-LA RESORTS**
+* (124,986) PV00285175 - **THE WRAP RESTAURANT**
+* (140,610) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **140,586** Companies ([4.34MB](data/companies.tsv)) as of *2025-10-02 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/127923*
+*Sample of 10/127946*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (14,214) PV00212428 - **BOGALA CEYLON EXPORT**
-* (28,428) PV105619 - **DIONIS AND RILY**
-* (42,641) PV129026 - **GRACE LANKA VENTURE HOLIDAYS**
-* (56,855) PV00323477 - **KEILY'S CEYLON**
-* (71,068) PV00243112 - **MORELK**
-* (85,282) PV00220486 - **PRIZMA GLOBAL**
-* (99,495) PV00217560 - **SHANXI SIXTH CONSTRUCTION GROUP**
-* (113,709) PV63830 - **THILAKA ENGINEERING ENTERPRISES**
-* (127,923) PV118576 - **ZZAPPIT**
+* (14,217) PV00307054 - **BOGAM**
+* (28,433) PV123043 - **DIOTIMAA**
+* (42,649) PV00203088 - **GRACE SPICES EXPORT**
+* (56,865) PV00214469 - **KEKIRAWA OSUSALA PHARMACEUTICALS & COM**
+* (71,081) PV14361 - **MORIAH**
+* (85,297) PV00231539 - **PRO DRAFTING**
+* (99,513) PV00242889 - **SHARADA NATURAL**
+* (113,729) PV76418 - **THILAKASIRI STORES AND HARDWARE**
+* (127,946) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4938*
+*Sample of 10/4939*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
 * (549)  - **BOLZANO**
-* (1,098)  - **DIGITPLUS SOLUTIONS**
-* (1,646)  - **GOODFIELDS PRINT & PACKAGING**
-* (2,195)  - **KANVIK GLOBAL**
-* (2,743)  - **MTECH CAPITAL**
-* (3,292)  - **QUEENSBAY INTERNATIONAL**
-* (3,840)  - **SINGHA CLEARING AND TRANSPORT**
-* (4,389)  - **TIDY SHINE LANKA**
-* (4,938)  - **ZZ PRESTIGE MOTORS**
+* (1,098)  - **DIGIWOX**
+* (1,647)  - **GOODWILL SHIPPING & DREDGING CO.**
+* (2,195)  - **KAO VENTURES SOLUTIONS**
+* (2,744)  - **MUBARAK TEXTILES**
+* (3,293)  - **QUISITIVE LANKA**
+* (3,841)  - **SINGHA SHOES**
+* (4,390)  - **TIFFANY CHAIRS LANKA**
+* (4,939)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2785*
