@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **141,105** Companies ([4.36MB](data/companies.tsv)) as of *2025-10-09 10:10:55*.
+Scraped **141,108** Companies ([4.36MB](data/companies.tsv)) as of *2025-10-10 10:10:39*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/141105*
+*Sample of 10/141108*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (15,679) PV00258625 - **BOOK HUB**
-* (31,357) PV00213302 - **DISCOVERY STATIONERS**
-* (47,035) PV97348 - **GREAT LENGTHS**
-* (62,713) PV00259099 - **KESHDIA HOLDING**
-* (78,392) PV00214196 - **MUB MAJU CONSTRUCTION**
-* (94,070) PV00233229 - **PUREZONE JEWELRY**
-* (109,748) PV00251130 - **SHAN MOTORS & AUTO SERVICE**
-* (125,426) PV00274028 - **THE WEB SUSHI**
-* (141,105) PV118576 - **ZZAPPIT**
+* (15,679) PV00314799 - **BOOK LOVERS**
+* (31,358) PV82402 - **DISCRETION TRADING**
+* (47,036) PV00247031 - **GREAT LIFE INTERNATIONAL**
+* (62,715) PV00278400 - **KESLER LANKA ALPHA GLOBAL**
+* (78,393) PV18573 - **MUBARAK INTERNATIONAL**
+* (94,072) PV00220768 - **PURIFYE SOLUTIONS**
+* (109,750) PV00301160 - **SHAN NIPON FUJI**
+* (125,429) PV99634 - **THE WEDDING CROWN**
+* (141,108) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **141,105** Companies ([4.36MB](data/companies.tsv)) as of *2025-10-09 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/128399*
+*Sample of 10/128403*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (14,267) PV00286153 - **BOGAMABARA PHARMACY**
-* (28,533) PV00240910 - **DINUTH AQUARIUM CEYLON**
-* (42,800) PV00283108 - **GOZAYAAN TRAVELS**
-* (57,066) PV00292859 - **KEDELLA ENTERPRISES**
-* (71,333) PV00265773 - **MOON RAISE PRODUCTS**
-* (85,599) PV60105 - **PRIPA PLANTATIONS**
-* (99,866) PV00315373 - **SHANTHI ANAN**
-* (114,132) PV91040 - **THEWINDU INVESTMENT**
-* (128,399) PV118576 - **ZZAPPIT**
+* (28,534) PV77643 - **DINUTH CEY FOODS**
+* (42,801) PV00293356 - **GPM EXPORT & IMPORT**
+* (57,068) PV00302397 - **KEDELLA HOLIDAY  RESORT**
+* (71,335) PV00202900 - **MOON SHINE**
+* (85,602) PV13653 - **PRISKA**
+* (99,869) PV00217896 - **SHANTHI GLOBAL TRADING**
+* (114,136) PV101814 - **THEXA TRADING**
+* (128,403) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/4972*
+*Sample of 10/4971*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
-* (553)  - **BODY WEAR**
-* (1,105)  - **DIGITAL KING**
-* (1,658)  - **GOOD CHOICE TRADING**
-* (2,210)  - **KANILI TRADING**
-* (2,762)  - **MSME COUNCIL OF SRI LANKA**
-* (3,315)  - **QUANTARA INTERNATIONAL**
-* (3,867)  - **SINCAN TRAVELS (PVT) LTD**
-* (4,419)  - **TICKET SURF**
-* (4,972)  - **ZZ PRESTIGE MOTORS**
+* (553)  - **BOGAHAHENA TEA**
+* (1,105)  - **DIGITAL WEALTH**
+* (1,657)  - **GOOD CHOICE TRADING**
+* (2,209)  - **KANILI TRADING**
+* (2,762)  - **MSN AUTO LANKA**
+* (3,314)  - **QUANTARA INTERNATIONAL**
+* (3,866)  - **SINCAN TRAVELS (PVT) LTD**
+* (4,418)  - **TICASS KITCHEN AND CAFFEE**
+* (4,971)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2786*
