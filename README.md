@@ -2,29 +2,29 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **144,159** Companies ([4.45MB](data/companies.tsv)) as of *2025-12-10 10:16:20*.
+Scraped **144,162** Companies ([4.45MB](data/companies.tsv)) as of *2025-12-11 10:16:40*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/144159*
+*Sample of 10/144162*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (16,018) PV105856 - **BOAT SHOP**
 * (32,036) PV00261797 - **DISNI PRODUCTS**
-* (48,053) PV00203318 - **GREASE PENCIL**
-* (64,071) PV00252794 - **KIBLAH**
-* (80,088) GA419 - **MULTIPLE SCLEROSIS ASSOCIATION OF LANKA**
-* (96,106)  - **PWK TRANSPORT**
-* (112,123) PV100909 - **SHAKYA INVESTMENT**
-* (128,141) PV00241568 - **THE WELLNESS SPACE CEYLON**
-* (144,159) PV118576 - **ZZAPPIT**
+* (48,054) PV00203318 - **GREASE PENCIL**
+* (64,072) PV00252794 - **KIBLAH**
+* (80,090) PV00320593 - **MULTIPLE SOLUTIONS**
+* (96,108) PV00282692 - **PWOM ADVERTISING**
+* (112,126) PV00262717 - **SHAKYA LUXURY FURNITURE**
+* (128,144) PV98902 - **THE WEST CENTRAL PHARMA**
+* (144,162) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00330365 - **SCORPIO AND LOTUS**
+* (1) PV00330374 - **SN APPARELS**
 * (112) PV00331383 - **NELUKI AUDIO**
 * (223) PV00332570 - **PLAN CEYLON**
 * (334) PV00333925 - **KR AYU**
@@ -39,18 +39,18 @@ Scraped **144,159** Companies ([4.45MB](data/companies.tsv)) as of *2025-12-10 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/131101*
+*Sample of 10/131104*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (14,567) PV00219859 - **BLUEPRINT VENTURES**
-* (29,134) PV116448 - **DIRECT LINE GLOBAL**
-* (43,701) PV00293356 - **GPM EXPORT & IMPORT**
-* (58,267) PV00222777 - **KEN LANKA TRADING**
-* (72,834) PV76843 - **MOSVOLD LANKA VILLAS**
-* (87,401) PV00218267 - **PRO MAX INTERNATIONAL**
-* (101,967) PV00268668 - **SHAN MONEY EXCHANGE**
-* (116,534) PV65581 - **THIHARA NAILS**
-* (131,101) PV118576 - **ZZAPPIT**
+* (14,568) PV00269800 - **BLUEROCKGEMS**
+* (29,135) PV4069 - **DIRECT LINES**
+* (43,702) PV00293356 - **GPM EXPORT & IMPORT**
+* (58,269) PV72617 - **KEN SECURITY SERVICES**
+* (72,836) PV00259640 - **MOTEL GREEN**
+* (87,403) PV00312796 - **PRO MED STAR FAMILY CARE**
+* (101,970) PV00251130 - **SHAN MOTORS & AUTO SERVICE**
+* (116,537) PV00280862 - **THIHL GROUP OF COMPANIES**
+* (131,104) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/5188*
