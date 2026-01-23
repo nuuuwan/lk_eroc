@@ -2,32 +2,32 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **144,753** Companies ([4.47MB](data/companies.tsv)) as of *2026-01-22 10:20:00*.
+Scraped **144,756** Companies ([4.47MB](data/companies.tsv)) as of *2026-01-23 10:19:17*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/144753*
+*Sample of 10/144756*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (16,084) PV100404 - **BLUE SHELLS**
 * (32,168) PV00211405 - **DINUSHA PLASTIC**
-* (48,251) PV82060 - **GRAND MONEY EXCHANGE**
-* (64,335) PV67761 - **KESTRAL INTERNATIONAL**
-* (80,418) GA2569 - **MUAY THAI ASSOCIATION OF SRI LANKA**
-* (96,502)  - **PURELEAF VENTURES**
-* (112,585) PV5074 - **SHAKTHI FILMS  [N(PVS) 48750]**
-* (128,669) PV98902 - **THE WEST CENTRAL PHARMA**
-* (144,753) PV118576 - **ZZAPPIT**
+* (48,252) PV118264 - **GRAND MOUNTAIN FARMSTEAD**
+* (64,336) PV6392 - **KESTREL**
+* (80,420) PV00259118 - **MUBA AYURVEDIC**
+* (96,504) PV00291662 - **PURELIFE WELLNESS**
+* (112,588) PV00301843 - **SHAKTHI GARMENTS**
+* (128,672) PV98902 - **THE WEST CENTRAL PHARMA**
+* (144,756) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00331476 - **GLOBAL GOODIES**
-* (112) PCC00332665 - **INTERVEST ADVANCED TECHNOLOGIES (PRIVATE) LIMITED.**
-* (223) PV00333883 - **HAWETHRA EXPORTS**
-* (334) PV00335240 - **NRT BUILDERS**
+* (1) PV00331508 - **RELAX WAY**
+* (112) PV00332669 - **WIJITHA LANKA**
+* (223) PV00333885 - **DIGIPOL INTERNATIONAL**
+* (334) PV00335265 - **ALLUREVIBE**
 * (445) PV00336433 - **MICRO CREDIT OF CEYLON**
 * (556) PV00337553 - **ANTONY'S KITCHEN**
 * (667) GA00338978 - **INTERNATIONAL ASSOCIATION FOR THE EXCHANGE OF STUDENTS FOR TECHNICAL EXPERIENCE**
@@ -39,32 +39,32 @@ Scraped **144,753** Companies ([4.47MB](data/companies.tsv)) as of *2026-01-22 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/131613*
+*Sample of 10/131618*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (14,624) PV93124 - **BLUE OCEAN HOME APPLIANCES**
-* (29,248) PV00286240 - **DINIDU**
-* (43,871) PV00310814 - **GOOFY TATTOO SHACK**
-* (58,495) PV00254452 - **KEERTHIHA MALL**
-* (73,118) PV00232009 - **MOONSHADOW NATURALS**
-* (87,742) PV82810 - **PRISTINE GLOBAL**
-* (102,365) PV00289059 - **SHAMRA MOTORS**
-* (116,989) PV00221861 - **THIHARA TRANSPORT SERVICES**
-* (131,613) PV118576 - **ZZAPPIT**
+* (14,625) PV00233194 - **BLUE OCEAN INSIGHTS**
+* (29,249) PV129112 - **DINIJA APPAREL**
+* (43,873) PV00216843 - **GOOGLECOLA**
+* (58,497) PV00315977 - **KEES CLOTHINA**
+* (73,121) PV4749 - **MOONSTARS TECH**
+* (87,745) PV106425 - **PRISTINE HOLDINGS**
+* (102,369) PV67380 - **SHAMROCK ALLIANCE**
+* (116,993) PV65581 - **THIHARA NAILS**
+* (131,618) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/5216*
+*Sample of 10/5214*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
 * (580)  - **BIZ FIRST CONSULTANTS**
 * (1,159)  - **DIGI ZEAL**
-* (1,739)  - **GONSALVES JEWELLERS**
-* (2,318)  - **KATHA**
-* (2,898)  - **MUNNA BEAUTY ACADEMY**
-* (3,477)  - **QUISITIVE LANKA**
-* (4,057)  - **SILKNINE**
-* (4,636)  - **THUSHAUTO**
-* (5,216)  - **ZZ PRESTIGE MOTORS**
+* (1,738)  - **GOLDYTASTE**
+* (2,317)  - **KATE NATURAL FOODS**
+* (2,897)  - **MUNAS & SONS**
+* (3,476)  - **QUICKENTRY AI**
+* (4,055)  - **SILICON SURGE**
+* (4,634)  - **THUSHAUTO**
+* (5,214)  - **ZZ PRESTIGE MOTORS**
 
 ### "PB"
 *Sample of 10/2823*
