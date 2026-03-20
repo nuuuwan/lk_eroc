@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **148,286** Companies ([4.58MB](data/companies.tsv)) as of *2026-03-19 10:39:54*.
+Scraped **148,289** Companies ([4.58MB](data/companies.tsv)) as of *2026-03-20 10:35:55*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/148286*
+*Sample of 10/148289*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (16,477) GA2928 - **BODU BALA SENA JALAYA**
 * (32,953) PV108622 - **DINUSURU MICRO CREDIT**
-* (49,429) PV111664 - **GOVERNOR SHIRTS**
-* (65,905) PV114226 - **KEGISARA**
-* (82,381) GA00253144 - **MOVE FRONT INSTITUTION**
-* (98,857) PV95978 - **PRUDENTIA INFINITY**
-* (115,333) PV00286267 - **SHAIVIYA HOLDINGS**
-* (131,809) PV00208199 - **THEJAN INVESTMENT**
-* (148,286) PV118576 - **ZZAPPIT**
+* (49,430) PV00240244 - **GOVERNOR'S MANOR**
+* (65,906) PV103555 - **KEHA HOLDINGS**
+* (82,383) PV130243 - **MOVE IT**
+* (98,859) PV67653 - **PRUDENTIAL CONSULTANTS & MANAGEMENT SERVICES**
+* (115,336) PV00286267 - **SHAIVIYA HOLDINGS**
+* (131,812) PV00208199 - **THEJAN INVESTMENT**
+* (148,289) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,18 +39,18 @@ Scraped **148,286** Companies ([4.58MB](data/companies.tsv)) as of *2026-03-19 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/134856*
+*Sample of 10/134859*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (14,984) PV00288078 - **BM LANKA IMPORTS**
-* (29,968) PV00249702 - **DINIK CONSULTANTS**
-* (44,952) PV00269684 - **GOLDSUN CAPITAL**
-* (59,936) PV75641 - **KATANA CITY DEVELOPMENT**
-* (74,920) PV104007 - **MONEY NETWORK**
-* (89,904) PV00282715 - **PRIME PET PRODUCTS**
-* (104,888) PV00298118 - **SHAMA IMPORT AND EXPORT INTERNATIONAL**
-* (119,872) PV84291 - **THILINI APPAREL**
-* (134,856) PV118576 - **ZZAPPIT**
+* (14,985) PV00276464 - **BM RENEWABLE ENERGY**
+* (29,969) PV00254747 - **DINISURU DISTRIBUTORS**
+* (44,953) PV113909 - **GOLDTHEME HOLDINGS**
+* (59,937) PV5302 - **KATANA DEVELOPMENTS**
+* (74,922) PV104007 - **MONEY NETWORK**
+* (89,906) PV00282715 - **PRIME PET PRODUCTS**
+* (104,890) PV00247554 - **SHAM TEXTILES ENGINEERING**
+* (119,874) PV00288316 - **THILINAYA**
+* (134,859) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/5416*
@@ -60,7 +60,7 @@ Scraped **148,286** Companies ([4.58MB](data/companies.tsv)) as of *2026-03-19 1
 * (1,204)  - **DIGIMONEY FINTECH SOLUTIONS**
 * (1,806)  - **GOGM SOCIAL WELFARE HELPING HANDS**
 * (2,407)  - **KANDEEPAN ENTERPRISE**
-* (3,009)  - **MSME COUNCIL OF SRI LANKA**
+* (3,009)  - **MSN AUTO LANKA**
 * (3,611)  - **PV IT BUSINESS SOLUTIONS**
 * (4,212)  - **SIGMA GLOBAL**
 * (4,814)  - **THUSHI CONSTRUCTION**
