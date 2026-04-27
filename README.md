@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **150,782** Companies ([4.65MB](data/companies.tsv)) as of *2026-04-26 11:00:47*.
+Scraped **150,788** Companies ([4.65MB](data/companies.tsv)) as of *2026-04-27 11:09:17*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/150782*
+*Sample of 10/150788*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (16,754) PV00293242 - **BLUEWAVE GLOBAL TRADERS**
-* (33,507) PV00301110 - **DIGITUS TEC HOLDINGS**
-* (50,261) PB5036 - **GOLDEN VISTAS**
-* (67,014) PV00206608 - **KAVEESHA BROKERS**
-* (83,768) PV00341249 - **MORA C LEISURE**
-* (100,521) PV00280284 - **PROFIT  HOSPITALITY**
-* (117,275) PV00260956 - **SHA CEYLON**
-* (134,028) PV00208199 - **THEJAN INVESTMENT**
-* (150,782) PV118576 - **ZZAPPIT**
+* (16,755) PV00293242 - **BLUEWAVE GLOBAL TRADERS**
+* (33,509) PV00275921 - **DIGITUS TECHNOLOGY**
+* (50,263) PV00297953 - **GOLDEN VOYAGES**
+* (67,017) PV00261297 - **KAVEESHA ENTERPRISES**
+* (83,771) PV00233245 - **MORA CLOTHING**
+* (100,525) PV00262524 - **PROFITGENIE INVESTMENT**
+* (117,279) PV00260956 - **SHA CEYLON**
+* (134,033) PV00208199 - **THEJAN INVESTMENT**
+* (150,788) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **150,782** Companies ([4.65MB](data/companies.tsv)) as of *2026-04-26 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/137131*
+*Sample of 10/137136*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (15,237) PV78748 - **BLUEFIN SEARCH**
-* (30,474) PV00264683 - **DIGITAL WAYS**
-* (45,711) PV22317 - **GOKAL TEAS CEYLON**
-* (60,947) PV00260630 - **KAPILACHANDRA**
-* (76,184) PV96301 - **MODERN COLOMBO EXIM**
-* (91,421) PV116211 - **PRESCO INTERNATIONAL**
-* (106,657) PV00217170 - **SHAISHA SOLAR HABARANA**
-* (121,894) PV20989 - **THILINI ENTERPRISES**
-* (137,131) PV118576 - **ZZAPPIT**
+* (15,238) PV00225780 - **BLUEGEN I.T. SOLUTIONS**
+* (30,475) PV00327712 - **DIGITAL WEALTH ERA**
+* (45,712) PV00337879 - **GOKANI**
+* (60,949) PV100341 - **KAPISH TRADING COMPANY**
+* (76,187) PV00224493 - **MODERN CONSTRUCTIONS & RENOVATION**
+* (91,424) PV00264234 - **PRESENCE CREATION**
+* (106,661) PV00286267 - **SHAIVIYA HOLDINGS**
+* (121,898) PV20989 - **THILINI ENTERPRISES**
+* (137,136) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/5552*
+*Sample of 10/5553*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
-* (617)  - **BIMMER AUTOMOTIVE**
-* (1,234)  - **DERMA BLISS**
-* (1,851)  - **GLOBAL LIVESTOCK**
-* (2,468)  - **JSL DEVELOPMENT**
-* (3,084)  - **MORCH KENN**
-* (3,701)  - **PROSTAR**
-* (4,318)  - **SHREE SIYAL FASHION**
-* (4,935)  - **TICASS KITCHEN AND CAFFEE**
-* (5,552)  - **ZYPHER CLOUD**
+* (617)  - **BILLION BEAUTIES**
+* (1,234)  - **DEQRA INSPECTION AND CERTIFICATION SERVICES**
+* (1,851)  - **GLOBAL LION EXPORTS**
+* (2,468)  - **JR GLOBAL PATHWAYS**
+* (3,085)  - **MORCH KENN**
+* (3,702)  - **PROSTAR**
+* (4,319)  - **SHREE SIYAL FASHION**
+* (4,936)  - **TICASS KITCHEN AND CAFFEE**
+* (5,553)  - **ZYPHER CLOUD**
 
 ### "PB"
 *Sample of 10/2859*
