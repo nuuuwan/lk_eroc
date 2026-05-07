@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **151,765** Companies ([4.68MB](data/companies.tsv)) as of *2026-05-06 11:12:37*.
+Scraped **151,768** Companies ([4.68MB](data/companies.tsv)) as of *2026-05-07 11:14:28*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/151765*
+*Sample of 10/151768*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (16,863) PV126597 - **BLUELINE SOURCING**
-* (33,726) PV9465 - **DIL FOODS**
-* (50,589) PV00293600 - **GOOD FOR OTHERS**
-* (67,451)  - **KEDSMA**
-* (84,314) PV00263314 - **MONTTORO INVESTMENTS**
-* (101,177) PV00242591 - **PROBODHYA GREEN FOODS**
-* (118,039) PV00241082 - **SHA LION**
-* (134,902) PV86731 - **THILAKA HOLIDAY HOMES**
-* (151,765) PV118576 - **ZZAPPIT**
+* (16,864) PV00256563 - **BLUEMARK**
+* (33,727) PV94715 - **DIL FOODS AGRO PRODUTS**
+* (50,590) PV00254447 - **GOOD FRIENDS HOTEL**
+* (67,453) PV00245255 - **KEDT ENGINEERING**
+* (84,316) PV00244816 - **MONTY MOBILE INTERNATIONAL**
+* (101,179) PV00227173 - **PROBUILD CONSTRUCTION**
+* (118,042) PV00297843 - **SHA MANAGEMENT**
+* (134,905) PV00227394 - **THILAKA JAYANTHI COOL SPOT**
+* (151,768) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **151,765** Companies ([4.68MB](data/companies.tsv)) as of *2026-05-06 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/138015*
+*Sample of 10/138017*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (15,335) PV130562 - **BLUE WAY FILLING STATION**
-* (30,670) PV00330250 - **DIGITEC SOLUTIONS**
-* (46,005) PV00274578 - **GOLDEN BREEDER FARM**
-* (61,340) PV89540 - **KASHYAPA FOREST CHALETS RESORT**
-* (76,675) PV79796 - **MOBILE ZONE**
-* (92,010) PV121114 - **PREMIL LOGISTICS**
-* (107,345) PV00244725 - **SHAKI ADVANCE HOLDINGS**
-* (122,680) PV75080 - **THIRASARU LANKA**
-* (138,015) PV118576 - **ZZAPPIT**
+* (15,336) PV00281633 - **BLUE WHALE AQUATICS**
+* (30,671) PV92080 - **DIGITECH CARD SOLUTIONS**
+* (46,006) PV00235649 - **GOLDEN BRIDGE INTERNATIONAL COLLEGE**
+* (61,341) PV00257992 - **KASHYAPA INDUSTRIES**
+* (76,676) PV17699 - **MOBILE ZONE HOLDINGS**
+* (92,011) PV121114 - **PREMIL LOGISTICS**
+* (107,346) PV00244725 - **SHAKI ADVANCE HOLDINGS**
+* (122,681) PV75080 - **THIRASARU LANKA**
+* (138,017) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/5633*
+*Sample of 10/5634*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
 * (626)  - **BISMUTH CONSTRUCTIONS AND PROPERTY DEVELOPMENT**
 * (1,252)  - **DEZALY CEYLON INTERNATIONAL**
 * (1,878)  - **GLOBE MOTOR CONCEPTS**
 * (2,504)  - **KALUPAHANA SOALR**
-* (3,129)  - **MORVANI**
-* (3,755)  - **PS CEYLON FOODS**
-* (4,381)  - **SIGMA GLOBAL**
-* (5,007)  - **TITUS STORES RETAIL**
-* (5,633)  - **ZYPHER CLOUD**
+* (3,130)  - **MOSHEN**
+* (3,756)  - **PS PAPA SAYS**
+* (4,382)  - **SIGMAXCELERATE**
+* (5,008)  - **TITUS STORES RETAIL**
+* (5,634)  - **ZYPHER CLOUD**
 
 ### "PB"
 *Sample of 10/2864*
