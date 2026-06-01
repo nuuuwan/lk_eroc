@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **152,863** Companies ([4.71MB](data/companies.tsv)) as of *2026-05-31 11:33:21*.
+Scraped **152,868** Companies ([4.71MB](data/companies.tsv)) as of *2026-06-01 11:47:40*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/152863*
+*Sample of 10/152868*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (16,985) PV112305 - **BLUE OCEAN BREEZE**
-* (33,970) PV00277368 - **DIGI ZONE**
-* (50,955) PV00286647 - **GOLDEN GATE CHICKEN & AGRO**
-* (67,939) PV112094 - **KATHYUSHA EXCLUSIVE LINES**
-* (84,924) PV00243887 - **MOJO NEWS LANKA**
-* (101,909) PV00274680 - **PRINCE HARDWARE AND ELECTRICALS**
-* (118,893) PV100082 - **SEWINCO**
-* (135,878) PV00210593 - **THEPULANGODA HOLDINGS**
-* (152,863) PV118576 - **ZZAPPIT**
+* (16,986) PV111456 - **BLUE OCEAN BUSINESS CONSULTANCY**
+* (33,971) PV12061 - **DIGI-WEIGH SYSTEM**
+* (50,956) PV00236848 - **GOLDEN GATE CREDIT HOLDINGS**
+* (67,941) PV112094 - **KATHYUSHA EXCLUSIVE LINES**
+* (84,927) PV00223006 - **MOJO SOCIAL CLUB**
+* (101,912)  - **PRINCE GOLD**
+* (118,897) PV100082 - **SEWINCO**
+* (135,882) PV00210593 - **THEPULANGODA HOLDINGS**
+* (152,868) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **152,863** Companies ([4.71MB](data/companies.tsv)) as of *2026-05-31 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/139008*
+*Sample of 10/139010*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (15,446) PV00219876 - **BLUE LAGOON SOLAR**
 * (30,891) PV00214875 - **DIDULA SALON AND SPA**
-* (46,336) PV00222511 - **GLOW SATURN COMPANY**
-* (61,781) PV75822 - **KANRICH RESORT**
-* (77,227) PV119658 - **MITHARA INVESTMENT AND TRADING**
-* (92,672) PV91649 - **PRASHANS CONSTRUCTIONS**
-* (108,117) PV128538 - **SHA CONSTRUCTIONS & CIVIL ENGINEERING**
-* (123,562) PV00218011 - **THINA ENTERTAINMENT**
-* (139,008) PV118576 - **ZZAPPIT**
+* (46,337) PV00298427 - **GLOW STAR SOLUTIONS**
+* (61,782) PV75822 - **KANRICH RESORT**
+* (77,228) PV119658 - **MITHARA INVESTMENT AND TRADING**
+* (92,673) PV00258219 - **PRASHANITH**
+* (108,119) PV128538 - **SHA CONSTRUCTIONS & CIVIL ENGINEERING**
+* (123,564) PV00218011 - **THINA ENTERTAINMENT**
+* (139,010) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/5718*
+*Sample of 10/5721*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
 * (636)  - **BIG ROC CONSTRUCTIONS**
-* (1,271)  - **DELETE NOTHING**
-* (1,906)  - **GLOBAL EVENTS ART**
-* (2,541)  - **JSR RENT A CAR**
-* (3,177)  - **MOMENTUM  INTERNATIONAL  SKILL  MANAGEMENT  ACADEMY**
-* (3,812)  - **PRINCE GOLD**
-* (4,447)  - **SHRI NADIKA**
-* (5,082)  - **TISSA RECYCLING HUB**
-* (5,718)  - **ZYPHER CLOUD**
+* (1,272)  - **DELIANCE TRADING AND DISTRIBUTION**
+* (1,907)  - **GLOBAL GEM GALLERY**
+* (2,543)  - **JTP NEXUS**
+* (3,178)  - **MOMENTUM  INTERNATIONAL  SKILL  MANAGEMENT  ACADEMY**
+* (3,814)  - **PRINCE GOLD**
+* (4,449)  - **SHRI NADIKA**
+* (5,085)  - **TITAN GUARD SECURITY SERVICES**
+* (5,721)  - **ZYPHER CLOUD**
 
 ### "PB"
 *Sample of 10/2867*
