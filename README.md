@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **153,191** Companies ([4.72MB](data/companies.tsv)) as of *2026-06-10 11:33:50*.
+Scraped **153,197** Companies ([4.72MB](data/companies.tsv)) as of *2026-06-11 11:40:44*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/153191*
+*Sample of 10/153197*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (17,022) PB5282 - **BLUE OCEAN SOLAR**
-* (34,043) PV00318065 - **DIGIFOX**
-* (51,064) PV964 - **GOLDEN KEY TRAVELS**
-* (68,085) PV00329624 - **KATHIRVELAAN DISTRIBUTOR**
-* (85,106) GA00270213 - **MOHANJI ACT FOUNDATION**
-* (102,127) PV126514 - **PRIME TOURS ARRIVALS**
-* (119,148) PV00226286 - **SEVONRICH CREATION**
-* (136,169) PV00259285 - **THENNAI COCO**
-* (153,191) PV118576 - **ZZAPPIT**
+* (34,044) PV00228989 - **DIGIFY CEYLON**
+* (51,066) PV00209562 - **GOLDEN KITCHEN**
+* (68,088) PV00236661 - **KATHURAA OFFICIAL**
+* (85,109) FC1397 - **MOHEBI INVESTMENT**
+* (102,131) PV126514 - **PRIME TOURS ARRIVALS**
+* (119,153) PV00226286 - **SEVONRICH CREATION**
+* (136,175) PV00225947 - **THENNAKOON HARDWARE**
+* (153,197) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **153,191** Companies ([4.72MB](data/companies.tsv)) as of *2026-06-10 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/139298*
+*Sample of 10/139303*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (15,478) PV109907 - **BLUE LOTUS M J**
-* (30,955) PV00232658 - **DIFFERENT DISCOVERY TOURS**
-* (46,433) PV00280323 - **GNANAM INTERNATIONAL**
-* (61,910) PV73757 - **KANOTA**
-* (77,388) PV00219134 - **MISTY MOUNTAIN CHALETS TOP PASS**
-* (92,865) PV00300599 - **PRANA WELLNESS CENTRE**
-* (108,343) PV00289536 - **SFC AGRO**
-* (123,820) PV00235590 - **THILONA DREAM CONSTRUCTION**
-* (139,298) PV118576 - **ZZAPPIT**
+* (15,479) PV102019 - **BLUE LOTUS PROPERTIES**
+* (30,957) PV00273342 - **DIFFERENT VERSIONS**
+* (46,435) PV00230390 - **GNANAMS GRAND**
+* (61,913) PV00248689 - **KANREN INDUSTRIES**
+* (77,391) PV123254 - **MISTYWICK CEYLON**
+* (92,869) PV00282878 - **PRANADHAKSHI TEXTILE PRT**
+* (108,347) PV00289536 - **SFC AGRO**
+* (123,825) PV00273477 - **THILONA HOTEL MANAGEMENT & TRADING**
+* (139,303) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/5745*
+*Sample of 10/5746*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
 * (639)  - **BIHARA ENTERPRISES**
 * (1,277)  - **DEMOCRATIC ORGANISATION AGAINST OPPRESSION**
-* (1,915)  - **GLOBAL STUDY AND MIGRATION PARTNERS**
-* (2,553)  - **JULIET ROSE**
+* (1,916)  - **GLOBAL TRADE COLOMBO**
+* (2,554)  - **JUNIPER TRAVELLER**
 * (3,192)  - **MONKEY GARDEN**
-* (3,830)  - **PRIME SUMMIT**
-* (4,468)  - **SHRAMA MUTHU**
-* (5,106)  - **TITAN GUARD SECURITY SERVICES**
-* (5,745)  - **ZYPHER CLOUD**
+* (3,831)  - **PRIME SUMMIT**
+* (4,469)  - **SHRAMA MUTHU**
+* (5,107)  - **TITAN GUARD SECURITY SERVICES**
+* (5,746)  - **ZYPHER CLOUD**
 
 ### "PB"
 *Sample of 10/2873*
