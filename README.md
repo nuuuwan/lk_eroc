@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **153,287** Companies ([4.72MB](data/companies.tsv)) as of *2026-06-14 11:40:44*.
+Scraped **153,292** Companies ([4.72MB](data/companies.tsv)) as of *2026-06-15 11:50:44*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/153287*
+*Sample of 10/153292*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (17,032) PV00294779 - **BLUE PEAKS ENTERPRISE**
-* (34,064) PV00285346 - **DIGIMIND.LK**
-* (51,096) PV00268168 - **GOLDEN JAPAN INTERNATIONAL TRADING**
-* (68,128) PV129274 - **KATE INTERNATIONAL PRESCHOOL**
-* (85,159)  - **MOGO MEDIA ACADEMY**
-* (102,191) PV00233074 - **PRIME SOLAR ENERGY**
-* (119,223) PV00220299 - **SEVENTH SENSE SERVICES**
-* (136,255) PV00286525 - **THEMINDA WICKRAMARACHCHI**
-* (153,287) PV118576 - **ZZAPPIT**
+* (17,033) PV00263010 - **BLUE PEARL AQUA**
+* (34,065) PV00214507 - **DIGIMOB MEDICAL SOLUTIONS**
+* (51,098) PV00235520 - **GOLDEN K M R HOLDINGS**
+* (68,130) PV129274 - **KATE INTERNATIONAL PRESCHOOL**
+* (85,162) PV101673 - **MOGO SOLUTIONS**
+* (102,195) PV100819 - **PRIME SPOT HOLIDAYS**
+* (119,227) PV00258115 - **SEVENTH SCIENCE HOLDING**
+* (136,259) PV00249385 - **THEMES GALLERY**
+* (153,292) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **153,287** Companies ([4.72MB](data/companies.tsv)) as of *2026-06-14 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/139381*
+*Sample of 10/139384*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (15,487) PV00218891 - **BLUE MAGPIES TRAVELS**
-* (30,974) PV00240260 - **DIGATHA COCO**
-* (46,461) PV00264196 - **GMED - HEALTH SOLUTIONS**
-* (61,947) PV96818 - **KANNANGARA DISTRIBUTORS**
-* (77,434) PV86742 - **MISSION PROTECTORS SECURITY**
-* (92,921) PV00279895 - **PRAMUDITHA SAHAL**
-* (108,407) PV00211413 - **SEYLON ULTRA NATURE**
-* (123,894) PV93719 - **THILINI VEGETABLES SUPPLIERS**
-* (139,381) PV118576 - **ZZAPPIT**
+* (15,488) PV84987 - **BLUE MANGO**
+* (30,975) PV00234584 - **DIGATHA INTERGRATED**
+* (46,462) PV00277394 - **GMMG TECHNOLOGIES**
+* (61,949) PV69657 - **KANNANGARA ENGINEERING SERVICES**
+* (77,436) PV00230440 - **MIST I O T**
+* (92,923) PV17169 - **PRAMUKA CONSTRUCTION AND ENGINEERING COMPANY**
+* (108,410) PV00211413 - **SEYLON ULTRA NATURE**
+* (123,897) PV93719 - **THILINI VEGETABLES SUPPLIERS**
+* (139,384) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/5757*
+*Sample of 10/5759*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
 * (640)  - **BIKE INN ASIA**
 * (1,280)  - **DENTAL ARTS**
-* (1,919)  - **GLOBAL NETWORK**
-* (2,559)  - **JTP NEXUS**
-* (3,198)  - **MOMO BROS**
-* (3,838)  - **PRIME JOURNEY**
-* (4,477)  - **SHORELINE CAPITAL PARTNERS**
-* (5,117)  - **TISSA RECYCLING HUB**
-* (5,757)  - **ZYPHER CLOUD**
+* (1,920)  - **GLOBAL PATHWAYS**
+* (2,560)  - **JTP NEXUS**
+* (3,199)  - **MOMO BROS**
+* (3,839)  - **PRIME JOURNEY**
+* (4,479)  - **SHORELINE CAPITAL PARTNERS**
+* (5,119)  - **TISSA RECYCLING HUB**
+* (5,759)  - **ZYPHER CLOUD**
 
 ### "PB"
 *Sample of 10/2873*
