@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **155,584** Companies ([4.79MB](data/companies.tsv)) as of *2026-07-30 11:00:25*.
+Scraped **155,583** Companies ([4.79MB](data/companies.tsv)) as of *2026-07-31 11:17:42*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/155584*
+*Sample of 10/155583*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (17,288) PV00274085 - **BLUE SHADOWS NEW GENERATION MUSICAL BAND**
-* (34,575) PV00222253 - **DIGITAL I T SERVICES**
-* (51,862) PV00264845 - **GOLDEN SMART HOLDINGS**
-* (69,149) PV104391 - **KASUN INSVASTMENT**
-* (86,436) PV00249979 - **MODULAR HUT**
-* (103,723) PV65323 - **PRIME HOTELS SOLUTIONS**
-* (121,010) PV99803 - **SEVENSEAS FORWARDERS LANKA**
-* (138,297) PV92629 - **THE WEDDING DESIGN CREW**
-* (155,584) PV118576 - **ZZAPPIT**
+* (17,287) PV00229678 - **BLUE SHADOW HOLDINGS**
+* (34,574) PV00231157 - **DIGITAL I INTERNATIONAL**
+* (51,861) PV00264845 - **GOLDEN SMART HOLDINGS**
+* (69,148) PV104391 - **KASUN INSVASTMENT**
+* (86,435) PV00249979 - **MODULAR HUT**
+* (103,722) PV65323 - **PRIME HOTELS SOLUTIONS**
+* (121,009) PV99803 - **SEVENSEAS FORWARDERS LANKA**
+* (138,296) PV92629 - **THE WEDDING DESIGN CREW**
+* (155,583) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -53,18 +53,18 @@ Scraped **155,584** Companies ([4.79MB](data/companies.tsv)) as of *2026-07-30 1
 * (141,440) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/5939*
+*Sample of 10/5938*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
 * (660)  - **BISMUTH CONSTRUCTIONS AND PROPERTY DEVELOPMENT**
 * (1,320)  - **DESTINY TOURS AND TRAVELS**
-* (1,980)  - **GLOWISH COSMETICS**
-* (2,640)  - **KALAL PRODUCTS**
-* (3,299)  - **MOON VILLAGE RESTAURANT**
-* (3,959)  - **PRIME JOURNEY**
-* (4,619)  - **SHRAMA MUTHU**
-* (5,279)  - **TIMMY JONES**
-* (5,939)  - **ZYPHER CLOUD**
+* (1,980)  - **GLUMY ENTERPRISES**
+* (2,639)  - **KALAL PRODUCTS**
+* (3,299)  - **MOPERAMA INTERNATIONAL**
+* (3,959)  - **PRIME LANKA ROOFING INDUSTRIES**
+* (4,618)  - **SHRAMA MUTHU**
+* (5,278)  - **TIMMY JONES**
+* (5,938)  - **ZYPHER CLOUD**
 
 ### "PB"
 *Sample of 10/2876*
