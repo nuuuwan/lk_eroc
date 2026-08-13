@@ -2,13 +2,13 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **156,601** Companies ([4.82MB](data/companies.tsv)) as of *2026-08-12 10:42:10*.
+Scraped **156,602** Companies ([4.82MB](data/companies.tsv)) as of *2026-08-13 10:41:26*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/156601*
+*Sample of 10/156602*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (17,401) PV00240597 - **BLUEBERRY MARKETING SOLUTIONS**
@@ -19,38 +19,38 @@ Scraped **156,601** Companies ([4.82MB](data/companies.tsv)) as of *2026-08-12 1
 * (104,401) PV00285316 - **PRIME FOOD SOLUTIONS **
 * (121,801) PV99803 - **SEVENSEAS FORWARDERS LANKA**
 * (139,201) PV00233849 - **THE VICEROY TRADING COMPANY**
-* (156,601) PV118576 - **ZZAPPIT**
+* (156,602) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00353989 - **MERCHANT OF CREDIT BUSINESS INVESTMENT**
-* (112) PV00354889 - **VINCITY PRODUCTS**
-* (223) PV00355895 - **DELICATE**
-* (334) PV00357194 - **SIGNATURE VOYAGE GLOBAL**
-* (445) PV00358547 - **HONEST EARTH**
-* (556) PV00359825 - **KITSOFT**
-* (667) PV00361234 - **PRAXION INTERNATIONAL**
-* (778) PV00363145 - **DE SOYSA NURSING COLLEGE**
-* (889) PV00365280 - **I GRAPHICS**
+* (1) PV00353992 - **NIMSARA HARDWARE**
+* (112) PV00354895 - **NETHUSHA IMPORT AND EXPORT INTERNATIONAL**
+* (223) PV00355978 - **AYORA ONE**
+* (334) PV00357205 - **CRAVE AHANGAMA**
+* (445) PV00358552 - **TADASHI LANKA ACADEMY**
+* (556) PV00359826 - **AAKIV**
+* (667) PV00361241 - **ZENSEAT**
+* (778) PV00363171 - **NYXZIE**
+* (889) PV00365291 - **SIVA FASHIONS**
 * (1,000) PV00370482 - **B PLUS EVENTS & ENTERTAINMENT**
 
 
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/142349*
+*Sample of 10/142350*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (15,817) PV00278904 - **BLUE SKY TRAVELS AND TOURS**
-* (31,633) PV104804 - **DIGITAL TECH CREATIONS**
+* (31,634) PV00318491 - **DIGITAL TECH LABS**
 * (47,450) PV00212737 - **GOLDEN HOME CARE NURSING**
-* (63,266) PV100852 - **KARUNATHIKLAKA CONSTRUCTION**
+* (63,267) PV91020 - **KARUNEPATENNA**
 * (79,083) PV00287734 - **MOBILE EDGE SOLUTIONS**
-* (94,899) PV3896 - **PREMADASA PRINTERS**
+* (94,900) PV117021 - **PREMADASA PURE CEYLON TEA**
 * (110,716) PV109122 - **SEYLANKA ENGINEERING**
-* (126,532) PV128512 - **THERAFFIN LIFE CARE**
-* (142,349) PV118576 - **ZZAPPIT**
+* (126,533) PV92074 - **THERAPY ASSOCIATES LANKA**
+* (142,350) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/6038*
