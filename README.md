@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **158,555** Companies ([4.88MB](data/companies.tsv)) as of *2026-09-02 10:12:26*.
+Scraped **158,559** Companies ([4.88MB](data/companies.tsv)) as of *2026-09-04 10:11:13*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/158555*
+*Sample of 10/158559*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (17,618) PV74843 - **BNEATH**
-* (35,235) PV00277837 - **DIGITAL 365 HOLDINGS**
-* (52,852) PV00239507 - **GOOD GREEN LANKA**
-* (70,469) PV00242670 - **KEANU HOLDINGS**
-* (88,086) PV00242059 - **MONEVA**
-* (105,703) PV14184 - **PRIDE TEA COMPANY**
-* (123,320) PV00202541 - **SERU BUMI COMPANY**
-* (140,937) PV00228213 - **THE SUNSET YEARS**
-* (158,555) PV118576 - **ZZAPPIT**
+* (35,236) PV00231094 - **DIGITAL ACCOUNTING**
+* (52,853) PV00239507 - **GOOD GREEN LANKA**
+* (70,471)  - **KEAPER**
+* (88,088) PV00242059 - **MONEVA**
+* (105,706) PV82944 - **PRIDE TERRITORY**
+* (123,323) PV00202541 - **SERU BUMI COMPANY**
+* (140,941) PV00228213 - **THE SUNSET YEARS**
+* (158,559) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **158,555** Companies ([4.88MB](data/companies.tsv)) as of *2026-09-02 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/144114*
+*Sample of 10/144117*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (16,013) PV109981 - **BLUESKY ENGINEERING AND DESIGNING**
 * (32,026) PV00208605 - **DIGICAT**
-* (48,038) PV125026 - **GOLD STAR IMPORTS AND EXPORTS**
-* (64,051) PV13039 - **KARUNA JAYAWARDENE AND SONS**
-* (80,063) PV00294401 - **MNS MULTI PRODUCTS**
-* (96,076) PV00269830 - **PRECISION COMPOSITES**
-* (112,088) PV00217442 - **SETHSIRI LANKA HOLDINGS**
-* (128,101) PV00290150 - **THE VISA PARTNER HUB**
-* (144,114) PV118576 - **ZZAPPIT**
+* (48,039) PV125026 - **GOLD STAR IMPORTS AND EXPORTS**
+* (64,052) PV13039 - **KARUNA JAYAWARDENE AND SONS**
+* (80,065) PV00298882 - **MNSP PETROVENTURE**
+* (96,078) PV00308148 - **PRECISION COST CONSULTANTS**
+* (112,091) PV91951 - **SETHSIRI MEDICAL CARE**
+* (128,104) PV00290150 - **THE VISA PARTNER HUB**
+* (144,117) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/6159*
+*Sample of 10/6160*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
 * (685)  - **BLOCKCHAIN ASSOCIATION OF SRI LANKA**
 * (1,369)  - **DEZALY CEYLON INTERNATIONAL**
-* (2,053)  - **GOOD BITES GLOBAL**
-* (2,737)  - **KATHA**
-* (3,422)  - **MR MEDIA SOLUTIONS**
-* (4,106)  - **PRIME EDUCATION**
-* (4,790)  - **SHIKISEN**
-* (5,474)  - **TICKET SURF**
-* (6,159)  - **ZYPHER CLOUD**
+* (2,054)  - **GOOD BOOKS**
+* (2,738)  - **KATPAGA VINAYAGAR CONSTRUCTIONS**
+* (3,422)  - **MR LUCK**
+* (4,107)  - **PRIME EDUCATION**
+* (4,791)  - **SHEZA ENTERPRISES**
+* (5,475)  - **TICKET SURF**
+* (6,160)  - **ZYPHER CLOUD**
 
 ### "PB"
 *Sample of 10/2891*
