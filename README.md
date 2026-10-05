@@ -2,36 +2,36 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **161,303** Companies ([4.97MB](data/companies.tsv)) as of *2026-10-04 11:39:18*.
+Scraped **161,302** Companies ([4.97MB](data/companies.tsv)) as of *2026-10-05 10:37:40*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/161303*
+*Sample of 10/161302*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
 * (17,923) PV00200589 - **BLUE SKY ADVERTISING**
 * (35,845) PV00247423 - **DIGIFLIX**
 * (53,768) PV125359 - **GOOD STROY**
 * (71,690) PV84569 - **KENT PROPERTY DEVELOPERS**
-* (89,613) PV00266517 - **MOREVER LANKA**
-* (107,535) PV00322313 - **PREMIUM CAR RENTALS**
-* (125,458) PV00274228 - **SEPA BEEDI**
-* (143,380) PV00266776 - **THE ROYAL ROUTE**
-* (161,303) PV118576 - **ZZAPPIT**
+* (89,612) FC1089 - **MORESAND**
+* (107,535) PV00302110 - **PREMIUM CAR STUDIO**
+* (125,457) PV00274228 - **SEPA BEEDI**
+* (143,379) PV00266776 - **THE ROYAL ROUTE**
+* (161,302) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00359700 - **LEXINGTON**
-* (112) PV00360696 - **LARANA**
-* (223) PV00361765 - **LEXA LABS**
-* (334) PV00363145 - **DE SOYSA NURSING COLLEGE**
-* (445) PV00364380 - **PROTON EDUCATION SERVICES**
-* (556) PV00365544 - **WAY TO FASHION**
-* (667) PV00367059 - **OCEAN FILM PRODUCTION**
-* (778) PV00368760 - **MAGICAL STYLES**
+* (1) PV00359708 - **ASINOVO**
+* (112) PV00360709 - **FASHION ADVENTURE**
+* (223) PV00361788 - **MOBILEMATE TECHNOLOGIES**
+* (334) PV00363152 - **PALACE TEXTILES**
+* (445) PV00364406 - **GUANVIA**
+* (556) PV00365557 - **ARMORNODE**
+* (667) PV00367076 - **BCREATIONS DESIGN STUDIO**
+* (778) PV00368784 - **KING'S ROAR RETREAT**
 * (889) PV00371297 - **PRO LANKA TRADING**
 * (1,000) PV00376056 - **KEGASHI ENTERPRISES**
 
@@ -39,32 +39,32 @@ Scraped **161,303** Companies ([4.97MB](data/companies.tsv)) as of *2026-10-04 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/146616*
+*Sample of 10/146617*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
 * (16,291) PV92407 - **BLUE OCEAN FISHERY**
 * (32,582) PV00238390 - **DIGAMADULLA AGRI PRODUCTS**
-* (48,872) PV00226905 - **GOLDEN ELDER RESORT**
+* (48,873) PV00209716 - **GOLDEN ELECTRIC VEHICLES**
 * (65,163) PV00291623 - **KB HOLIDAYS LANKA TRAVEL**
-* (81,453) PV00285348 - **MODERN EYE TECHNOLOGIES**
-* (97,744) PV131434 - **PRAGUNA MANAGEMENT**
-* (114,034) PV00280451 - **SERENDIB FERTILIZER**
-* (130,325) PV00246610 - **THE TECHNAVIGATOR SYSTEMS INTERNATIONAL**
-* (146,616) PV118576 - **ZZAPPIT**
+* (81,454) PV00274376 - **MODERN FANCY**
+* (97,745) PV131434 - **PRAGUNA MANAGEMENT**
+* (114,035) PV00280451 - **SERENDIB FERTILIZER**
+* (130,326) PV00246610 - **THE TECHNAVIGATOR SYSTEMS INTERNATIONAL**
+* (146,617) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/6321*
+*Sample of 10/6319*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
 * (703)  - **BIO EXCESS MANAGEMENT**
 * (1,405)  - **DEZINE LOUNGE**
 * (2,107)  - **GOODWIN GENERAL TRADING**
 * (2,809)  - **KEN IMPERIAL**
-* (3,512)  - **MULTI STAR**
-* (4,214)  - **PREMIUM DOOR SOLUTIONS**
-* (4,916)  - **SHEDAR BOUTIQUE HOTEL**
-* (5,618)  - **TICKET SURF**
-* (6,321)  - **ZYPHER CLOUD**
+* (3,511)  - **MULTI SEWING**
+* (4,213)  - **PREMIUM GATEWAY**
+* (4,915)  - **SHEERS HOMES**
+* (5,617)  - **TIDY SHINE LANKA**
+* (6,319)  - **ZYPHER CLOUD**
 
 ### "PB"
 *Sample of 10/2916*
