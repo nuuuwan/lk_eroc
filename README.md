@@ -2,29 +2,29 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **162,972** Companies ([5.02MB](data/companies.tsv)) as of *2026-11-04 10:06:40*.
+Scraped **162,979** Companies ([5.02MB](data/companies.tsv)) as of *2026-11-05 10:06:48*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/162972*
+*Sample of 10/162979*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (18,108) PV7654 - **BLUECHIP CUSTOMER ENGINEERING LANKA**
-* (36,216) PV00259764 - **DIGITAL CONNECT LANKA**
-* (54,324) PV5549 - **GOODIES KITCHEN**
-* (72,432) PV00278400 - **KESLER LANKA ALPHA GLOBAL**
-* (90,540) PV122356 - **MOUNT ROSEN TEA**
-* (108,648) PV00315185 - **PRESTIGE MART**
-* (126,756) PV00283205 - **SEPALI ENTERTAINMENT**
-* (144,864) PV00205803 - **THE SERENDIB OCEANARY**
-* (162,972) PV118576 - **ZZAPPIT**
+* (18,109) PV68092 - **BLUECHIP GROUP**
+* (36,218) PV110598 - **DIGITAL CONTINUM**
+* (54,327) PV00239077 - **GOODIES MART**
+* (72,435) PV83272 - **KESRO INTERNATIONAL**
+* (90,544) PV2571 - **MOUNT ROYAL GROUP**
+* (108,653) PV00358635 - **PRESTIGE MOTOR LANKA**
+* (126,761) PV00305824 - **SEPALIKA PRODUCTS**
+* (144,870) PV00269148 - **THE SERENDIPITY EXPERIENCES**
+* (162,979) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
 ![data/word_clouds/word_cloud_latest.png](data/word_clouds/word_cloud_latest.png)
-* (1) PV00362200 - **PANDA CLOTHING STORE**
+* (1) PV00362204 - **KAYVORA**
 * (112) PV00363522 - **DADA HAI TIAN HOTEL**
 * (223) PV00364528 - **KINGS & CROWNS**
 * (334) PV00365528 - **AGHELI CEYLON**
@@ -39,18 +39,18 @@ Scraped **162,972** Companies ([5.02MB](data/companies.tsv)) as of *2026-11-04 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/148154*
+*Sample of 10/148161*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (16,462) PV00274064 - **BLUE STAR SECURITY & FACILITY SERVICE**
-* (32,923) PV00234778 - **DIGIPEAK**
-* (49,385) PV00200957 - **GOLDEN INFINITY INVESTMENT SOLUTIONS**
-* (65,846) PV115365 - **KEERTHI DISTRIBUTORS**
-* (82,308) PV65648 - **MONARAWILA**
-* (98,769) PV00238638 - **PRATHYAKSHA HEALTH CARE**
-* (115,231) PV108669 - **SERENDIB FOOD PRODUCTS **
-* (131,692) PV00251959 - **THE TRADES MINES PETROLEUM**
-* (148,154) PV118576 - **ZZAPPIT**
+* (16,463) PV00219395 - **BLUE STAR SPORTS CLUB**
+* (32,925) PV00312373 - **DIGIPEN**
+* (49,387) PV127505 - **GOLDEN INVESTMENT AND TRADING**
+* (65,849) PV7606 - **KEERTHI FOOD CITY**
+* (82,312) PV16267 - **MONARC MANAGEMENT**
+* (98,774) PV00226451 - **PRATILOM LANKA**
+* (115,236) PV00223186 - **SERENDIB FOODS & SPICES**
+* (131,698) PV1166 - **THE TRADESMANN SL**
+* (148,161) PV118576 - **ZZAPPIT**
 
 ### ""
 *Sample of 10/6416*
