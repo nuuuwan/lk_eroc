@@ -2,24 +2,24 @@
 
 Data Scraped from Registrar of Companies - Sri Lanka (https://eroc.drc.gov.lk)
 
-Scraped **163,453** Companies ([5.03MB](data/companies.tsv)) as of *2026-11-14 10:06:28*.
+Scraped **163,468** Companies ([5.03MB](data/companies.tsv)) as of *2026-11-15 10:06:31*.
 
 *Scraping Progress: 52,728/52,728*
 ✅✅✅✅✅✅✅✅✅✅
 
 ## Selection of Companies
-*Sample of 10/163453*
+*Sample of 10/163468*
 ![data/word_clouds/word_cloud_all.png](data/word_clouds/word_cloud_all.png)
 * (1) PCC00287821 - **99X TECHNOLOGY AS**
-* (18,162) PV00203171 - **BLUE WHALE FOOD AND BEVERAGE**
-* (36,323) PV110598 - **DIGITAL CONTINUM**
-* (54,485)  - **GOODWILL ENTERPRISE SOLUTIONS**
-* (72,646) PV00256238 - **KESS BRIDALS**
-* (90,807) PV00288412 - **MOVEMENT OF JOY**
-* (108,969) PV104668 - **PRICE LINE**
-* (127,130) PV21833 - **SERENDIB BLOOMS**
-* (145,291) GA1 - **THE SHIP FOR WORLD YOUTH ALUMINI ASSOCIATION**
-* (163,453) PV118576 - **ZZAPPIT**
+* (18,164) PV69411 - **BLUE WHALE GROUP**
+* (36,327) PV110598 - **DIGITAL CONTINUM**
+* (54,490)  - **GOODWILL ENTERPRISE SOLUTIONS**
+* (72,653) PV68588 - **KESS HOLDINGS**
+* (90,816) PV00288412 - **MOVEMENT OF JOY**
+* (108,979) PV77773 - **PREYSHAN PROPERTY**
+* (127,142) PV6480 - **SERENDIB BATTERY COMPANY**
+* (145,305) GA1 - **THE SHIP FOR WORLD YOUTH ALUMINI ASSOCIATION**
+* (163,468) PV118576 - **ZZAPPIT**
 
 ## Latest 1,000 Companies
 *Sample of 10/1000*
@@ -39,32 +39,32 @@ Scraped **163,453** Companies ([5.03MB](data/companies.tsv)) as of *2026-11-14 1
 ## Selection for Companies by Type
 
 ### "PV"
-*Sample of 10/148602*
+*Sample of 10/148615*
 ![data/word_clouds/word_cloud_PV.png](data/word_clouds/word_cloud_PV.png)
 * (1) PV20853 - **A AND A ASSOCIATES**
-* (16,512) PV00274085 - **BLUE SHADOWS NEW GENERATION MUSICAL BAND**
-* (33,023) PV00234778 - **DIGIPEAK**
-* (49,534) PV00270109 - **GOLDEN MAID SUPER MARKET**
-* (66,045) PV00273911 - **KEERTHAS JEWELLERY**
-* (82,557) PV00269609 - **MONASTERY OF TEA**
-* (99,068) PV70851 - **PRECIOUSA**
-* (115,579) PV00265452 - **SERENDIB TROPICAL SPICES**
-* (132,090) PV00261369 - **THE TRAVEL EXPRESS**
-* (148,602) PV118576 - **ZZAPPIT**
+* (16,513) PV100404 - **BLUE SHELLS**
+* (33,026) PV00312373 - **DIGIPEN**
+* (49,539) PV00220649 - **GOLDEN MANGO VILLAGE**
+* (66,051) PV00290718 - **KEERTHI EXPORTS LANKA**
+* (82,564) PV00269609 - **MONASTERY OF TEA**
+* (99,077) PV96594 - **PRECIOUS SOLUTIONS**
+* (115,589) PV118943 - **SERENDIB TRAVEL HOLIDAYS**
+* (132,102) PV00261369 - **THE TRAVEL EXPRESS**
+* (148,615) PV118576 - **ZZAPPIT**
 
 ### ""
-*Sample of 10/6444*
+*Sample of 10/6446*
 ![data/word_clouds/word_cloud_.png](data/word_clouds/word_cloud_.png)
 * (1)  - **A BRAND HOLDINGS**
-* (716)  - **BIZFORMATIONS**
-* (1,432)  - **DGM EXPORTS**
-* (2,148)  - **GOOD LOUD MEDIA**
-* (2,864)  - **KENSINGTON  INTERNATIONAL**
-* (3,580)  - **MV DISTRIBUTORS**
-* (4,296)  - **PRESTIGE PEST CARE**
-* (5,012)  - **SHERRY BRIDALS**
-* (5,728)  - **TILE MANUFACTURERS ASSOCIATION OF SRI  LANKA**
-* (6,444)  - **ZYPHER CLOUD**
+* (717)  - **BIZNEZBEE**
+* (1,433)  - **DG ELECTRICAL & CCTV**
+* (2,149)  - **GOOD GUYS FASHION**
+* (2,865)  - **KENARA VENTURES**
+* (3,581)  - **MUTTIAH VENTURES**
+* (4,297)  - **PRESTIGE ONE GLOBAL**
+* (5,013)  - **SHERAN INDIKA**
+* (5,729)  - **TILAKO FOODS**
+* (6,446)  - **ZYPHER CLOUD**
 
 ### "PB"
 *Sample of 10/2922*
